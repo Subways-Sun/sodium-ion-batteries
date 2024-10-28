@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=62.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sib_package"
+version = "0.0.1"
+description = "A project for machine learing on the topic of Sodium Ion Batteries"
+authors = [
+    {name = "Alfred Pan", email = "hp520@ic.ac.uk"},
+]
