@@ -28,6 +28,10 @@ def search(query, **kwargs):
 
     if response.status_code == 200:
         result = response.json()['data']
-    else:
+    elif response.status_code == 429:
+        result = response.json()['message']
+    elif response.status_code == 400:
         result = response.json()['error']
-    return result
+    else:
+        result = response.status_code
+    return [result, url]

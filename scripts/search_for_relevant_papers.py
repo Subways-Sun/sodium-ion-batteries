@@ -2,8 +2,8 @@
 
 import json
 import platform
+import time
 from pathlib import Path
-#import sib_package.literature_retrival.semantic_scholar as ss
 import sib.literature.semantic as ss
 
 # Set working directory based on the operating system
@@ -20,17 +20,19 @@ LMT = 100
 FLD = "title,abstract"
 OFSLST = range(0, 500, 100)
 
-result = list({})
+result = list([])
 # Search for relevant papers
-for OFS in OFSLST:    
-    result = ss.search(QRY, offset = OFS, limit = LMT, fields = FLD)
-    
+for OFS in OFSLST:
+    temp = ss.search(QRY, offset = OFS, limit = LMT, fields = FLD)[0]
+    for item in temp:
+        result.append(item)
+    time.sleep(3)
 
 # Save the result to a json file
 RESULT_PATH = ""
 if platform.system() == "Windows":
-    RESULT_PATH = WORK_DIR + rf"\data\search_{QRY}_{LMT}.json"
+    RESULT_PATH = WORK_DIR + rf"\data\search_{QRY}_{len(result)}.json"
 if platform.system() == "Darwin":
-    RESULT_PATH = WORK_DIR + rf"/data/search_{QRY}_{LMT}.json"
+    RESULT_PATH = WORK_DIR + rf"/data/search_{QRY}_{len(result)}.json"
 with open(RESULT_PATH, "w", encoding='utf-8') as f:
     json.dump(result, f, ensure_ascii=False, indent=4)
