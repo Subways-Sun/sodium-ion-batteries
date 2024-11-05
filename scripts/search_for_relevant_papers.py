@@ -17,7 +17,7 @@ if platform.system() == "Darwin":
 # Define search parameters
 QRY = "sodium+ion+battery+anode"
 LMT = 100
-FLD = "title,abstract"
+FLD = "externalIds,title,abstract,publicationTypes,publicationDate,venue"
 OFSLST = range(0, 500, 100)
 
 result = list([])
