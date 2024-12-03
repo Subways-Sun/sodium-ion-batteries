@@ -3086,5 +3086,65 @@
             "JournalArticle"
         ],
         "publicationDate": "2020-10-21"
+    },
+    {
+        "paperId": "001682fc1020d9ea027ff491e6df9d7bb5c46367",
+        "externalIds": {
+            "DOI": "10.1021/acs.nanolett.2c03718",
+            "CorpusId": 254124245,
+            "PubMed": "36454039"
+        },
+        "title": "Na-K Alloy Anode for High-Performance Solid-State Sodium Metal Batteries.",
+        "abstract": "Rechargeable solid-state Na metal batteries (SSNMB) can offer high operational safety and energy density. However, poor solid-solid contact between the electrodes and the electrolyte can dramatically increase interfacial resistance and Na dendrite formation, even at low current rates. Therefore, we developed a carbon-fiber-supported liquid Na-K alloy anode that ensures close anode-electrolyte contact, enabling superior cycle stability and rate capability. We then demonstrated the first cryogenic transmission electron microscopy (cryo-TEM) characterization of an SSNMB, capturing the evolution of solid-electrolyte interphase (SEI) and revealing both crystalline and amorphous phases, which could facilitate ion transport and prevent continuous side reactions. By enhancing contact between the Na-K alloy and solid-state electrolyte, these symmetric cells are capable of cycling for over 800 h without notable increased polarization and enable an unprecedented critical current density (CCD) at 40 mA cm-2. Our liquid Na-K alloy approach offers a promising strategic avenue toward commercial SSNMBs.",
+        "venue": "Nano letters (Print)",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2022-12-01"
+    },
+    {
+        "paperId": "00626bff7f9ac31343d0472c1cb5341a7e7f4d3e",
+        "externalIds": {
+            "DOI": "10.1002/eem2.12749",
+            "CorpusId": 269513327
+        },
+        "title": "Nanodiamond‐Assisted High Performance Lithium and Sodium Ions Co‐Storage",
+        "abstract": "While lithium resources are scarce for high energy‐dense lithium‐ion batteries (LIBs), sodium‐ion batteries (SIBs), serving as an alternative, inherently suffer from low capacity and the high‐cost use of non‐graphite anodes. Combining Li‐ and Na‐ions within a single battery system is expected to mitigate the shortcomings of both systems while leveraging their respective advantages. In this study, we developed and assembled a nanodiamonds (NDs)‐assisted co‐Li/Na‐ion battery (ND–LSIB). This innovative battery system comprised a commercial graphite anode, an ND‐modified polypropylene (DPP) separator, a hybrid lithium/sodium‐based electrolyte, and a cathode. It is theoretically and experimentally demonstrated that the ND/Li co‐insertion can serve as an ion‐drill opening graphite layers and reconstructing graphite anodes into few‐layered graphene with expanding interlayer space, achieving highly efficient Li/Na storage and the theoretical maximum of LiC6 for Li storage in graphite. In addition, ND is helpful for creating a LiF‐/NaF‐rich hybrid solid electrolyte interface with improved ionic mobility, mechanical strength, and reversibility. Consequently, ND–LSIBs have higher specific capacities ~1.4 times the theoretical value of LIBs and show long‐term cycling stability. This study proposes and realizes the concept of Li/Na co‐storage in one ion battery with compatible high‐performance, cost‐effectiveness, and industrial prospects.",
+        "venue": "ENERGY &amp; ENVIRONMENTAL MATERIALS",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2024-04-30"
+    },
+    {
+        "paperId": "007f325528e417d0b2ebc9658f2810c76233ad77",
+        "externalIds": {
+            "DOI": "10.1039/d2dt03616a",
+            "CorpusId": 255116574,
+            "PubMed": "36648310"
+        },
+        "title": "Low-content SnO2 nanodots on N-doped graphene: lattice-confinement preparation and high-performance lithium/sodium storage.",
+        "abstract": "Rational construction of nanosized anode nanomaterials is crucial to enhance the electrochemical performance of lithium-/sodium-ion batteries (LIBs/SIBs). Various anode nanoparticles are created mainly via templating surface confinement, or encapsulation within precursors (such as metal-organic frameworks). Herein, low-content SnO2 nanodots on N-doped reduced graphene oxide (SnO2@N-rGO) were prepared as anode nanomaterials for LIBs and SIBs, via a distinctive lattice confinement of a CoAlSn-layered double hydroxide (CoAlSn-LDH) precursor. The SnO2@N-rGO composite exhibits the advantagous features of low-content (17.9 wt%) and uniform SnO2 nanodots (3.0 ± 0.5 nm) resulting from the lattice confinement of the Co and Al species to the surrounded Sn within the same crystalline layer, and high-content conductive rGO. The SnO2@N-rGO composite delivers a highly reversible capacity of 1146.2 mA h g-1 after 100 cycles at 0.1 A g-1 for LIBs, and 387 mA h g-1 after 100 cycles at 0.1 A g-1 for SIBs, outperforming N-rGO. Furthermore, the dominant capacitive contribution and the rapid electronic and ionic transfer, as well as small volume variation, all give rise to the enhancement. Precursor-based lattice confinement could thus be an effective strategy for designing and preparing uniform nanodots as anode nanomaterials for electrochemical energy storage.",
+        "venue": "Dalton Transactions",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2023-01-17"
+    },
+    {
+        "paperId": "007f7a3c1c9cc64b8661fdf0ba64db3011a19480",
+        "externalIds": {
+            "MAG": "2120364692",
+            "DOI": "10.1039/c4cc08220f",
+            "CorpusId": 33245255,
+            "PubMed": "25487295"
+        },
+        "title": "The disodium salt of 2,5-dihydroxy-1,4-benzoquinone as anode material for rechargeable sodium ion batteries.",
+        "abstract": "The disodium salt of 2,5-dihydroxy-1,4-benzoquinone has been prepared and proposed as anode material for rechargeable sodium ion batteries for the first time, showing an average operation voltage of ∼1.2 V, a reversible capacity of ∼265 mA h g(-1), a long cycle life (300 cycles), and high rate capability.",
+        "venue": "Chemical Communications",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2015-01-02"
     }
 ]

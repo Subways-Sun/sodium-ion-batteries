@@ -1,0 +1,160 @@
+[
+    {
+        "paperId": "e441a2e1a1a3bc728ff9beaf742c3dbaa7802e42",
+        "externalIds": {
+            "DOI": "10.1039/d2cp04752g",
+            "CorpusId": 249965653,
+            "PubMed": "36689257"
+        },
+        "title": "Biphenylene network as sodium ion battery anode material.",
+        "abstract": "Sodium ion batteries possess several advantages for large-scale energy storage, such as low cost and enhanced safety. However, graphite or other anode materials are not satisfactory because the large radius of Na+ hinders their embedding and removal in the charge and discharge processes. Recently, a biphenylene network (BPN), a two-dimensional (2D) carbon allotrope, has been synthesized. In this paper, we reveal the potential possibility of BPN as a Na storage material. The theoretical results indicate the advantages of BPN as a sodium battery anode. The maximum specific capacity (413 mA h g-1) is larger than that of the graphite-Li system (372 mA h g-1). With low Na+ diffusion barrier (<0.6 eV) and small volume expansion in the charging process (∼26%), BPN presents superiority to the graphite-Na system. Our findings show new insights into Na storage in BPN and provide guidance for the use of a BPN anode in sodium ion batteries.",
+        "venue": "Physical Chemistry, Chemical Physics - PCCP",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2023-01-23"
+    },
+    {
+        "paperId": "9c412a748b5245c4c762c421adda2e028442fc52",
+        "externalIds": {
+            "DOI": "10.1021/acsnano.1c00797",
+            "CorpusId": 232431244,
+            "PubMed": "33784454"
+        },
+        "title": "Hierarchically Designed Nitrogen-Doped MoS2/Silicon Oxycarbide Nanoscale Heterostructure as High-Performance Sodium-Ion Battery Anode.",
+        "abstract": "Molybedenum disulfide (MoS2) is regarded as a promising anode material for next-generation sodium-ion batteries (SIBs) owing to its high theoretical capacity. However, its low conductivity, large volume changes, and undesirable phase transformation hinder its practical applications. In this study, we synthesize a hierarchically designed core-shell heterostructure based on nitrogen-doped MoS2/C and silicon oxycarbide (SiOC) (N-MoS2/C@SiOC) via the facile pyrolysis of a suspension of an N-MoS2/polyfurfural precursor in silicone oil. The in situ nitrogen doping in a two-dimensional MoS2 structure with carbon incorporation leads to the enlargement of the interlayer spacing and enhancement of the electronic conductivity and mechanical stability, which allows the facile, highly reversible insertion and extraction of sodium ions upon cycling. Further, the nanoscale SiOC shell with surface capacitive reactivity provides a conductive pathway, preventing unfavorable side reactions at the electrode/electrolyte interface and acting as a structure-reinforcing buffer against severe volume expansion issues. As a result, the N-MoS2/C@SiOC composite exhibits high reversible capacity (540.7 mAh g-1), high-capacity retention (>100% after 200 cycles), and excellent rate capability up to 10 A g-1. The simple hierarchical core-shell design strategy developed in this study allows for the fabrication of high-performance metal sulfide anodes as well as other high-capacity anode materials for energy storage applications.",
+        "venue": "ACS Nano",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2021-03-30"
+    },
+    {
+        "paperId": "dc1fa16493874e93becaaf5c1d137e3345d264bb",
+        "externalIds": {
+            "MAG": "2963045867",
+            "DOI": "10.1021/acsnano.9b03330",
+            "CorpusId": 198134284,
+            "PubMed": "31323180"
+        },
+        "title": "Sandwich-Like SnS2/Graphene/SnS2 with Expanded Interlayer Distance as High-Rate Lithium/Sodium-Ion Battery Anode Materials.",
+        "abstract": "SnS2 materials have attracted broad attention in the field of electrochemical energy storage due to its layered structure with high specific capacity. However, the easy restacking property during charge/discharge cycling would lead to electrode structure instability and serve capacity decrease. In this paper, we report a simple one-step hydrothermal synthesis of SnS2/graphene/SnS2 (SnS2/rGO/SnS2) composite with ultrathin SnS2 nanosheets covalently decorated on both sides of reduced graphene oxide sheets via C‒S bonds. Owing to the graphene sandwiched between two SnS2 sheets, the composite presents an enlarged interlayer spacing of ~8.03 Å for SnS2, which could facilitate the insertion/extraction of Li+/Na+ ion with rapid transport kinetics, as well as inhibiting the re-stacking of SnS2 nanosheets during the charge/discharge cycling. The density functional theory calculation reveals the most stable state of the moderate interlayer spacing for the sandwich-like composite. The diffusion coefficients of Li/Na-ions from both molecular simulation and experimental observation also demonstrate that that this state is the most suitable for fast ions transport. In addition, numerous ultra-tiny SnS2 nanoparticles anchored on the graphene sheets can generate dominant pseudocapacitive contribution to the composite especially at large current density, guaranteeing its excellent high-rate performance with 844 and 765 mAh g-1 for Li/Na-ion batteries even at 10 A g‒1. No distinct morphology changes occur after 200 cycles, and the SnS2 nanoparticles still recover to pristine phase without distinct agglomeration, demonstrate that this composite with high rate capabilities and excellent cycle stability are the promising candidate for lithium/sodium storage.",
+        "venue": "ACS Nano",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2019-07-19"
+    },
+    {
+        "paperId": "44a19bb10e6c0955b8d50a7e5825d7dba439cb7d",
+        "externalIds": {
+            "MAG": "2564359414",
+            "DOI": "10.1021/acsami.6b13179",
+            "CorpusId": 206435211,
+            "PubMed": "27966859"
+        },
+        "title": "ALD TiO2-Coated Flower-like MoS2 Nanosheets on Carbon Cloth as Sodium Ion Battery Anode with Enhanced Cycling Stability and Rate Capability.",
+        "abstract": "We report the fabrication of 3D flower-like MoS2 nanosheets arrays on carbon cloth as a binder-free anode for sodium ion battery. Ultrathin and conformal TiO2 layers are used to modify the surface of MoS2 by atomic layer deposition. The electrochemical performance measurements demonstrate that the ALD TiO2 layer can improve the cycling stability and rate capability of MoS2. The MoS2 nanosheets with 0.5-nm TiO2 coating electrode show the highest initial discharge capacity of 1392 mA h g-1 at 200 mA g-1, which is increased by 53% compared with that of bare MoS2. After 150 cycles, the capacity retention rate of the TiO2-coated MoS2 achieves 75.8% of its second cycle's capacity at 200 mA h g-1 in contrast to that of 59% of pure MoS2. Furthermore, the mechanism behind the experimental results is revealed by ex situ scanning electron microscope (SEM), X-ray powder diffraction (XRD), and electrochemical impedance spectroscopy (EIS) characterizations, which confirms that the ultrathin TiO2 modifications can prevent the structural degradation and the formation of SEI film of MoS2 electrode.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2017-01-11"
+    },
+    {
+        "paperId": "42fd56858341c592b7b22d0efd54d29ef1db7228",
+        "externalIds": {
+            "MAG": "2083175128",
+            "DOI": "10.1002/adma.201306314",
+            "CorpusId": 205254460,
+            "PubMed": "24677348"
+        },
+        "title": "Layered SnS2‐Reduced Graphene Oxide Composite – A High‐Capacity, High‐Rate, and Long‐Cycle Life Sodium‐Ion Battery Anode Material",
+        "abstract": "Author(s): Qu, Baihua; Ma, Chuze; Ji, Ge; Xu, Chaohe; Xu, Jing; Meng, Ying Shirley; Wang, Taihong; Lee, Jim Yang | Abstract: A layered SnS2-reduced graphene oxide (SnS2-RGO) composite is prepared by a facile hydrothermal route and evaluated as an anode material for sodium-ion batteries (NIBs). The measured electrochemical properties are a high charge specific capacity (630 mAh g-1 at 0.2 A g-1) coupled to a good rate performance (544 mAh g-1 at 2 A g-1) and long cycle-life (500 mAh g-1 at 1 A g -1 for 400 cycles). © 2014 WILEY-VCH Verlag GmbH a Co. KGaA, Weinheim.",
+        "venue": "Advances in Materials",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2014-06-01"
+    },
+    {
+        "paperId": "3266aa59d4786a64108c6e006200673cfa0d0cf7",
+        "externalIds": {
+            "MAG": "2916602645",
+            "DOI": "10.1039/c8nr10444a",
+            "CorpusId": 73476955,
+            "PubMed": "30775742"
+        },
+        "title": "Scalable synthesis of FeS2 nanoparticles encapsulated into N-doped carbon nanosheets as a high-performance sodium-ion battery anode.",
+        "abstract": "Pyrite (FeS2) has been considered as one of the most potential anode materials for sodium ion batteries (SIBs) due to its low cost, environmentally friendly features and high theoretical capacity. However, the huge volume changes during a charge/discharge process and poor conductivity of FeS2 hindered its practical applications. Herein, we propose a facile scalable approach to prepare nanostructured FeS2 embedded in an N-doped carbon nanosheet composite (FeS2/CNS) via a combined template method and a solid state sulfuration method. N-Doped carbon nanosheets are believed to alleviate the volume variation and enhance the conductivity of an electrode, and the nanoscale particle size with an average diameter of 50-80 nm can shorten the ion-diffusion paths during a sodiation/desodiation process. As a result, the FeS2/CNS electrode exhibits high specific capacity (812 mA h g-1 at 0.1 A g-1), long cycling life (77.2% capacity retention after 350 cycles at 1 A g-1) and excellent rate capability (400 mA h g-1 at 5 A g-1) when tested as an anode material for SIBs. The results demonstrate the potential applications of FeS2/CNS in SIBs with low-cost, high power density and long cycling life.",
+        "venue": "Nanoscale",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2019-02-28"
+    },
+    {
+        "paperId": "a95c9adb166f4fab0dc8111d5c422195541db052",
+        "externalIds": {
+            "MAG": "2971261748",
+            "DOI": "10.1002/smll.201901724",
+            "CorpusId": 201658428,
+            "PubMed": "31460708"
+        },
+        "title": "High-Performance Sodium-Ion Battery Anode via Rapid Microwave Carbonization of Natural Cellulose Nanofibers with Graphene Initiator.",
+        "abstract": "Cellulose is a promising natural bio-macromolecule due to its abundance, renewability and low cost. Here, a new method is developed to prepare pre-sodiated carbonaceous anodes for sodium-ion batteries (SIBs) from cellulose nanofibers (CNFs) under microwave irradiation for potential ultrafast and large-scale manufacturing. While direct carbonization of CNFs through microwave treatment is usually impossible due to the weak microwave absorption of CNFs, it is found that a small amount of reduced graphene oxide (rGO) can act as an effective initiator. Microwaving rGO releases extremely high energy, giving rise to local ultrahigh temperature as well as ultrahigh heating rate, which then induces the fast carbonization of CNFs and the production of pre-sodiated carbonaceous materials within seconds. The sodium in the carbonaceous materials, introduced from the carbonization of CNFs containing sodium-ion carboxyl, offer favorable spaces for sodiation/desodiation, which improves the electrochemical performance of the sodium-inserted carbonaceous anode. When the microwaved rGO-CNF (MrGO-CNF) is used as an anode for SIBs, a high initial capacity of 558 mAh g-1 is delivered and the capacity of 340 mAh g-1 remains after 200 cycles. The excellent reversible capacity and cycling stability indicate MrGO-CNF a promising anode for sodium-ion batteries.",
+        "venue": "Small",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2019-10-01"
+    },
+    {
+        "paperId": "7085e41b653fb6a68806f845d579435a41c0336e",
+        "externalIds": {
+            "MAG": "2399966197",
+            "DOI": "10.1021/acsnano.5b04474",
+            "CorpusId": 206694566,
+            "PubMed": "26498828"
+        },
+        "title": "Advanced Sodium Ion Battery Anode Constructed via Chemical Bonding between Phosphorus, Carbon Nanotube, and Cross-Linked Polymer Binder.",
+        "abstract": "Maintaining structural stability is a great challenge for high-capacity conversion electrodes with large volume change but is necessary for the development of high-energy-density, long-cycling batteries. Here, we report a stable phosphorus anode for sodium ion batteries by the synergistic use of chemically bonded phosphorus-carbon nanotube (P-CNT) hybrid and cross-linked polymer binder. The P-CNT hybrid was synthesized through ball-milling of red phosphorus and carboxylic group functionalized carbon nanotubes. The P-O-C bonds formed in this process help maintain contact between phosphorus and CNTs, leading to a durable hybrid. In addition, cross-linked carboxymethyl cellulose-citric acid binder was used to form a robust electrode. As a result, this anode delivers a stable cycling capacity of 1586.2 mAh/g after 100 cycles, along with high initial Coulombic efficiency of 84.7% and subsequent cycling efficiency of ∼99%. The unique electrode framework through chemical bonding strategy reported here is potentially inspirable for other electrode materials with large volume change in use.",
+        "venue": "ACS Nano",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2015-11-02"
+    },
+    {
+        "paperId": "a2b4f420f636599230375a313f132950b767e127",
+        "externalIds": {
+            "MAG": "3013958251",
+            "DOI": "10.1021/acsami.0c02230",
+            "CorpusId": 214643056,
+            "PubMed": "32208636"
+        },
+        "title": "Chemically Presodiated Hard Carbon Anode with Enhanced Initial Coulombic Efficiency for High Energy Sodium ion Battery.",
+        "abstract": "Hard carbon (HC) is an attractive anode material for low cost and high energy density sodium-ion batteries (SIBs), however, its low initial coulombic efficiency (ICE) limits its practical battery application. To overcome this problem, we reported a facile strategy to compensate the irreversible capacity loss of HC anodes simply by a chemical presodiation reaction of the HC electrode with a sodiation reagent (sodium biphenyl, Na-Bp). Benefiting from the strong sodiation ability of Na-Bp, HC anode can be presodiated rapidly in a very short time and the presodiated HC (NaxHC) is found to have a desirable ICE of 100%. When coupled with Na3V2(PO4)3 cathode to build a SIB full cell, the NaxHC||Na3V2(PO4)3 cell exhibit a high ICE of ~95.0% and an elevated energy density of 218 Wh kg-1, which is far superior to that of control cell using pristine HC anode (50% ICE and 120 Wh kg-1), suggesting great advantages brought by the chemical presodiation process. More importantly, this presodiation reaction is very mild, highly eﬃcient and can be widely extended to a variety of Na-storage materials, offering a new route to develop high performance Na-storage materials for practical battery applications.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2020-03-25"
+    },
+    {
+        "paperId": "6fc9549921cec48c58b29b3fcecee7219b3de8db",
+        "externalIds": {
+            "MAG": "2161859410",
+            "DOI": "10.1021/nn4025674",
+            "CorpusId": 207701337,
+            "PubMed": "23802576"
+        },
+        "title": "Electrospun Sb/C fibers for a stable and fast sodium-ion battery anode.",
+        "abstract": "Sodium-ion batteries (SIBs) are considered a top alternative to lithium-ion batteries (LIBs) for large-scale renewable energy storage units due to their low cost and the abundance of sodium-bearing precursors in the earth's mineral deposits. However, the development of anode materials for SIBs to date has been mainly limited to carbonaceous materials with minimal research devoted to high capacity alloy-based materials. In this study, an antimony (Sb)/carbon (C) electrode with ~30 nm Sb nanoparticles (NPs) uniformly encapsulated in interconnecting one-dimensional (1D) 400 nm carbon fibers (denoted as SbNP@C) was fabricated using a simple and scalable electrospinning method. This binder-free, current collector-free SbNP@C electrode demonstrated high capacity and stable long-term cycling performance at various current densities. The SbNP@C electrode showed an initial total capacity of 422 mAh/gelectrode and retained 350 mAh/gelectrode after 300 deep charge-discharge cycles under 100 mA/gSb. Moreover, because of the efficient 1D sodium-ion transport pathway and the highly conductive network of SbNP@C, the electrode preserved high overall capacities even when cycled at high currents, extending its usability to high power applications.",
+        "venue": "ACS Nano",
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2013-07-03"
+    }
+]
