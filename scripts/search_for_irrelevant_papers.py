@@ -16,12 +16,10 @@ if platform.system() == "Darwin":
     WORK_DIR = HOME_PATH + r"/Documents/GitHub/sodium-ion-batteries"
 
 # Define search parameters
-QRYLST = ["sodium+ion+battery+anode",
-          "sodium+ion+battery+cathode",
-          "sodium+ion+battery+electrode"]
+QRYLST = ["lithium+ion+battery"]
 
 FLD = "externalIds,title,abstract,publicationTypes,publicationDate,venue"
-CNT = 500 # Number of papers to retrieve
+CNT = 100 # Number of papers to retrieve
 
 LMT = 100
 OFSLST = range(0, CNT, 100)
