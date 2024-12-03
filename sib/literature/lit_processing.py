@@ -2,6 +2,18 @@
 
 import json
 
+def combine_json_files(output_file_path, *json_file_paths):
+    """Function to combine multiple JSON files into one"""
+    combined_data = []
+
+    for file_path in json_file_paths:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            combined_data.extend(data)
+
+    with open(output_file_path, 'w', encoding='utf-8') as output_file:
+        json.dump(combined_data, output_file, ensure_ascii=False, indent=4)
+
 def remove_duplicates(json_file_path):
     """Function to remove duplicates from a JSON file"""
     with open(json_file_path, 'r', encoding='utf-8') as file:

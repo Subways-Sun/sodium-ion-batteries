@@ -4,8 +4,8 @@ import json
 import platform
 from datetime import datetime
 from pathlib import Path
-import sib.literature.semantic as ss
-import sib.literature.lit_processing as lp
+from sib.literature import semantic as ss
+from sib.literature import lit_processing as lp
 
 # Set working directory based on the operating system
 HOME_PATH = str(Path.home())
@@ -31,16 +31,16 @@ BLK_TOKEN = ""
 
 result = list([])
 # Search for relevant papers
-for QRY in QRYLST:
-    for OFS in OFSLST:
-        temp = ss.search(QRY, offset = OFS, limit = LMT, fields = FLD, publicationTypes = PBL)[0]
-        for item in temp:
-            result.append(item)
-
 # for QRY in QRYLST:
-#     temp = ss.search_bulk(QRY, fields = FLD, publicationTypes = PBL)[0]
-#     for item in temp:
-#         result.append(item)
+#     for OFS in OFSLST:
+#         temp = ss.search(QRY, offset = OFS, limit = LMT, fields = FLD, publicationTypes = PBL)[0]
+#         for item in temp:
+#             result.append(item)
+
+for QRY in QRYLST:
+    temp = ss.search_bulk(QRY, fields = FLD, publicationTypes = PBL)[0]
+    for item in temp:
+        result.append(item)
 
 # Save the result to a json file
 RESULT_PATH = ""
