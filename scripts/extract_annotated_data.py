@@ -59,9 +59,9 @@ with open(IRRELEVANT_PATH, "r", encoding='utf-8') as file:
         LABEL_INT.append(0)
 
 # Shuffle the data
-combined = list(zip(TEXT, LABEL, LABEL_INT))
+combined = list(zip(TEXT, LABEL_INT))
 random.shuffle(combined)
-TEXT[:], LABEL[:], LABEL_INT[:] = zip(*combined)
+TEXT[:], LABEL_INT[:] = zip(*combined)
 
 # Save the data to a json file
 OUTPUT = "annotated_data.json"
