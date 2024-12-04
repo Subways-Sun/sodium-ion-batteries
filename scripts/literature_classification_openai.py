@@ -2,6 +2,7 @@
 
 import json
 import platform
+import os
 from pathlib import Path
 from sib.literature.openai import classify as cl
 
@@ -13,28 +14,52 @@ if platform.system() == "Windows":
 if platform.system() == "Darwin":
     WORK_DIR = HOME_PATH + r"/Documents/GitHub/sodium-ion-batteries"
 
-RESULT_PATH = ""
-# Load the search result
-if platform.system() == "Windows":
-    # RESULT_PATH = WORK_DIR + r"\data\test.json"
-    RESULT_PATH = WORK_DIR + r"\data\search_20241106-223705_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode.json"
+RESULT = "annotated_data.json"
+RESULT_PATH = os.path.join(WORK_DIR, "data_annotated", RESULT)
 
-if platform.system() == "Darwin":
-    # RESULT_PATH = WORK_DIR + r"/data/test.json"
-    RESULT_PATH = WORK_DIR + r"/data/search_20241106-223705_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode.json"
+text = []
+label = []
+
+# Load the annotated data
+with open(RESULT_PATH, "r", encoding='utf-8') as file:
+    data = json.load(file)
+    text = data["text"]
+    label = data["label"]
+
+# Classify the literature
+result = []
+for item in text:
+    res = cl('gpt-4o', item)
+    result.append(res.content)
+
+result_int = []
+for item in result:
+    if item == "relevant cathode" or item == "relevant anode" or item == "relevant cathode anode":
+        result_int.append(1)
+    elif item == "irrelevant":
+        result_int.append(0)
+    else:
+        result_int.append(-1)
+
+# Save the result to a json file
+RESULT_OPENAI = "annotated_data_openai.json"
+RESULT_PATH_OPENAI = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI)
+with open(RESULT_PATH_OPENAI, "w", encoding='utf-8') as file:
+    json.dump({"text": text, "label_openai_raw": result, "label_openai": result_int, "label_annotated": label}, file, ensure_ascii=False, indent=4)
 
 # with open(RESULT_PATH, "r", encoding='utf-8') as file:
-#     i = 1
-#     for item in json.load(file):
+#     data = json.load(file)
+#     i = 0
+#     for item in data[:100]:
 #         user_message = item["abstract"]
 #         res = cl('gpt-4o-mini', user_message)
 #         print(f"{i} {res}")
 #         i += 1
 
-with open(RESULT_PATH, "r", encoding='utf-8') as file:
-    i = 34
-    item = json.load(file)[i-1]
-    print(item["abstract"])
-    user_message = item["abstract"]
-    res = cl('gpt-4o-mini', user_message)
-    print(f"{i} {res}")
+# with open(RESULT_PATH, "r", encoding='utf-8') as file:
+#     i = 34
+#     item = json.load(file)[i-1]
+#     print(item["abstract"])
+#     user_message = item["abstract"]
+#     res = cl('gpt-4o', user_message)
+#     print(f"{i} {res}")
