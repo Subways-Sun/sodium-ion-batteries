@@ -56,6 +56,7 @@ def search_bulk(query, **kwargs):
     fields = kwargs.get('fields', None)
     publication_types = kwargs.get('publicationTypes', None)
     token = kwargs.get('token', None)
+    year = kwargs.get('year', None)
 
     base_url = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
 
@@ -63,6 +64,7 @@ def search_bulk(query, **kwargs):
     f = ""
     pt = ""
     t = ""
+    y = ""
 
     if fields is not (None or ""):
         f = "&fields=" + fields
@@ -70,8 +72,10 @@ def search_bulk(query, **kwargs):
         pt = "&publicationTypes=" + publication_types
     if token is not (None or ""):
         t = "&token=" + token
+    if year is not (None or ""):
+        y = "&year=" + year
 
-    url = f"{base_url}{q}{f}{pt}{t}"
+    url = f"{base_url}{q}{f}{pt}{t}{y}"
 
     response = requests.get(url, timeout=1000)
     result = {}
