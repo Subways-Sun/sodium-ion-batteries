@@ -68,33 +68,11 @@ lp.remove_no_abstract(RESULT_PATH)
 # Only keep papers from select publishers
 publishers = ["10.1039", # RSC
               "10.1016", # Elsevier
-              "10.1006", # Elsevier
-              "10.3816", # Elsevier
-              "10.1205", # Elsevier
-              "10.4065", # Elsevier
-              "10.1383", # Elsevier
-              "10.1067", # Elsevier
-              "10.1078", # Elsevier
-              "10.1053", # Elsevier
-              "10.1054", # Elsevier
-              "10.1240", # Elsevier
               "10.1021", # ACS
-              "10.1034", # Wiley
-              "10.1113", # Wiley
-              "10.1111", # Wiley
               "10.1002", # Wiley
-              "10.1186", # Springer
-              "10.1023", # Springer
-              "10.3758", # Springer
-              "10.1617", # Springer
-              "10.1245", # Springer
-              "10.1365", # Springer
-              "10.1891", # Springer
-              "10.1140", # Springer
               "10.1007", # Springer
               "10.1080", # Taylor & Francis
-              "10.1038", # Nature
-              "10.1057"] # Nature Macmillan
+              "10.1038"] # Nature
 lp.keep_select_publishers(RESULT_PATH, publishers)
 
 # Print the number of papers retrieved
