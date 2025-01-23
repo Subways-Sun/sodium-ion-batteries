@@ -21,13 +21,12 @@ QRYLST = ["sodium+ion+battery+anode",
           "sodium+ion+battery+electrode"]
 
 FLD = "externalIds,title,abstract,publicationTypes,publicationDate,venue"
-CNT = 500 # Number of papers to retrieve
+CNT = 100 # Number of papers to retrieve
 
 LMT = 100
 OFSLST = range(0, CNT, 100)
 PBL = "JournalArticle"
-BLK_PASS = 1
-BLK_TOKEN = ""
+YR = "2016-"
 
 result = list([])
 # Search for relevant papers
@@ -38,9 +37,13 @@ result = list([])
 #             result.append(item)
 
 for QRY in QRYLST:
-    temp = ss.search_bulk(QRY, fields = FLD, publicationTypes = PBL, token = BLK_TOKEN)[0]
-    for item in temp:
-        result.append(item)
+    BLK_TOKEN = ""
+    for i in range(0, CNT, 1000):
+        result_temp = ss.search_bulk(QRY, fields = FLD, publicationTypes = PBL, token = BLK_TOKEN, year = YR)
+        temp = result_temp[0]
+        BLK_TOKEN = result_temp[2]
+        for item in temp:
+            result.append(item)
 
 # Save the result to a json file
 RESULT_PATH = ""
@@ -61,3 +64,40 @@ lp.keep_journal(RESULT_PATH)
 
 # Remove papers with no abstract
 lp.remove_no_abstract(RESULT_PATH)
+
+# Only keep papers from select publishers
+publishers = ["10.1039", # RSC
+              "10.1016", # Elsevier
+              "10.1006", # Elsevier
+              "10.3816", # Elsevier
+              "10.1205", # Elsevier
+              "10.4065", # Elsevier
+              "10.1383", # Elsevier
+              "10.1067", # Elsevier
+              "10.1078", # Elsevier
+              "10.1053", # Elsevier
+              "10.1054", # Elsevier
+              "10.1240", # Elsevier
+              "10.1021", # ACS
+              "10.1034", # Wiley
+              "10.1113", # Wiley
+              "10.1111", # Wiley
+              "10.1002", # Wiley
+              "10.1186", # Springer
+              "10.1023", # Springer
+              "10.3758", # Springer
+              "10.1617", # Springer
+              "10.1245", # Springer
+              "10.1365", # Springer
+              "10.1891", # Springer
+              "10.1140", # Springer
+              "10.1007", # Springer
+              "10.1080", # Taylor & Francis
+              "10.1038", # Nature
+              "10.1057"] # Nature Macmillan
+lp.keep_select_publishers(RESULT_PATH, publishers)
+
+# Print the number of papers retrieved
+with open(RESULT_PATH, "r", encoding='utf-8') as file:
+    data = json.load(file)
+    print(f"Number of papers retrieved: {len(data)}")
