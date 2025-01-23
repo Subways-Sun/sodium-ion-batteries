@@ -6,7 +6,7 @@ import os
 import time
 from pathlib import Path
 from sib.literature.openai import classify as cl
-from sib.literature.lit_processing import keep_relevant as kr
+# from sib.literature.lit_processing import keep_relevant as kr
 
 # Set working directory based on the operating system
 HOME_PATH = str(Path.home())

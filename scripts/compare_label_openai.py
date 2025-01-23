@@ -1,10 +1,10 @@
 """Compare the labels from OpenAI and the annotated labels."""
-# pylint: disable=locally-disabled, line-too-long
+# pylint: disable=locally-disabled, line-too-long, consider-using-enumerate
 import platform
 import os
 import json
 from pathlib import Path
-from sib.literature import lit_processing as lp
+# from sib.literature import lit_processing as lp
 
 # Set working directory based on the operating system
 HOME_PATH = str(Path.home())

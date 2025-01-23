@@ -66,7 +66,7 @@ def keep_select_publishers(json_file_path, publishers: list):
     for entry in data:
         if entry.get('externalIds').get('DOI').split('/')[0] in publishers:
             selected_list.append(entry)
-    
+
     with open(json_file_path, 'w', encoding='utf-8') as file:
         json.dump(selected_list, file, ensure_ascii=False, indent=4)
 

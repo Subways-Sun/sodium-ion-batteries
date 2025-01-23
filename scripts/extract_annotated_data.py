@@ -70,3 +70,4 @@ OUTPUT_PATH = os.path.join(WORK_DIR, "data_annotated", OUTPUT)
 
 with open(OUTPUT_PATH, "w", encoding='utf-8') as file:
     json.dump({"text": TEXT, "label": LABEL_INT}, file, ensure_ascii=False, indent=4)
+    

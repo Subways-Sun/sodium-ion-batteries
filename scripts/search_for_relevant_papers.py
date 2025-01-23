@@ -1,5 +1,5 @@
 """Script to retrive relevant paper"""
-
+# pylint: disable=locally-disabled, line-too-long
 import json
 import platform
 from datetime import datetime
