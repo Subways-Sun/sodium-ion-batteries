@@ -1,5 +1,5 @@
 """Script to classify literature using OpenAI API"""
-
+# pylint: disable=locally-disabled, line-too-long
 import json
 import platform
 import os

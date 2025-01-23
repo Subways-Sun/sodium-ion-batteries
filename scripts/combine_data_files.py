@@ -1,4 +1,5 @@
 """Combine two search results and remove duplicates."""
+# pylint: disable=locally-disabled, line-too-long
 import platform
 from pathlib import Path
 from sib.literature import lit_processing as lp

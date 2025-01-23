@@ -1,5 +1,5 @@
 """Module using OpenAI API to classify literature."""
-
+# pylint: disable=locally-disabled, line-too-long
 from openai import OpenAI
 client = OpenAI()
 

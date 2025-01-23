@@ -1,4 +1,5 @@
 """Script to extract text and label from annotated data"""
+# pylint: disable=locally-disabled, line-too-long
 import json
 import platform
 import os

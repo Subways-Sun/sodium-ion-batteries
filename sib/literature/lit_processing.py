@@ -1,5 +1,5 @@
 """Module for processing literature data."""
-
+# pylint: disable=locally-disabled, line-too-long
 import json
 
 def combine_json_files(output_file_path, *json_file_paths):

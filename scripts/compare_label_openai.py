@@ -1,3 +1,5 @@
+"""Compare the labels from OpenAI and the annotated labels."""
+# pylint: disable=locally-disabled, line-too-long
 import platform
 import os
 import json
@@ -28,12 +30,12 @@ with open(RESULT_PATH, "r", encoding='utf-8') as file:
     label_annotated = data["label_annotated"]
 
 # Compare the labels
-incorrect = 0
+INCORRECT = 0
 for i in range(len(label_openai)):
     if label_openai[i] != label_annotated[i]:
         print(f"{i} {label_openai[i]} {label_annotated[i]}")
         print(f"{text[i]}")
         print("\n")
-        incorrect += 1
+        INCORRECT += 1
 
-print(f"Number of incorrect labels: {incorrect}")
+print(f"Number of incorrect labels: {INCORRECT}")
