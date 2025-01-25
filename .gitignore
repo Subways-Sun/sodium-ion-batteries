@@ -7,3 +7,4 @@ build/
 *.safetensors
 bert/results
 bert/logs
+bert/test_trainer
