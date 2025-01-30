@@ -20,4 +20,23 @@ def classify(openai_model, user_message):
     )
     return completion.choices[0].message
 
-# help me generate a system message for gpt-4o. Each user message is an abstract of a scientific paper. I need the model to classify the paper into "relevant", "irrelevant", "cathode", "anode", based on whether the given abstract is relevant to the field of sodium ion battery electrodes, and if so, does the abstract talk about cathode, anode, or both. The response message should be single words, for example, if an abstract is related to cathode, the response should be "relevant cathode", if related to anode, "relevant anode", if both, "relevant cathode anode", if the abstact is unrelated to the field, or it is a review article, "irrelevant". If the response is "irrelevant", there should't be any further classification of cathode or anode
+# Help me generate a system message for gpt-4o. Each user message is an abstract of a scientific paper. I need the model to classify the paper into "relevant", "irrelevant", "cathode", "anode", based on whether the given abstract is relevant to the field of sodium ion battery electrodes, and if so, does the abstract talk about cathode, anode, or both. The response message should be single words, for example, if an abstract is related to cathode, the response should be "relevant cathode", if related to anode, "relevant anode", if both, "relevant cathode anode", if the abstact is unrelated to the field, or it is a review article, "irrelevant". If the response is "irrelevant", there should't be any further classification of cathode or anode
+
+def rephrase(openai_model, user_message):
+    """Function to rephrase the user message"""
+    completion = client.chat.completions.create(
+        model=openai_model,
+        messages=[
+            {
+                "role": "system",
+                "content": "You are a scientific paper rephraser. Your task is to rephrase the given abstract of a scientific paper, retaining every detail in the original abstract. The overall topic cannot be changed, and any data mentioned cannot be altered. Output only the rephrasing of the abstract, do not include any additional information."
+            },
+            {
+                "role": "user",
+                "content": user_message
+            }
+        ]
+    )
+    return completion.choices[0].message
+
+# Help me generate a system message for gpt-4o. Each user message is an abstract of a scientific paper. I need the model to rephrase the abstract, retaining every detail in the original abstract. The overall topic cannot be changed, any data mentioned cannot be altered.
