@@ -1,5 +1,5 @@
 """Module performing API calls to Semantic Scholar."""
-
+# pylint: disable=locally-disabled, line-too-long
 # OK Include DOI
 # OK Publication data
 # WIP Different query and merge result
