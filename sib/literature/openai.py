@@ -29,7 +29,7 @@ def rephrase(openai_model, user_message):
         messages=[
             {
                 "role": "system",
-                "content": "You are a scientific paper rephraser. Your task is to rephrase the given abstract of a scientific paper, retaining every detail in the original abstract. The overall topic cannot be changed, and any data mentioned cannot be altered. Output only the rephrasing of the abstract, do not include any additional information."
+                "content": "You are a scientific paper rephraser. You will be given an abstract of a scientific paper in the field of batteries. Your task is to rephrase the given abstract, retaining every detail in the original abstract. The overall topic cannot be changed, and any data mentioned cannot be altered. Output only the rephrasing of the abstract, do not include any additional information. Keep your response concise and to the point."
             },
             {
                 "role": "user",
