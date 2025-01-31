@@ -14,7 +14,7 @@ if platform.system() == "Darwin":
     WORK_DIR = HOME_PATH + r"/Documents/GitHub/sodium-ion-batteries"
 
 # Load the annotated data
-ANNOTATED = "search_20241212-002935_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode_combined_openai_relevant.json"
+ANNOTATED = "search_20241212-002935_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode_0-499_openai.json"
 ANNOTATED_PATH = os.path.join(WORK_DIR, "data_annotated", ANNOTATED)
 # ORIGINAL = "search_20241106-223705_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode.json"
 # ORIGINAL_PATH = os.path.join(WORK_DIR, "data", ORIGINAL)
