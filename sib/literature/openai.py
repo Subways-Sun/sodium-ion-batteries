@@ -40,3 +40,20 @@ def rephrase(openai_model, user_message):
     return completion.choices[0].message
 
 # Help me generate a system message for gpt-4o. Each user message is an abstract of a scientific paper. I need the model to rephrase the abstract, retaining every detail in the original abstract. The overall topic cannot be changed, any data mentioned cannot be altered.
+
+def extract(openai_model, user_message):
+    """Function to rephrase the user message"""
+    completion = client.chat.completions.create(
+        model=openai_model,
+        messages=[
+            {
+                "role": "system",
+                "content": ""
+            },
+            {
+                "role": "user",
+                "content": user_message
+            }
+        ]
+    )
+    return completion.choices[0].message
