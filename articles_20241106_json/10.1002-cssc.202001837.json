@@ -1,0 +1,144 @@
+{
+    "DOI": "10.1002/cssc.202001837",
+    "Journal": "",
+    "Keywords": [
+        "battery",
+        "carbon",
+        "electrochemistry",
+        "ion storage",
+        "sodium"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Reducing carbon dioxide emissions has been one of the biggest challenges over the past few decades and continues to be one till now. In the 2015 Paris Agreement, 187 countries set numerical targets for carbon dioxide emissions. However, to achieve this goal, that is, to limit the temperature increase from pre‐industrial times to less than 2 °C, an additional 20 gigatons of carbon dioxide needs to be reduced. Specifically, energy‐related carbon dioxide emissions, which account for a large proportion of total greenhouse gas emission, must be reduced. Energy storage devices play an important role in utilizing renewable energy. Although there are various types of batteries, lithium‐ion batteries (LIBs) have gained attention because of their high energy density and stable cycle performance. However, LIBs contain valuable metals such as lithium and cobalt, impeding their cost‐effectiveness and recyclability. Therefore, there is a demand for inexpensive and high‐performing next‐generation batteries, which has motivated intensive research on ion batteries from sodium, potassium, manganese, and zinc, as well as organic batteries. Sodium‐ion batteries (SIBs), in particular, have potential as the next‐generation storage device because sodium has chemical properties similar to lithium, is approximately 1000 times more abundant, and requires the price of a cathode active material around 50 times lower than LIBs. In addition, although most lithium reserves are limited to a small region in South America, sodium is globally available (e. g., at high concentrations in sea water), making it an almost unlimited resource. However, SIBs face several challenges, one of which is the type of anode material suitable for these batteries. In general, natural and artificial graphite are employed as the anode material in ion batteries. However, they cannot be used in SIBs because their interlayer distance is too small to allow intercalation of sodium ions into graphite. Hard carbons (HCs) are the most promising alternative to graphite because of their larger interlayer distance. So far, various types of HCs have been proposed as SIB anodes; they can be divided into two groups: bottom‐up and top‐down HCs. Bottom‐up HCs are prepared by carbonizing monomeric or oligomeric isolated saccharide, such as HCs prepared by carbonizing glucose or sucrose at around 1000 °C, exhibit discharge capacities of 300 or 280–361 mAh g−1, respectively. Top‐down HCs are produced by carbonizing polymeric natural biomass; for example, HCs obtained by carbonizing banana peels and peanut shells as precursors exhibit discharge capacities of 355 and 315 mAh g−1, respectively. Wood‐biomass‐derived HCs have also attracted attention in recent years because of their low cost, abundance, and comparable performance to other HCs, asdepicted in Table  (≈300 mAh g−1). Nonetheless, optimal HCs as SIB anodes have not yet been reported because the factors governing plateau capacity have not been elucidated for the achievement of high HC capacity. So far, the intensity ratio (ID1/IG and IG/ID3) of the Raman spectrum, interlayer distance of graphite nanocrystallite (d002), lateral size of crystallite (La), and micropore volume have been proposed as factors. Due to the high surface sensitivity of Raman analysis, the intensity ratio (ID/IG) is strongly correlated with the slope capacity derived from the adsorption and desorption of Na ions onto the carbon surface (correlation coefficient R2=0.90). The plateau capacity (derived from the intercalation reaction of Na ions into bulk HCs) cannot be evaluated by Raman analysis because of its inability to analyze the bulk properties. Despite this reasoning, it was reported that IG/ID3 of the Raman spectrum is correlated with the plateau capacity (when R2 is 0.76–0.99). Although some studies explain that this strong correlation is attributed to the D3 band derived from amorphous carbon and the IG/ID3 corresponding to the graphitization degree, this rationale is applicable only to the measurement scope of Raman analysis, that is, the surface of the carbon materials. In addition, the origin of the D3 band of carbon materials is not clearly explained. Therefore, we believe that Raman analysis is unsuitable for the assessment of plateau capacity. On the other hand, X‐ray diffraction (XRD) analysis can evaluate bulk crystal properties, which affect the intercalation capacity; several studies have investigated the correlation between XRD‐derived indices [d002, La, stacking height (Lc), etc.] and the plateau capacity. However, these indices only capture one‐dimensional crystalline information, leading to a strong correlation among La, Lc, and plateau capacity reported in some papers, but no correlation to other indices. In summary, many material properties have been proposed as factors governing the capacity of HC serving as the SIB anode; however, a widely applicable indicator for many reports has not been found yet. Furthermore, the linear relationship between the aforementioned indices and plateau capacity has not been explained. Thus, it is necessary to determine the material properties of HCs that affect the plateau capacity for their wide‐scale applicability as SIB anodes.",
+                "Herein, we used various species of wood‐derived HCs fabricated by the traditional Japanese carbonization method (a simple process to synthesize HCs in large quantities) as SIB anode materials. Detailed characterizations were performed to clarify the correlation between the material properties and the slope and plateau capacities. In particular, since the plateau capacity is derived from the intercalation of Na ions into HC crystallite, it must be proportional to the crystallite interlayer area (Ai), wherein Na ions must also be intercalated (Figure ). Based on this assumption, we demonstrated that Ai, which contains three‐dimensional crystalline information, has more application scope than the conventional one‐dimensional indices."
+            ],
+            "name": "Introduction",
+            "type": "section"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "The electrochemical measurement results are described below, using a current density of 20 mA g−1 in the 0.001–2.0 V range. Figure  shows the charge/discharge profiles for each wood‐derived HC in the second cycle. All HCs showed both slope and plateau regions. Although there are various theories proposed, the most common understanding is that the slope region derives from the adsorption and desorption of Na ions onto the carbon surface, as well as from the reversible deposition of Na metal in pores, which originates from intercalation reactions of Na ions into graphite layers. To gain deeper insights, the slope and plateau capacities were calculated by dividing the profiles with 0.15 V vs. Na/Na+, as a boundary (Table ). The total discharge capacity for each HC was in the range of 204 to 268 mAh g−1, in agreement with previous reports (Table ). The slope and plateau capacities varied by species. From the viewpoint of energy density, increasing plateau capacity is required to improve the SIB anode performance. Therefore, it is necessary to know which HC material property affects the plateau capacity. In the following sections, the material properties of HCs were measured. Then, we investigated the correlation between the characterization results and slope and plateau capacities."
+                    ],
+                    "name": "Electrochemical measurements",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "The Raman spectra of HCs are shown in Figure . Regardless of the species, G bands (≈1600 cm−1) and D bands (D1≈1350 cm−1, D3≈1500 cm−1, and D4≈1200 cm−1) were observed. G bands originate from the vibrations of carbon atoms in the graphite sheet plane, while the D bands are considered to originate from the disorder or intracrystalline defects in the graphite crystal structure. However, the origins of these D bands are controversial, and several plausible interpretations have been proposed. For example, it has been argued that the D1 band (≈1350 cm−1) originates from the vibrations of carbon atoms at defects in the graphite crystal and at the edges of graphite sheets, while the D3 band (≈1500 cm−1) is related to the short‐range sp3 carbon vibration of amorphous carbon, and the D4 band (≈1200 cm−1) is caused by the disordered graphitic lattice. The obtained Raman spectra was divided into four bands: G, D1, D3, D4; and each peak intensity ratio (ID1/IG and IG/ID3) was calculated as shown in Table . The ID1/IG values of HCs were close to 1, regardless of the species except for Japanese oak, suggesting that Japanese oak may possess more structural defects than the other HCs. On the other hand, the IG/ID3 values ranged from 1.60 to 2.34. The IG/ID3 values of Japanese Cedar, Magnolia, and Larch were higher than the other three species, suggesting a higher degree of graphitization."
+                    ],
+                    "name": "Raman analysis",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "The Brunauer–Emmett–Teller (BET) surface area and total pore volume of HCs were measured. The N2 adsorption curves in the range of relative pressure P/P0 from 0.01 to 0.999 are shown in Figure . The calculated BET surface area and total pore volume are shown in Table . Please note that the BET specific surface area was measured several times, and the average value was used for comparison. Willow, larch, and bamboo had a larger BET surface area than the other three HCs (>30 m2). They also showed a higher amount of adsorption (>5 cm3 g−1) at a relative pressure of 0.01, suggesting the existence of more micropores."
+                    ],
+                    "name": "BET surface area and pore volume",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "The XRD spectrum for each HC is shown in Figure . Peaks from the (002) and (100) planes of the graphite crystal were observed at 23 and 43°, respectively. The interlayer distance (d002 and d100), La, and Lc of the HC crystallites, as well as the number of stacking layers (Table ), were calculated from the spectra using the following two equations [Eqs. (1) and (2)]:",
+                        "with d as the interlayer distance, λ as the wavelength of the X‐rays, θ as the Bragg angle of the peak, K as the form factor (1.84 for La, 0.89 for Lc), and β as the full width of half maximum.",
+                        "The interlayer distance (d002) for each HC was in the range of 0.377 to 0.392 nm, all of which allow for Na ion intercalation. The crystallite sizes of HCs varied depending on the species, and were found to be in the range of 2.4–3.1 nm for La and 1.05–1.2 nm for Lc,. Because the (100) and (010) planes of the graphite crystal were orthogonal, the graphite volume of nanocrystallite (Vcrystallite) could be calculated using Equation (3). Furthermore, the interlayer area for Na ion intercalation per crystallite could be calculated from Equation (4). The values obtained from each equation are shown in Table ."
+                    ],
+                    "name": "XRD analysis",
+                    "type": "section"
+                }
+            ],
+            "name": "Results",
+            "type": "section"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "We studied the relationship between the intensity ratio of the Raman spectra and slope capacity. The correlation coefficients (R2) between the intensity ratio (ID1/IG and IG/ID3) and slope capacity were 0.03 and 0.42, respectively, indicating the absence of correlation (Figure ). According to Xiao et al., slope capacity is derived from the adsorption and desorption of Na ions onto the carbon surface and defects and the metal deposition into the micropores. Therefore, slope capacity cannot be evaluated by ID1/IG and IG/ID3, which reflect the surface crystallinity of carbon materials. Thus, we analyzed the correlation between the slope capacity and BET surface area or the total pore volume. Relatively high correlation coefficients of 0.88 for BET surface area and 0.69 for the total pore volume were observed, indicating a strong correlation between the slope capacity and BET surface area or the total pore volume (Figure ). These results suggest that the BET surface area and total pore volume are plausible indices for slope capacity evaluation, which is believed to originate from the Na ion adsorption onto carbon surfaces as well as the Na ion precipitation and the presence of defects in pores. Considering the principle of the slope capacity, it is necessary to combine both BET surface area and total pore volume when evaluating the actual slope capacity."
+                    ],
+                    "name": "Slope capacity",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "Figure  shows the correlation between the plateau capacity and the ID1/IG and IG/ID3 of the Raman spectra. The correlation coefficients R2 were 0.30 and 0.03, respectively, indicating no correlation was found. While strong correlations were found in some reports, there were other reports where no correlation was found. A potential explanation for the reports showing strong correlations is the assumption that the crystal structure of the surface and bulk parts is similar. We believe that this is because it is impossible to discuss bulk crystal properties (necessary for the discussion of Na ion intercalation) by Raman analysis, which provides surface crystal information. Therefore, to evaluate plateau capacity, Raman analysis cannot be used for HC‐based anode materials.",
+                        "As shown in Figure , there was no correlation between d002 and the plateau capacity (R2=0.00). This is because d002 only captures one‐dimensional crystalline information and does not take into account other crystal information (e. g., crystallite size, number of layers, etc.) that can affect the intercalation reaction. Therefore, it is suggested that d002 alone is unsuitable for assessing plateau capacity. So far, while it has been reported that La is proportional to plateau capacity, there has been no discussion about the relationship between Lc and plateau capacity. Since the plateau capacity is essentially derived from the intercalation of Na ions to graphite nanocrystallite, it is necessary to consider the Lc (in other words, the stacking height of graphite nanocrystallite). Therefore, we calculated Ai from the structural properties obtained from XRD analysis (La, Lc, and d002), and investigated the correlation between Ai and the plateau capacity. As shown in Figure , Ai and the plateau capacity were found to be strongly correlated (R2=0.94). This is because the amount of Na ion intercalation increases with a higher Ai, increasing the plateau capacity as a result. Thus, Ai can be used as a plausible indicator to accurately evaluate the plateau capacity. The reason why La has been highly correlated in previous reports is because it has a large effect on Ai, as can be understood from Equation (4) (Ai has La2 as a factor)."
+                    ],
+                    "name": "Plateau capacity",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "To confirm the usefulness of Ai we extracted data from previous reports in which both the structure properties (La and Lc, d002) and plateau capacity were reported and applied to Ai. The results are shown in Figure . In five of the six reports, the correlation coefficient R2 is higher than 0.8, suggesting the usefulness of Ai. However, a strong correlation was not found in the report by Zhang et al. (R2=0.51). In addition, HCs prepared at temperatures above 1500 °C did not to show a strong correlation. It was previously reported that HCs prepared at temperatures above 1500 °C have smaller interlayer distances than HCs prepared at lower temperatures. It is often said that carbonizing at a high temperature allows the gradual growth of ordered regions, creating highly carbonized materials. As the carbonization degree increases, the material becomes more like graphite, resulting with a decreased interlayer distance.",
+                        "We compared the correlation coefficients R2 of Ai with other conventional indices for plateau capacity evaluation (Table ). In all reports, Ai showed similar or higher R2 than the conventional indices. Specifically, in this work and three other reports, R2 values were similar. On the other hand, in the other three reports, the average R2 value of Ai was 8.1 % higher than that of La. The R2 value of the Raman intensity ratio (IG/ID3) was lower than those of Ai and La, and in some cases, as found in our work, there was no correlation. To the best of our knowledge, we could not find any report that used ether‐based electrolyte and compared several samples at the same time. Therefore, it is impossible to conclude that this proposed model can be used for ether‐based electrolyte as well. However, we predict that this model could be still useful even when using ether‐based electrolyte because the intercalation capacity essentially depends on Ai. In other words, regardless of the type of intercalated ions such as naked sodium ions or solvated sodium ions, host materials have the same number of sites that can accommodate them.",
+                        "The discussion above indicates that Ai, which is a multi‐dimensional view of the crystal, has a wider range of applicability than the conventional one‐dimensional indices and can serve as a new evaluation method. The simultaneous increase of La and Lc to enlarge Ai while keeping the interlayer distance large enough to allow the intercalation of Na ions, suggests an effective measure for enhancing the plateau capacity of SIB HC anodes. From Equation (4), it is effective to increase La, which has a large influence on Ai.",
+                        "No plausible measures to increase Ai have yet been found, while maintaining the appropriate interlayer distance to allow sodium ions to be inserted. However, we believe that several measures may be able to create large‐Ai HCs. For one thing, getting rid of amorphous parts from HCs could be a possible way. In a previous study, amorphous parts can be taken away from carbon nanotubes by sonication. We suppose that this can be applicable to HCs as well. Moreover, by burning HCs at low temperature around 300 °C, amorphous parts can be burned, and then only crystal parts are left. On the other hand, as another way, it may be possible to propose a method producing graphite with a large number of expanded layers by atomic doping. For instance, oxidizing graphite can prepare expanded graphite with longer interlayer distance. Another example is to dope nitrogen or sulfur atoms into carbon crystals."
+                    ],
+                    "name": "Usefulness of Ai",
+                    "type": "section"
+                }
+            ],
+            "name": "Discussion",
+            "type": "section"
+        },
+        {
+            "content": [
+                "In this work, we prepared six types of wood‐derived hard carbons (HCs) using the traditional Japanese carbonization method. The total discharge capacities of these HCs were 204–268 mAh g−1, as high as those of the previous reports, supporting the potential of such HCs as anode materials for sodium‐ion batteries (SIBs). In addition, the crystallite interlayer area (Ai) was proposed as a new material index for HCs, and a strong correlation was found between Ai and the plateau capacity (R2=0.94). Furthermore, when Ai was adapted to previous reports, a similar strong correlation was found (R2>0.8). It is suggested that Ai, which indicates a multi‐dimensional view of the crystallite, has a wider range of applicability than the conventional one‐dimensional indices, such as the intensity ratio (IG/ID3) of Raman spectrum, interlayer distance (d002), and lateral size (La) of the crystallite, thus serving as a superior evaluation index. This finding suggests that the plateau capacity of HCs as SIB anodes can be enhanced by increasing Ai simultaneously with La and stacking height Lc, while keeping the interlayer distance large enough for Na ion reinsertion."
+            ],
+            "name": "Conclusions",
+            "type": "section"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "Six types of wood‐derived HCs (willow, Japanese cedar, Japanese oak, magnolia, bamboo, and larch), produced in a stone oven using our previously reported process, were pulverized with a hammer and mashed in a mortar for 10 min. To remove inorganic impurities such as metal salts, the mashed HCs (≈3 g) were placed in a 2 m HCl solution (300 mL) and stirred at 80 °C for 24 h. The HCs were then washed thoroughly with pure water and collected by filtration [Omnipore 1.0 μm polytetrafluoroethylene (PTFE) Membrane, 47 mm] before drying in a vacuum oven at 70 °C for at least 6 h. To remove organic impurities, the HCs (3 g) were soaked in acetone (500 mL) and washed by sonication for 1 h. The resulting HCs were collected and dried in the same manner as the HCl wash."
+                    ],
+                    "name": "Preparation of HCs",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "Polyvinylidene difluoride (PDVF; 28.57 mg) was added to N‐Methyl‐pyrrolidone (NMP; 250 μL), and the mixture was blended for 10 min. Active material (100.00 mg) and acetylene black (AB; 14.29 mg) were added to the resulting solution. The mixture was then blended for 15 min. The obtained black slurry was pasted onto a copper foil with a thickness of approximately 48 μm, making the thickness of the paste portion 100 μm, and then dried at 80 °C for at least 6 h. The dried electrode was hollowed out with a 10Øpunch and dried again in a vacuum at 120 °C for another 6 h, before moving into a glove box. The battery was assembled using a CR2032 coin cell. The electrolyte was 1 m NaPF6 in propylene carbonate (PC), the separator was glass fiber (GA‐55, ADVANTEC), and the counter electrode was 12 Ø sodium metal."
+                    ],
+                    "name": "Preparation of electrode and coin cell assembly",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "Potentiostat (VMP3, Biologic) was used to conduct electrochemical measurements. The sodium ion storage capacity was tested at a constant current density of 20 mA per g of active material in the voltage window of 0.001 to 2 V vs. Na/Na+. The charge and discharge profiles were divided into two regions: slope and plateau, with 0.15 V vs. Na/Na+ as a boundary."
+                    ],
+                    "name": "Electrochemical measurements",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "The Raman spectra of HCs was measured with a Raman spectrometer (XploRA, HORIBA Scientific). The laser wavelength and the laser power were 532 nm and in the range of 2.0–2.5 mW, respectively. The measurement time was 50 s, integrated three times. The XRD spectra of HCs was measured by XRD equipment (D8 ADVANCE, BRUKER). The specific surface area and total pore volume was measured using an N2 adsorption/desorption analyzer (QUADRASORB evo, Quantachrome Instruments). The specific surface area was calculated from the adsorption points in the range of 0.1–0.3 relative pressure using the BET theory. The total surface area was measured several times and the average value used as the BET specific surface area. The total pore volume was calculated from the amount of N2 adsorption at a relative pressure of P/P0=0.999."
+                    ],
+                    "name": "Characterization",
+                    "type": "section"
+                }
+            ],
+            "name": "Experimental Section",
+            "type": "section"
+        },
+        {
+            "content": [
+                "This study was financially supported by the Program for Creation of Interdisciplinary Research from the Frontier Research Institute for Interdisciplinary Sciences, Tohoku University. The authors would like to thank Mitsuo Sato from Sumiya no Kurashi for preparing the hard carbons by the traditional Japanese carbonization method."
+            ],
+            "name": "Acknowledgements",
+            "type": "section"
+        },
+        {
+            "content": [
+                "The authors declare no conflict of interest."
+            ],
+            "name": "Conflict of interest",
+            "type": "section"
+        }
+    ],
+    "Title": "Rational Route for Increasing Intercalation Capacity of Hard Carbons as Sodium‐Ion Battery Anodes"
+}

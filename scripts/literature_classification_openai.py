@@ -6,7 +6,7 @@ import os
 import time
 from pathlib import Path
 from sib.literature.openai import classify as cl
-# from sib.literature.lit_processing import keep_relevant as kr
+from sib.literature.lit_processing import keep_relevant as kr
 
 # Set working directory based on the operating system
 HOME_PATH = str(Path.home())
@@ -26,7 +26,8 @@ with open(RESULT_PATH, "r", encoding='utf-8') as file:
     for i in range(300,500):
         user_message = data[i]["abstract"]
         res = cl('gpt-4o', user_message)
-        print(f"{i}")
+        print(f"{i} {res.content}")
+        data[i]["label_openai_raw"] = res.content
         if res.content == "relevant cathode" or res.content == "relevant anode" or res.content == "relevant cathode anode":
             data[i]["label_openai"] = 1
         elif res.content == "irrelevant":
@@ -41,7 +42,7 @@ with open(RESULT_PATH_OPENAI, "w", encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 # Keep relevant papers
-# kr(RESULT_PATH_OPENAI, "label_openai")
+kr(RESULT_PATH_OPENAI, "label_openai")
 
 # with open(RESULT_PATH_OPENAI, "r", encoding='utf-8') as file:
 #     data1 = json.load(file)
