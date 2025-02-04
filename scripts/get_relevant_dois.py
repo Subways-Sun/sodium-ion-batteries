@@ -46,7 +46,10 @@ PREFIX = ["10.1039", # RSC
           "10.1007", # Springer
           "10.1080", # Taylor & Francis
           "10.1038"] # Nature
-relevant_dois = [doi for doi in relevant_dois if doi[:7] in PREFIX]
+relevant_dois = [doi.lower() for doi in relevant_dois if doi[:7] in PREFIX]
+
+# Sort the relevant DOIs in ascending order
+relevant_dois.sort()
 
 # Save the relevant DOIs
 DOIS = "relevant_dois.txt"
