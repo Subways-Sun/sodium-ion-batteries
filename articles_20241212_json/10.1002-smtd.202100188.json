@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1002/smtd.202100188",
+    "Journal": "",
+    "Keywords": [
+        "electron transfer",
+        "heterogeneous interfaces",
+        "metal nanocrystals",
+        "Sb quantum dots",
+        "sodium‐ion batteries"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Lithium‐ion batteries (LIBs), which serve as the most predominant energy‐storage device, have been widely applied commercially for over 30 years. Nevertheless, the increasing requirements for large‐scale energy‐storing devices stimulate the research interests for other available and economical substitutes. Sodium‐ion batteries (SIBs) are considered as the suitable option with the privilege of natural abundance, low costs, and little environmental impact. Therefore, pursuing appropriate electrode materials with high specific capacity and long cycling stability could be pivotal for the further application of SIBs.",
+                "Antimony (Sb) has been regarded as a promising anode for SIBs on account of its high theoretical capacity (660 mAh g−1 given by fully sodiation to Na3Sb), unique puckered‐layer structure that promotes Na+ diffusion, and moderate operating voltage (0.5–0.8 vs Na+/Na) that could be conductive to avoiding Na deposition. However, the bottleneck for the further promotion of Sb anode is the relatively low intrinsic conductivity. Sb possess resistivity (370 nΩ m−1) between metals and nonmetals, like other several types of metals (e.g., Ge and Bi) that have been considered as semimetal.[] These semimetals contain very small overlap between the top of the conduction band and the bottom of the valance band, making the density of states near Fermi level close to 0.[] Naturally, these undesirable physical properties hinder the charge‐transport performance and rate capability of Sb anode from the electrochemical angle. Another well‐known drawback for the alloying‐type anode material is the huge volume expansion (≈390% for Sb)[] during sodiation/desodiation, which leads to the pulverization of Sb anode and the disconnection of active materials with current collector. Moreover, the generation of extra solid–electrolyte interface (SEI) layer on newly formed exposed surface of electrode causes the retardation of kinetics and degradation in capacity.[] To alleviate these problems, tremendous endeavors have been made, including the design of micro/nanostructure Sb, Sb‐based alloys, and Sb/C composite.[]",
+                "It is widely regarded that the rational interface design and atom doping route could enhance the charge‐transport properties; however, the essential mechanism and the visualization of the charge migration at the heterogeneous site (doping site and heterogeneous interface) are still ambiguous.",
+                "Besides, in terms of the nanostructure fabrication, the Sb nanoparticles, Sb nanospheres, and Sb nanotubes are typical strategies to enhance the electrochemical performance.[] These methods could effectively accelerate the mass‐transfer kinetics and the reaction kinetics through downsizing Sb particle. Nonetheless, the capacity retention and long cycle life are still being restricted, as the nanostructure brings about the increased exposed surface area, which speeds up the aggregation of particles. On this basis, introducing a buffering matrix phase arouses research interest. The Sb‐based alloys are of two types: the active–active type (e.g., Sn–Sb, Bi–Sb, and Sn–Ge–Sb) and active–inactive type (e.g., Cu2Sb, Mo3Sb7, Zn4Sb, and FeSb2).["
+            ],
+            "name": "Introduction",
+            "type": "section"
+        }
+    ],
+    "Title": "Heterogeneous Interface Design for Enhanced Sodium Storage: Sb Quantum Dots Confined by Functional Carbon"
+}
