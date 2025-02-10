@@ -1,0 +1,162 @@
+{
+    "apiMessage": "This JSON was provided by Springer Nature",
+    "query": "doi:10.1007/s40843-019-1229-0",
+    "apiKey": "7e2e02f53d5387dcdb65448f2fee2074",
+    "result": [
+        {
+            "total": "1",
+            "start": "1",
+            "pageLength": "10",
+            "recordsDisplayed": "1"
+        }
+    ],
+    "records": [
+        {
+            "contentType": "Article",
+            "identifier": "doi:10.1007/s40843-019-1229-0",
+            "language": "en",
+            "url": [
+                {
+                    "format": "",
+                    "platform": "",
+                    "value": "http://dx.doi.org/10.1007/s40843-019-1229-0"
+                }
+            ],
+            "title": "SnSe2 nanocrystals coupled with hierarchical porous carbon microspheres for long-life sodium ion battery anode",
+            "creators": [
+                {
+                    "creator": "Chen, Hui"
+                },
+                {
+                    "creator": "Mu, Zijie"
+                },
+                {
+                    "creator": "Li, Yiju"
+                },
+                {
+                    "creator": "Xia, Zhonghong"
+                },
+                {
+                    "creator": "Yang, Yong"
+                },
+                {
+                    "creator": "Lv, Fan"
+                },
+                {
+                    "creator": "Zhou, Jinhui"
+                },
+                {
+                    "creator": "Chao, Yuguang"
+                },
+                {
+                    "creator": "Wang, Jinshu"
+                },
+                {
+                    "creator": "Wang, Ning"
+                },
+                {
+                    "creator": "Guo, Shaojun"
+                }
+            ],
+            "publicationName": "Science China Materials",
+            "openaccess": "false",
+            "doi": "10.1007/s40843-019-1229-0",
+            "publisher": "Springer",
+            "publicationDate": "2020-04-01",
+            "publicationType": "Journal",
+            "issn": "2199-4501",
+            "volume": "63",
+            "number": "4",
+            "genre": [
+                "OriginalPaper",
+                "Articles"
+            ],
+            "startingPage": "483",
+            "endingPage": "491",
+            "journalId": "40843",
+            "copyright": "©2019 Science China Press and Springer-Verlag GmbH Germany, part of Springer Nature",
+            "abstract": "Tin selenides have been attracting great attention as anode materials for the state-of-the-art rechargeable sodium-ion batteries (SIBs) due to their high theoretical capacity and low cost. However, they deliver unsatisfactory performance in practice, owing to their intrinsically low conductivity, sluggish kinetics and volume expansion during the charge-discharge process. Herein, we demonstrate the synthesis of SnSe 2 nanocrystals coupled with hierarchical porous carbon (SnSe 2 NCs/C) microspheres for boosting SIBs in terms of capacity, rate ability and durability. The unique structure of SnSe 2 NCs/C possesses several advantages, including inhibiting the agglomeration of SnSe 2 nanoparticles, relieving the volume expansion, accelerating the diffusion kinetics of electrons/ions, enhancing the contact area between the electrode and electrolyte and improving the structural stability of the composite. As a result, the as-obtained SnSe 2 NCs/C microspheres show a high reversible capacity (565 mA h g −1 after 100 cycles at 100 mA g −1 ), excellent rate capability, and long cycling life stability (363 mA h g −1 at 1 A g −1 after 1000 cycles), which represent the best performances among the reported SIBs based on SnSe 2 -based anode materials. 硒化锡用于钠离子电池负极时具有较高的理论比容量且其 成本低廉, 因而备受关注. 然而, 由于其固有的低导电性, 以及在充 放电过程中的缓慢动力学和体积膨胀, 硒化锡作为钠离子电池负 极材料表现出的性能较差. 本文首次合成SnSe 2 纳米晶耦合分层多 孔碳微球(SnSe 2 NCs/C)用于增强钠离子电池的比容量、倍率能力 和持久性. SnSe 2 NCs/C独特的结构可以有效阻止SnSe 2 纳米晶的团 聚, 减轻材料体积膨胀, 加快电子和离子的扩散, 增大电解液与电极 材料的接触面积, 提高材料结构的稳定性. 所制备的SnSe 2 NCs/C微 球具有较高的可逆比容量(在100 mA g −1 的电流密度下循环100圈 后仍保持565 mA h g −1 的比容量), 出色的倍率能力和长循环寿命稳 定性(在1 A g −1 的电流密度下循环1000圈后仍保持363 mA h g −1 的 比容量).",
+            "subjects": [
+                "Materials Science",
+                "Materials Science, general",
+                "Chemistry/Food Science, general"
+            ]
+        }
+    ],
+    "facets": [
+        {
+            "name": "subject",
+            "values": [
+                {
+                    "value": "Chemistry/Food Science, general",
+                    "count": "1"
+                },
+                {
+                    "value": "Materials Science",
+                    "count": "1"
+                },
+                {
+                    "value": "Materials Science, general",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "keyword",
+            "values": [
+                {
+                    "value": "hierarchical",
+                    "count": "1"
+                },
+                {
+                    "value": "nanocrystals",
+                    "count": "1"
+                },
+                {
+                    "value": "sodium-ion batteries",
+                    "count": "1"
+                },
+                {
+                    "value": "tin selenides",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "pub",
+            "values": [
+                {
+                    "value": "Science China Materials",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "year",
+            "values": [
+                {
+                    "value": "2020",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "country",
+            "values": [
+                {
+                    "value": "China",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "type",
+            "values": [
+                {
+                    "value": "Journal",
+                    "count": "1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "DOI": "10.1002/chem.201902993",
+    "Journal": "",
+    "Keywords": [
+        "doping",
+        "electrochemistry",
+        "nanostructures",
+        "sodium-ion batteries",
+        "titanium"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "With the consumption of fossil energy and environmental deterioration, society needs to develop more renewable energy. For more convenient and efficient use of renewable energy, it is an effective strategy to develop energy storage devices, such as lithium‐ion batteries (LIBs), sodium‐ion batteries (SIBs), potassium‐ion batteries, and zinc‐ion batteries.. Among them, due to their advantageous energy density and cycling life, LIBs have been widely used in electric cars, laptops, cellular telephones, and other fields. However, the relatively high cost and scarcity of lithium resources limit its application in large‐scale energy storage systems. As an alternative, SIBs are favored by researchers because of their similar properties to LIBs, and sodium resources are abundant and evenly distributed in the world. The graphite anode materials commonly used for LIBs show unsatisfactory sodium storage performance, which is attributed to the larger ionic radius of Na+ (Na+: 0.102 nm; Li+: 0.076 nm), which results in in sluggish reaction kinetics and large volume expansion during cycling. Therefore, it is still of great interest to pursue suitable anode materials with high‐rate and stable cycling performance for SIBs.",
+                "Recently, Ti‐based materials have attracted much attention because of their environmental benignity, abundant resources, and low cost. Na2Ti3O7 is a promising anode material for SIBs due to its open layered framework, which is capable of exhibiting high specific capacity and high ionic conductivity. However, the low electrical conductivity of Na2Ti3O7 leads to fast capacity fading and poor cycling stability. Turning the surface electron configuration of metal oxides by creating vacancies in the crystal lattice is a highly effective strategy to improve the electrical conductivity and sodium storage performance. For instance, Li et al. prepared self‐supported nanotube arrays of sulfur‐doped TiO2 through electrochemical anodization and subsequent sulfurization, which showed a considerable sodium storage capacity of 136 mA h g−1 after 4400 cycles at a current density of 3.35 A g−1. Du and co‐workers synthesized a series of lanthanide‐doped Na2Ti3O7 that exhibited high reversible capacity and good cycling stability. The enhanced electrochemical performance is attributed to the introduction of vacancies that can provide more active sites to enhance the electronic conductivity and result in improved electrochemical reaction kinetics. In addition, self‐supported 3D Na2Ti3O7 nanowire arrays grown on Ti foil have been reported to overcome the above‐mentioned drawback of Na2Ti3O7. The nanowire‐array structures with rapid electron/ion‐transport pathways enable Na2Ti3O7 electrode materials to deliver superior electrochemical performance. In this regard, the introduction of surface vacancies into 3D Na2Ti3O7 nanowire arrays will offer synergistic advantages, including the ability to improve the intrinsic electrical conductivity of Na2Ti3O7 and shorten the distance for electron/ion transport.",
+                "Herein, self‐supporting 3D phosphorus‐doped Na2Ti3O7 nanowire arrays (P‐NTO NWAs) were prepared by simple hydrothermal and annealing routes. As anodes for SIBs, P‐NTO NWAs electrodes deliver a high specific capacity of 290 mA h g−1at 0.2 C (1 C=177 mA g−1), superb rate capability (50 mA h g−1at 20 C), and ultrastable cycling performance (capacity retention of 98 % after 3100 cycles at 20 C), and thus surpass the electrochemical performance of pristine NTO NWAs anodes. The superior sodium storage performance can be attributed to the rational design of the 3D hybrid structure. The surface vacancies endowed by the introduction of phosphorus could effectively improve the intrinsic electrical conductivity of Na2Ti3O7. Furthermore, the 3D nanowire arrays can provide convenient transport paths for electrons/ions, which are is favor of good electrochemical reaction kinetics. Thus, P‐NTO NWAs are a high‐potential anode material for SIBs."
+            ],
+            "name": "Introduction",
+            "type": "section"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "In a typical procedure, commercial titanium sheets were successively ultrasonicated in acetone, ethanol, and deionized water for 10 min and then dried in air at 60 °C for 12 h. Subsequently, the washed titanium sheets and NaOH (40 mL of a 1 m aqueous solution) were transferred to a 50 mL Teflon‐lined autoclave and heated at 220 °C for 4 h. The obtained products and sodium hypophosphite (NaH2PO2 H2O) were put at two separate positions in a porcelain boat and annealed at 350 oC for 2 h in N2 atmosphere to result in P‐NTO NWAs. For comparison, the NTO NWAs were obtained by a similar route without using NaH2PO2 H2O."
+                    ],
+                    "name": "Synthesis of P‐NTO NWAs",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "The crystal structures of NTO and P‐NTO NWAs were studied with a Micro Confocal Raman Microscope (Horiba Jobin Yvon) and Rigaku MiniFlex600 X‐ray diffractometer (current: 20 mA, voltage: 40 kV). The surface elemental composition of NTO and P‐NTO NWAs were analyzed with an X‐ray photoelectron spectrophotometer (Thermo Fisher Escalab 250Xi). The microscopic appearance and microstructure of NTO and P‐NTO NWAs studied by SEM (5 kV, Hitach SU8010 field‐emission electron microscope) and TEM (FEL‐Talos F200S, operated at 200 kV) with energy‐dispersive spectroscopy (EDS) for elemental analysis."
+                    ],
+                    "name": "Material characterization",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "The P‐NTO and NTO NWAs were used directly as the working electrodes (10×10 mm2). The 2032‐type half‐batteries were assembled in an argon‐filled glovebox (MBRAUN). The electrolyte was a solution of NaClO4 (1 m) in ethylene carbonate/diethyl carbonate (1/1 v/v) containing 5 wt % fluoroethylene carbonate . Cyclic voltammetry (CV) and electrochemical impedance spectroscopy (EIS) were carried out with a Gamry electrochemical station. The galvanostatic charge/discharge data were collected with NEWARE battery testing system at room temperature."
+                    ],
+                    "name": "Electrochemical measurements",
+                    "type": "section"
+                },
+                {
+                    "content": [
+                        "All DFT calculations were performed with SIESTA code, and the exchange‐correlation energy was calculated by using a generalized gradient approximation (GGA) as parametrized by Perdew–Burke‐Ernzerhof (PBE). A double‐zeta plus polarization basis set of atomic orbitals with an energy cutoff of 180 Ry was used to calculate the Hamiltonian element, with the cutoff radius of the atomic orbitals determined by an energy shift of 270 meV. All the atom positions and the cell parameters were fully relaxed by using conjugate gradient minimization until the Hellmann"
+                    ],
+                    "name": "Computational methods",
+                    "type": "section"
+                }
+            ],
+            "name": "Experimental Section",
+            "type": "section"
+        }
+    ],
+    "Title": "Phosphorus‐Doping‐Induced Surface Vacancies of 3D Na2Ti3O7 Nanowire Arrays Enabling High‐Rate and Long‐Life Sodium Storage"
+}

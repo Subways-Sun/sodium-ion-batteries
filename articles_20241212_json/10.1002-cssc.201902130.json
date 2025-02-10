@@ -1,0 +1,24 @@
+{
+    "DOI": "10.1002/cssc.201902130",
+    "Journal": "",
+    "Keywords": [
+        "batteries",
+        "nanostructures",
+        "pseudocapacitors",
+        "sodium",
+        "sulfides"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Rechargeable Na‐ion batteries (SIBs) are considered a compelling candidate for large‐scale sustainable electrochemical energy storage, because Na metal possesses several advantages, such as high natural abundance, decent energy densities, and similar properties to Li metal. Among all of the reported anode materials for SIBs, V‐based sulfides have attracted attention owing to their high reversible capacities resulting from the large Na+ storage spacing and the polytropic valence of V ranging from +5 to 0. VS4, as a cheap and environmentally benign mineral (Patronite), is a potential electrode material for application in SIBs, owing to its unique structural characteristics of large interchain distance (5.83 Å) caused by parallel 1 D chains, weak interaction between neighboring chains caused by weak van der Waals forces, and high content of S− caused by S22− monomer. These characteristics can not only afford enough potential sites for Na+ storage with the theoretical specific capacity of 1196 mAh g−1 for VS4+8 Na++8 e−⇄4 Na2S+V, but also contribute to Na+ transfer in the chains.",
+                "In the past few years, VS4 has been successfully applied to lithium‐ion batteries, SIBs, magnesium‐ion batteries, aluminum‐ion batteries, and supercapacitors, and its electrochemical performances as an anode material has been explored. However, poorly defined bulk VS4 undergoes severe pulverization and sluggish kinetics induced by the anisotropy in diffusion and the insufficient electrode–electrolyte contact, which lead to the poor cycling stability and rate capability. Two common strategies for improving the electrochemical performances are combining VS4 with carbon nanomaterials and developing 3 D self‐assembled VS4 nanoarchitectures. Although the introduction of carbon nanomaterials can alleviate pulverization and promote electrochemical kinetics to some extent, the large surface area and volume increase the side reactions and lower the energy density.",
+                "Benefiting from the high‐efficiency physical entrapment for the self‐expansion/self‐shrinkage of building blocks in the nanoarchitectures, the pure VS4 exhibits excellent cycling stability. Unfortunately, the insufficient coupling among building blocks and the poor diffusion pathway in building blocks largely restrict the charge transfer in the nanoarchitectures and then lead to the sluggish electrochemical kinetics, eventually resulting in the unsatisfactory rate capabilities. To the best of our knowledge, the reports about the effect of the nanoarchitectures on their electrochemical performances mainly focus on the morphology of building blocks, assembly method and surface area, and little reports pay attention to the coupling and diffusion pathway of building blocks. It is generally believed that the crystal lattice is a crucial channel for charge storage and transfer, which thus plays a decisive role in the electrochemical performances of electrode materials. In previous reports, the phase types, oriented structure, and crystallinity structure have been used to improve the electrochemical performances. This inspired us to optimize the coupling and diffusion pathway and thus enhance the rate capability of the pure VS4 by constructing nanoarchitectures with well‐defined crystal structure, but it is still a significant challenge.",
+                "In this work, we propose a unique (1 1 0)‐oriented and bridged‐nanoblocks self‐assembled VS4 microspheres (SB‐VS4"
+            ],
+            "name": "Introduction",
+            "type": "section"
+        }
+    ],
+    "Title": "Enhanced Kinetics over VS4 Microspheres with Multidimensional Na+ Transfer Channels for High‐Rate Na‐Ion Battery Anodes"
+}

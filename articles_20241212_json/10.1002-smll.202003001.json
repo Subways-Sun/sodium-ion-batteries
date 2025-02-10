@@ -1,0 +1,22 @@
+{
+    "DOI": "10.1002/smll.202003001",
+    "Journal": "",
+    "Keywords": [
+        "anodes",
+        "in situ Raman spectroscopy",
+        "manganese sulfide",
+        "sodium ion batteries",
+        "transmission electron microscopy"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Limited lithium sources with uneven distribution on earth and rising costs of lithium‐ion batteries (LIBs) make the development of new advanced electrochemical energy storage systems for replacement of LIBs urgent.[] Sodium and lithium have similar physical and chemical properties, and the earth is rich in sodium mineral resources with wide distribution and low cost. Hence, sodium‐ion batteries (SIBs) are considered as a potent option to supplement LIBs, especially for energy storage on a large scale. The radius of the sodium ion (1.06 Å) is larger than that of the lithium‐ion (0.76 Å), causing a higher volume effect and lower ion mobility. As a result, SIBs exhibit lower battery capacities and unsatisfactory electrochemical performances, which restricts the large‐scale commercial application of SIBs.[] In recent years, intensive research has been carried out to develop SIB anode materials with satisfactory high capacity, outstanding rate performance, and low cost, which is crucial to overcome the drawbacks of low performance and cost and promote commercial applications of SIBs.[]",
+                "Transition metal sulfides, such as tin sulfide,[] iron sulfide,[] cobalt sulfide,[] and molybdenum sulfide,[] have attracted much attention as promising new SIB anode materials with excellent electrochemical activity as well as thermal and mechanical stability.[] Among these metal sulfides, manganese sulfide (MnS) possesses various advantages, as it exhibits abundant reserves,[] low cost, and a high theoretical capacity of 616 mAh g−1 for Na storage (electromotive force: 1.049 V; Gibbs free energy variation: −202.50 kJ mol−1).[] However, some drawbacks of MnS as anode material must be overcome for a practical application for Na storage. First, the complex and controversial Na storage processes limit the progress in improving steady performance. Second, the inevitable volume expansion during the successive sodiation/desodiation of MnS electrodes changes the morphology of the material and hence gradually attenuates the Na storage capacity.[] Third, the poor conductivity of MnS causes a sluggish electrochemical reaction and poor multiplier performance. Fourth, the high dissolvability and loss of polysulfide intermediates generated during electrode sodiation further accelerate the capacity degradation and hence decrease the Coulombic efficiency.[] In comparison with bulk materials, nano‐crystallized active materials are advantageous for electrochemical reactions due to their high specific surface area and may accommodate expanded volume in large void space. Therefore, such materials present an excellent option to overcome some drawbacks of MnS.[] Coating nanostructured metal sulfides with a carbon shell presents another effective measure to enhance the electrical conductivity, attenuate volume expansion, and impede the formation of nano sulfide aggregates.[]"
+            ],
+            "name": "Introduction",
+            "type": "section"
+        }
+    ],
+    "Title": "MnS@N,S Co‐Doped Carbon Core/Shell Nanocubes: Sulfur‐Bridged Bonds Enhanced Na‐Storage Properties Revealed by In Situ Raman Spectroscopy and Transmission Electron Microscopy"
+}
