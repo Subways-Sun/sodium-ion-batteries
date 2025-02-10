@@ -28,11 +28,11 @@ def search(query, **kwargs):
 
     if limit is not None:
         l = "&limit=" + str(limit)
-    if fields is not (None or ""):
+    if (fields is not None) and (fields != ""):
         f = "&fields=" + fields
     if offset is not None:
         o = "&offset=" + str(offset)
-    if publication_types is not (None or ""):
+    if (publication_types is not None) and (publication_types != ""):
         pt = "&publicationTypes=" + publication_types
 
     url = f"{base_url}{q}{o}{l}{f}{pt}"
@@ -66,13 +66,13 @@ def search_bulk(query, **kwargs):
     t = ""
     y = ""
 
-    if fields is not (None or ""):
+    if (fields is not None) and (fields != ""):
         f = "&fields=" + fields
-    if publication_types is not (None or ""):
+    if (publication_types is not None) and (publication_types != ""):
         pt = "&publicationTypes=" + publication_types
-    if token is not (None or ""):
+    if (token is not None) and (token != ""):
         t = "&token=" + token
-    if year is not (None or ""):
+    if (year is not None) and (year != ""):
         y = "&year=" + year
 
     url = f"{base_url}{q}{f}{pt}{t}{y}"
@@ -106,7 +106,7 @@ def search_paper_details(DOI, **kwargs):
     base_url = "https://api.semanticscholar.org/graph/v1/paper"
 
     d = "/DOI:" + DOI
-    # f = ""
+    f = ""
     # pt = ""
     # t = ""
     # y = ""

@@ -18,14 +18,18 @@ if platform.system() == "Darwin":
 # Define search parameters
 QRYLST = ["sodium+ion+battery+anode",
           "sodium+ion+battery+cathode",
-          "sodium+ion+battery+electrode"]
+          "sodium+ion+battery+electrode",
+          "sib+cathode",
+          "sib+anode",
+          "sib+electrode"]
 
-FLD = "externalIds,title,abstract,publicationTypes,publicationDate,venue"
-CNT = 100 # Number of papers to retrieve
+FLD = "externalIds,title,abstract,publicationDate" # Fields to retrieve
+CNT = 3000 # Number of papers to retrieve
 
 LMT = 100
 OFSLST = range(0, CNT, 100)
 PBL = "JournalArticle"
+# PBL = ""
 YR = "2016-"
 
 result = list([])
@@ -66,14 +70,14 @@ lp.keep_journal(RESULT_PATH)
 lp.remove_no_abstract(RESULT_PATH)
 
 # Only keep papers from select publishers
-publishers = ["10.1039", # RSC
-              "10.1016", # Elsevier
-              "10.1021", # ACS
-              "10.1002", # Wiley
-              "10.1007", # Springer
-              "10.1080", # Taylor & Francis
-              "10.1038"] # Nature
-lp.keep_select_publishers(RESULT_PATH, publishers)
+# publishers = ["10.1039", # RSC
+#               "10.1016", # Elsevier
+#               "10.1021", # ACS
+#               "10.1002", # Wiley
+#               "10.1007", # Springer
+#               "10.1080", # Taylor & Francis
+#               "10.1038"] # Nature
+# lp.keep_select_publishers(RESULT_PATH, publishers)
 
 # Print the number of papers retrieved
 with open(RESULT_PATH, "r", encoding='utf-8') as file:
