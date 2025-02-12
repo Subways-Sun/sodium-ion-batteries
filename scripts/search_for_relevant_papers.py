@@ -6,7 +6,6 @@ import time
 from datetime import datetime
 from pathlib import Path
 
-from torch import le
 from sib.literature import semantic as ss
 from sib.literature import lit_processing as lp
 
@@ -29,23 +28,12 @@ QRYLST = ["sodium+ion+battery+anode",
           "sib+anode",
           "sib+electrode"]
 
-# FLD = "externalIds,title,abstract,publicationTypes,publicationDate,venue"
-FLD = "externalIds,title,abstract"
+FLD = "externalIds,title,publicationTypes,publicationDate"
 CNT = 3000 # Number of papers to retrieve
-
-LMT = 100
-OFSLST = range(0, CNT, 100)
 PBL = "JournalArticle"
-# PBL = ""
 YR = "2016-"
 
 result = list([])
-# Search for relevant papers
-# for QRY in QRYLST:
-#     for OFS in OFSLST:
-#         temp = ss.search(QRY, offset = OFS, limit = LMT, fields = FLD, publicationTypes = PBL)[0]
-#         for item in temp:
-#             result.append(item)
 
 for QRY in QRYLST:
     BLK_TOKEN = ""
@@ -55,13 +43,31 @@ for QRY in QRYLST:
         if result_temp[2] is None:
             BLK_TOKEN = ""
             break
-        else:
-            BLK_TOKEN = result_temp[2]
+        BLK_TOKEN = result_temp[2]
         for item in temp:
             result.append(item)
         print(len(result))
         print(result_temp[1])
         time.sleep(2)
+
+# Remove duplicates
+result = lp.remove_duplicates_dict(result)
+
+# Only keep papers from select publishers
+publishers = ["10.1039", # RSC
+              "10.1016", # Elsevier
+              "10.1021", # ACS
+              "10.1002", # Wiley
+              "10.1007", # Springer
+              "10.1080", # Taylor & Francis
+              "10.1038"] # Nature
+result = lp.keep_select_publishers_dict(result, publishers)
+
+# Retrieve abstract from Scopus
+
+
+# Remove papers with no abstract
+result = lp.remove_no_abstract_dict(result)
 
 # Save the result to a json file
 RESULT_PATH = ""
@@ -73,33 +79,6 @@ if platform.system() == "Darwin":
     RESULT_PATH = WORK_DIR + rf"/data/search_{current_time}_{SEARCH_NAME}.json"
 with open(RESULT_PATH, "w", encoding='utf-8') as file:
     json.dump(result, file, ensure_ascii=False, indent=4)
-
-# Remove duplicates
-lp.remove_duplicates(RESULT_PATH)
-
-# Only keep journal articles
-# lp.keep_journal(RESULT_PATH)
-
-# Remove papers with no abstract
-# lp.remove_no_abstract(RESULT_PATH)
-
-# Only keep papers from select publishers
-# publishers = ["10.1039", # RSC
-#               "10.1016", # Elsevier
-#               "10.1021", # ACS
-#               "10.1002", # Wiley
-#               "10.1007", # Springer
-#               "10.1080", # Taylor & Francis
-#               "10.1038"] # Nature
-# lp.keep_select_publishers(RESULT_PATH, publishers)
-# publishers = ["10.1039", # RSC
-#               "10.1016", # Elsevier
-#               "10.1021", # ACS
-#               "10.1002", # Wiley
-#               "10.1007", # Springer
-#               "10.1080", # Taylor & Francis
-#               "10.1038"] # Nature
-# lp.keep_select_publishers(RESULT_PATH, publishers)
 
 # Print the number of papers retrieved
 with open(RESULT_PATH, "r", encoding='utf-8') as file:

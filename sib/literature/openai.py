@@ -45,69 +45,71 @@ def rephrase(openai_model, user_message):
 def extract(openai_model, user_message):
     """Function to rephrase the user message"""
 
+    response_json = {
+        "type": "json_schema",
+        "json_schema": {
+            "name": "sodium_ion_battery_data",
+            "schema": {
+                "type": "object",
+                "properties": {
+                    "material": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "material_type": {
+                                    "type": "string",
+                                    "enum": ["cathode", "anode", "electrolyte"]
+                                },
+                                "material_name": {"type": "string"},
+                                "material_formula": {"type": "string"},
+                                "capacity": {
+                                    "type": "object",
+                                    "properties": {
+                                        "value": {"type": "number"},
+                                        "unit": {"type": "string"}
+                                    },
+                                    "required": ["value", "unit"],
+                                    "additionalProperties": False
+                                },
+                                "cycle_life": {
+                                    "type": "object",
+                                    "properties": {
+                                        "value": {"type": "number"},
+                                        "unit": {"type": "string"}
+                                    },
+                                    "required": ["value", "unit"],
+                                    "additionalProperties": False
+                                }
+                            },
+                            "required": ["material_type",
+                                            "material_name",
+                                            "material_formula",
+                                            "capacity",
+                                            "cycle_life"],
+                            "additionalProperties": False
+                        }
+                    }
+                },
+                "required": ["material"],
+                "additionalProperties": False
+            },
+            "strict": True
+        }
+    }
+
     completion = client.beta.chat.completions.parse(
         model = openai_model,
         messages = [
             {
                 "role": "system",
-                "content": "You are an expert at structured data extraction. You will be given unstructured text from a research paper and should convert it into the given structure. Your task is to extract the material information from the given text. The material information includes the material type (cathode, anode, or electrolyte), material name, material formula, capacity, and cycle life. Extract these information for each material mentioned in the paper. You should only look at materials used for sodium ion batteries, not for any other type of battery or material. If the material type is not mentioned, you should assume it to be unknown. If the material formula is not mentioned, you should assume it to be unknown. If the capacity is not mentioned, you should assume it to be unknown. If the material information is not present in the text, you should assume it to be unknown or 0. If you are not sure about any information, you should assume it to be unknown or 0."
+                "content": "You are an expert at structured data extraction. You will be given unstructured text from a research paper and should convert it into the given structure. The paper should focus on electrode or electrolyte materials of sodium ion batteries. Your task is to extract the material information from the given text. The material information includes the material type (cathode, anode, or electrolyte), material name, material formula, capacity (with unit), and cycle life (with unit). Extract these information for each material mentioned in the paper. You should only look at materials used for sodium ion batteries, not for any other type of battery or material. For any information that the paper doesn't mention or if you are not sure, you should assume it to be unknown (for string type) or 0 (for number type)."
             },
             {
                 "role": "user",
                 "content": user_message
             }
         ],
-        response_format = {
-            "type": "json_schema",
-            "json_schema": {
-                "name": "sodium_ion_battery_data",
-                "schema": {
-                    "type": "object",
-                    "properties": {
-                        "material": {
-                            "type": "array",
-                            "items": {
-                                "type": "object",
-                                "properties": {
-                                    "material_type": {
-                                        "type": "string",
-                                        "enum": ["cathode", "anode", "electrolyte"]
-                                    },
-                                    "material_name": {"type": "string"},
-                                    "material_formula": {"type": "string"},
-                                    "capacity": {
-                                        "type": "object",
-                                        "properties": {
-                                            "value": {"type": "number"},
-                                            "unit": {"type": "string"}
-                                        },
-                                        "required": ["value", "unit"],
-                                        "additionalProperties": False
-                                    },
-                                    "cycle_life": {
-                                        "type": "object",
-                                        "properties": {
-                                            "value": {"type": "number"},
-                                            "unit": {"type": "string"}
-                                        },
-                                        "required": ["value", "unit"],
-                                        "additionalProperties": False
-                                    }
-                                },
-                                "required": ["material_type",
-                                             "material_name",
-                                             "material_formula",
-                                             "capacity",
-                                             "cycle_life"],
-                                "additionalProperties": False
-                            }
-                        }
-                    },
-                    "required": ["material"],
-                    "additionalProperties": False
-                },
-                "strict": True
-            }
-        }
+        response_format = response_json
     )
     return completion.choices[0].message.content

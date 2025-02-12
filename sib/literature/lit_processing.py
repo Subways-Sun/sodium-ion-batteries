@@ -31,6 +31,19 @@ def remove_duplicates(json_file_path):
     with open(json_file_path, 'w', encoding='utf-8') as file:
         json.dump(unique_entries, file, indent=4)
 
+def remove_duplicates_dict(input_dict):
+    """Function to remove duplicates from a dictionary list"""
+    unique_entries = []
+    seen_ids = set()
+
+    for entry in input_dict:
+        entry_id = entry.get('paperId')
+        if entry_id not in seen_ids:
+            unique_entries.append(entry)
+            seen_ids.add(entry_id)
+
+    return unique_entries
+
 def keep_journal(json_file_path):
     """Function to only retain journal articles in a JSON file"""
     with open(json_file_path, 'r', encoding='utf-8') as file:
@@ -57,6 +70,15 @@ def remove_no_abstract(json_file_path):
     with open(json_file_path, 'w', encoding='utf-8') as file:
         json.dump(with_abstract, file, ensure_ascii=False, indent=4)
 
+def remove_no_abstract_dict(input_dict):
+    """Function to remove papers with no abstract from a JSON file"""
+    with_abstract = []
+    for entry in input_dict:
+        if entry.get('abstract'):
+            with_abstract.append(entry)
+    
+    return with_abstract
+
 def keep_select_publishers(json_file_path, publishers: list):
     """Function to only retain papers from select publishers in a JSON file"""
     with open(json_file_path, 'r', encoding='utf-8') as file:
@@ -69,6 +91,15 @@ def keep_select_publishers(json_file_path, publishers: list):
 
     with open(json_file_path, 'w', encoding='utf-8') as file:
         json.dump(selected_list, file, ensure_ascii=False, indent=4)
+
+def keep_select_publishers_dict(input_dict, publishers: list):
+    """Function to only retain papers from select publishers in a JSON file"""
+    selected_list = []
+    for entry in input_dict:
+        if entry.get('externalIds').get('DOI').split('/')[0] in publishers:
+            selected_list.append(entry)
+
+    return selected_list
 
 def keep_relevant(json_file_path, label: str):
     """Function to only retain relevant papers in a labelled JSON file"""
