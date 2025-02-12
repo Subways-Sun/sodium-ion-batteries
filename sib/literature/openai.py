@@ -1,5 +1,5 @@
 """Module using OpenAI API to classify literature."""
-# pylint: disable=locally-disabled, line-too-long
+# pylint: disable=locally-disabled, line-too-long, invalid-name
 # from pydantic import BaseModel
 from openai import OpenAI
 client = OpenAI()

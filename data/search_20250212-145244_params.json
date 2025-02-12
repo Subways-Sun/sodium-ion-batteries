@@ -1,0 +1,42 @@
+{
+    "searchKeywords": [
+        "sodium+ion+battery+anode",
+        "sodium+ion+battery+cathode",
+        "sodium+ion+battery+electrode",
+        "sib+cathode",
+        "sib+anode",
+        "sib+electrode"
+    ],
+    "fields": "externalIds,title,publicationTypes,publicationDate",
+    "count": 3000,
+    "publicationTypes": "JournalArticle",
+    "year": "2016-",
+    "result_len": 4913,
+    "urls": [
+        [
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Banode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&year=2016-",
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Banode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&token=PCOKWVSKJJGM4TWNJNI3EUSQJIWVNUSRKBFEYK2JFUBHFI4VJQJBGTKSRWJQYDMNZUGZEUYSJVJEZTGMJWJE2DKMFTG42LJNJVGE2E6TBTJUYU2TSVRGWAPRAEKDQ&year=2016-",
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Banode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&token=PCOA3RZRB2ACAEAEYCXZBLJNBDOAL4JLY2BGHD6GYRBO3DD727U6NANVX35UCLABPZQQU2HD63Z67CVKVQRROLYWFGWCNIQSSNJZWZM3GPK5TE2GYH3H56YDCSLQ&year=2016-"
+        ],
+        [
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Bcathode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&year=2016-",
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Bcathode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&token=PCOKWVSKJJGM4TWNJNI3EUSQJIWVNUSRKBFEYK2JFUBHFI4VZRGAYTKTJSJAYLMSJTJCYDISFUWE3DJMZWGI2UWMZVGCZUWSJSJM3DGTZRJNHDAMSVRGWAPFKIJ6W&year=2016-",
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Bcathode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&token=PCOKWVSKJJGM4TWNJNI3EUSQJIWVNUSRKBFEYK2JFUBHFI4VSLGQZDET2IWJGDMSJUG4YESNSKGAYLGNRTJCZTEMRXJZEDKMSPGM3TINCIGVHDEMSVRGWAPQO4J7K&year=2016-"
+        ],
+        [
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Belectrode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&year=2016-",
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Belectrode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&token=PCOKWVSKJJGM4TWNJNI3EUSQJIWVNUSRKBFEYK2JFUBHFI4VZQWJETJNBRJCZDBMZWGY2LGMCMWVGTGMSKGQYUYSSNJAZTEMZRG5FDBMZQWFGTJNSRRGWAPEUAJ4A&year=2016-",
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sodium%2Bion%2Bbattery%2Belectrode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&token=PCOA3RZLB2ADAEAFYCVTIT3D3JW7VYJKASY37GRGBDABD3QO4PTIDMCOH4GGXAC7LABHRXD673O2BRRGXWHOYMS2OHGRIKNFVKG3Y4FLGHDWFHKMWC7R6DDVCTHQ&year=2016-"
+        ],
+        [
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sib%2Bcathode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&year=2016-"
+        ],
+        [
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sib%2Banode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&year=2016-",
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sib%2Banode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&token=PCOA3RZLB2ADAEAFYCVTITZDNBU3HFFLCDCH4DIJAJYIJO6DXB4SBLF3D6DCLQJPBQERZN47P5L2QW3B2NNHHCELTDDEJXDS5M63VTFDAQKVENOG6Z7B6RYV4Q&year=2016-"
+        ],
+        [
+            "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=sib%2Belectrode&fields=externalIds%2Ctitle%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle&year=2016-"
+        ]
+    ]
+}

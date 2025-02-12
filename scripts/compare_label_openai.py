@@ -1,5 +1,5 @@
 """Compare the labels from OpenAI and the annotated labels."""
-# pylint: disable=locally-disabled, line-too-long, consider-using-enumerate
+# pylint: disable=locally-disabled, line-too-long, consider-using-enumerate, invalid-name
 import platform
 import os
 import json

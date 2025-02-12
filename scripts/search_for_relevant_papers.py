@@ -1,57 +1,40 @@
 """Script to retrive relevant paper"""
-# pylint: disable=locally-disabled, line-too-long
-import json
-import platform
-import time
+# pylint: disable=locally-disabled, line-too-long, invalid-name
+import os
 from datetime import datetime
-from pathlib import Path
-
 from sib.literature import semantic as ss
+# from sib.literature import scopus as sc
 from sib.literature import lit_processing as lp
 
-# Set working directory based on the operating system
-HOME_PATH = str(Path.home())
-WORK_DIR = ""
-if platform.system() == "Windows":
-    WORK_DIR = HOME_PATH + r"\OneDrive\Documents\GitHub\sodium-ion-batteries"
-if platform.system() == "Darwin":
-    WORK_DIR = HOME_PATH + r"/Documents/GitHub/sodium-ion-batteries"
-
 # Define search parameters
-QRYLST = ["sodium+ion+battery+anode",
+query_list = ["sodium+ion+battery+anode",
           "sodium+ion+battery+cathode",
           "sodium+ion+battery+electrode",
           "sib+cathode",
           "sib+anode",
-          "sib+electrode",
-          "sib+cathode",
-          "sib+anode",
           "sib+electrode"]
 
-FLD = "externalIds,title,publicationTypes,publicationDate"
-CNT = 3000 # Number of papers to retrieve
-PBL = "JournalArticle"
-YR = "2016-"
+fields = "externalIds,title,publicationTypes,publicationDate"
+count = 3000 # Number of papers to retrieve for each keyword
+publication_types = "JournalArticle" # Only retrieve journal articles
+year = "2016-" # Only retrieve papers published after 2016
 
 result = list([])
+url_list = list([])
 
-for QRY in QRYLST:
-    BLK_TOKEN = ""
-    for i in range(0, CNT, 1000):
-        result_temp = ss.search_bulk(QRY, fields = FLD, publicationTypes = PBL, token = BLK_TOKEN, year = YR)
-        temp = result_temp[0]
-        if result_temp[2] is None:
-            BLK_TOKEN = ""
-            break
-        BLK_TOKEN = result_temp[2]
-        for item in temp:
-            result.append(item)
-        print(len(result))
-        print(result_temp[1])
-        time.sleep(2)
+# Search for relevant papers
+for query in query_list:
+    result_temp = ss.search_bulk(query, count, fields = fields, publicationTypes = publication_types, year = year)
+    data = result_temp[0]
+    url = result_temp[1]
+    print(f"Number of papers retrieved for '{query.replace('+', ' ')}': {len(data)}")
+    result.extend(data)
+    url_list.append(url)
+print(f"\nFinished initial search, number of papers retrieved: {len(result)}")
 
 # Remove duplicates
-result = lp.remove_duplicates_dict(result)
+result = lp.remove_duplicates(result)
+print(f"\nNumber of papers after removing duplicates: {len(result)}")
 
 # Only keep papers from select publishers
 publishers = ["10.1039", # RSC
@@ -61,26 +44,28 @@ publishers = ["10.1039", # RSC
               "10.1007", # Springer
               "10.1080", # Taylor & Francis
               "10.1038"] # Nature
-result = lp.keep_select_publishers_dict(result, publishers)
+result = lp.keep_select_publishers(result, publishers)
+print(f"\nNumber of papers from select publishers: {len(result)}")
 
 # Retrieve abstract from Scopus
-
+# for paper in result:
+#     doi = paper.get("externalIds").get("DOI")
+#     abstract = sc.search_paper_details(doi).get("abstract")
+#     paper["abstract"] = abstract
 
 # Remove papers with no abstract
-result = lp.remove_no_abstract_dict(result)
+# result = lp.remove_no_abstract(result)
+# print(f"\nNumber of papers after removing papers with no abstract: {len(result)}")
 
-# Save the result to a json file
-RESULT_PATH = ""
-SEARCH_NAME = "-".join(QRYLST[:3])
+# Save the search parameters to a json file
 current_time = datetime.now().strftime("%Y%m%d-%H%M%S")
-if platform.system() == "Windows":
-    RESULT_PATH = WORK_DIR + rf"\data\search_{current_time}_{SEARCH_NAME}.json"
-if platform.system() == "Darwin":
-    RESULT_PATH = WORK_DIR + rf"/data/search_{current_time}_{SEARCH_NAME}.json"
-with open(RESULT_PATH, "w", encoding='utf-8') as file:
-    json.dump(result, file, ensure_ascii=False, indent=4)
+params = {"searchKeywords": query_list, "fields": fields, "count": count, "publicationTypes": publication_types, "year": year, "result_len": len(result), "urls": url_list}
+params_path = os.path.join(os.getcwd(), "data", f"search_{current_time}_params.json")
+lp.write_json(params_path, params)
 
 # Print the number of papers retrieved
-with open(RESULT_PATH, "r", encoding='utf-8') as file:
-    data = json.load(file)
-    print(f"Number of papers retrieved: {len(data)}")
+print(f"\nNumber of papers retrieved: {len(result)}")
+
+# Save the result to a json file
+result_path = os.path.join(os.getcwd(), "data", f"search_{current_time}.json")
+lp.write_json(result_path, result)

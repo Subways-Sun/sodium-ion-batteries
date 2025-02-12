@@ -1,5 +1,5 @@
 """Module to get relevant DOIs from annotated data."""
-# pylint: disable=locally-disabled, line-too-long
+# pylint: disable=locally-disabled, line-too-long, invalid-name
 import json
 import platform
 import os

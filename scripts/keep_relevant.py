@@ -1,5 +1,5 @@
 """Script to keep only relevant entries from the annotated data."""
-# pylint: disable=locally-disabled, line-too-long
+# pylint: disable=locally-disabled, line-too-long, invalid-name
 import json
 import platform
 import os
