@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='sib',
-    version='0.2.1',
+    version='1.0',
     packages=['sib/literature'],
     install_requires=['requests', 'openai'],
 )

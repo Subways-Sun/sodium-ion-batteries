@@ -1,21 +1,23 @@
 """Script to retrive relevant paper"""
 # pylint: disable=locally-disabled, line-too-long, invalid-name
 import os
+import time
 from datetime import datetime
 from sib.literature import semantic as ss
-# from sib.literature import scopus as sc
+from sib.literature import scopus as sc
+from sib.literature import springer as sp
 from sib.literature import lit_processing as lp
 
 # Define search parameters
 query_list = ["sodium+ion+battery+anode",
-          "sodium+ion+battery+cathode",
-          "sodium+ion+battery+electrode",
-          "sib+cathode",
-          "sib+anode",
-          "sib+electrode"]
+              "sodium+ion+battery+cathode",
+              "sodium+ion+battery+electrode",
+              "sib+cathode",
+              "sib+anode",
+              "sib+electrode"]
 
-fields = "externalIds,title,publicationTypes,publicationDate"
-count = 3000 # Number of papers to retrieve for each keyword
+fields = "externalIds,title,abstract,publicationTypes,publicationDate"
+count = 4000 # Number of papers to retrieve for each keyword
 publication_types = "JournalArticle" # Only retrieve journal articles
 year = "2016-" # Only retrieve papers published after 2016
 
@@ -47,15 +49,24 @@ publishers = ["10.1039", # RSC
 result = lp.keep_select_publishers(result, publishers)
 print(f"\nNumber of papers from select publishers: {len(result)}")
 
-# Retrieve abstract from Scopus
-# for paper in result:
-#     doi = paper.get("externalIds").get("DOI")
-#     abstract = sc.search_paper_details(doi).get("abstract")
-#     paper["abstract"] = abstract
+# Retrieve abstract from Scopus and Springer
+for paper in result:
+    doi = paper.get("externalIds").get("DOI")
+    if doi[:7] == "10.1016":
+        print(f"Retrieving abstract for {doi} from Scopus")
+        abstract = sc.get_paper_details(doi)[0]["full-text-retrieval-response"]["coredata"]["dc:description"]
+        if abstract:
+            paper["abstract"] = abstract.strip()
+    elif doi[:7] == "10.1007" or doi[:7] == "10.1038":
+        print(f"Retrieving abstract for {doi} from Springer")
+        abstract = sp.get_paper_details(doi)[0]["records"][0]["abstract"]
+        if abstract:
+            paper["abstract"] = abstract
+        time.sleep(0.7) # Sleep for 0.7 seconds to avoid exceeding the rate limit
 
 # Remove papers with no abstract
-# result = lp.remove_no_abstract(result)
-# print(f"\nNumber of papers after removing papers with no abstract: {len(result)}")
+result = lp.remove_no_abstract(result)
+print(f"\nNumber of papers after removing papers with no abstract: {len(result)}")
 
 # Save the search parameters to a json file
 current_time = datetime.now().strftime("%Y%m%d-%H%M%S")

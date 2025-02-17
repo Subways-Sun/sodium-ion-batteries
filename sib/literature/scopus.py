@@ -12,5 +12,3 @@ def get_paper_details(DOI: str):
               "view": "META_ABS"}
     response = requests.get(url, params=params, timeout=1000)
     return [response.json(), response.url]
-
-# print(get_paper_details("10.1021/acs.nanolett.9b00544")[1])
