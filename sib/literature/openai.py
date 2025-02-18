@@ -83,10 +83,10 @@ def extract(openai_model, user_message):
                                 }
                             },
                             "required": ["material_type",
-                                            "material_name",
-                                            "material_formula",
-                                            "capacity",
-                                            "cycle_life"],
+                                         "material_name",
+                                         "material_formula",
+                                         "capacity",
+                                         "cycle_life"],
                             "additionalProperties": False
                         }
                     }
