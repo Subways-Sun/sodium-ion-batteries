@@ -1,0 +1,30 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Nitrogen/Oxygen codoped hard carbon",
+            "material_formula": "N/O-HC-2",
+            "capacity": {
+                "value": 343,
+                "unit": "mA h g–1"
+            },
+            "cycle_life": {
+                "value": 100,
+                "unit": "cycles"
+            }
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Coconut shell-derived hard carbon",
+            "material_formula": "C-HC",
+            "capacity": {
+                "value": 272,
+                "unit": "mA h g–1"
+            },
+            "cycle_life": {
+                "value": 100,
+                "unit": "cycles"
+            }
+        }
+    ]
+}

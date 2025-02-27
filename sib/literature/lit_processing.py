@@ -2,18 +2,18 @@
 # pylint: disable=locally-disabled, line-too-long, invalid-name
 import json
 
-def read_json(json_file_path):
+def read_json(json_file_path) -> dict:
     """Function to read a JSON file"""
     with open(json_file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return data
 
-def write_json(json_file_path, data):
+def write_json(json_file_path, data: dict) -> None:
     """Function to write to a JSON file"""
     with open(json_file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
-def combine_json_files(output_file_path, *json_file_paths):
+def combine_json_files(output_file_path, *json_file_paths) -> None:
     """Function to combine multiple JSON files into one"""
     combined_data = []
 
@@ -23,7 +23,7 @@ def combine_json_files(output_file_path, *json_file_paths):
 
     write_json(output_file_path, combined_data)
 
-def remove_duplicates(input_dict):
+def remove_duplicates(input_dict: dict) -> list:
     """Function to remove duplicates from a dictionary list"""
     unique_entries = []
     seen_ids = set()
@@ -36,7 +36,7 @@ def remove_duplicates(input_dict):
 
     return unique_entries
 
-def keep_journal(input_dict):
+def keep_journal(input_dict: dict) -> list:
     """Function to only retain journal articles in a dictionary list"""
     journal = []
     for entry in input_dict:
@@ -45,7 +45,7 @@ def keep_journal(input_dict):
 
     return journal
 
-def remove_no_abstract(input_dict):
+def remove_no_abstract(input_dict: dict) -> list:
     """Function to remove papers with no abstract from a dictionary list"""
     with_abstract = []
     for entry in input_dict:
@@ -54,7 +54,7 @@ def remove_no_abstract(input_dict):
 
     return with_abstract
 
-def keep_select_publishers(input_dict, publishers: list):
+def keep_select_publishers(input_dict: dict, publishers: list) -> list:
     """Function to only retain papers from select publishers in a dictionary list"""
     selected_list = []
     for entry in input_dict:
@@ -64,7 +64,7 @@ def keep_select_publishers(input_dict, publishers: list):
 
     return selected_list
 
-def keep_relevant(input_dict, label: str):
+def keep_relevant(input_dict: dict, label: str) -> list:
     """Function to only retain relevant papers in a labelled dictionary list"""
     relevant_list = []
     for entry in input_dict:
@@ -72,3 +72,31 @@ def keep_relevant(input_dict, label: str):
             relevant_list.append(entry)
 
     return relevant_list
+
+# TODO: Extract sections from the full text
+# TODO: Check length of sections, if too long, split into smaller sections
+
+def extract_content(json_data: dict, key: str) -> str:
+    """Extracts content from the JSON data"""
+    content = ""
+    for j in json_data:
+        if j in ("Sections", "content"):
+            for l in json_data[j]:
+                if key in l["name"]:
+                    content += recursive_extract(l["content"])
+                    content += "\n"
+                elif isinstance(l["content"][0], dict):
+                    content += extract_content(l, key)
+    return content
+
+def recursive_extract(json_data: dict) -> str:
+    """Extracts content from the JSON data"""
+    content = ""
+    for j in json_data:
+        if isinstance(j, dict):
+            content += recursive_extract(j["content"])
+        elif isinstance(j, str):
+            content += j
+            content += "\n"
+
+    return content

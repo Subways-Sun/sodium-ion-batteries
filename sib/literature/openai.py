@@ -63,7 +63,7 @@ def extract(openai_model, user_message):
                                 },
                                 "material_name": {"type": "string"},
                                 "material_formula": {"type": "string"},
-                                "capacity": {
+                                "capacity": { # TODO: Capacity and current density array
                                     "type": "object",
                                     "properties": {
                                         "value": {"type": "number"},
@@ -103,7 +103,7 @@ def extract(openai_model, user_message):
         messages = [
             {
                 "role": "system",
-                "content": "You are an expert at structured data extraction. You will be given unstructured text from a research paper and should convert it into the given structure. The paper should focus on electrode or electrolyte materials of sodium ion batteries. Your task is to extract the material information from the given text. The material information includes the material type (cathode, anode, or electrolyte), material name, material formula, capacity (with unit), and cycle life (with unit). Extract these information for each material mentioned in the paper. You should only look at materials used for sodium ion batteries, not for any other type of battery or material. For any information that the paper doesn't mention or if you are not sure, you should assume it to be unknown (for string type) or 0 (for number type)."
+                "content": "You will be given unstructured text from a research paper and should convert it into the given structure. The paper should focus on electrode or electrolyte materials of sodium ion batteries. Your task is to extract the material information from the given text. The material information includes the material type (cathode, anode, or electrolyte), material name, material formula, capacity (with unit), and cycle life (with unit). Extract these information for each material mentioned in the paper. You should only look at materials used for sodium ion batteries, not for any other type of battery or material. For any information that the paper doesn't mention or if you are not sure, you should assume it to be null."
             },
             {
                 "role": "user",
