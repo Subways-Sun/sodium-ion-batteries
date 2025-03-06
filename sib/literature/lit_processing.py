@@ -73,7 +73,6 @@ def keep_relevant(input_dict: dict, label: str) -> list:
 
     return relevant_list
 
-# TODO: Extract sections from the full text
 # TODO: Check length of sections, if too long, split into smaller sections
 
 def extract_content(json_data: dict, key: str) -> str:
