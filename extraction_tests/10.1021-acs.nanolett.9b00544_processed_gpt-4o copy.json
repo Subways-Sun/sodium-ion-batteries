@@ -1,0 +1,69 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "C@SnO2@C composite",
+            "material_formula": "SnO2",
+            "capacity": {
+                "value": 370,
+                "unit": "mAh/g"
+            },
+            "cycle_life": {
+                "value": 0,
+                "unit": "cycles"
+            }
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2O",
+            "material_formula": "Na2O",
+            "capacity": {
+                "value": 0.099,
+                "unit": "mAh/m²"
+            },
+            "cycle_life": {
+                "value": 0,
+                "unit": "cycles"
+            }
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NG/N interface",
+            "material_formula": "Unknown",
+            "capacity": {
+                "value": 0,
+                "unit": "mAh/g"
+            },
+            "cycle_life": {
+                "value": 0,
+                "unit": "cycles"
+            }
+        },
+        {
+            "material_type": "anode",
+            "material_name": "OG/N interface",
+            "material_formula": "Unknown",
+            "capacity": {
+                "value": 0,
+                "unit": "mAh/g"
+            },
+            "cycle_life": {
+                "value": 0,
+                "unit": "cycles"
+            }
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SG/N interface",
+            "material_formula": "Unknown",
+            "capacity": {
+                "value": 0,
+                "unit": "mAh/g"
+            },
+            "cycle_life": {
+                "value": 0,
+                "unit": "cycles"
+            }
+        }
+    ]
+}

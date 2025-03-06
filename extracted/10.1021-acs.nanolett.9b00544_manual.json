@@ -2,26 +2,34 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "graphene/Na2O interface",
-            "material_formula": "G/N",
-            "capacity": [
+            "material_name": "C@SnO2@C composite",
+            "material_formula": "SnO2",
+            "starting_material": [
                 {
-                    "capacity_value": 0.099,
-                    "capacity_unit": "mAh/m2",
-                    "current_density_value": 0,
-                    "current_density_unit": ""
+                    "material_name": "NaCl",
+                    "material_formula": "NaCl",
+                    "amount": {
+                        "value": 15,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "SnCl4",
+                    "material_formula": "SnCl4",
+                    "amount": {
+                        "value": 0.79,
+                        "unit": "g"
+                    }
                 }
             ],
-            "cycle_life": {
-                "value": 0,
-                "unit": ""
-            },
-            "starting_material": []
-        },
-        {
-            "material_type": "anode",
-            "material_name": "C@SnO2@C composite",
-            "material_formula": "C@SnO2@C",
             "capacity": [
                 {
                     "capacity_value": 370,
@@ -68,34 +76,21 @@
             ],
             "cycle_life": {
                 "value": 0,
-                "unit": ""
+                "unit": "cycles"
+            }
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2O",
+            "material_formula": "Na2O",
+            "capacity": {
+                "value": 0.099,
+                "unit": "mAh/m²"
             },
-            "starting_material": [
-                {
-                    "material_name": "NaCl",
-                    "material_formula": "NaCl",
-                    "amount": {
-                        "value": 15,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "material_name": "citric acid",
-                    "material_formula": "C6H8O7",
-                    "amount": {
-                        "value": 2.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "material_name": "SnCl4",
-                    "material_formula": "SnCl4",
-                    "amount": {
-                        "value": 0.79,
-                        "unit": "g"
-                    }
-                }
-            ]
+            "cycle_life": {
+                "value": 0,
+                "unit": "cycles"
+            }
         }
     ]
 }
