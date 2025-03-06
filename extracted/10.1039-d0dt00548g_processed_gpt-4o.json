@@ -1,0 +1,89 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NaTi2(PO4)3 with carbon",
+            "material_formula": "NaTi2(PO4)3",
+            "capacity": [
+                {
+                    "capacity_value": 357.4,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 286.3,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 225.2,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 88.5,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 6,
+                    "current_density_unit": "A g−1"
+                }
+            ],
+            "cycle_life": {
+                "value": 3000,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "sulfonated polymer nanotubes",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 70,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "tetrabutyltitanate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.7,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0.159,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "P2O5",
+                    "material_formula": "P2O5",
+                    "amount": {
+                        "value": 0.596,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 8,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

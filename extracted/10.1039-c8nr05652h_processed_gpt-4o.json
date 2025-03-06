@@ -1,0 +1,91 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Co3S4@NC",
+            "material_formula": "Co3S4@NC",
+            "capacity": [
+                {
+                    "capacity_value": 491.2,
+                    "capacity_unit": "mA h g-1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1"
+                },
+                {
+                    "capacity_value": 442.2,
+                    "capacity_unit": "mA h g-1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g-1"
+                },
+                {
+                    "capacity_value": 386.7,
+                    "capacity_unit": "mA h g-1",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g-1"
+                },
+                {
+                    "capacity_value": 324.7,
+                    "capacity_unit": "mA h g-1",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g-1"
+                },
+                {
+                    "capacity_value": 284.0,
+                    "capacity_unit": "mA h g-1",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g-1"
+                },
+                {
+                    "capacity_value": 191.8,
+                    "capacity_unit": "mA h g-1",
+                    "current_density_value": 1.2,
+                    "current_density_unit": "A g-1"
+                },
+                {
+                    "capacity_value": 151.2,
+                    "capacity_unit": "mA h g-1",
+                    "current_density_value": 1.4,
+                    "current_density_unit": "A g-1"
+                }
+            ],
+            "cycle_life": {
+                "value": 100,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Co@NC",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "thioacetamide",
+                    "material_formula": "TAA",
+                    "amount": {
+                        "value": 0.34,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "DI water",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "ethylene glycol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

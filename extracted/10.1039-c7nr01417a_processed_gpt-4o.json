@@ -1,0 +1,83 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Mn-TiO2/MWCNTs",
+            "material_formula": "Mn-TiO2/MWCNTs",
+            "capacity": [
+                {
+                    "capacity_value": 152.1,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 116.1,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 1,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 24.3,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 20,
+                    "current_density_unit": "C"
+                }
+            ],
+            "cycle_life": {
+                "value": 80,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Titanium(IV) isopropoxide",
+                    "material_formula": "Ti(OCH(CH3)2)4",
+                    "amount": {
+                        "value": 93,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Triton X-100",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "MWCNTs",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Hydrochloric Acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Manganese acetate tetrahydrate",
+                    "material_formula": "Mn(OAc)2·4H2O",
+                    "amount": {
+                        "value": 7,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Sodium Hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 12,
+                        "unit": "pH"
+                    }
+                }
+            ]
+        }
+    ]
+}

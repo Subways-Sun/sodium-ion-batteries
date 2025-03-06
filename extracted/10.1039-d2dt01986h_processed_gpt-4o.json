@@ -1,0 +1,200 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "1T-MoS2-Sb",
+            "material_formula": "1T-MoS2-Sb",
+            "capacity": [
+                {
+                    "capacity_value": 523,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 459,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 347,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 183,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g−1"
+                }
+            ],
+            "cycle_life": {
+                "value": 2200,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "chitosan",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "phosphomolybdic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 110,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "SbCl3",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 11,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "2H-MoS2-1",
+            "material_formula": "2H-MoS2",
+            "capacity": [
+                {
+                    "capacity_value": 438,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 229,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1"
+                }
+            ],
+            "cycle_life": {
+                "value": 1000,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "chitosan",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "phosphotungstic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 110,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "2H-MoS2-2",
+            "material_formula": "2H-MoS2",
+            "capacity": [
+                {
+                    "capacity_value": 395,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1"
+                }
+            ],
+            "cycle_life": {
+                "value": 1000,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Chitosan",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Phosphotungstic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 250,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "bulk MoS2",
+            "material_formula": "MoS2",
+            "capacity": [
+                {
+                    "capacity_value": 322,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1"
+                },
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mA h g−1",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g−1"
+                }
+            ],
+            "cycle_life": {
+                "value": 2200,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "phosphomolybdic acid",
+                    "material_formula": "PMA",
+                    "amount": {
+                        "value": 110,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "sulfur powder",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 220,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

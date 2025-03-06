@@ -1,0 +1,139 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM",
+            "material_formula": ".",
+            "capacity": [
+                {
+                    "capacity_value": 149.7,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C"
+                }
+            ],
+            "cycle_life": {
+                "value": 100,
+                "unit": "cycles"
+            },
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "capacity": [],
+            "cycle_life": {
+                "value": 1700,
+                "unit": "cycles"
+            },
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6 G4-based electrolyte (PG)",
+            "material_formula": "NaPF6",
+            "capacity": [
+                {
+                    "capacity_value": 58.9,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C"
+                }
+            ],
+            "cycle_life": {
+                "value": 100,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tetraethylene glycol dimethyl ether",
+                    "material_formula": "G4",
+                    "amount": {
+                        "value": 227,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaBF4 (BG)",
+            "material_formula": "NaBF4",
+            "capacity": [
+                {
+                    "capacity_value": 83.0,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C"
+                }
+            ],
+            "cycle_life": {
+                "value": 100,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Sodium tetrafluoroborate",
+                    "material_formula": "NaBF4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tetraethylene glycol dimethyl ether",
+                    "material_formula": "G4",
+                    "amount": {
+                        "value": 227,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6:NaBF4 (PB91)",
+            "material_formula": "NaPF6:NaBF4",
+            "capacity": [],
+            "cycle_life": {
+                "value": 1700,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 0.9,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Sodium tetrafluoroborate",
+                    "material_formula": "NaBF4",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tetraethylene glycol dimethyl ether",
+                    "material_formula": "G4",
+                    "amount": {
+                        "value": 227,
+                        "unit": "molecular_units"
+                    }
+                }
+            ]
+        }
+    ]
+}

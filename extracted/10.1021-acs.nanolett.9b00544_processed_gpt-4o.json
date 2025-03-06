@@ -2,26 +2,8 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "graphene/Na2O interface",
-            "material_formula": "G/N",
-            "capacity": [
-                {
-                    "capacity_value": 0.099,
-                    "capacity_unit": "mAh/m2",
-                    "current_density_value": 0,
-                    "current_density_unit": ""
-                }
-            ],
-            "cycle_life": {
-                "value": 0,
-                "unit": ""
-            },
-            "starting_material": []
-        },
-        {
-            "material_type": "anode",
             "material_name": "C@SnO2@C composite",
-            "material_formula": "C@SnO2@C",
+            "material_formula": "",
             "capacity": [
                 {
                     "capacity_value": 370,
@@ -96,6 +78,17 @@
                     }
                 }
             ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "S-doped graphene/Na2O",
+            "material_formula": "",
+            "capacity": [],
+            "cycle_life": {
+                "value": 0,
+                "unit": ""
+            },
+            "starting_material": []
         }
     ]
 }

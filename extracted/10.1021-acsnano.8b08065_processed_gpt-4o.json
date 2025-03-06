@@ -1,0 +1,109 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SbPO4/rGO",
+            "material_formula": "SbPO4",
+            "capacity": [
+                {
+                    "capacity_value": 766,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 306,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 280,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 100,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 323,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 301,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 278,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 262,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 127,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A g–1"
+                }
+            ],
+            "cycle_life": {
+                "value": 1000,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ethylene glycol",
+                    "material_formula": "C2H6O2",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Antimony trichloride",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 228,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 345,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

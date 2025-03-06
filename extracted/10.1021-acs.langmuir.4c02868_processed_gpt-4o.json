@@ -13,32 +13,32 @@
                 }
             ],
             "cycle_life": {
-                "value": 315,
-                "unit": "mA h g–1 for 100 cycles at 30 mA g–1"
+                "value": 100,
+                "unit": "cycles"
             },
             "starting_material": [
                 {
                     "material_name": "Coconut shells",
-                    "material_formula": "Coconut HC",
+                    "material_formula": "",
                     "amount": {
-                        "value": 1,
-                        "unit": "arbitrary unit"
+                        "value": 0,
+                        "unit": "kg"
                     }
                 },
                 {
                     "material_name": "Nitrogen gas",
                     "material_formula": "N2",
                     "amount": {
-                        "value": 1,
-                        "unit": "atmosphere"
+                        "value": 0,
+                        "unit": "L"
                     }
                 },
                 {
-                    "material_name": "Urea",
-                    "material_formula": "(NH2)2CO",
+                    "material_name": "Argon gas",
+                    "material_formula": "Ar",
                     "amount": {
-                        "value": 1,
-                        "unit": ":1 to 1:3 weight ratio"
+                        "value": 0,
+                        "unit": "L"
                     }
                 }
             ]
@@ -56,24 +56,24 @@
                 }
             ],
             "cycle_life": {
-                "value": 296,
-                "unit": "mA h g–1 after 100 cycles at 30 mA g–1"
+                "value": 100,
+                "unit": "cycles"
             },
             "starting_material": [
                 {
-                    "material_name": "C-HC (from coconut shells)",
-                    "material_formula": "C-HC",
+                    "material_name": "Coconut shells",
+                    "material_formula": "",
                     "amount": {
-                        "value": 1,
-                        "unit": "weight ratio"
+                        "value": 0,
+                        "unit": "n/a"
                     }
                 },
                 {
                     "material_name": "Urea",
-                    "material_formula": "CO(NH2)2",
+                    "material_formula": "CH4N2O",
                     "amount": {
-                        "value": 1,
-                        "unit": "weight ratio"
+                        "value": 0,
+                        "unit": "n/a"
                     }
                 }
             ]
@@ -88,24 +88,60 @@
                     "capacity_unit": "mA h g–1",
                     "current_density_value": 30,
                     "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 307,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 60,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 222,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 900,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 178,
+                    "capacity_unit": "mA h g–1",
+                    "current_density_value": 1500,
+                    "current_density_unit": "mA g–1"
                 }
             ],
             "cycle_life": {
-                "value": 315,
-                "unit": "mA h g–1 after 100 cycles at 30 mA g–1"
+                "value": 300,
+                "unit": "cycles"
             },
             "starting_material": [
                 {
-                    "material_name": "C-HC",
-                    "material_formula": "C-HC",
+                    "material_name": "C-HC (from coconut shells)",
+                    "material_formula": "",
                     "amount": {
                         "value": 1,
                         "unit": "weight ratio"
                     }
                 },
                 {
-                    "material_name": "Urea",
-                    "material_formula": "CO(NH2)2",
+                    "material_name": "urea",
+                    "material_formula": "",
                     "amount": {
                         "value": 1,
                         "unit": "weight ratio"
@@ -126,24 +162,40 @@
                 }
             ],
             "cycle_life": {
-                "value": 376,
-                "unit": "mA h g–1 for 100 cycles at 30 mA g–1"
+                "value": 100,
+                "unit": "cycles"
             },
             "starting_material": [
                 {
-                    "material_name": "C-HC (coconut shell derived carbon)",
-                    "material_formula": ".",
+                    "material_name": "C-HC",
+                    "material_formula": "C-HC",
                     "amount": {
                         "value": 1,
-                        "unit": "weight ratio (reference)"
+                        "unit": "part"
                     }
                 },
                 {
-                    "material_name": "Urea",
+                    "material_name": "urea",
                     "material_formula": "CO(NH2)2",
                     "amount": {
                         "value": 1,
-                        "unit": "weight ratio (1:1, 1:2, and 1:3)"
+                        "unit": "part"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 2,
+                        "unit": "parts"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 3,
+                        "unit": "parts"
                     }
                 }
             ]
