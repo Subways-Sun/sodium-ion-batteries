@@ -2,29 +2,45 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "MoS2",
+            "material_name": "Pristine MoS2",
             "material_formula": "MoS2",
-            "capacity": [
+            "material_properties": [
                 {
                     "capacity_value": 174,
-                    "capacity_unit": "mA h g−1",
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
                     "current_density_value": 1,
-                    "current_density_unit": "A g−1"
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 29,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 500
                 },
                 {
                     "capacity_value": 262,
-                    "capacity_unit": "mA h g−1",
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
                     "current_density_value": 0.2,
-                    "current_density_unit": "A g−1"
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 17,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
                 }
             ],
-            "cycle_life": {
-                "value": 500,
-                "unit": "cycles"
-            },
             "starting_material": [
                 {
-                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_name": "(NH4)6Mo7O24·4H2O",
                     "material_formula": "(NH4)6Mo7O24·4H2O",
                     "amount": {
                         "value": 1.366,
@@ -32,7 +48,7 @@
                     }
                 },
                 {
-                    "material_name": "Thiourea",
+                    "material_name": "CS(NH2)2",
                     "material_formula": "CS(NH2)2",
                     "amount": {
                         "value": 2.534,
@@ -40,7 +56,7 @@
                     }
                 },
                 {
-                    "material_name": "Hydrochloric acid",
+                    "material_name": "HCl",
                     "material_formula": "HCl",
                     "amount": {
                         "value": 100,
@@ -53,24 +69,40 @@
             "material_type": "anode",
             "material_name": "M-MoS2",
             "material_formula": "M-MoS2",
-            "capacity": [
+            "material_properties": [
                 {
                     "capacity_value": 129,
-                    "capacity_unit": "mA h g−1",
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
                     "current_density_value": 1,
-                    "current_density_unit": "A g−1"
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 64,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 5000
                 },
                 {
                     "capacity_value": 159,
-                    "capacity_unit": "mA h g−1",
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
                     "current_density_value": 0.2,
-                    "current_density_unit": "A g−1"
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 69,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
                 }
             ],
-            "cycle_life": {
-                "value": 5000,
-                "unit": "cycles"
-            },
             "starting_material": [
                 {
                     "material_name": "MoS2",

@@ -4,18 +4,16 @@
             "material_type": "anode",
             "material_name": "Carbon Nanofibers",
             "material_formula": "CNF",
-            "capacity": [
+            "material_properties": [
                 {
-                    "capacity_value": 150,
+                    "capacity_value": 0.0,
                     "capacity_unit": "mAh/g",
-                    "current_density_value": 100,
-                    "current_density_unit": "mA/g"
+                    "capacity_type": "N/A",
+                    "current_density_value": 0.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 }
             ],
-            "cycle_life": {
-                "value": 200,
-                "unit": "cycles"
-            },
             "starting_material": [
                 {
                     "material_name": "Melamine",

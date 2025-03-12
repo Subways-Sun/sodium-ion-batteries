@@ -1,9 +1,67 @@
 {
     "material": [
         {
-            "material_type": "anode",
+            "material_type": "cathode",
             "material_name": "C@SnO2@C composite",
-            "material_formula": "SnO2",
+            "material_formula": "C@SnO2@C",
+            "material_properties": [
+                {
+                    "capacity_value": 370,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 338,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 237,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "",
+                    "current_density_value": 1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 193,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "",
+                    "current_density_value": 2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 146,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "",
+                    "current_density_value": 10,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                }
+            ],
             "starting_material": [
                 {
                     "material_name": "NaCl",
@@ -29,68 +87,21 @@
                         "unit": "g"
                     }
                 }
-            ],
-            "capacity": [
-                {
-                    "capacity_value": 370,
-                    "capacity_unit": "mAh/g",
-                    "current_density_value": 0.1,
-                    "current_density_unit": "A/g"
-                },
-                {
-                    "capacity_value": 338,
-                    "capacity_unit": "mAh/g",
-                    "current_density_value": 0.2,
-                    "current_density_unit": "A/g"
-                },
-                {
-                    "capacity_value": 289,
-                    "capacity_unit": "mAh/g",
-                    "current_density_value": 0.5,
-                    "current_density_unit": "A/g"
-                },
-                {
-                    "capacity_value": 237,
-                    "capacity_unit": "mAh/g",
-                    "current_density_value": 1,
-                    "current_density_unit": "A/g"
-                },
-                {
-                    "capacity_value": 193,
-                    "capacity_unit": "mAh/g",
-                    "current_density_value": 2,
-                    "current_density_unit": "A/g"
-                },
-                {
-                    "capacity_value": 146,
-                    "capacity_unit": "mAh/g",
-                    "current_density_value": 5,
-                    "current_density_unit": "A/g"
-                },
-                {
-                    "capacity_value": 105,
-                    "capacity_unit": "mAh/g",
-                    "current_density_value": 10,
-                    "current_density_unit": "A/g"
-                }
-            ],
-            "cycle_life": {
-                "value": 0,
-                "unit": "cycles"
-            }
+            ]
         },
         {
-            "material_type": "cathode",
-            "material_name": "Na2O",
-            "material_formula": "Na2O",
-            "capacity": {
-                "value": 0.099,
-                "unit": "mAh/m²"
-            },
-            "cycle_life": {
-                "value": 0,
-                "unit": "cycles"
-            }
+            "material_type": "anode",
+            "material_name": "S-doped Graphene/Na2O interface",
+            "material_formula": "SG/Na2O",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "OG/N interface",
+            "material_formula": "OG/Na2O",
+            "material_properties": [],
+            "starting_material": []
         }
     ]
 }

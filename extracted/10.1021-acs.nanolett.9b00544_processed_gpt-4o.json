@@ -2,56 +2,82 @@
     "material": [
         {
             "material_type": "anode",
+            "material_name": "Graphene/Na2O interface",
+            "material_formula": "G/Na2O",
+            "material_properties": [
+                {
+                    "capacity_value": 0.099,
+                    "capacity_unit": "mAh/m2",
+                    "capacity_type": "N/A",
+                    "current_density_value": 0,
+                    "current_density_unit": "N/A",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
             "material_name": "C@SnO2@C composite",
-            "material_formula": "",
-            "capacity": [
+            "material_formula": "C@SnO2@C",
+            "material_properties": [
                 {
                     "capacity_value": 370,
                     "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
                     "current_density_value": 0.1,
-                    "current_density_unit": "A/g"
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 338,
                     "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
                     "current_density_value": 0.2,
-                    "current_density_unit": "A/g"
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 289,
                     "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
                     "current_density_value": 0.5,
-                    "current_density_unit": "A/g"
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 237,
                     "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
                     "current_density_value": 1,
-                    "current_density_unit": "A/g"
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 193,
                     "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
                     "current_density_value": 2,
-                    "current_density_unit": "A/g"
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 146,
                     "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
                     "current_density_value": 5,
-                    "current_density_unit": "A/g"
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 105,
                     "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
                     "current_density_value": 10,
-                    "current_density_unit": "A/g"
+                    "current_density_unit": "A/g",
+                    "cycle": 0
                 }
             ],
-            "cycle_life": {
-                "value": 0,
-                "unit": ""
-            },
             "starting_material": [
                 {
                     "material_name": "NaCl",
@@ -81,13 +107,16 @@
         },
         {
             "material_type": "anode",
-            "material_name": "S-doped graphene/Na2O",
-            "material_formula": "",
-            "capacity": [],
-            "cycle_life": {
-                "value": 0,
-                "unit": ""
-            },
+            "material_name": "S-doped Graphene/Na2O interface",
+            "material_formula": "SG/Na2O",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "OG/N interface",
+            "material_formula": "OG/Na2O",
+            "material_properties": [],
             "starting_material": []
         }
     ]

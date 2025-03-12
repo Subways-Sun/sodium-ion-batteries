@@ -2,51 +2,74 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "h-M-SSG/Na composite",
-            "material_formula": "/",
-            "capacity": [
+            "material_name": "h-M-SSG/Na",
+            "material_formula": "null",
+            "material_properties": [
                 {
-                    "capacity_value": 10,
+                    "capacity_value": 1.0,
                     "capacity_unit": "mAh cm−2",
-                    "current_density_value": 10,
-                    "current_density_unit": "mA cm−2"
+                    "capacity_type": "N/A",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
                 },
                 {
                     "capacity_value": 40,
                     "capacity_unit": "mAh cm−2",
+                    "capacity_type": "N/A",
                     "current_density_value": 40,
-                    "current_density_unit": "mA cm−2"
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 180
                 }
             ],
-            "cycle_life": {
-                "value": 180,
-                "unit": "hour"
-            },
-            "starting_material": []
+            "starting_material": [
+                {
+                    "material_name": "1.0‐h‐Ti3C2/CNTs solution",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "0.3‐h‐Ti3C2/CNTs solution",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "CNTs solution",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                }
+            ]
         },
         {
             "material_type": "anode",
-            "material_name": "h-Ti3C2/CNTs/Na composite",
-            "material_formula": "/",
-            "capacity": [
+            "material_name": "h-Ti3C2/CNTs/Na",
+            "material_formula": "null",
+            "material_properties": [
                 {
                     "capacity_value": 10,
                     "capacity_unit": "mAh cm−2",
+                    "capacity_type": "N/A",
                     "current_density_value": 10,
-                    "current_density_unit": "mA cm−2"
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 9
                 }
             ],
-            "cycle_life": {
-                "value": 100,
-                "unit": "hour"
-            },
             "starting_material": [
                 {
-                    "material_name": "Carbon Nanotubes (CNTs)",
+                    "material_name": "Multi-walled Carbon Nanotubes",
                     "material_formula": "CNTs",
                     "amount": {
-                        "value": 2.0,
-                        "unit": "mg L⁻¹"
+                        "value": 0.002,
+                        "unit": "mg/mL"
                     }
                 }
             ]

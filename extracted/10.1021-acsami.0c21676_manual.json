@@ -20,6 +20,49 @@
                     "current_density_value": 1.0,
                     "current_density_unit": "A g–1",
                     "cycle": 450
+                },
+                {
+                    "capacity_value": 283.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 380
+                },
+                {
+                    "capacity_value": 525.16,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 408.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 364,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 321,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1"
+                },
+                {
+                    "capacity_value": 291,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1"
                 }
             ],
             "starting_material": [
@@ -86,55 +129,6 @@
                     "amount": {
                         "value": 0.456,
                         "unit": "g"
-                    }
-                }
-            ]
-        },
-        {
-            "material_type": "anode",
-            "material_name": "SbVO4/G composite",
-            "material_formula": "SbVO4/G",
-            "material_properties": [
-                {
-                    "capacity_value": 525.16,
-                    "capacity_unit": "mAh g–1",
-                    "capacity_type": "reversible",
-                    "current_density_value": 0.1,
-                    "current_density_unit": "A g–1",
-                    "cycle": 30
-                },
-                {
-                    "capacity_value": 283.9,
-                    "capacity_unit": "mAh g–1",
-                    "capacity_type": "discharge",
-                    "current_density_value": 1.0,
-                    "current_density_unit": "A g–1",
-                    "cycle": 380
-                }
-            ],
-            "starting_material": [
-                {
-                    "material_name": "NH4VO3",
-                    "material_formula": "H4NO3V",
-                    "amount": {
-                        "value": 0.234,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "material_name": "SbCl3",
-                    "material_formula": "Cl3Sb",
-                    "amount": {
-                        "value": 0.456,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "material_name": "graphene suspension",
-                    "material_formula": "",
-                    "amount": {
-                        "value": 10,
-                        "unit": "mL"
                     }
                 }
             ]

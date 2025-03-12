@@ -54,14 +54,6 @@
                         "value": 1,
                         "unit": "M"
                     }
-                },
-                {
-                    "material_name": "Tetraethylene glycol dimethyl ether",
-                    "material_formula": "G4",
-                    "amount": {
-                        "value": 227,
-                        "unit": "molecules"
-                    }
                 }
             ]
         },
@@ -79,7 +71,16 @@
                     "cycle": 100
                 }
             ],
-            "starting_material": []
+            "starting_material": [
+                {
+                    "material_name": "Sodium tetrafluoroborate",
+                    "material_formula": "NaBF4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                }
+            ]
         },
         {
             "material_type": "cathode",

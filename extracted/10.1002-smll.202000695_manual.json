@@ -2,56 +2,75 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "Hollow Beaded WS2@CNFs",
-            "material_formula": "HB WS2@CNFs",
-            "capacity": [
+            "material_name": "HB WS2@CNFs",
+            "material_formula": "WS2@CNFs",
+            "material_properties": [
+                {
+                    "capacity_value": 492.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 660.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
                 {
                     "capacity_value": 713,
                     "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.02,
                     "current_density_unit": "A g−1"
                 },
                 {
                     "capacity_value": 582,
                     "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.05,
                     "current_density_unit": "A g−1"
                 },
                 {
                     "capacity_value": 485,
                     "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.1,
                     "current_density_unit": "A g−1"
                 },
                 {
                     "capacity_value": 415,
                     "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.2,
                     "current_density_unit": "A g−1"
                 },
                 {
                     "capacity_value": 354,
                     "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.5,
                     "current_density_unit": "A g−1"
                 },
                 {
                     "capacity_value": 267,
                     "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
                     "current_density_value": 1,
                     "current_density_unit": "A g−1"
                 },
                 {
                     "capacity_value": 188,
                     "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
                     "current_density_value": 2,
                     "current_density_unit": "A g−1"
                 }
             ],
-            "cycle_life": {
-                "value": 300,
-                "unit": "cycles"
-            },
             "starting_material": [
                 {
                     "material_name": "Na2WO4·2H2O",

@@ -2,41 +2,102 @@
     "material": [
         {
             "material_type": "cathode",
-            "material_name": "SiO44−-substituted Na3V2(PO4)3 (NVP-Si)",
+            "material_name": "Silicon-substituted sodium vanadium phosphate",
             "material_formula": "Na3V2(PO4)2.9(SiO4)0.1",
-            "capacity": [
+            "material_properties": [
                 {
                     "capacity_value": 115.8,
                     "capacity_unit": "mA h g−1",
+                    "capacity_type": "N/A",
                     "current_density_value": 0.5,
-                    "current_density_unit": "C"
+                    "current_density_unit": "C",
+                    "cycle": 150
                 },
                 {
                     "capacity_value": 90.7,
                     "capacity_unit": "mA h g−1",
+                    "capacity_type": "N/A",
                     "current_density_value": 10,
-                    "current_density_unit": "C"
+                    "current_density_unit": "C",
+                    "cycle": 2000
                 },
                 {
                     "capacity_value": 83.6,
                     "capacity_unit": "mA h g−1",
+                    "capacity_type": "N/A",
                     "current_density_value": 20,
-                    "current_density_unit": "C"
+                    "current_density_unit": "C",
+                    "cycle": 2000
                 },
                 {
                     "capacity_value": 74.6,
                     "capacity_unit": "mA h g−1",
+                    "capacity_type": "N/A",
                     "current_density_value": 40,
-                    "current_density_unit": "C"
+                    "current_density_unit": "C",
+                    "cycle": 2000
                 }
             ],
-            "cycle_life": {
-                "value": 2000,
-                "unit": "cycles"
-            },
             "starting_material": [
                 {
-                    "material_name": "ammonium metavanadate",
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 468.0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Oxalic acid",
+                    "material_formula": "C2H2O4",
+                    "amount": {
+                        "value": 756.4,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 296.8,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sodium metasilicate",
+                    "material_formula": "Na2SiO3",
+                    "amount": {
+                        "value": 56.8,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 667.2,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Pristine sodium vanadium phosphate",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 109.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "N/A",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NH4VO3",
                     "material_formula": "NH4VO3",
                     "amount": {
                         "value": 468.0,
@@ -52,7 +113,7 @@
                     }
                 },
                 {
-                    "material_name": "sodium carbonate",
+                    "material_name": "Na2CO3",
                     "material_formula": "Na2CO3",
                     "amount": {
                         "value": 296.8,
@@ -60,7 +121,7 @@
                     }
                 },
                 {
-                    "material_name": "sodium metasilicate",
+                    "material_name": "Na2SiO3",
                     "material_formula": "Na2SiO3",
                     "amount": {
                         "value": 56.8,
@@ -68,7 +129,7 @@
                     }
                 },
                 {
-                    "material_name": "ammonium dihydrogen phosphate",
+                    "material_name": "NH4H2PO4",
                     "material_formula": "NH4H2PO4",
                     "amount": {
                         "value": 667.2,

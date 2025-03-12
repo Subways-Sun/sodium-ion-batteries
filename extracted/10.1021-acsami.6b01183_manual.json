@@ -1,0 +1,203 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "black TiO2",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 444.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 33.6,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 178.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 33.6,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 205.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 33.6,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 15
+                },
+                {
+                    "capacity_value": 205.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 33.6,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 207.6,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 199.1,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 188.9,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 1,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 170.5,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 2,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 140.4,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 5,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 115.0,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 10,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 101.8,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 15,
+                    "current_density_unit": "C"
+                },
+                {
+                    "capacity_value": 91.2,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 20,
+                    "current_density_unit": "C"
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tetrabutyl Titanate",
+                    "material_formula": "TBOT",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Acetic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Oxalic acid",
+                    "material_formula": "OA",
+                    "amount": {
+                        "value": 2.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NaBH4",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "white TiO2",
+            "material_formula": "W-TO",
+            "capacity": [
+                {
+                    "capacity_value": 262.4,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 33.6,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 184.4,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 33.6,
+                    "current_density_unit": "mA g–1"
+                },
+                {
+                    "capacity_value": 189.6,
+                    "capacity_unit": "mAh g–1",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C"
+                }
+            ],
+            "cycle_life": {
+                "value": 500,
+                "unit": "cycles"
+            },
+            "starting_material": [
+                {
+                    "material_name": "Tetrabutyl titanate (TBOT)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Acetic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Oxalic acid (OA)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 2.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Water–ethanol solution (2:1 in volume)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 60,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

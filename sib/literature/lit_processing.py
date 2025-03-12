@@ -73,8 +73,6 @@ def keep_relevant(input_dict: dict, label: str) -> list:
 
     return relevant_list
 
-# TODO: Check length of sections, if too long, split into smaller sections
-
 def extract_content(json_data: dict, key: str) -> str:
     """Extracts content from the JSON data"""
     content = ""
@@ -82,18 +80,18 @@ def extract_content(json_data: dict, key: str) -> str:
         if j in ("Sections", "content"):
             for l in json_data[j]:
                 if key in l["name"]:
-                    content += recursive_extract(l["content"])
+                    content += recursive_extract(l["content"], l["name"])
                     content += "\n"
                 elif isinstance(l["content"][0], dict):
                     content += extract_content(l, key)
     return content
 
-def recursive_extract(json_data: dict) -> str:
+def recursive_extract(json_data: dict, header: str) -> str:
     """Extracts content from the JSON data"""
-    content = ""
+    content = "\n" + header + "\n"
     for j in json_data:
         if isinstance(j, dict):
-            content += recursive_extract(j["content"])
+            content += recursive_extract(j["content"], j["name"])
         elif isinstance(j, str):
             content += j
             content += "\n"
