@@ -1,0 +1,93 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "C@SnO2@C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 370,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 338,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 237,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 193,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 146,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 10,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NaCl",
+                    "material_formula": "NaCl",
+                    "amount": {
+                        "value": 15,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "SnCl4",
+                    "material_formula": "SnCl4",
+                    "amount": {
+                        "value": 0.79,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

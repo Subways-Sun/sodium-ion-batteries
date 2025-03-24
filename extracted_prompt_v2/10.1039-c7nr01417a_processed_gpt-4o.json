@@ -1,0 +1,190 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "TiO2",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 143.2,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 107.0,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 58.7,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Titanium(IV) isopropoxide",
+                    "material_formula": "TTIP",
+                    "amount": {
+                        "value": 97,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "2-propanol",
+                    "material_formula": "C3H8O",
+                    "amount": {
+                        "value": 80,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Triton X-100",
+                    "material_formula": ".",
+                    "amount": {
+                        "value": 1,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 12,
+                        "unit": "pH"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "5% Mn-TiO2/MWCNT",
+            "material_formula": ".05 Mn-TiO2/MWCNT",
+            "material_properties": [
+                {
+                    "capacity_value": 152.1,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 121.4,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 117.2,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 152.1,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 116.1,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 97.2,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 86.0,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 75.8,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 59.6,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 15,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 40.0,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Titanium(IV) isopropoxide",
+                    "material_formula": "TTIP",
+                    "amount": {
+                        "value": 95,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "MWCNTs",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Mn(OAc)2·4H2O",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

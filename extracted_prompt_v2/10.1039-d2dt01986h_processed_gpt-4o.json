@@ -1,0 +1,172 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "1T-MoS2-Sb",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 493,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 523,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 90
+                },
+                {
+                    "capacity_value": 459,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 90
+                },
+                {
+                    "capacity_value": 347,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 90
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 90
+                },
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 90
+                },
+                {
+                    "capacity_value": 183,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 90
+                },
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2200
+                },
+                {
+                    "capacity_value": 242,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 324,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 256,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 221,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 199,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 159,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "chitosan",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "acetic acid",
+                    "material_formula": "CH3COOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "phosphomolybdic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 110,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "antimony(III) chloride",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 11,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "sulfur powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3 (NVP)",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

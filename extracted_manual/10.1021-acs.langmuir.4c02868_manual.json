@@ -1,0 +1,200 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "C-HC",
+            "material_formula": ".",
+            "material_properties": [
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Coconut Shells",
+                    "material_formula": "n.a.",
+                    "amount": {
+                        "value": 0,
+                        "unit": "n.a."
+                    }
+                },
+                {
+                    "material_name": "Nitrogen Gas",
+                    "material_formula": "N2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "n.a."
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N/O-HC-1",
+            "material_formula": ".",
+            "material_properties": [
+                {
+                    "capacity_value": 296,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "C-HC",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N/O-HC-2",
+            "material_formula": ".",
+            "material_properties": [
+                {
+                    "capacity_value": 343,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 315,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 338,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 307,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 60,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 222,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 900,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 178,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "C-HC",
+                    "material_formula": "C-HC",
+                    "amount": {
+                        "value": 1,
+                        "unit": "ratio"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CH4N2O",
+                    "amount": {
+                        "value": 2,
+                        "unit": "ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N/O-HC-3",
+            "material_formula": ".",
+            "material_properties": [
+                {
+                    "capacity_value": 356,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "C-HC",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 3,
+                        "unit": "weight ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}

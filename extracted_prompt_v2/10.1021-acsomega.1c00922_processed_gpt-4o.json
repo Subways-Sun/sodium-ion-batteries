@@ -1,0 +1,61 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Carbon Nanofibers with nitrogen doping",
+            "material_formula": "CNFs",
+            "material_properties": [
+                {
+                    "capacity_value": 0.39,
+                    "capacity_unit": "nm",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 0.5,
+                    "capacity_unit": "nm",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 0.46,
+                    "capacity_unit": "nm",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Melamine",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "weight %"
+                    }
+                },
+                {
+                    "material_name": "N,N-dimethylformamide (DMF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": -1,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "weight %"
+                    }
+                }
+            ]
+        }
+    ]
+}

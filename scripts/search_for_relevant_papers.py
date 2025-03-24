@@ -1,12 +1,23 @@
 """Script to retrive relevant paper"""
-# pylint: disable=locally-disabled, line-too-long, invalid-name
+# pylint: disable=locally-disabled, line-too-long, invalid-name, logging-fstring-interpolation
 import os
 import time
+import logging
 from datetime import datetime
 from sib.literature import semantic as ss
 from sib.literature import scopus as sc
 from sib.literature import springer as sp
 from sib.literature import lit_processing as lp
+
+logging.basicConfig(
+    filename = f"logs/info_search_{time.strftime('%Y-%m-%d_%H%M%S')}.log",
+    encoding = "utf-8",
+    filemode = "a",
+    format = "{asctime} - {levelname} - {message}",
+    style = "{",
+    datefmt = "%Y-%m-%d %H:%M:%S",
+    level = logging.INFO
+)
 
 # Define search parameters
 query_list = ["sodium+ion+battery+anode",
@@ -29,14 +40,14 @@ for query in query_list:
     result_temp = ss.search_bulk(query, count, fields = fields, publicationTypes = publication_types, year = year)
     data = result_temp[0]
     url = result_temp[1]
-    print(f"Number of papers retrieved for '{query.replace('+', ' ')}': {len(data)}")
+    logging.info(f"Number of papers retrieved for '{query.replace('+', ' ')}': {len(data)}")
     result.extend(data)
     url_list.append(url)
-print(f"\nFinished initial search, number of papers retrieved: {len(result)}")
+logging.info(f"Finished initial search, number of papers retrieved: {len(result)}")
 
 # Remove duplicates
 result = lp.remove_duplicates(result)
-print(f"\nNumber of papers after removing duplicates: {len(result)}")
+logging.info(f"Number of papers after removing duplicates: {len(result)}")
 
 # Only keep papers from select publishers
 publishers = ["10.1039", # RSC
@@ -47,18 +58,18 @@ publishers = ["10.1039", # RSC
               "10.1080", # Taylor & Francis
               "10.1038"] # Nature
 result = lp.keep_select_publishers(result, publishers)
-print(f"\nNumber of papers from select publishers: {len(result)}")
+logging.info(f"Number of papers from select publishers: {len(result)}")
 
 # Retrieve abstract from Scopus and Springer
 for paper in result:
     doi = paper.get("externalIds").get("DOI")
     if doi[:7] == "10.1016":
-        print(f"Retrieving abstract for {doi} from Scopus")
+        logging.info(f"Retrieving abstract for {doi} from Scopus")
         abstract = sc.get_paper_details(doi)[0]["full-text-retrieval-response"]["coredata"]["dc:description"]
         if abstract:
             paper["abstract"] = abstract.strip()
     elif doi[:7] == "10.1007" or doi[:7] == "10.1038":
-        print(f"Retrieving abstract for {doi} from Springer")
+        logging.info(f"Retrieving abstract for {doi} from Springer")
         abstract = sp.get_paper_details(doi)[0]["records"][0]["abstract"]
         if abstract:
             paper["abstract"] = abstract
@@ -66,7 +77,7 @@ for paper in result:
 
 # Remove papers with no abstract
 result = lp.remove_no_abstract(result)
-print(f"\nNumber of papers after removing papers with no abstract: {len(result)}")
+logging.info(f"Number of papers after removing papers with no abstract: {len(result)}")
 
 # Save the search parameters to a json file
 current_time = datetime.now().strftime("%Y%m%d-%H%M%S")
@@ -75,7 +86,7 @@ params_path = os.path.join(os.getcwd(), "data", f"search_{current_time}_params.j
 lp.write_json(params_path, params)
 
 # Print the number of papers retrieved
-print(f"\nNumber of papers retrieved: {len(result)}")
+logging.info(f"Number of papers retrieved: {len(result)}")
 
 # Save the result to a json file
 result_path = os.path.join(os.getcwd(), "data", f"search_{current_time}.json")

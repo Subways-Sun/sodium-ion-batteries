@@ -1,0 +1,150 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM",
+            "material_formula": ".",
+            "material_properties": [
+                {
+                    "capacity_value": 149.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 58.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": ".",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": ".",
+                    "cycle": 319
+                },
+                {
+                    "capacity_value": 84.52,
+                    "capacity_unit": "%",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": ".",
+                    "cycle": 1700
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6 in G4 (PG)",
+            "material_formula": ".",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tetraethylene glycol dimethyl ether",
+                    "material_formula": "G4",
+                    "amount": {
+                        "value": 227,
+                        "unit": "units"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaBF4 in G4 (BG)",
+            "material_formula": ".",
+            "material_properties": [
+                {
+                    "capacity_value": 13.4,
+                    "capacity_unit": "%",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": ".",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium tetrafluoroborate",
+                    "material_formula": "NaBF4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "tetraethylene glycol dimethyl ether",
+                    "material_formula": "G4",
+                    "amount": {
+                        "value": 227,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "0.9 M NaPF6 + 0.1 M NaBF4 in G4 (PB91)",
+            "material_formula": ".",
+            "material_properties": [
+                {
+                    "capacity_value": 13.5,
+                    "capacity_unit": "%",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": ".",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 0.9,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Sodium tetrafluoroborate",
+                    "material_formula": "NaBF4",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tetraethylene glycol dimethyl ether",
+                    "material_formula": "G4",
+                    "amount": {
+                        "value": 227,
+                        "unit": "units"
+                    }
+                }
+            ]
+        }
+    ]
+}

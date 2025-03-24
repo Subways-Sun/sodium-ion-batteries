@@ -1,0 +1,78 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "BT/C nanofibers",
+            "material_formula": "BT/C",
+            "material_properties": [
+                {
+                    "capacity_value": 329,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tetrabutyl titanate",
+                    "material_formula": "Ti(OC4H9)4",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TiO2/C nanofibers (T/C NFs)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 147.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyvinylpyrrolidone",
+                    "material_formula": "PVP",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tetrabutyl titanate",
+                    "material_formula": "Ti(OC4H9)4",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Methanol",
+                    "material_formula": "CH3OH",
+                    "amount": {
+                        "value": 4,
+                        "unit": "ratio"
+                    }
+                },
+                {
+                    "material_name": "Acetic acid",
+                    "material_formula": "CH3COOH",
+                    "amount": {
+                        "value": 1,
+                        "unit": "ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -2,6 +2,7 @@
 # pylint: disable=locally-disabled, line-too-long, invalid-name
 # from pydantic import BaseModel
 from openai import OpenAI
+import tiktoken
 client = OpenAI()
 
 def classify(openai_model, user_message):
@@ -38,7 +39,7 @@ def rephrase(openai_model, user_message):
     )
     return completion.choices[0].message
 
-def extract(openai_model, user_message, mode: str, material_name: str = ""):
+def extract(openai_model, user_message, mode: str, material_name: str = "", token: bool = False):
     """Function to rephrase the user message"""
 
     results_prompt = "You will be given unstructured text from the results and discussion section of a research paper and should extract information into the given JSON structure. The paper should focus on electrode or electrolyte materials of sodium ion batteries. Your task is to extract the material information from the given text. The material information includes the material type (cathode, anode, or electrolyte), material name, chemical formula of the material (if applicable), material properties including the type (charge, discharge, reversible, specific) and values of capacity reported under different current density (with unit) and cycle. Extract these information for each material mentioned in the paper. Take a moment to distinguish between different names of the same material and include all relevant information mentioned. If a series of capacities have been reported under different charge densities, make sure to include all of them. You should only look at materials used for sodium ion batteries, not for any other type of battery. For any information that the paper doesn't mention or that you are not sure of, you should assume it to be null. Check if the unit of the value matches the property you're assigning it to, if it does not, don't include it. If you find too little information on a specific material, don't include it."
@@ -156,4 +157,49 @@ def extract(openai_model, user_message, mode: str, material_name: str = ""):
         ],
         response_format = results_json if mode == "results" else experimental_json
     )
+
     return completion.choices[0].message.content
+
+def num_tokens_from_messages(messages, model="gpt-4o-2024-08-06"):
+    """Return the number of tokens used by a list of messages."""
+    try:
+        encoding = tiktoken.encoding_for_model(model)
+    except KeyError:
+        print("Warning: model not found. Using o200k_base encoding.")
+        encoding = tiktoken.get_encoding("o200k_base")
+    if model in {
+        "gpt-3.5-turbo-0125",
+        "gpt-4-0314",
+        "gpt-4-32k-0314",
+        "gpt-4-0613",
+        "gpt-4-32k-0613",
+        "gpt-4o-mini-2024-07-18",
+        "gpt-4o-2024-08-06"
+        }:
+        tokens_per_message = 3
+        tokens_per_name = 1
+    elif "gpt-3.5-turbo" in model:
+        print("Warning: gpt-3.5-turbo may update over time. Returning num tokens assuming gpt-3.5-turbo-0125.")
+        return num_tokens_from_messages(messages, model="gpt-3.5-turbo-0125")
+    elif "gpt-4o-mini" in model:
+        print("Warning: gpt-4o-mini may update over time. Returning num tokens assuming gpt-4o-mini-2024-07-18.")
+        return num_tokens_from_messages(messages, model="gpt-4o-mini-2024-07-18")
+    elif "gpt-4o" in model:
+        print("Warning: gpt-4o and gpt-4o-mini may update over time. Returning num tokens assuming gpt-4o-2024-08-06.")
+        return num_tokens_from_messages(messages, model="gpt-4o-2024-08-06")
+    elif "gpt-4" in model:
+        print("Warning: gpt-4 may update over time. Returning num tokens assuming gpt-4-0613.")
+        return num_tokens_from_messages(messages, model="gpt-4-0613")
+    else:
+        raise NotImplementedError(
+            f"""num_tokens_from_messages() is not implemented for model {model}."""
+        )
+    num_tokens = 0
+    for message in messages:
+        num_tokens += tokens_per_message
+        for key, value in message.items():
+            num_tokens += len(encoding.encode(value))
+            if key == "name":
+                num_tokens += tokens_per_name
+    num_tokens += 3  # every reply is primed with <|start|>assistant<|message|>
+    return num_tokens

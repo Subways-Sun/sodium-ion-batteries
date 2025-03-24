@@ -1,0 +1,117 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Co3S4@NC",
+            "material_formula": "Co3S4",
+            "material_properties": [
+                {
+                    "capacity_value": 531.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 748.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 420.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 491.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 442.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 386.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 324.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 284.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 191.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 151.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 403.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Co@NC",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "thioacetamide",
+                    "material_formula": "TAA",
+                    "amount": {
+                        "value": 0.34,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}
