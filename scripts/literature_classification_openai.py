@@ -4,9 +4,20 @@ import json
 import platform
 import os
 import time
+import logging
 from pathlib import Path
 from sib.literature.openai import classify as cl
-from sib.literature.lit_processing import keep_relevant as kr
+from sib.literature.lit_processing import *
+
+logging.basicConfig(
+    filename = f"logs/lit_classification_openai_{time.strftime('%Y-%m-%d_%H%M%S')}.log",
+    encoding = "utf-8",
+    filemode = "a",
+    format = "{asctime} - {levelname} - {message}",
+    style = "{",
+    datefmt = "%Y-%m-%d %H:%M:%S",
+    level = logging.INFO
+)
 
 # Set working directory based on the operating system
 HOME_PATH = str(Path.home())
@@ -16,33 +27,39 @@ if platform.system() == "Windows":
 if platform.system() == "Darwin":
     WORK_DIR = HOME_PATH + r"/Documents/GitHub/sodium-ion-batteries"
 
-RESULT = "search_20241212-002935_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode.json"
+RESULT = "search_20250313-003348.json"
 RESULT_PATH = os.path.join(WORK_DIR, "data", RESULT)
 
-data = []
+data = read_json(RESULT_PATH)
 
-with open(RESULT_PATH, "r", encoding='utf-8') as file:
-    data = json.load(file)
-    for i in range(300,500):
+try:
+    for i in range(3000,len(data)):
+        logging.info(f"Processing DOI {data[i]['externalIds']['DOI']} of {len(data)}")
         user_message = data[i]["abstract"]
         res = cl('gpt-4o', user_message)
-        print(f"{i} {res.content}")
+        logging.info(f"Response: {res}")
         data[i]["label_openai_raw"] = res.content
-        if res.content == "relevant cathode" or res.content == "relevant anode" or res.content == "relevant cathode anode":
+        if res.content in ("relevant cathode", "relevant anode", "relevant cathode anode"):
             data[i]["label_openai"] = 1
         elif res.content == "irrelevant":
             data[i]["label_openai"] = 0
         else:
             data[i]["label_openai"] = -1
         time.sleep(1)
+except Exception as e:
+    logging.error(f"Error processing DOI {data[i]['externalIds']['DOI']}: {e}")
+    RESULT_OPENAI = "search_20250313-003348_3000-_openai.json"
+    RESULT_PATH_OPENAI = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI)
+    write_json(RESULT_PATH_OPENAI, data)
 
-RESULT_OPENAI = "search_20241212-002935_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode_openai.json"
+RESULT_OPENAI = "search_20250313-003348_3000-_openai.json"
 RESULT_PATH_OPENAI = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI)
-with open(RESULT_PATH_OPENAI, "w", encoding='utf-8') as file:
-    json.dump(data, file, ensure_ascii=False, indent=4)
-
+write_json(RESULT_PATH_OPENAI, data)
 # Keep relevant papers
-kr(RESULT_PATH_OPENAI, "label_openai")
+RESULT_OPENAI_RELEVANT = "search_20250313-003348_3000-_openai_relevant.json"
+RESULT_PATH_OPENAI_RELEVANT = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI_RELEVANT)
+write_json(RESULT_PATH_OPENAI_RELEVANT, keep_relevant(read_json(RESULT_PATH_OPENAI), "label_openai"))
+logging.info(f"Number of papers relevant: {len(read_json(RESULT_PATH_OPENAI_RELEVANT))}")
 
 # with open(RESULT_PATH_OPENAI, "r", encoding='utf-8') as file:
 #     data1 = json.load(file)
