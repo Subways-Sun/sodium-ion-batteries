@@ -4,6 +4,7 @@ import json
 import platform
 import os
 from pathlib import Path
+from sib.literature.lit_processing import *
 
 # Set working directory based on the operating system
 HOME_PATH = str(Path.home())
@@ -14,7 +15,7 @@ if platform.system() == "Darwin":
     WORK_DIR = HOME_PATH + r"/Documents/GitHub/sodium-ion-batteries"
 
 # Load the annotated data
-ANNOTATED = "search_20241212-002935_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode_0-499_openai_relevant.json"
+ANNOTATED = "search_20250313-003348_openai_relevant.json"
 ANNOTATED_PATH = os.path.join(WORK_DIR, "data_annotated", ANNOTATED)
 # ORIGINAL = "search_20241106-223705_sodium+ion+battery+anode-sodium+ion+battery+cathode-sodium+ion+battery+electrode.json"
 # ORIGINAL_PATH = os.path.join(WORK_DIR, "data", ORIGINAL)
@@ -52,7 +53,7 @@ relevant_dois = [doi.lower() for doi in relevant_dois if doi[:7] in PREFIX]
 relevant_dois.sort()
 
 # Save the relevant DOIs
-DOIS = "relevant_dois.txt"
+DOIS = "relevant_dois_20250313-003348.txt"
 DOIS_PATH = os.path.join(WORK_DIR, "data", DOIS)
 with open(DOIS_PATH, "w", encoding='utf-8') as f:
     for doi in relevant_dois:
