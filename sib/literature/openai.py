@@ -39,7 +39,7 @@ def rephrase(openai_model, user_message):
     )
     return completion.choices[0].message
 
-def extract(openai_model, user_message, mode: str, material_name: str = "", token: bool = False):
+def extract(openai_model, user_message, mode: str, material_name: str = ""):
     """Function to rephrase the user message"""
 
     results_prompt = "You will be given unstructured text from the results and discussion section of a research paper and should extract information into the given JSON structure. The paper should focus on electrode or electrolyte materials of sodium ion batteries. Your task is to extract the material information from the given text. The material information includes the material type (cathode, anode, or electrolyte), material name, chemical formula of the material (if applicable), material properties including the type (charge, discharge, reversible, specific) and values of capacity reported under different current density (with unit) and cycle. Extract these information for each material mentioned in the paper. Take a moment to distinguish between different names of the same material and include all relevant information mentioned. If a series of capacities have been reported under different charge densities, make sure to include all of them. You should only look at materials used for sodium ion batteries, not for any other type of battery. For any information that the paper doesn't mention or that you are not sure of, you should assume it to be null. Check if the unit of the value matches the property you're assigning it to, if it does not, don't include it. If you find too little information on a specific material, don't include it."
@@ -143,22 +143,37 @@ def extract(openai_model, user_message, mode: str, material_name: str = "", toke
     elif mode == "experimental":
         prompt = experimental_prompt
 
-    completion = client.beta.chat.completions.parse(
-        model = openai_model,
-        messages = [
-            {
-                "role": "system",
-                "content": prompt
-            },
-            {
-                "role": "user",
-                "content": user_message
-            }
-        ],
-        response_format = results_json if mode == "results" else experimental_json
-    )
+    if openai_model == "gpt-4o":
+        completion = client.beta.chat.completions.parse(
+            model = openai_model,
+            messages = [
+                {
+                    "role": "system",
+                    "content": prompt
+                },
+                {
+                    "role": "user",
+                    "content": user_message
+                }
+            ],
+            response_format = results_json if mode == "results" else experimental_json
+        )
+        return completion.choices[0].message.content
 
-    return completion.choices[0].message.content
+    elif openai_model == "o3-mini":
+        user_message = f"{prompt}\n{user_message}"
+        completion = client.beta.chat.completions.parse(
+            model = openai_model,
+            reasoning_effort = "medium",
+            messages = [
+                {
+                    "role": "user",
+                    "content": user_message
+                }
+            ],
+            response_format = results_json if mode == "results" else experimental_json
+        )
+        return completion.choices[0].message.content
 
 def num_tokens_from_messages(messages, model="gpt-4o-2024-08-06"):
     """Return the number of tokens used by a list of messages."""

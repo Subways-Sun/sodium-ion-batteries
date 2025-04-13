@@ -18,6 +18,8 @@ logging.basicConfig(
     level = logging.DEBUG
 )
 
+openai_model = "o3-mini"
+
 full_text_dir = os.path.join(os.getcwd(), "extraction")
 logging.debug(f"Full text directory: {full_text_dir}")
 
@@ -34,7 +36,6 @@ for file in os.listdir(full_text_dir):
         experimental = extract_content(full_text, "Experiment")
         if experimental == "":
             logging.warning(f"Experimental section not found in {file}")
-        openai_model = "gpt-4o"
 
         datas = extract(openai_model, results, "results")
         data = json.loads(datas)

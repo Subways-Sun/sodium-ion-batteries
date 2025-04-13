@@ -1,0 +1,52 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CNFs",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Melamine",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Melamine",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Melamine",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "weight %"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
