@@ -1,0 +1,30 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S000862232300800X</prism:url><dc:identifier>doi:10.1016/j.carbon.2023.118555</dc:identifier><eid>1-s2.0-S000862232300800X</eid><prism:doi>10.1016/j.carbon.2023.118555</prism:doi><pii>S0008-6223(23)00800-X</pii><dc:title>A topological nodal surface carbon honeycomb for sodium-ion battery anode </dc:title><prism:publicationName>Carbon</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00086223</prism:issn><prism:volume>216</prism:volume><prism:startingPage>118555</prism:startingPage><prism:pageRange>118555</prism:pageRange><articleNumber>118555</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-01-05</prism:coverDate><prism:coverDisplayDate>5 January 2024</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Ni, Dongyuan</dc:creator><dc:creator>Sun, Wei</dc:creator><dc:creator>Gao, Shang</dc:creator><dc:creator>Wang, Qian</dc:creator><dc:description>
+                  Motivated by the successful synthesis of three-dimensional (3D) graphene monoliths, we propose a 3D carbon honeycomb structure, tC40, composed of graphene-nanoribbons linked with 5-5-8 defects based on first-principles calculations. This structure is not only dynamically, thermally, and mechanically stable, but also possesses interesting electronic properties, including the multiple topological nodal surfaces on the high-symmetry plane 
+                        
+                           
+                              k
+                              3
+                           
+                           =
+                           0
+                        
+                      with double and quadruple degeneracies of bands in the reciprocal space, and the nontrivial surface states connecting different topological nodal surfaces parallel to the z-axis. By using the 
+                        k
+                     ·
+                        p
+                      model, we further show that, unlike previously reported nodal surfaces, the energy dispersion of the quadruply degenerated nodal surface is proportional to the 
+                        
+                           
+                              
+                                 k
+                                 3
+                              
+                              2
+                           
+                        
+                     , while the Hamiltonian of the doubly degenerated nodal surface is formed by the essential degeneracy of the valence and conduction bands. In addition, we explore the application of this nodal surface carbon as an anode material for sodium-ion batteries (SIBs), and find that tC40 exhibits good performance with a high reversible capacity of 186 mAh·g−1, a low sodium ion migration barrier of 0.1 eV, and a small charging/discharging volume change of 0.79 %. This work expands the family of topological carbon materials and their applications in SIBs.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>3D porous carbon</dcterms:subject><dcterms:subject>Topological nodal surface</dcterms:subject><dcterms:subject>Sodium-ion battery anode</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S000862232300800X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S000862232300800X" rel="scidir"/></coredata><scopus-id>85174684512</scopus-id><scopus-eid>2-s2.0-85174684512</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85174684512" rel="abstract"/><originalText><xocs:doc><xocs:meta><xocs:open-access xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+   <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+</xocs:open-access><xocs:available-online-date xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" yyyymmdd="20231021">2023-10-21</xocs:available-online-date></xocs:meta></xocs:doc></originalText></full-text-retrieval-response>

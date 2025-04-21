@@ -1,0 +1,141 @@
+{
+    "DOI": "10.1007/s13369-023-08300-y",
+    "Journal": "",
+    "Keywords": [],
+    "Sections": [
+        {
+            "content": [
+                "Nowadays, metal and metal oxide nanoparticles stand out among many energy storage nanomaterials due to their availability, superior conductivity and stability and being environmentally friendly [1,2,3,4,5,6,7]. ZnO-NPs, one of the most appealing metal oxide nanoparticles, possess adjustable size and shape for specific applications. They showcase wide application such as in antibacterial, antifungal, UV-filtering, catalytic, and photochemical traits, alongside high binding energy, wide band gap, and strong piezoelectric properties [8,9,10,11,12]. Batteries are regarded as a critical approach for increasing energy efficiency. Perfect battery electrodes should be inexpensive, harmless, have high energy and power densities for strong capacity and rate performance, last long, and have 100% Coulombic efficiency and stability of electrochemical performance vs cycling. The metal oxide’s high capacities, low cost, simplicity of production and low toxicity make them appealing candidates for ion batteries [13].",
+                "ZnO-NPs have been reported to be used in the application of lithium-ion batteries (LIBs) [14]. LIBs are a significant power source equivalent to the fossil fuels used in vehicle propulsion and a great energy source for powering electrical vehicles, which are more favourable for the environment. The development of LIBs can improve the variability of renewable energy in the form of highly efficient energy storage devices. However, the resources for LIBs are minimal nowadays, forcing scientists to shift their attention to alternative sources [15]. To maximise the potential of batteries in terms of safety and energy density [16] and making sure of the sustainability of these batteries [17], the new electrode materials need to be explored other than optimising the existing batteries [16]. Hence, sodium-ion batteries (SIBs) are favoured these days. Sodium-based electrode materials have a similar structure to lithium-based ones, proving their potential to be as good as lithium. SIBs have many advantages as their processing capabilities are more outstanding. The green synthesis method for SIBs anodes is without hydrothermal treatment or unnecessary energy and is practically pollution-free [18,19,20]. SIBs are also favoured due to their being economically sustainable as the raw material is cheaper than the LIBs as there are abundant of them [21]. The approach involving alloying-based reactions of ZnO-NPs anodes in LIBs is well accepted. In a recent study, the green synthesised ZnO-NPs have shown positive cyclic performance. A recent study has also reported that ZnO-NPs have a lot of potential as anodes in SIBs [22]. As researchers aim towards a sustainable approach to producing SIBs, the synthesis of ZnO-NPs is done through green synthesis, which is cost-effective and non-toxic to the environment [19, 20, 23,24,25]. The ZnO-NPs synthesised through green synthesis have been proven to give a promising cyclic performance in SIBs [26]. Other common metal oxides such as MgO and Fe2O also utilized the green synthesis approach and obtained comparative result with chemical synthesis [27,28,29]. Hence, further exploration needs to be carried out towards ZnO-NPs via green synthesis to see its potential.",
+                "Over the years, ZnO-NPs using green synthesis method has been carried out using black tea extract [30], leaves extract of Stevia [31], leaves extract of Laurus nobilis L. [32], Aloe barbadensis Mill [33], leaves extract of Atalantia monophylla [34], plant extract of Deverra tortuosa [35]. Among the various plant parts such as leaves, bark, seed, root and stem, leaves are particularly distinguished for containing the highest number of active compounds compared to other plant parts [36,37,38].",
+                "Mariposa Christia vespertilionis (MCV) is an herbaceous shrub native to Southeast Asia and Brazil that can be found in Malaysia, where it is called ‘Rerama’ by locals [39]. This research aims to develop ZnO-NPs using MCV leaves extract and applied as anode material in SIBs to investigate cyclic performance. The selection of MCV leaves extract is due to its abundant bioactive compounds like polyphenols, alkaloids, and terpenoids with antioxidant and anti-cancer properties [40,41,42,43]. Furthermore, plants containing the most active compounds are more efficient as reducing agents or capping agents [18, 19, 44,45,46,47]. By using this plant, further application could be exploited in other study."
+            ],
+            "name": "1 Introduction",
+            "type": "h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "MCV green leaves were collected from Osja Nursery in Rhu Rendang, Marang. For plant extract preparation, the method from [34, 48, 49] was adapted with some modifications. After washing with tap water, the green MCV leaves were rinsed with Milli-Q water from Synergy ®UV and dried in an oven at 100 °C for 1 h. The leaves were blended into fine powders by using a blender.",
+                        "Approximately 10 g of dry crushed leaves was added to 100 ml of Milli-Q in a water bath and left for 20 min at 60 °C. The leaves extract was cooled at room temperature and filtered using Whatman filter paper No.1. The filtrate was collected. Triplicates of phytochemical test were done towards MCV leaves extract using the method from [50] to investigate the compound’s presence in the extract. Figure 1 shows overall process from plant extract preparation and finally the phytochemical test. The obtained extract was directly used for the green synthesis of ZnO-NPs."
+                    ],
+                    "name": "2.1 Plant Extract Preparation",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "The precursor used in this experiment was 99% pure zinc acetate dihydrate (Zn (CH3COO)2(H2O)2 from Sigma-Aldrich to produce ZnO-NPs. The method from [51, 52] was adapted and modified to synthesize ZnO-NPs. 0.1 M Zinc acetate dihydrate was stirred for 10 min and added to 25 ml of the leaf’s extracts in a magnetic stirrer for 2 h at 60 °C. The light green colour was detected. Centrifuging at 6000 rpm for 20 min separated particles. The solution was then rinsed with methanol. The precursor powder was obtained after 12 h of oven drying at 100 °C as can be seen in Fig. 2 [34]. ZnO precursor was calcined at 700 °C, 800 °C and 900 °C for 8 h [26]."
+                    ],
+                    "name": "2.2 Synthesis of Zinc Oxide Nanoparticles (ZnO-NPs)",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Thermogravimetric analysis (TGA) from PerkinElmer was used to investigate the optimum heat treatment temperature under an atmosphere of nitrogen at a heating rate of 10 °C/min; the initial and final temperature was 30 to 900 °C, and 0.6 g precursor powder was used in TGA. The TGA curves of the metal precursor solution after drying at 100 °C to remove the solvent. Fourier transforms infrared (FTIR) (PerkinElmer) was prepared using ATR, and the sample was measured at a resolution of 4000 to 400 cm−1 and 16 scans per sample using 2 mg of ZnO-NPs. For morphology studies, samples of ZnO-NPs were observed at with a scanning electron microscope (SEM) (JEOL JSM 6360 LA) and a high-resolution transmission electron microscope (HRTEM) (JEOL JEM-2100 F) with a field emission electron gun (FEG) which is highly bright and stable. For SEM measurements, the particle size of the ZnO-NPs was analysed at two different magnifications, 5,000X and 10,000X, with an acceleration voltage of 15 kV and a working distance of 15 mm. About half of a small spatula was dissolved in deionized water for the TEM measurement. The sample was put in an ultrasonic bath for 30 min to make sure that the crystallites were spread out evenly. The sample of liquid was then put on the TEM grid and heated in an oven for 1 h at 80 °C. TEM measurements were done with a 200 kV accelerating voltage and a field emission electron gun (FEG). X-ray diffraction powder (XRD) was used to analyse the transmission of ZnO-NPs (Shimadzu XRD 600). Bragg-optical Brentano's setup, on the other hand, used CuKα, a scanning speed of 2 deg/min, and radiation with the sample spinning from 20 to 80°. A UV–Visible (Shimadzu UV-1800) spectrophotometer measures electromagnetic radiation that includes ultraviolet and visible light and is sent as a wave with a wavelength or frequency between 200 and 800 nm pass through quartz cuvette for the absorption spectra of the ZnO-NPs samples using Milli-Q water as a blank reference."
+                    ],
+                    "name": "2.3 Characterization",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "ZnO-NPs nanoparticles, carbon black (Sigma-Aldrich, > 99.5%), and polyvinylidene fluoride (Sigma-Aldrich) were fabricated at a weight ratio of 75:20:5 in Nmethyl-2-pyrrolidone solvent to create working electrodes. A few pieces of labelled copper foil were pasted with homogenous slurry and then, dried at 100 °C in a vacuum for 6 h. The weight range of active material was measured at around ∼2 mg cm−2 [53]."
+                    ],
+                    "name": "2.4 Preparation of Electrode",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Coin-type cells examined electrode electrochemistry. These cells were performed in an argon-filled glovebox (MBRAUN, Unilab, Germany, H2O, O2 < 0.1 ppm) with sodium metal (Sigma-Aldrich, 99.9% trace metal basis) as the counter electrode, a Whatman glass fibre (GF/D) as the separator, and a mixture of 1 M NaClO4 (Sigma-Aldrich, 98%) in propylene carbonate (Sigma-Aldrich, anhydrous, 99.7% pure) with 5 wt% fluoroethylene carbonate (99%) as the electrolyte. A Neware battery analyser conducted galvanostatic cycling between 0.01 and 3.00 V versus Na/Na+. CV was done on a CHI 700E electrochemical workstation at 0.3 mV s−1 and 0.01–3.00 V versus Na/Na+ [53]."
+                    ],
+                    "name": "2.5 Electrochemical Performance",
+                    "type": "h3"
+                }
+            ],
+            "name": "2 Material and Methods",
+            "type": "h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "Table 1 shows that the MCV extract has alkaloid, flavonoid, saponin, phenolic and tannin. Three times, tests were done and marked A, B, and C to show that the results were always consistent. Only two or more positive results were thought to prove the presence of the investigated compounds in MCV. The flavonoids and alkaloids found in this study are similar to those reported by a previous study which used solvent water [54, 55]. Furthermore, using water solvent is still comparable to other solvents such as flavonoid and tannin in methanol, hexene, ethyl acetate and acetone solvents [56]."
+                    ],
+                    "name": "3.1 Phytochemical Study",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 3 shows the first weight loss at below 200 °C derived from evaporation of the leftover organic solvents. The organic fraction decomposed and was eliminated as CO2 at these temperatures [57]. At 2 in Fig. 3, the sudden weight loss of 300–600 °C is ascribed to the breakdown of zinc acetate dihydrate and the weight loss constantly decreasing until 580 ºC; afterwards, no significant heat loss can be seen. 700 °C, 800 °C, and 900 °C were chosen as calcination temperatures from this result, and a complete ZnO formation can be known with heating at more than 580 °C [26]. This shows that temperatures from 700 to 900 °C are good enough for the thermal decomposition of the metal–organic precursor and fabricated ZnO ion batteries."
+                    ],
+                    "name": "3.2 Thermogravimetric Analysis (TGA)",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Fourier transform infrared spectroscopy (FTIR) was used to determine the functional groups included into ZNO-NPs production by detecting bond vibrations. Band assignments for all samples analysed during this study are shown in Table 2. Figure 4 shows a comparison of FTIR spectra of calcined ZnO-NPs at three different temperatures (700 °C, 800 °C, and 900 °C). Due to the metal–oxygen stretching mode, peaks at 200 cm−1 to 600 cm−1 resemble metal oxides [58]. The peak value of 594 cm−1 was obtained in this study used to indicate the stretching modes of the Zn–O bond. As for wavenumber at 895 cm−1 and 964 cm−1 were indicated RCOO− or OH− group of phenol [59, 60], significant amounts of phenolic compounds, flavonoids, and amines can be found in plants, and these compounds can be used in the stabilisation, capping and synthesis of nanoparticles [61]. According to [41], the stretching vibration of the O–H group is represented by strong absorbance peak at 3000 cm−1 to 4000 cm−1. The large absorption band about 3742 cm−1 is owing to the presence of several O–H groups on the surface of NPs, which are likely to be common [41]. When the annealing temperature was increased, only a broad band of zinc oxide and RCOO– was observed."
+                    ],
+                    "name": "3.3 Fourier Transform Infrared Spectroscopy (FTIR)",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "The SEM micrographs see (Fig. 5) of the different samples showed that they had structures with considerable particle agglomeration and having size range of 100 to 300 nm. Agglomeration reported in Fig. 5 is common nature of metal oxide after calcination [41]. Particles calcined at 900 °C showed the highest level of agglomeration, and this trend continued with higher calcination temperatures. In Fig. 7, the XRD examination revealed a rise in crystallinity and grain size, which is consistent with this observation. The large surface area (active site) of nanoparticles with small crystallite size [62]."
+                    ],
+                    "name": "3.4 Scanning Electron Microscope (SEM)",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 6 shows TEM images of ZnO-NPs calcined at 700 °C, 800 °C, and 900 °C The TEM observations support the SEM findings about the form and size of the crystallites. The sample that was calcined at 700 °C and 800 °C had highly agglomerated structures with irregular spherical crystal forms. However, the samples obtained using a longer thermal calcination procedure (900 °C) appear to affect the morphology of ZnO-NPs into more irregular polyhedral forms, generating larger particles in larger planar blocks.",
+                        "The TEM pictures showed that when the calcination temperatures increase, the crystallites will become larger. A sample calcined at 700 °C is found to be smaller than a calcined at 900 °C, due to more thermal energy available at higher temperatures and crystals can form and growth. This explains why the 900 °C sample had bigger crystals than the 700 °C sample did. The average size of a crystallite is about 38 nm, 42.5 nm, and 65.3 nm for samples that were heated to 700 °C, 800 °C, and 900 °C, respectively. The sample that was calcined at 900 °C had bigger crystals than the samples that were calcined at 700 °C and 800 °C. This is because the annealing temperature, which is 900 °C, is higher. Higher temperatures always make it easier for crystals to grow faster because there is more energy available for phase formation and crystal growth [33].",
+                        "Selected area electron diffraction was also used to look at the structure and crystal orientations of the ZnO-NPs (SAED). Insets of the HRTEM images of each ZnO-NPs sample show the SAED patterns (Fig. 6c, f, and i). The ZnO-NPs are made up of many different crystals, which can be seen in the pattern of the SAED. Samples that were calcined at 700 °C, 800 °C, and 900 °C have interplanar distances of 0.2517 nm, 0.2532 nm, and 0.2556 nm, respectively. These distances are the same as the (002) plane spacing. The XRD results show that ZnO-NPs have a hexagonal wurtzite structure. This (002) crystal plane proves that."
+                    ],
+                    "name": "3.5 Transmission Electron Microscope (TEM)",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "All the diffraction peaks are in the range 20° until 80°, indicating a hexagonal wurtzite structure for the ZnO-NPs confirmed by PDF reference 8,901,397 (Fig. 7) [63]. The intensity of the diffraction peaks increases as the calcination temperature rises, indicating that the ZnO phase is becoming stronger [63]. The (100), (002), and (101) planes correspond to the three sharp peaks. Using the Debye–Scherrer, Eq. (1), the average size of Zn-ONPs was determined based on the most intense peak (101). Which is D, the crystalline size in nm, k is the Scherrer constant equal to 0.9, λ is x-ray wavelength (0.15406 nm), while β is the full width at half maximum (FWHM) of the peak in radians, and θ is the peak location in radians. From the calculation, the data show the commercial ZnO typically 63 nm size crystallites, while ZnO-NPs calcined at 700, 800 and 900 °C have 17 nm, 29 nm and 55 nm size crystallites, respectively."
+                    ],
+                    "name": "3.6 X-ray Diffraction (XRD)",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 8 shows the adsorption–desorption isotherms plot of ZnO-NPs at different calcined temperatures (700 °C, 800 °C, and 900 °C). Therefore, based from the isotherm plots, all the ZnO-NPs samples are in type IV adsorption isotherms by the IUPAC classification, which are associated with mesoporous structures with pore sizes ranging from about 2 nm to 50 nm [64]. The hysteresis type of ZnO-NPs is H3 which described solid shapes with very wide distribution of pore size as shown in Fig. 8 [23, 65]. The relative pressure of the desorption branch step area leading to a lower closure point is almost completely influenced by the adsorption. Table 3 shows the SBET of ZnO-NPs samples annealed at different temperatures measured by N2 gas adsorption. As a results, ZnO-NPs showed highest surface area when calcined at 800 °C and lowest surface area calcined at 900 °C. At lower calcination temperatures (700–800 °C), surface area and pore volume increased gradually owing to the degradation of the precursor. Lower calcination temperatures, as stated in the thermal study, may have led to the evolution of distinct gases from the surface and bulk of the precursors, resulting in more porous structures and an increase in surface area. However, at higher calcination temperatures 900 °C, the surface area and pore volume of NPs decrease owing to agglomeration, crystallite development, and inter-crystallite sintering; this is consistent with the literature [66]. ZnO-NPs' large surface area allows for enhanced electrode interface–analyte interaction and easier electron transport during the oxidation process [67]."
+                    ],
+                    "name": "3.7 Accelerated Surface Area and Porosimeter (ASAP) Analysis",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "The wavelength range of 200–800 nm at room temperature using UV–Vis absorption spectrum from Shimadzu cooperation is recorded all peak ZnO-NPs at 377 nm. UV–Vis peak for all ZnO-NPs dispersed in distilled water is shown in Fig. 9 [26, 68]. As stated by a previous study, the range of 360–380 nm is the maximum optical absorption band [26, 68]. The observed all absorption curve are 377 nm (3.27 eV), which is close to the band gap of the ZnO 1 s-1 s electron transition (3.37 eV) [69]. Above 3.3 eV absorption in ZnO assembled to the band-to-band transition. As particle size decreases, so does the distance between electronic levels and the band gap. This is due to the electron hole pairs being significantly closer together. Furthermore, the coulombic interaction between them cannot be missed, resulting in a larger total kinetic energy [70]."
+                    ],
+                    "name": "3.8 UV–Visible (UV–Vis) Spectrometer",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Cyclic voltammetry (CV) was used to examine the electrochemical performance of a ZnO-NPs. Figure 10 shows CV curves measured at 0.1 mV s-1. The ZnO-NPs calcined at 700 °C was chosen due to the highest initial charge capacity and good cycling stability after 100 cycles. CV is used to evaluate the electrochemical properties of ZnO structures as anode materials for Sodium-ion batteries. The CV curves for five cycles are shown in Fig. 10. Two cathodic peaks, one at 0.35 V (major peak) and the other at 0.98 V (minor peak), are seen in the first cycle. Addition of Na+ into the carbon is responsible for the 0.35 V peak, whereas breakdown of the electrolyte causes the 0.98 V and the production of a solid electrolyte interphase (SEI). Subsequent cycles showed no sign of the 0.35 V peak, indicating that the 0.35 V peak was caused by dominated conversion/alloying processes. The multistep de-sodiation of the NaZn alloy to create ZnO is responsible for the appearance of numerous peaks at distinct potentials, 0.09, 1.47, and 2.86 V, in the anodic region during the first cycle. Equation (1)-(2) represent the ZnO conversion/alloying and sodiation insertion reactions [71]. The pattern obtained in Fig. 10 represents conversion and sodiation reaction [70].",
+                        "The cycling stability of the produced ZnO-NPs was further examined by monitoring their cycle performance up to 100 cycles.",
+                        "ZnO-NPs calcined at 700, 800, and 900 °C have different cycling performances, as shown in Fig. 11a. A voltage range of 0.01–3.00 V was used to perform 0.1 C rate cycling on the test cells [72]. The highest irreversible discharge capacity of 591 mAh g−1 was observed in ZnO-NPs calcined at 700 °C, followed by 440 mAh g−1 in NPs calcined at 900 °C and 355 mAh g−1 in NPs calcined at 800 °C at a current density of 0.1 A g−1. The reversible discharge of ZnO-NPs calcined at 700 °C is 128 mAh g-1 through second cycle and drops to 94 mAh g−1 after 100 cycles with 73% capacity retention. The reversible discharge capacity of ZnO-NPs calcined at 900 °C decreased from 120 mAh g-1 for second cycle to 80 mAh g-1 for 100th cycle, with 66% retention rate. This may be Na-ions have shorter diffusion lengths in ZnO due to the material's small particle sizes, which also increases the active sites for ion insertation/de-insertation [72]. In comparison, the reversible discharge capacity of ZnO-NPs calcined at 800 °C was 96 mAh g-1 at the second cycle and dropped to 59 mAh g−1 after 100 cycles with 62% retention capacity. Moreover, furthermore, the initial galvanostatic charge–discharge profiles of the ZnO-NPs at current density of 100 mAhg-1 are displayed in Fig. 11(b), (c), and (d) [72]. As can be seen, the initial discharge curves are distinct from subsequent discharge curves for all electrodes, indicating the formation of an SEI layer during the initial sodiation. As a result, all electrodes experience irreversible capacity loss during the initial cycle, resulting in a low initial Coulombic efficiency [49]. Figure 11b shows that the plateau voltages of the charge–discharge profiles match well with the peak voltage in Fig. 10 CV.",
+                        "The discharge performance of the half cells at various current densities that range from 0.2 C to 1.0 C is shown in Fig. 12. ZnO-NPs for 700 °C exhibits a discharge capacity of around 349 mAhg−1 at a low rate of 0.2 C. However, the discharge capacity gradually drops and after 66 cycles discharge capacity of about 58 mAhg−1. Nevertheless, this sample ZnO-NPs practically recovered their original capacities when the rate was again dropped to 0.2 C after being exposed to large current loads (1.0 C), which illustrates the remarkable stability of ZnO-NPs [73]. Evidently, ZnO-NPs at a calcination temperature of 700 °C show the highest initial discharge and had good cycling stability after 66 cycles. At ZnO-NPs calcined at 800 °C show the lowest initial discharge, 169 mAhg−1. After 66 cycles, the discharge capacity is 44 mAhg−1. While ZnO-NPs 900 °C show moderately initial discharge which is 325 mAhg−1 and after 66 cycles is 54 mAhg−1."
+                    ],
+                    "name": "3.9 Cyclic Voltammograms (CV)",
+                    "type": "h3"
+                }
+            ],
+            "name": "3 Results and Discussion",
+            "type": "h2"
+        },
+        {
+            "content": [
+                "In conclusion, ZnO-NPs were effectively synthesised at calcination temperatures of 700, 800, and 900 °C by a green synthesis method that is straightforward, environmentally friendly, and non-hazardous. At 580 °C, TGA analysis showed no substantial weight loss for these samples. FTIR spectroscopy analysis revealed Zn–O stretching at 594 cm−1. The XRD diffractograms revealed that the produced ZnO-NPs had a highly crystalline, hexagonal wurtzite structure following calcination. SEM images having size range of 100 to 300 nm. While for TEM ZnO-NPs material formed at 700 °C had the smallest particle size and the highest surface area. ZnO-NPs calcined at 700 °C displayed higher specific capacities, excellent cyclability, and rate capability than others calcination temperatures."
+            ],
+            "name": "4 Conclusion",
+            "type": "h2"
+        }
+    ],
+    "Title": "Green Synthesis of Zinc Oxide Nanoparticles Using Leaves Extract of Mariposa Christia vespertilionis and its Potential as Anode Materials in Sodium-Ion Batteries (SIBs)"
+}
