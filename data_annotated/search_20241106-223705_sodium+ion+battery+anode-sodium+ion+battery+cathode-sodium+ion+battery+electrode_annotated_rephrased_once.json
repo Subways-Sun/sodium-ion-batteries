@@ -63,7 +63,7 @@
             "Irrelevant"
         ],
         "Comments": [],
-        "label_int": 0
+        "label_int": 1
     },
     {
         "id": 434,
@@ -1224,7 +1224,7 @@
             "Irrelevant"
         ],
         "Comments": [],
-        "label_int": 0
+        "label_int": 1
     },
     {
         "id": 485,
@@ -2244,7 +2244,7 @@
     },
     {
         "text": "SnS2 materials have gained significant attention in the realm of electrochemical energy storage, largely due to their layered structure that provides a high specific capacity. However, their tendency to restack during charge/discharge cycles can lead to instability in the electrode structure and a decrease in capacity. This paper presents a straightforward one-step hydrothermal method to synthesize a SnS2/graphene/SnS2 (SnS2/rGO/SnS2) composite. In this composite, ultrathin SnS2 nanosheets are covalently attached to both sides of reduced graphene oxide sheets via C\u2012S bonds. The incorporation of graphene between two SnS2 sheets results in an increased interlayer spacing of approximately 8.03 \u00c5 for SnS2. This enhancement facilitates easy insertion and extraction of Li+/Na+ ions, supporting rapid transport kinetics and preventing the restacking of SnS2 nanosheets during charge/discharge processes. Density functional theory calculations indicate that the moderate interlayer spacing in the sandwich-like composite is the most stable configuration. Both molecular simulations and experiments confirm that this configuration is optimal for fast ion transport, as shown by the diffusion coefficients of Li/Na-ions. Moreover, numerous ultra-small SnS2 nanoparticles anchored on graphene sheets contribute significantly to the pseudocapacitive effect, particularly at high current densities, resulting in excellent high-rate performance with capacities of 844 and 765 mAh g-1 for Li/Na-ion batteries even at a current density of 10 A g\u20121. After 200 cycles, the composite exhibits no significant morphological changes, and the SnS2 nanoparticles are restored to their original phase without notable agglomeration. This demonstrates that the composite, with its outstanding rate capabilities and cycle stability, is a promising candidate for lithium/sodium storage applications.",
-        "label_int": 0
+        "label_int": 1
     },
     {
         "text": "In our study, we detail the creation of three-dimensional flower-like MoS2 nanosheet arrays on carbon cloth, which serve as a binder-free anode for sodium-ion batteries. The surface of MoS2 is modified using ultrathin and conformal TiO2 layers applied via atomic layer deposition. Electrochemical performance assessments reveal that the ALD TiO2 layer enhances both the cycling stability and rate capability of MoS2. Specifically, MoS2 nanosheets with a 0.5-nm TiO2 coating exhibit the highest initial discharge capacity of 1392 mA h g^-1 at 200 mA g^-1, a 53% increase over uncoated MoS2. After 150 cycles, the TiO2-coated MoS2 retains 75.8% of its second cycle capacity at 200 mA h g^-1, whereas pure MoS2 retains only 59%. The underlying mechanism is explored using ex situ scanning electron microscope (SEM), X-ray powder diffraction (XRD), and electrochemical impedance spectroscopy (EIS) analysis, which verify that the ultrathin TiO2 coatings help prevent structural degradation and the formation of the solid-electrolyte-interphase (SEI) film on the MoS2 electrode.",
@@ -2448,7 +2448,7 @@
     },
     {
         "text": "Sodium-ion (Na-ion) batteries, known for their cost-effectiveness and scalability, present an attractive alternative to existing lithium-ion batteries. To address the challenge of energy density, one viable solution is to develop a high-voltage anode-free configuration that utilizes a lightweight aluminum current collector at the anode side along with a high-voltage sodiumized cathode. This approach, however, necessitates strict requirements for sodium reversibility and high-voltage stability on the electrolyte side. Responding to these demands, we have engineered a 3A zeolite molecular sieve film and constructed a highly aggregated solvation structure using the size effect to control oxidative decomposition continuously, thereby enhancing oxidative stability to 4.5 V without compromising the anode's sodium reversibility (99.91%). Consequently, we achieve anode-free cells with elevated energy densities of 369 and 372 W h kg-1 for cells rated at 4.0 and 4.25 V, respectively. Additionally, this method facilitates a prolonged lifespan of 250 cycles for 4.0 V-class anode-free cells and significantly reduces costs in an environmentally sustainable manner.",
-        "label_int": 0
+        "label_int": 1
     },
     {
         "text": "Materials based on antimony (Sb) have garnered attention as promising anodes for sodium ion batteries (SIBs) due to their high theoretical capacities and suitable sodium insertion potentials. However, the current energy density and cycling stability of Sb-based anodes for SIBs are quite limited and require considerable enhancement. In this study, we introduce an innovative Sb/C hybrid that encapsulates Sb nanorods within highly conductive nitrogen and sulfur codoped carbon (Sb@(N, S-C)) frameworks. As an anode for SIBs, the Sb@(N, S-C) hybrid demonstrates high reversible capacities of 621.1 mAh g-1 at 100 mA g-1 after 150 cycles, and 390.8 mAh g-1 at 1 A g-1 after 1000 cycles. At higher current densities of 2, 5, and 10 A g-1, the Sb@(N, S-C) hybrid continues to exhibit high reversible capacities of 534.4, 430.8, and 374.7 mAh g-1, respectively. These remarkable sodium storage properties are primarily attributed to the unique cross-linked carbon networks that provide highly conductive frameworks for rapid ion and electron transfer, mitigating volume expansion and preventing the agglomeration of Sb nanorods during cycling.",
