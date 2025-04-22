@@ -1,14 +1,61 @@
 {
     "DOI": null,
-    "Journal": "Chemical Physics Letters",
+    "Journal": null,
     "Keywords": [
         "Electrochemical exfoliation",
         "Material deposition",
         "Cathode/anode",
         "High specific capacity",
         "High retention",
-        "Sodium-ion battery"
+        "Sodium-ion battery",
+        "Recommended articles"
     ],
-    "Sections": [],
-    "Title": "Electrochemical exfoliation and deposition of sodium-graphene oxide composite for high specific capacity cathode/anode for dual-carbon sodium ion battery application"
+    "Sections": [
+        {
+            "content": [
+                "We provide information on a straightforward process for creating sodium-carbon-based material for Na-ion batteries. The electric-controlled exfoliation method produced sodium intercalated graphene oxide (Na-GO). Na-GO has a crystalline structure with a few-layered scattered sheet shape, 87.9 percent crystallinity, a computed density of 2.26 g/cm3, and a cell volume of 35.29x106pm3. The Coulombic efficiency of the Na-GO material increased from 98.8% in the first electrochemical cycle to 100.5 percent in the 60th, and the specific capacity (S.C.) of the Na-GO electrode at a current density of 100 mA/g is about 368 mAh/g. Galvanostatic charge–discharge cycles against sodium metal were carried out as a reference electrode. This is a brand-new method for creating high-performing materials that do not require purifying or cleaning procedures."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "No data was used for the research described in the article."
+            ],
+            "name": "Data availability",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "View Abstract",
+                "© 2023 Elsevier B.V. All rights reserved."
+            ],
+            "name": "Cited by (0)",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "No articles found.",
+                "About ScienceDirect",
+                "Remote access",
+                "Advertise",
+                "Contact and support",
+                "Terms and conditions",
+                "Privacy policy",
+                "Cookies are used by this site. Cookie Settings",
+                "All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply."
+            ],
+            "name": "Recommended articles",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Research paperElectrochemical exfoliation and deposition of sodium-graphene oxide composite for high specific capacity cathode/anode for dual-carbon sodium ion battery application"
 }

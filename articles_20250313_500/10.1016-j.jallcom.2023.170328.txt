@@ -1,7 +1,292 @@
-<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838823016316</prism:url><dc:identifier>doi:10.1016/j.jallcom.2023.170328</dc:identifier><eid>1-s2.0-S0925838823016316</eid><prism:doi>10.1016/j.jallcom.2023.170328</prism:doi><pii>S0925-8388(23)01631-6</pii><dc:title>Recovered cobalt-nickel sulfide from spent lithium-ion batteries as an advanced anode material toward sodium-ion batteries </dc:title><prism:publicationName>Journal of Alloys and Compounds</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09258388</prism:issn><prism:volume>956</prism:volume><prism:startingPage>170328</prism:startingPage><prism:pageRange>170328</prism:pageRange><articleNumber>170328</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2023-09-15</prism:coverDate><prism:coverDisplayDate>15 September 2023</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Li, Zhiwei</dc:creator><dc:creator>Yang, Yuxiao</dc:creator><dc:creator>Wen, Bo</dc:creator><dc:creator>Liu, Xiaofeng</dc:creator><dc:creator>Wang, Yajun</dc:creator><dc:creator>Du, Fan</dc:creator><dc:creator>Ma, Mingming</dc:creator><dc:creator>Li, Long</dc:creator><dc:creator>Yang, Guorui</dc:creator><dc:creator>Ding, Shujiang</dc:creator><dc:description>
-                  Explosive growth of the electric vehicle market has led to a substantial accumulation of spent lithium-ion batteries (LIBs), causing significant environmental pollution and the wastage of precious metal resources. Thus, we developed a simple hydrothermal method to convert the spent LiNi0.8Co0.1Mn0.1O2 (NMC-811) cathode into CoNi-MOF. After the subsequent sulfidation process, waxberry-like Co0.11Ni0.89S@N-doped carbon composites (Co0.11Ni0.89S@NC), as a bimetallic sulfide solid solution, can be successfully synthesized to serve as high-performance anode materials for sodium-ion batteries (SIBs). The waxberry-like structure and strong S-C bonds between the carbon matrix and transition metal sulfides ensure the structural stability of the material during the cycle. Besides, the coexistence of Co and Ni in the bimetallic sulfide solid solution generates abundant lattice defects and modifies the electronic structures that significantly improve the charge transfer ability and Na+ diffusivity. The as-prepared Co0.11Ni0.89S@NC exhibits a high specific capacity of 622 mAh g−1 at 200 mA g−1, outstanding rate capacity of 370 mAh g−1 at 5000 mA g−1 and good cycling stability (330 mAh g−1 after 1500 cycles at 5000 mA g−1). This study presents a promising approach for the recycling of spent LIBs into high-performance anodes for SIBs, thus achieving the transformation of waste into valuable resources.
-               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Spent lithium-ion batteries</dcterms:subject><dcterms:subject>Recovery</dcterms:subject><dcterms:subject>Bimetallic sulfide solid solution</dcterms:subject><dcterms:subject>Co0.11Ni0.89S@NC composite</dcterms:subject><dcterms:subject>Sodium-ion batteries</dcterms:subject><dcterms:subject>Anode</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838823016316" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838823016316" rel="scidir"/></coredata><scopus-id>85154588894</scopus-id><scopus-eid>2-s2.0-85154588894</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85154588894" rel="abstract"/><originalText><xocs:doc><xocs:meta><xocs:open-access xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
-                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                  xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
-   <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
-</xocs:open-access><xocs:available-online-date xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" yyyymmdd="20230426">2023-04-26</xocs:available-online-date></xocs:meta></xocs:doc></originalText></full-text-retrieval-response>
+<html lang="en-US"><head>
+      <meta name="citation_pii" content="S0925838823016316">
+<meta name="citation_id" content="170328">
+<meta name="citation_issn" content="0925-8388">
+<meta name="citation_volume" content="956">
+<meta name="citation_publisher" content="Elsevier">
+<meta name="citation_firstpage" content="170328">
+<meta name="citation_journal_title" content="Journal of Alloys and Compounds">
+<meta name="citation_type" content="JOUR">
+<meta name="citation_doi" content="10.1016/j.jallcom.2023.170328">
+<meta name="dc.identifier" content="10.1016/j.jallcom.2023.170328">
+<meta name="citation_article_type" content="Full-length article">
+<meta property="og:description" content="Explosive growth of the electric vehicle market has led to a substantial accumulation of spent lithium-ion batteries (LIBs), causing significant envir…">
+<meta property="og:image" content="https://ars.els-cdn.com/content/image/1-s2.0-S0925838825X00104-cov150h.gif">
+<meta name="citation_title" content="Recovered cobalt-nickel sulfide from spent lithium-ion batteries as an advanced anode material toward sodium-ion batteries">
+<meta property="og:title" content="Recovered cobalt-nickel sulfide from spent lithium-ion batteries as an advanced anode material toward sodium-ion batteries">
+<meta name="citation_publication_date" content="2023/09/15">
+<meta name="citation_online_date" content="2023/04/26">
+<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE,NOCACHE,NOODP,NOYDIR">
+      <title>Recovered cobalt-nickel sulfide from spent lithium-ion batteries as an advanced anode material toward sodium-ion batteries - ScienceDirect</title>
+      <link rel="canonical" href="https://www.sciencedirect.com/science/article/pii/S0925838823016316">
+      <meta name="tdm-reservation" content="1">
+      <meta name="tdm-policy" content="https://www.elsevier.com/tdm/tdmrep-policy.json">
+      <meta property="og:type" content="article">
+      <meta name="viewport" content="initial-scale=1">
+      <meta name="SDTech" content="Proudly brought to you by the SD Technology team">
+      <script type="5b4dd481aa4d2e97a1891ca7-text/javascript">(function newRelicBrowserProSPA() {
+  ;
+  window.NREUM || (NREUM = {});
+  NREUM.init = {
+    privacy: {
+      cookies_enabled: true
+    },
+    ajax: {
+      deny_list: ["bam-cell.nr-data.net"]
+    }
+  };
+  ;
+  NREUM.loader_config = {
+    accountID: "2128461",
+    trustKey: "2038175",
+    agentID: "1118783207",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181"
+  };
+  ;
+  NREUM.info = {
+    beacon: "bam.nr-data.net",
+    errorBeacon: "bam.nr-data.net",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181",
+    sa: 1
+  };
+  ; /*! For license information please see nr-loader-spa-1.238.0.min.js.LICENSE.txt */
+  (() => {
+    "use strict";
+
+    var e,
+      t,
+      r = {
+        5763: (e, t, r) => {
+          r.d(t, {
+            P_: () => f,
+            Mt: () => p,
+            C5: () => s,
+            DL: () => v,
+            OP: () => T,
+            lF: () => D,
+            Yu: () => y,
+            Dg: () => h,
+            CX: () => c,
+            GE: () => b,
+            sU: () => _
+          });
+          var n = r(8632),
+            i = r(9567);
+          const o = {
+              beacon: n.ce.beacon,
+              errorBeacon: n.ce.errorBeacon,
+              licenseKey: void 0,
+              applicationID: void 0,
+              sa: void 0,
+              queueTime: void 0,
+              applicationTime: void 0,
+              ttGuid: void 0,
+              user: void 0,
+              account: void 0,
+              product: void 0,
+              extra: void 0,
+              jsAttributes: {},
+              userAttributes: void 0,
+              atts: void 0,
+              transactionName: void 0,
+              tNamePlain: void 0
+            },
+            a = {};
+          function s(e) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            if (!a[e]) throw new Error("Info for ".concat(e, " was never set"));
+            return a[e];
+          }
+          function c(e, t) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            a[e] = (0, i.D)(t, o), (0, n.Qy)(e, a[e], "info");
+          }
+          var u = r(7056);
+          const d = () => {
+              const e = {
+                blockSelector: "[data-nr-block]",
+                maskInputOptions: {
+                  password: !0
+                }
+              };
+              return {
+                allow_bfcache: !0,
+                privacy: {
+                  cookies_enabled: !0
+                },
+                ajax: {
+                  deny_list: void 0,
+                  block_internal: !0,
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                distributed_tracing: {
+                  enabled: void 0,
+                  exclude_newrelic_header: void 0,
+                  cors_use_newrelic_header: void 0,
+                  cors_use_tracecontext_headers: void 0,
+                  allowed_origins: void 0
+                },
+                session: {
+                  domain: void 0,
+                  expiresMs: u.oD,
+                  inactiveMs: u.Hb
+                },
+                ssl: void 0,
+                obfuscate: void 0,
+                jserrors: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                metrics: {
+                  enabled: !0
+                },
+                page_action: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30
+                },
+                page_view_event: {
+                  enabled: !0
+                },
+                page_view_timing: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30,
+                  long_task: !1
+                },
+                session_trace: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                harvest: {
+                  tooManyRequestsDelay: 60
+                },
+                session_replay: {
+                  enabled: !1,
+                  harvestTimeSeconds: 60,
+                  sampleRate: .1,
+                  errorSampleRate: .1,
+                  maskTextSelector: "*",
+                  maskAllInputs: !0,
+                  get blockClass() {
+                    return "nr-block";
+                  },
+                  get ignoreClass() {
+                    return "nr-ignore";
+                  },
+                  get maskTextClass() {
+                    return "nr-mask";
+                  },
+                  get blockSelector() {
+                    return e.blockSelector;
+                  },
+                  set blockSelector(t) {
+                    e.blockSelector += ",".concat(t);
+                  },
+                  get maskInputOptions() {
+                    return e.maskInputOptions;
+                  },
+                  set maskInputOptions(t) {
+                    e.maskInputOptions = {
+                      ...t,
+                      password: !0
+                    };
+                  }
+                },
+                spa: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                }
+              };
+            },
+            l = {};
+          function f(e) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            if (!l[e]) throw new Error("Configuration for ".concat(e, " was never set"));
+            return l[e];
+          }
+          function h(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            l[e] = (0, i.D)(t, d()), (0, n.Qy)(e, l[e], "config");
+          }
+          function p(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            var r = f(e);
+            if (r) {
+              for (var n = t.split("."), i = 0; i < n.length - 1; i++) if ("object" != typeof (r = r[n[i]])) return;
+              r = r[n[n.length - 1]];
+            }
+            return r;
+          }
+          const g = {
+              accountID: void 0,
+              trustKey: void 0,
+              agentID: void 0,
+              licenseKey: void 0,
+              applicationID: void 0,
+              xpid: void 0
+            },
+            m = {};
+          function v(e) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            if (!m[e]) throw new Error("LoaderConfig for ".concat(e, " was never set"));
+            return m[e];
+          }
+          function b(e, t) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            m[e] = (0, i.D)(t, g), (0, n.Qy)(e, m[e], "loader_config");
+          }
+          const y = (0, n.mF)().o;
+          var w = r(385),
+            A = r(6818);
+          const x = {
+              buildEnv: A.Re,
+              bytesSent: {},
+              queryBytesSent: {},
+              customTransaction: void 0,
+              disabled: !1,
+              distMethod: A.gF,
+              isolatedBacklog: !1,
+              loaderType: void 0,
+              maxBytes: 3e4,
+              offset: Math.floor(w._A?.performance?.timeOrigin || w._A?.performance?.timing?.navigationStart || Date.now()),
+              onerror: void 0,
+              origin: "" + w._A.location,
+              ptid: void 0,
+              releaseIds: {},
+              session: void 0,
+              xhrWrappable: "function" == typeof w._A.XMLHttpRequest?.prototype?.addEventListener,
+              version: A.q4,
+              denyList: void 0
+            },
+            E = {};
+          function T(e) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            if (!E[e]) throw new Error("Runtime for ".concat(e, " was never set"));
+            return E[e];
+          }
+          function _(e, t) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            E[e] = (0, i.D)(t, x), (0, n.Qy)(e, E[e], "runtime");
+          }
+          function D(e) {
+            return function (e) {
+              try {
+                const t = s(e);
+                return !!t.licenseKey && !!t.errorBeacon && !!t.applicationID;
+              } catch (e) {
+                return !1;
+              }
+            }(e);
+          }
+        },
+        9567: (e, t, r) => {
+          r.d(t, {
+            D: () => i
+          });
+          var n = r(50);
+          function i(e, t) {
+            try {
+              if (!e || "object" != typeof e) return (0, n.Z)("Setting a Configurable requires an object as input");
+              if (!t || "object" != typeof t) return (0, n.Z)("Setting a Configurable re</script></head></html>

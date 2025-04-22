@@ -1,8 +1,292 @@
-<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092583882400714X</prism:url><dc:identifier>doi:10.1016/j.jallcom.2024.174127</dc:identifier><eid>1-s2.0-S092583882400714X</eid><prism:doi>10.1016/j.jallcom.2024.174127</prism:doi><pii>S0925-8388(24)00714-X</pii><dc:title>Dual-complexing agent dominated synthesis of carbon coated Na3V2(PO4)3 cathodes for high-performance sodium ion batteries </dc:title><prism:publicationName>Journal of Alloys and Compounds</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09258388</prism:issn><prism:volume>986</prism:volume><prism:startingPage>174127</prism:startingPage><prism:pageRange>174127</prism:pageRange><articleNumber>174127</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-05-30</prism:coverDate><prism:coverDisplayDate>30 May 2024</prism:coverDisplayDate><prism:copyright>© 2024 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Zhao, Yun</dc:creator><dc:creator>Zhang, Yongtao</dc:creator><dc:creator>Li, Yong</dc:creator><dc:creator>Ma, Canliang</dc:creator><dc:creator>Qi, Xingguo</dc:creator><dc:creator>Han, Gaoyi</dc:creator><dc:description>
-                  The currently prevailing single complexing agent-dominated sol-gel technologies for Na3V2(PO4)3 (NVP) cathodes in sodium-ion batteries (SIBs) always result in limited modification effects, especially in regards to the particle size of NVP and the quality of carbon coatings. Herein, we report a citric acid and glycine co-complexed strategy for fabricating carbon-coated NVP. It creates a favorable synergy for optimizing the microstructure and electrochemical performance of the NVP cathode. The introduction of glycine in citric acid not only decreases the solution viscosity for facilitated metal-ion diffusion, but also induces the self-construction of a 3D network through heteromolecular hydrogen bonds. The optimized carbon-coated NVP by co-complexing of citric acid and glycine (named as NVP/CG-5.0) presents distinctly decreased particle size, improved dispersity and moderate carbon coating thickness of ∼2 nm. It also features a large specific surface area of 44.4 m2 g−1 with rich mesopores. Impressively, the NVP/CG-5.0 electrode exhibits substantially improved electrochemical performance, such as the elevated specific capacity of 108.3 mAh g−1 with high initial Coulombic efficiency (95.2%), high capacity retention of 81.3% after 2000 cycles at 2 C and excellent rate performance (88.2 mAh g−1 at 20.0 C). Furthermore, the assembled NVP/CG-5.0║hard carbon full battery also exhibits superior electrochemical performance, suggesting the great potential of the co-complexed strategy for developing high-performance NVP cathodes in SIBs.
-               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Na3V2(PO4)3
-                  </dcterms:subject><dcterms:subject>Sol-gel method</dcterms:subject><dcterms:subject>Complexing agent</dcterms:subject><dcterms:subject>Synergistic effect</dcterms:subject><dcterms:subject>Sodium-ion battery</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092583882400714X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092583882400714X" rel="scidir"/></coredata><scopus-id>85187200101</scopus-id><scopus-eid>2-s2.0-85187200101</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85187200101" rel="abstract"/><originalText><xocs:doc><xocs:meta><xocs:open-access xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
-                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                  xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
-   <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
-</xocs:open-access><xocs:available-online-date xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" yyyymmdd="20240311">2024-03-11</xocs:available-online-date></xocs:meta></xocs:doc></originalText></full-text-retrieval-response>
+<html lang="en-US"><head>
+      <meta name="citation_pii" content="S092583882400714X">
+<meta name="citation_id" content="174127">
+<meta name="citation_issn" content="0925-8388">
+<meta name="citation_volume" content="986">
+<meta name="citation_publisher" content="Elsevier">
+<meta name="citation_firstpage" content="174127">
+<meta name="citation_journal_title" content="Journal of Alloys and Compounds">
+<meta name="citation_type" content="JOUR">
+<meta name="citation_doi" content="10.1016/j.jallcom.2024.174127">
+<meta name="dc.identifier" content="10.1016/j.jallcom.2024.174127">
+<meta name="citation_article_type" content="Full-length article">
+<meta property="og:description" content="The currently prevailing single complexing agent-dominated sol-gel technologies for Na3V2(PO4)3 (NVP) cathodes in sodium-ion batteries (SIBs) always r…">
+<meta property="og:image" content="https://ars.els-cdn.com/content/image/1-s2.0-S0925838824X00067-cov150h.gif">
+<meta name="citation_title" content="Dual-complexing agent dominated synthesis of carbon coated Na3V2(PO4)3 cathodes for high-performance sodium ion batteries">
+<meta property="og:title" content="Dual-complexing agent dominated synthesis of carbon coated Na3V2(PO4)3 cathodes for high-performance sodium ion batteries">
+<meta name="citation_publication_date" content="2024/05/30">
+<meta name="citation_online_date" content="2024/03/11">
+<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE,NOCACHE,NOODP,NOYDIR">
+      <title>Dual-complexing agent dominated synthesis of carbon coated Na3V2(PO4)3 cathodes for high-performance sodium ion batteries - ScienceDirect</title>
+      <link rel="canonical" href="https://www.sciencedirect.com/science/article/pii/S092583882400714X">
+      <meta name="tdm-reservation" content="1">
+      <meta name="tdm-policy" content="https://www.elsevier.com/tdm/tdmrep-policy.json">
+      <meta property="og:type" content="article">
+      <meta name="viewport" content="initial-scale=1">
+      <meta name="SDTech" content="Proudly brought to you by the SD Technology team">
+      <script type="9f3cfbf1755555555efa3357-text/javascript">(function newRelicBrowserProSPA() {
+  ;
+  window.NREUM || (NREUM = {});
+  NREUM.init = {
+    privacy: {
+      cookies_enabled: true
+    },
+    ajax: {
+      deny_list: ["bam-cell.nr-data.net"]
+    }
+  };
+  ;
+  NREUM.loader_config = {
+    accountID: "2128461",
+    trustKey: "2038175",
+    agentID: "1118783207",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181"
+  };
+  ;
+  NREUM.info = {
+    beacon: "bam.nr-data.net",
+    errorBeacon: "bam.nr-data.net",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181",
+    sa: 1
+  };
+  ; /*! For license information please see nr-loader-spa-1.238.0.min.js.LICENSE.txt */
+  (() => {
+    "use strict";
+
+    var e,
+      t,
+      r = {
+        5763: (e, t, r) => {
+          r.d(t, {
+            P_: () => f,
+            Mt: () => p,
+            C5: () => s,
+            DL: () => v,
+            OP: () => T,
+            lF: () => D,
+            Yu: () => y,
+            Dg: () => h,
+            CX: () => c,
+            GE: () => b,
+            sU: () => _
+          });
+          var n = r(8632),
+            i = r(9567);
+          const o = {
+              beacon: n.ce.beacon,
+              errorBeacon: n.ce.errorBeacon,
+              licenseKey: void 0,
+              applicationID: void 0,
+              sa: void 0,
+              queueTime: void 0,
+              applicationTime: void 0,
+              ttGuid: void 0,
+              user: void 0,
+              account: void 0,
+              product: void 0,
+              extra: void 0,
+              jsAttributes: {},
+              userAttributes: void 0,
+              atts: void 0,
+              transactionName: void 0,
+              tNamePlain: void 0
+            },
+            a = {};
+          function s(e) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            if (!a[e]) throw new Error("Info for ".concat(e, " was never set"));
+            return a[e];
+          }
+          function c(e, t) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            a[e] = (0, i.D)(t, o), (0, n.Qy)(e, a[e], "info");
+          }
+          var u = r(7056);
+          const d = () => {
+              const e = {
+                blockSelector: "[data-nr-block]",
+                maskInputOptions: {
+                  password: !0
+                }
+              };
+              return {
+                allow_bfcache: !0,
+                privacy: {
+                  cookies_enabled: !0
+                },
+                ajax: {
+                  deny_list: void 0,
+                  block_internal: !0,
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                distributed_tracing: {
+                  enabled: void 0,
+                  exclude_newrelic_header: void 0,
+                  cors_use_newrelic_header: void 0,
+                  cors_use_tracecontext_headers: void 0,
+                  allowed_origins: void 0
+                },
+                session: {
+                  domain: void 0,
+                  expiresMs: u.oD,
+                  inactiveMs: u.Hb
+                },
+                ssl: void 0,
+                obfuscate: void 0,
+                jserrors: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                metrics: {
+                  enabled: !0
+                },
+                page_action: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30
+                },
+                page_view_event: {
+                  enabled: !0
+                },
+                page_view_timing: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30,
+                  long_task: !1
+                },
+                session_trace: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                harvest: {
+                  tooManyRequestsDelay: 60
+                },
+                session_replay: {
+                  enabled: !1,
+                  harvestTimeSeconds: 60,
+                  sampleRate: .1,
+                  errorSampleRate: .1,
+                  maskTextSelector: "*",
+                  maskAllInputs: !0,
+                  get blockClass() {
+                    return "nr-block";
+                  },
+                  get ignoreClass() {
+                    return "nr-ignore";
+                  },
+                  get maskTextClass() {
+                    return "nr-mask";
+                  },
+                  get blockSelector() {
+                    return e.blockSelector;
+                  },
+                  set blockSelector(t) {
+                    e.blockSelector += ",".concat(t);
+                  },
+                  get maskInputOptions() {
+                    return e.maskInputOptions;
+                  },
+                  set maskInputOptions(t) {
+                    e.maskInputOptions = {
+                      ...t,
+                      password: !0
+                    };
+                  }
+                },
+                spa: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                }
+              };
+            },
+            l = {};
+          function f(e) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            if (!l[e]) throw new Error("Configuration for ".concat(e, " was never set"));
+            return l[e];
+          }
+          function h(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            l[e] = (0, i.D)(t, d()), (0, n.Qy)(e, l[e], "config");
+          }
+          function p(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            var r = f(e);
+            if (r) {
+              for (var n = t.split("."), i = 0; i < n.length - 1; i++) if ("object" != typeof (r = r[n[i]])) return;
+              r = r[n[n.length - 1]];
+            }
+            return r;
+          }
+          const g = {
+              accountID: void 0,
+              trustKey: void 0,
+              agentID: void 0,
+              licenseKey: void 0,
+              applicationID: void 0,
+              xpid: void 0
+            },
+            m = {};
+          function v(e) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            if (!m[e]) throw new Error("LoaderConfig for ".concat(e, " was never set"));
+            return m[e];
+          }
+          function b(e, t) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            m[e] = (0, i.D)(t, g), (0, n.Qy)(e, m[e], "loader_config");
+          }
+          const y = (0, n.mF)().o;
+          var w = r(385),
+            A = r(6818);
+          const x = {
+              buildEnv: A.Re,
+              bytesSent: {},
+              queryBytesSent: {},
+              customTransaction: void 0,
+              disabled: !1,
+              distMethod: A.gF,
+              isolatedBacklog: !1,
+              loaderType: void 0,
+              maxBytes: 3e4,
+              offset: Math.floor(w._A?.performance?.timeOrigin || w._A?.performance?.timing?.navigationStart || Date.now()),
+              onerror: void 0,
+              origin: "" + w._A.location,
+              ptid: void 0,
+              releaseIds: {},
+              session: void 0,
+              xhrWrappable: "function" == typeof w._A.XMLHttpRequest?.prototype?.addEventListener,
+              version: A.q4,
+              denyList: void 0
+            },
+            E = {};
+          function T(e) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            if (!E[e]) throw new Error("Runtime for ".concat(e, " was never set"));
+            return E[e];
+          }
+          function _(e, t) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            E[e] = (0, i.D)(t, x), (0, n.Qy)(e, E[e], "runtime");
+          }
+          function D(e) {
+            return function (e) {
+              try {
+                const t = s(e);
+                return !!t.licenseKey && !!t.errorBeacon && !!t.applicationID;
+              } catch (e) {
+                return !1;
+              }
+            }(e);
+          }
+        },
+        9567: (e, t, r) => {
+          r.d(t, {
+            D: () => i
+          });
+          var n = r(50);
+          function i(e, t) {
+            try {
+              if (!e || "object" != typeof e) return (0, n.Z)("Setting a Configurable requires an object as input");
+              if (!t || "object" != typeof t) return (0, n.Z)("Setting a Configurable require</script></head></html>

@@ -1,13 +1,56 @@
 {
     "DOI": null,
-    "Journal": "Energy Storage Materials",
+    "Journal": null,
     "Keywords": [
         "Sodium ion battery",
         "Layer-structured",
         "Cathode materials",
         "Quenching",
-        "Multiphase structure"
+        "Multiphase structure",
+        "Recommended articles"
     ],
-    "Sections": [],
+    "Sections": [
+        {
+            "content": [
+                "The strategy of multiphase engineering has garnered significant interests due to the potential for achieving high energy density and long cycling lifespan towards layer-structured oxide cathode materials. However, challenges such as phase separation arising from different expansion coefficients among phases under high voltage or during prolonged cycling have been a concern. Bridging effect from a spinel phase was in-situ introduced herein via a target element quenching process. The introduced stabilized spinel-bridged phase can create a structural confinement between the O3 and P2 phases and realize interface reconstructing simultaneously by target-element optimization. Based on the experimental and computational results, the multiphase riveting-structured O3/spinel/P2 triphasic structure provides a structural constraint and alleviates the internal stress, which can suppress detrimental irreversible phase changes to enhance the structural reversibility and stability. Beneficial to the optimized ions high diffusion kinetics and lower diffusion barriers, the obtained O3/spinel/P2-Na0.98Ni0.3Cu0.1Ti0.05Mo0.05Mn0.5O2-δSδ demonstrates an impressive initial capacity of 178.6 mAh g-1 at a current density of 10 mA g-1, with a remarkable capacity retention rate of 86.65% over 200 cycles at 50 mA g-1. This innovative approach offers a new solution for preparing structurally stable, high-performance layer-structured oxides with satisfied cycling performance for sodium-ion batteries.",
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Data will be made available on request."
+            ],
+            "name": "Data availability",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "1",
+                "These authors contributed equally to this work.",
+                "View Abstract",
+                "© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies."
+            ],
+            "name": "Cited by (0)",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "No articles found.",
+                "About ScienceDirect",
+                "Remote access",
+                "Advertise",
+                "Contact and support",
+                "Terms and conditions",
+                "Privacy policy",
+                "Cookies are used by this site. Cookie Settings",
+                "All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply."
+            ],
+            "name": "Recommended articles",
+            "type": "section_h2"
+        }
+    ],
     "Title": "Constructing multiphase junction towards layer-structured cathode material for enhanced sodium ion batteries"
 }

@@ -1,0 +1,765 @@
+2025-04-22 12:11:03 - INFO - Processing files in directory: articles_20250313_500_json, number of files: 353
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.chemphys.2025.112664.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3nr04300b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3nr04300b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s12274-023-6394-3.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.ensm.2024.103424.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s40843-024-3041-3.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.6b11544.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.6b11544.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-chem.201705855.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-chem.201705855.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cclet.2023.109267.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c6cc00065g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4cc03585b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.ces.2024.120671.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3sc03498d.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3sc03498d.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3sc03498d.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.matlet.2024.137189.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.1c16957.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.1c16957.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.1c16957.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b10312.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b10312.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b10312.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-srep35620.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-srep35620.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.4c03597.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-cssc.201900719.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-cssc.201900719.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsnano.1c07231.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsnano.1c07231.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsnano.1c07231.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsomega.7b00548.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsomega.7b00548.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsomega.7b00548.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s10854-025-14464-0.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s10854-025-14464-0.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s10854-025-14464-0.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cej.2023.146090.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.0c14294.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.0c14294.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.0c14294.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s10971-024-06614-3.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s10971-024-06614-3.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s10971-024-06614-3.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jmst.2024.05.009.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s10854-024-13019-z.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s10854-024-13019-z.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s10854-024-13019-z.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c9nr02542a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c9nr02542a.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c9nr02542a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.4c00968.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jechem.2024.05.005.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41598-017-00346-x.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41598-017-00346-x.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d5cc00585j.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b03059.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b03059.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b03059.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c8dt02308e.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c8dt02308e.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c8dt02308e.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cej.2024.158150.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.cej.2024.158150.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1016-j.cej.2024.158150.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2024.111491.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.7b01366.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b09703.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b09703.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b09703.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-024-44855-6.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-024-44855-6.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b16324.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b16324.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b16324.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-023-39384-7.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-023-39384-7.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.langmuir.4c05017.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.langmuir.4c05017.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.langmuir.4c05017.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-021-22523-3.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-021-22523-3.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3ta04941h.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3ta04941h.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3ta04941h.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3ra01755a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3ra01755a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.5b10182.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.5b10182.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.5b10182.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c8nr06998k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c16665.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c16665.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c16665.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2020.04.096.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c06295.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c06295.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.2c06295.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s40820-021-00756-7.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s40820-021-00756-7.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s40820-021-00756-7.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jechem.2024.03.055.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b03648.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b03648.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b03648.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s10853-024-09373-2.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s10853-024-09373-2.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s10853-024-09373-2.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jelechem.2024.118557.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3ta02291a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3ta02291a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ta03554b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ta03554b.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4ta03554b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-anie.202211866.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-anie.202211866.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2024.06.080.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b22452.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b22452.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b22452.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b14560.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b14560.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b14560.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3ya00563a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3ya00563a.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3ya00563a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d1dt00243k.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d1dt00243k.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d1dt00243k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d2nr00691j.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d2nr00691j.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d2nr00691j.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.matchemphys.2023.127837.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adfm.201803896.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-adfm.201803896.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-adfm.201803896.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jelechem.2023.117731.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsomega.4c00297.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsomega.4c00297.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsomega.4c00297.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jallcom.2023.171196.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2023.01.092.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.3c07402.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.3c07402.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.3c07402.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ee05305b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ee05305b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c5cc08754f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s40820-021-00686-4.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s40820-021-00686-4.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.ensm.2024.103848.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2020.04.074.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3qi01884a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3qi01884a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b11157.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b11157.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b11157.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ta03267e.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ta03267e.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4ta03267e.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adma.202100210.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-adma.202100210.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-ente.202000880.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-ente.202000880.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-ente.202000880.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.0c01652.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.0c01652.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.0c01652.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.5b10875.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.5b10875.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.5b10875.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.isci.2023.106642.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.isci.2023.106642.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1016-j.isci.2023.106642.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c18772.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c18772.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202102400.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202102400.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3mh00982c.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3mh00982c.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c01894.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c01894.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c01894.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c06039.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c06039.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c06039.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d0nr04843g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d0nr04843g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3dt00365e.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3dt00365e.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3dt00365e.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ta05262e.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ta05262e.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4ta05262e.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202207397.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202207397.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.carbon.2024.119836.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adma.201800492.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.inorgchem.3c02546.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.inorgchem.3c02546.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c15359.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c15359.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.2c15359.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c08082.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c08082.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c08082.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b22746.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b22746.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b22746.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jpowsour.2023.233577.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.jpowsour.2023.233577.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1016-j.jpowsour.2023.233577.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-srep26246.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-srep26246.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1038-srep26246.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.matchemphys.2025.130412.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c7cp06998g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c7cp06998g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c7cp06998g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adma.202108304.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-adma.202108304.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d1dt04333a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d1dt04333a.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d1dt04333a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.matchemphys.2024.130231.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2024.114590.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3sc06640a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3sc06640a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.chemmater.3c01196.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.chemmater.3c01196.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.chemmater.3c01196.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b09882.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b09882.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202208291.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202208291.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jpowsour.2024.234730.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.jpowsour.2024.234730.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1016-j.jpowsour.2024.234730.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.matlet.2023.134846.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.0c20542.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.0c20542.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.0c20542.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3nr03597b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3nr03597b.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3nr03597b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jallcom.2025.178713.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.7b13096.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.7b13096.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ta04786a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ta04786a.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4ta04786a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.electacta.2023.143245.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.ensm.2024.103971.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s12598-023-02447-1.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s12598-023-02447-1.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s12598-023-02447-1.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c04795.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c04795.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c04795.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2023.109801.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsomega.4c01966.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsomega.4c01966.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d1ra00048a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d1ra00048a.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d1ra00048a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4nr01786b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4nr01786b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c12929.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c12929.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c12929.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adma.202105404.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-adma.202105404.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2024.05.082.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3dt04194h.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3dt04194h.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.3c04208.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-024-50751-w.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-024-50751-w.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2024.113062.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s11664-025-11765-2.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s11664-025-11765-2.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s11664-025-11765-2.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cej.2024.155640.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202006767.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202006767.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s11051-023-05791-6.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s11051-023-05791-6.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s11051-023-05791-6.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.4c17713.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.4c17713.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41598-018-22279-9.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41598-018-22279-9.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.201903723.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.201903723.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-smll.201903723.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.6b10782.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.6b10782.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-jacs.6b10782.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-chem.202203586.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.0c04513.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.0c04513.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.0c04513.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.1c03285.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.nanolett.1c03285.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202300188.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202300188.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsomega.9b03835.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsomega.9b03835.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsomega.9b03835.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4cc00642a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d5ra00119f.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d5ra00119f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.nanoen.2024.109562.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.gee.2024.09.007.json
+2025-04-22 12:11:03 - ERROR - Error processing 10.1016-j.gee.2024.09.007.json: string indices must be integers
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4cc02630f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4mh00333k.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4mh00333k.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4mh00333k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2020.03.063.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d2dt03123j.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d2dt03123j.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d2dt03123j.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jpowsour.2024.235141.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.apsusc.2023.158686.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.2c02177.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.6b13179.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.6b13179.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.6b13179.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsnano.2c05662.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsnano.2c05662.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.ceramint.2024.06.020.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b13160.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b13160.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b13160.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b06760.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b06760.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b06760.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.inorgchem.9b00116.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.inorgchem.9b00116.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.inorgchem.9b00116.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ee00993b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ee00993b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s12221-024-00522-7.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s12221-024-00522-7.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s12221-024-00522-7.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202200177.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202200177.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-smll.202200177.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b03571.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b03571.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b03571.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c9ra08558k.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c9ra08558k.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c9ra08558k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-019-09933-0.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-019-09933-0.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s11581-023-05235-0.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s11581-023-05235-0.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s11581-023-05235-0.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jallcom.2023.170328.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-advs.201600112.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-advs.201600112.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-advs.201600112.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.langmuir.4c02868.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.langmuir.4c02868.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.langmuir.4c02868.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c23236.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c23236.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.2c23236.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2024.112886.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-025-57310-x.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-025-57310-x.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.3c06868.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.3c06868.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.3c06868.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.apenergy.2023.121639.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d5ta00173k.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d5ta00173k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d5ra00107b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d5ra00107b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.inorgchem.3c00948.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.inorgchem.3c00948.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d2ra08207a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d2ra08207a.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d2ra08207a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-022-28176-0.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-022-28176-0.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c10189.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c10189.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c10189.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.9b03467.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.9b03467.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.4c01408.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4nr03820g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4nr03820g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4nr03820g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c03971.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c03971.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c03971.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsmaterialsau.1c00035.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsmaterialsau.1c00035.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsmaterialsau.1c00035.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b01888.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b01888.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b01888.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s40820-019-0332-7.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s40820-019-0332-7.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s40820-019-0332-7.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.apsusc.2024.160499.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b21213.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b21213.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b21213.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c8nr06675b.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c8nr06675b.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c8nr06675b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.7b19138.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.7b19138.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.7b19138.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4qm00318g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4qm00318g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4qm00318g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adma.202106565.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-adma.202106565.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-adma.202106565.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3cc02610h.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.0c23069.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.0c23069.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.0c23069.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-018-07595-y.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-018-07595-y.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4nr05375c.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4nr05375c.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4nr05375c.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3qi01397a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3qi01397a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cplett.2023.140499.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2024.113563.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b21365.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b21365.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b21365.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41467-017-00211-5.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41467-017-00211-5.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.1c14738.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.1c14738.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.1c14738.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsnano.4c17035.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsnano.4c17035.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.mtchem.2023.101540.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.1c01595.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3na00930k.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3na00930k.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3na00930k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jallcom.2024.174127.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.201903259.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.201903259.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-smll.201903259.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c11165.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c11165.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c9ra09020g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c8cc04426k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cej.2025.160010.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.cej.2025.160010.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1016-j.cej.2025.160010.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.1c04492.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.nanolett.1c04492.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c05521.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c05521.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.2c05521.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c07504.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c07504.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c07504.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d2dt00958g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d2dt00958g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d2dt00958g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jallcom.2024.177048.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.7b04478.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.7b04478.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.7b04478.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s11581-023-05020-z.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s11581-023-05020-z.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s11581-023-05020-z.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adma.201700606.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2024.01.165.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2021.10.007.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.ensm.2024.103925.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.1c08632.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.1c08632.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.1c08632.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202104293.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202104293.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.5b13273.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.5b13273.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-jacs.5b13273.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3ta06034a.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3ta06034a.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3ta06034a.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jelechem.2024.118070.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202200694.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202200694.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-smll.202200694.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-anie.202216450.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-anie.202216450.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c9cc08221b.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.langmuir.6b02870.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.langmuir.6b02870.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.langmuir.6b02870.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ta07755e.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ta07755e.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s13369-023-08300-y.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s13369-023-08300-y.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c20642.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c20642.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4cc05088f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2025.01.182.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.4c00702.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.4c00702.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.jpclett.2c03061.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.5b12620.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.5b12620.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.5b12620.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c14597.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c14597.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c14597.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsnano.7b02136.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsnano.7b02136.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.ensm.2024.103303.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202003268.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202003268.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b22745.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b22745.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b22745.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cej.2024.158006.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s11581-023-05212-7.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s11581-023-05212-7.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s11581-023-05212-7.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41598-020-68838-x.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41598-020-68838-x.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1038-s41598-020-68838-x.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.carbon.2023.118555.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d1nr05521f.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d1nr05521f.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d1nr05521f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.7b15659.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.7b15659.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.7b15659.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2024.09.141.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s10751-024-02141-3.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s10751-024-02141-3.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s10751-024-02141-3.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41893-024-01266-1.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41893-024-01266-1.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1038-s41598-024-54214-6.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1038-s41598-024-54214-6.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.inorgchem.3c02974.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.inorgchem.3c02974.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c06551.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c06551.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.2c06551.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3nj05803d.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3nj05803d.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c07897.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c07897.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.2c07897.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d0dt04387g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d0dt04387g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d0dt04387g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c7cp01947e.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c7cp01947e.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c7cp01947e.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cclet.2024.110246.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c14093.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c14093.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jechem.2024.10.058.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jpowsour.2024.235703.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.5b12148.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.5b12148.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.5b12148.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.0c00386.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.0c00386.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.0c00386.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ce01209g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.4c00842.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cej.2025.159402.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3cc00614j.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jpowsour.2024.235406.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s12598-024-03014-y.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s12598-024-03014-y.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s12598-024-03014-y.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s12598-023-02449-z.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s12598-023-02449-z.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s12598-023-02449-z.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s11664-024-11613-9.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s11664-024-11613-9.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s11664-024-11613-9.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jelechem.2023.117801.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.7b16402.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.7b16402.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.7b16402.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.3c07118.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.3c07118.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.3c07118.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsomega.4c06248.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsomega.4c06248.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsomega.4c06248.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s40843-023-2493-9.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jpowsour.2025.236171.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.4c02644.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jallcom.2023.172977.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202100146.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202100146.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-smll.202100146.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-cssc.201900582.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-cssc.201900582.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.3c03340.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.3c03340.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.3c03340.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.201804158.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.201804158.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d4ta01137f.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d4ta01137f.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d4ta01137f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-anie.202216174.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-anie.202216174.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsnano.4c18519.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsnano.4c18519.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsnano.4c18519.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c14973.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c14973.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c14973.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2023.09.057.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.7b14673.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d0nr04262e.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d0nr04262e.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d0nr04262e.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2024.08.054.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s10008-023-05706-4.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s10008-023-05706-4.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s10008-023-05706-4.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smll.202102618.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smll.202102618.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-advs.202200023.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.1c17466.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.1c17466.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.1c17466.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.1c06058.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.1c06058.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-jacs.1c06058.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d0nr07230c.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d0nr07230c.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d0nr07230c.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s40820-024-01560-9.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s40820-024-01560-9.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s40820-024-01560-9.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.4c09379.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.4c09379.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3ra07050f.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3ra07050f.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3ra07050f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.nanolett.5b03903.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2023.107504.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.8b05618.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.8b05618.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.8b05618.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-adma.202108985.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d5cc00346f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.apsusc.2024.159474.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.apsusc.2024.159474.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.langmuir.4c03504.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.langmuir.4c03504.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.langmuir.4c03504.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c7nr00793k.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c7nr00793k.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c7nr00793k.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s42823-024-00739-9.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s42823-024-00739-9.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s42823-024-00739-9.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.elecom.2025.107883.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.elecom.2025.107883.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1016-j.elecom.2025.107883.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.2c15654.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.2c15654.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.2c15654.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2022.09.065.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.chemmater.1c00248.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.chemmater.1c00248.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.chemmater.1c00248.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c03425.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c03425.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c03425.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c09706.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c09706.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.3c12815.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.3c12815.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsnano.4c02046.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsnano.4c02046.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsnano.4c02046.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-cssc.201902013.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-cssc.201902013.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.0c11975.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.0c11975.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.0c11975.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.cej.2023.144237.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2020.10.044.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d1ra02092g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d1ra02092g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d1ra02092g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c7dt00540g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c7dt00540g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c7dt00540g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jechem.2024.06.003.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-anie.201912964.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-anie.201912964.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b21925.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b21925.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b21925.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3cc05218d.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.9b17952.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.9b17952.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.9b17952.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1007-s13391-024-00486-z.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1007-s13391-024-00486-z.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1007-s13391-024-00486-z.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.1c19199.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.1c19199.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.1c19199.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c9na00773c.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c9na00773c.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c9na00773c.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d2nh00488g.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d2nh00488g.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d2nh00488g.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.est.2023.110058.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c7dt03303f.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-c7dt03303f.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c7dt03303f.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acs.inorgchem.3c00646.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acs.inorgchem.3c00646.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acs.inorgchem.3c00646.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.6b03757.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.6b03757.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.6b03757.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1002-smtd.202001050.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1002-smtd.202001050.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1002-smtd.202001050.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jcis.2024.08.188.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.elecom.2023.107651.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1016-j.elecom.2023.107651.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1016-j.jpowsour.2024.235186.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-c9nr00146h.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-c9nr00146h.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-jacs.4c01787.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-jacs.4c01787.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1021-acsami.4c17755.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1021-acsami.4c17755.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1021-acsami.4c17755.json
+2025-04-22 12:11:03 - INFO - Successfully processed 10.1039-d3ra08714j.json
+2025-04-22 12:11:03 - INFO - Results section found in 10.1039-d3ra08714j.json
+2025-04-22 12:11:03 - INFO - Experimental section found in 10.1039-d3ra08714j.json
+2025-04-22 12:11:03 - INFO - Total files processed: 353
+2025-04-22 12:11:03 - INFO - Empty files: 0
+2025-04-22 12:11:03 - INFO - Files with results section: 242
+2025-04-22 12:11:03 - INFO - Files with experimental section: 165

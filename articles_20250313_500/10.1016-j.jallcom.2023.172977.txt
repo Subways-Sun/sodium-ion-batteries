@@ -1,8 +1,185 @@
-<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838823042809</prism:url><dc:identifier>doi:10.1016/j.jallcom.2023.172977</dc:identifier><eid>1-s2.0-S0925838823042809</eid><prism:doi>10.1016/j.jallcom.2023.172977</prism:doi><pii>S0925-8388(23)04280-9</pii><dc:title>Ca-doped Na-site NaNi1/3Fe1/3Mn1/3O2 as a high-performance cathode material for sodium ion batteries </dc:title><prism:publicationName>Journal of Alloys and Compounds</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09258388</prism:issn><prism:volume>976</prism:volume><prism:startingPage>172977</prism:startingPage><prism:pageRange>172977</prism:pageRange><articleNumber>172977</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-03-05</prism:coverDate><prism:coverDisplayDate>5 March 2024</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Tao, Qingdong</dc:creator><dc:creator>Ding, Haiyang</dc:creator><dc:creator>Zhao, Haomiao</dc:creator><dc:creator>Huang, Junjie</dc:creator><dc:creator>Dai, Binghan</dc:creator><dc:creator>Li, Jing</dc:creator><dc:description>
-                  O3-type layered transition metal oxide NaNi1/3Fe1/3Mn1/3O2 (NFM) has the advantages of high theoretical specific capacity, simple synthesis method and low cost, which is an ideal cathode material for sodium ion batteries. However, because of its unstable lamellar structure and poor Na+ diffusion channels, the cycle performance and rate performance of NFM electrode materials are poor. In this work, Ca0.05Na0.9Ni1/3Fe1/3Mn1/3O2 (Ca-NFM) electrode materials with excellent electrochemical performance were prepared by the modification strategy of Ca2+ doping to replace part of Na+. Calculations show that Ca2+ successfully occupies part of the Na sites, which leads to an increase in the Na layer thickness and thus enhances the Na+ diffusion kinetics. Tests on Ca-NFM electrodes in the charged state show that the doped non-electrochemically active Ca2+ is firmly stabilized in the Na layer and supports the laminar body structure, which in turn enhances the cycling performance of the material. The capacity retention of Ca-NFM electrode with 200 cycles at 1 C was 87.65%, while the capacity retention of NFM electrode under the same conditions was only 66.73%. The Ca-NFM electrode also performs significantly better than the NFM electrode in terms of rate performance. It has been shown that Ca doping also increases the upper limit of the voltage window of the electrode, which provides a significant capacity advantage while maintaining excellent cycling performance.
-               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Sodium-ion battery</dcterms:subject><dcterms:subject>Ca-doped</dcterms:subject><dcterms:subject>NaNi1/3Fe1/3Mn1/3O2
-                  </dcterms:subject><dcterms:subject>High stability</dcterms:subject><dcterms:subject>High Performance</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838823042809" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838823042809" rel="scidir"/></coredata><scopus-id>85178666595</scopus-id><scopus-eid>2-s2.0-85178666595</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85178666595" rel="abstract"/><originalText><xocs:doc><xocs:meta><xocs:open-access xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
-                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                  xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
-   <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
-</xocs:open-access><xocs:available-online-date xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" yyyymmdd="20231128">2023-11-28</xocs:available-online-date></xocs:meta></xocs:doc></originalText></full-text-retrieval-response>
+<html lang="en-US"><head>
+      <meta name="citation_pii" content="S0925838823042809">
+<meta name="citation_id" content="172977">
+<meta name="citation_issn" content="0925-8388">
+<meta name="citation_volume" content="976">
+<meta name="citation_publisher" content="Elsevier">
+<meta name="citation_firstpage" content="172977">
+<meta name="citation_journal_title" content="Journal of Alloys and Compounds">
+<meta name="citation_type" content="JOUR">
+<meta name="citation_doi" content="10.1016/j.jallcom.2023.172977">
+<meta name="dc.identifier" content="10.1016/j.jallcom.2023.172977">
+<meta name="citation_article_type" content="Full-length article">
+<meta property="og:description" content="O3-type layered transition metal oxide NaNi1/3Fe1/3Mn1/3O2 (NFM) has the advantages of high theoretical specific capacity, simple synthesis method and…">
+<meta property="og:image" content="https://ars.els-cdn.com/content/image/1-s2.0-S0925838825X00104-cov150h.gif">
+<meta name="citation_title" content="Ca-doped Na-site NaNi1/3Fe1/3Mn1/3O2 as a high-performance cathode material for sodium ion batteries">
+<meta property="og:title" content="Ca-doped Na-site NaNi1/3Fe1/3Mn1/3O2 as a high-performance cathode material for sodium ion batteries">
+<meta name="citation_publication_date" content="2024/03/05">
+<meta name="citation_online_date" content="2023/11/28">
+<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE,NOCACHE,NOODP,NOYDIR">
+      <title>Ca-doped Na-site NaNi1/3Fe1/3Mn1/3O2 as a high-performance cathode material for sodium ion batteries - ScienceDirect</title>
+      <link rel="canonical" href="https://www.sciencedirect.com/science/article/pii/S0925838823042809">
+      <meta name="tdm-reservation" content="1">
+      <meta name="tdm-policy" content="https://www.elsevier.com/tdm/tdmrep-policy.json">
+      <meta property="og:type" content="article">
+      <meta name="viewport" content="initial-scale=1">
+      <meta name="SDTech" content="Proudly brought to you by the SD Technology team">
+      <script type="6acff639ab04cb9ba52e7f3e-text/javascript">(function newRelicBrowserProSPA() {
+  ;
+  window.NREUM || (NREUM = {});
+  NREUM.init = {
+    privacy: {
+      cookies_enabled: true
+    },
+    ajax: {
+      deny_list: ["bam-cell.nr-data.net"]
+    }
+  };
+  ;
+  NREUM.loader_config = {
+    accountID: "2128461",
+    trustKey: "2038175",
+    agentID: "1118783207",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181"
+  };
+  ;
+  NREUM.info = {
+    beacon: "bam.nr-data.net",
+    errorBeacon: "bam.nr-data.net",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181",
+    sa: 1
+  };
+  ; /*! For license information please see nr-loader-spa-1.238.0.min.js.LICENSE.txt */
+  (() => {
+    "use strict";
+
+    var e,
+      t,
+      r = {
+        5763: (e, t, r) => {
+          r.d(t, {
+            P_: () => f,
+            Mt: () => p,
+            C5: () => s,
+            DL: () => v,
+            OP: () => T,
+            lF: () => D,
+            Yu: () => y,
+            Dg: () => h,
+            CX: () => c,
+            GE: () => b,
+            sU: () => _
+          });
+          var n = r(8632),
+            i = r(9567);
+          const o = {
+              beacon: n.ce.beacon,
+              errorBeacon: n.ce.errorBeacon,
+              licenseKey: void 0,
+              applicationID: void 0,
+              sa: void 0,
+              queueTime: void 0,
+              applicationTime: void 0,
+              ttGuid: void 0,
+              user: void 0,
+              account: void 0,
+              product: void 0,
+              extra: void 0,
+              jsAttributes: {},
+              userAttributes: void 0,
+              atts: void 0,
+              transactionName: void 0,
+              tNamePlain: void 0
+            },
+            a = {};
+          function s(e) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            if (!a[e]) throw new Error("Info for ".concat(e, " was never set"));
+            return a[e];
+          }
+          function c(e, t) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            a[e] = (0, i.D)(t, o), (0, n.Qy)(e, a[e], "info");
+          }
+          var u = r(7056);
+          const d = () => {
+              const e = {
+                blockSelector: "[data-nr-block]",
+                maskInputOptions: {
+                  password: !0
+                }
+              };
+              return {
+                allow_bfcache: !0,
+                privacy: {
+                  cookies_enabled: !0
+                },
+                ajax: {
+                  deny_list: void 0,
+                  block_internal: !0,
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                distributed_tracing: {
+                  enabled: void 0,
+                  exclude_newrelic_header: void 0,
+                  cors_use_newrelic_header: void 0,
+                  cors_use_tracecontext_headers: void 0,
+                  allowed_origins: void 0
+                },
+                session: {
+                  domain: void 0,
+                  expiresMs: u.oD,
+                  inactiveMs: u.Hb
+                },
+                ssl: void 0,
+                obfuscate: void 0,
+                jserrors: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                metrics: {
+                  enabled: !0
+                },
+                page_action: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30
+                },
+                page_view_event: {
+                  enabled: !0
+                },
+                page_view_timing: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30,
+                  long_task: !1
+                },
+                session_trace: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                harvest: {
+                  tooManyRequestsDelay: 60
+                },
+                session_replay: {
+                  enabled: !1,
+                  harvestTimeSeconds: 60,
+                  sampleRate: .1,
+                  errorSampleRate: .1,
+                  maskTextSelector: "*",
+                  maskAllInputs: !0,
+                  get blockClass() {
+                    return "nr-block";
+                  },
+                  get ignoreClass() {
+                    return "nr-ignore";
+                  },
+                  get maskTextClass() {
+                    return "nr-mask";
+                  },
+                  get blockSelector() {
+                    return e.blockSelector;
+                  },
+                  set blockSelector(t) {
+                    e.blockSelector += ",".c</script></head></html>

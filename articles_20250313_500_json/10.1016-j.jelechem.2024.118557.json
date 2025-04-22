@@ -1,6 +1,6 @@
 {
     "DOI": null,
-    "Journal": "Journal of Electroanalytical Chemistry",
+    "Journal": null,
     "Keywords": [
         "Sodium-ion battery",
         "NaNi1",
@@ -8,8 +8,42 @@
         "3Mn1",
         "3O2",
         "Zr doping",
-        "Structure stability"
+        "Structure stability",
+        "Recommended articles"
     ],
-    "Sections": [],
+    "Sections": [
+        {
+            "content": [
+                "O3-type NaTMO2 (TM = transition metal) is highly anticipated as a cathode for sodium-ion batteries due to its high theoretical specific capacity and low cost. However, the irreversible phase transition during sodiation/desodiation and the Jahn-Teller effect induced by Mn3+ have hindered its steps towards industrialization. Herein, we propose a doping strategy to enhance the structural stability of O3-type NaNi1/3Fe1/3Mn1/3O2 through Zr doping. On the one hand, the Na+ transport channels are broadened due to the enlarged layer spacing, which accelerates the kinetic processes. On the other hand, Zr doping maintains structural integrity, inhibiting the decay of the layered structure. As a result, the uniquely designed material NNFMZO-6000 exhibited a discharge specific capacity of 113.8 mAh g−1 at 1 C and a capacity retention of 67.54 % after 200 cycles. This work presents an effective modification method to optimize the properties of O3-type NaTMO2 materials.",
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "View Abstract",
+                "© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies."
+            ],
+            "name": "Cited by (0)",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "No articles found.",
+                "About ScienceDirect",
+                "Remote access",
+                "Advertise",
+                "Contact and support",
+                "Terms and conditions",
+                "Privacy policy",
+                "Cookies are used by this site. Cookie Settings",
+                "All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply."
+            ],
+            "name": "Recommended articles",
+            "type": "section_h2"
+        }
+    ],
     "Title": "Zr-doped O3-type NaNi1/3Fe1/3Mn1/3O2 cathodes with enhanced structure stability for sodium-ion batteries"
 }

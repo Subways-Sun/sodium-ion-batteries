@@ -1,21 +1,777 @@
-<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2405829724006743</prism:url><dc:identifier>doi:10.1016/j.ensm.2024.103848</dc:identifier><eid>1-s2.0-S2405829724006743</eid><prism:doi>10.1016/j.ensm.2024.103848</prism:doi><pii>S2405-8297(24)00674-3</pii><dc:title>Dual-site defects engineering to eliminate impurities and optimize reversible reaction kinetics of Na4Fe3(PO4)2P2O7 cathode for superior performance sodium ion batteries </dc:title><prism:publicationName>Energy Storage Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>24058297</prism:issn><prism:volume>73</prism:volume><prism:startingPage>103848</prism:startingPage><prism:pageRange>103848</prism:pageRange><articleNumber>103848</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-11-30</prism:coverDate><prism:coverDisplayDate>November 2024</prism:coverDisplayDate><prism:copyright>© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:copyright><prism:publisher>Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:publisher><dc:creator>Fei, Wenbin</dc:creator><dc:creator>Zhang, Xiaoping</dc:creator><dc:creator>Sun, Keyi</dc:creator><dc:creator>Wang, Yian</dc:creator><dc:creator>Rao, Kexin</dc:creator><dc:creator>Deng, Mengting</dc:creator><dc:creator>Tao, Chengdong</dc:creator><dc:creator>Wu, Ling</dc:creator><dc:creator>Sui, Yulei</dc:creator><dc:description>
-                  Na4Fe3(PO4)2P2O7 is a prominent polyanionic material widely studied as a cathode for sodium-ion batteries, valued for its stable cycling performance and cost-effectiveness. However, the sluggish diffusion kinetics of Na+ associated with electrochemically inert NaFePO4 impurities during synthesis strictly limit the rate performance and energy density of Na4Fe3(PO4)2P2O7. In this study, dual-site defects engineered Na4–2
-                     
-                        x
-                     Fe3–1.5
-                     
-                        y
-                     La
-                        y
-                     (PO4-
-                     
-                        x
-                     Br
-                        x
-                     )2P2O7 cathode materials were synthesized using a facile mechanical activation method, by introducing trace amounts of LaBr3 as additive. Fe defects originating from La doping eliminate the maricite-NaFePO4 inert impurities and Na defects stemming from Br doping optimize the microchemical valence states and ion transport kinetics. The density functional theory demonstrates that Fe/Na dual-site defects in the lattice of Na4Fe3(PO4)2P2O7 reduce band gap and facilitate Na+ migration passageway, thereby leading to a superior rate capability and stable sodium storage performance. Moreover, the sodium storage mechanism of the dual-site defects engineered Na4Fe3(PO4)2P2O7 cathode material is revealed. The optimal dual-site defects engineered cathode sample delivers excellent rate performance (55.2 mAh g-1 at 50 C) and long cycling stability (capacity retention of 93 % after 2000 cycles at 10 C). This study provides a promising strategy for engineering dual-site defects to synthesize impurities-free Na4Fe3(PO4)2P2O7 cathode material with superior electrochemical performance.
-               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Na4Fe3(PO4)2P2O7
-                  </dcterms:subject><dcterms:subject>Dual-site defects</dcterms:subject><dcterms:subject>Sodium storage mechanism</dcterms:subject><dcterms:subject>Impurity elimination</dcterms:subject><dcterms:subject>Sodium ion battery</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2405829724006743" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2405829724006743" rel="scidir"/></coredata><scopus-id>85206796995</scopus-id><scopus-eid>2-s2.0-85206796995</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85206796995" rel="abstract"/><originalText><xocs:doc><xocs:meta><xocs:open-access xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
-                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                  xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
-   <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
-</xocs:open-access><xocs:available-online-date xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" yyyymmdd="20241018">2024-10-18</xocs:available-online-date></xocs:meta></xocs:doc></originalText></full-text-retrieval-response>
+<html lang="en-US"><head>
+      <meta name="citation_pii" content="S2405829724006743">
+<meta name="citation_id" content="103848">
+<meta name="citation_issn" content="2405-8297">
+<meta name="citation_volume" content="73">
+<meta name="citation_publisher" content="Elsevier">
+<meta name="citation_firstpage" content="103848">
+<meta name="citation_journal_title" content="Energy Storage Materials">
+<meta name="citation_type" content="JOUR">
+<meta name="citation_doi" content="10.1016/j.ensm.2024.103848">
+<meta name="dc.identifier" content="10.1016/j.ensm.2024.103848">
+<meta name="citation_article_type" content="Full-length article">
+<meta property="og:description" content="Na4Fe3(PO4)2P2O7 is a prominent polyanionic material widely studied as a cathode for sodium-ion batteries, valued for its stable cycling performance a…">
+<meta property="og:image" content="https://ars.els-cdn.com/content/image/1-s2.0-S2405829724006743-ga1.jpg">
+<meta name="citation_title" content="Dual-site defects engineering to eliminate impurities and optimize reversible reaction kinetics of Na4Fe3(PO4)2P2O7 cathode for superior performance sodium ion batteries">
+<meta property="og:title" content="Dual-site defects engineering to eliminate impurities and optimize reversible reaction kinetics of Na4Fe3(PO4)2P2O7 cathode for superior performance sodium ion batteries">
+<meta name="citation_publication_date" content="2024/11/01">
+<meta name="citation_online_date" content="2024/10/18">
+<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE,NOCACHE,NOODP,NOYDIR">
+      <title>Dual-site defects engineering to eliminate impurities and optimize reversible reaction kinetics of Na4Fe3(PO4)2P2O7 cathode for superior performance sodium ion batteries - ScienceDirect</title>
+      <link rel="canonical" href="https://www.sciencedirect.com/science/article/pii/S2405829724006743">
+      <meta name="tdm-reservation" content="1">
+      <meta name="tdm-policy" content="https://www.elsevier.com/tdm/tdmrep-policy.json">
+      <meta property="og:type" content="article">
+      <meta name="viewport" content="initial-scale=1">
+      <meta name="SDTech" content="Proudly brought to you by the SD Technology team">
+      <script type="e6e138d0e4f4e988dce408be-text/javascript">(function newRelicBrowserProSPA() {
+  ;
+  window.NREUM || (NREUM = {});
+  NREUM.init = {
+    privacy: {
+      cookies_enabled: true
+    },
+    ajax: {
+      deny_list: ["bam-cell.nr-data.net"]
+    }
+  };
+  ;
+  NREUM.loader_config = {
+    accountID: "2128461",
+    trustKey: "2038175",
+    agentID: "1118783207",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181"
+  };
+  ;
+  NREUM.info = {
+    beacon: "bam.nr-data.net",
+    errorBeacon: "bam.nr-data.net",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181",
+    sa: 1
+  };
+  ; /*! For license information please see nr-loader-spa-1.238.0.min.js.LICENSE.txt */
+  (() => {
+    "use strict";
+
+    var e,
+      t,
+      r = {
+        5763: (e, t, r) => {
+          r.d(t, {
+            P_: () => f,
+            Mt: () => p,
+            C5: () => s,
+            DL: () => v,
+            OP: () => T,
+            lF: () => D,
+            Yu: () => y,
+            Dg: () => h,
+            CX: () => c,
+            GE: () => b,
+            sU: () => _
+          });
+          var n = r(8632),
+            i = r(9567);
+          const o = {
+              beacon: n.ce.beacon,
+              errorBeacon: n.ce.errorBeacon,
+              licenseKey: void 0,
+              applicationID: void 0,
+              sa: void 0,
+              queueTime: void 0,
+              applicationTime: void 0,
+              ttGuid: void 0,
+              user: void 0,
+              account: void 0,
+              product: void 0,
+              extra: void 0,
+              jsAttributes: {},
+              userAttributes: void 0,
+              atts: void 0,
+              transactionName: void 0,
+              tNamePlain: void 0
+            },
+            a = {};
+          function s(e) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            if (!a[e]) throw new Error("Info for ".concat(e, " was never set"));
+            return a[e];
+          }
+          function c(e, t) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            a[e] = (0, i.D)(t, o), (0, n.Qy)(e, a[e], "info");
+          }
+          var u = r(7056);
+          const d = () => {
+              const e = {
+                blockSelector: "[data-nr-block]",
+                maskInputOptions: {
+                  password: !0
+                }
+              };
+              return {
+                allow_bfcache: !0,
+                privacy: {
+                  cookies_enabled: !0
+                },
+                ajax: {
+                  deny_list: void 0,
+                  block_internal: !0,
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                distributed_tracing: {
+                  enabled: void 0,
+                  exclude_newrelic_header: void 0,
+                  cors_use_newrelic_header: void 0,
+                  cors_use_tracecontext_headers: void 0,
+                  allowed_origins: void 0
+                },
+                session: {
+                  domain: void 0,
+                  expiresMs: u.oD,
+                  inactiveMs: u.Hb
+                },
+                ssl: void 0,
+                obfuscate: void 0,
+                jserrors: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                metrics: {
+                  enabled: !0
+                },
+                page_action: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30
+                },
+                page_view_event: {
+                  enabled: !0
+                },
+                page_view_timing: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30,
+                  long_task: !1
+                },
+                session_trace: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                harvest: {
+                  tooManyRequestsDelay: 60
+                },
+                session_replay: {
+                  enabled: !1,
+                  harvestTimeSeconds: 60,
+                  sampleRate: .1,
+                  errorSampleRate: .1,
+                  maskTextSelector: "*",
+                  maskAllInputs: !0,
+                  get blockClass() {
+                    return "nr-block";
+                  },
+                  get ignoreClass() {
+                    return "nr-ignore";
+                  },
+                  get maskTextClass() {
+                    return "nr-mask";
+                  },
+                  get blockSelector() {
+                    return e.blockSelector;
+                  },
+                  set blockSelector(t) {
+                    e.blockSelector += ",".concat(t);
+                  },
+                  get maskInputOptions() {
+                    return e.maskInputOptions;
+                  },
+                  set maskInputOptions(t) {
+                    e.maskInputOptions = {
+                      ...t,
+                      password: !0
+                    };
+                  }
+                },
+                spa: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                }
+              };
+            },
+            l = {};
+          function f(e) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            if (!l[e]) throw new Error("Configuration for ".concat(e, " was never set"));
+            return l[e];
+          }
+          function h(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            l[e] = (0, i.D)(t, d()), (0, n.Qy)(e, l[e], "config");
+          }
+          function p(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            var r = f(e);
+            if (r) {
+              for (var n = t.split("."), i = 0; i < n.length - 1; i++) if ("object" != typeof (r = r[n[i]])) return;
+              r = r[n[n.length - 1]];
+            }
+            return r;
+          }
+          const g = {
+              accountID: void 0,
+              trustKey: void 0,
+              agentID: void 0,
+              licenseKey: void 0,
+              applicationID: void 0,
+              xpid: void 0
+            },
+            m = {};
+          function v(e) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            if (!m[e]) throw new Error("LoaderConfig for ".concat(e, " was never set"));
+            return m[e];
+          }
+          function b(e, t) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            m[e] = (0, i.D)(t, g), (0, n.Qy)(e, m[e], "loader_config");
+          }
+          const y = (0, n.mF)().o;
+          var w = r(385),
+            A = r(6818);
+          const x = {
+              buildEnv: A.Re,
+              bytesSent: {},
+              queryBytesSent: {},
+              customTransaction: void 0,
+              disabled: !1,
+              distMethod: A.gF,
+              isolatedBacklog: !1,
+              loaderType: void 0,
+              maxBytes: 3e4,
+              offset: Math.floor(w._A?.performance?.timeOrigin || w._A?.performance?.timing?.navigationStart || Date.now()),
+              onerror: void 0,
+              origin: "" + w._A.location,
+              ptid: void 0,
+              releaseIds: {},
+              session: void 0,
+              xhrWrappable: "function" == typeof w._A.XMLHttpRequest?.prototype?.addEventListener,
+              version: A.q4,
+              denyList: void 0
+            },
+            E = {};
+          function T(e) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            if (!E[e]) throw new Error("Runtime for ".concat(e, " was never set"));
+            return E[e];
+          }
+          function _(e, t) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            E[e] = (0, i.D)(t, x), (0, n.Qy)(e, E[e], "runtime");
+          }
+          function D(e) {
+            return function (e) {
+              try {
+                const t = s(e);
+                return !!t.licenseKey && !!t.errorBeacon && !!t.applicationID;
+              } catch (e) {
+                return !1;
+              }
+            }(e);
+          }
+        },
+        9567: (e, t, r) => {
+          r.d(t, {
+            D: () => i
+          });
+          var n = r(50);
+          function i(e, t) {
+            try {
+              if (!e || "object" != typeof e) return (0, n.Z)("Setting a Configurable requires an object as input");
+              if (!t || "object" != typeof t) return (0, n.Z)("Setting a Configurable requires a model to set its initial properties");
+              const r = Object.create(Object.getPrototypeOf(t), Object.getOwnPropertyDescriptors(t)),
+                o = 0 === Object.keys(r).length ? e : r;
+              for (let a in o) if (void 0 !== e[a]) try {
+                "object" == typeof e[a] && "object" == typeof t[a] ? r[a] = i(e[a], t[a]) : r[a] = e[a];
+              } catch (e) {
+                (0, n.Z)("An error occurred while setting a property of a Configurable", e);
+              }
+              return r;
+            } catch (e) {
+              (0, n.Z)("An error occured while setting a Configurable", e);
+            }
+          }
+        },
+        6818: (e, t, r) => {
+          r.d(t, {
+            Re: () => i,
+            gF: () => o,
+            q4: () => n
+          });
+          const n = "1.238.0",
+            i = "PROD",
+            o = "CDN";
+        },
+        385: (e, t, r) => {
+          r.d(t, {
+            FN: () => a,
+            IF: () => u,
+            Nk: () => l,
+            Tt: () => s,
+            _A: () => o,
+            il: () => n,
+            pL: () => c,
+            v6: () => i,
+            w1: () => d
+          });
+          const n = "undefined" != typeof window && !!window.document,
+            i = "undefined" != typeof WorkerGlobalScope && ("undefined" != typeof self && self instanceof WorkerGlobalScope && self.navigator instanceof WorkerNavigator || "undefined" != typeof globalThis && globalThis instanceof WorkerGlobalScope && globalThis.navigator instanceof WorkerNavigator),
+            o = n ? window : "undefined" != typeof WorkerGlobalScope && ("undefined" != typeof self && self instanceof WorkerGlobalScope && self || "undefined" != typeof globalThis && globalThis instanceof WorkerGlobalScope && globalThis),
+            a = "" + o?.location,
+            s = /iPad|iPhone|iPod/.test(navigator.userAgent),
+            c = s && "undefined" == typeof SharedWorker,
+            u = (() => {
+              const e = navigator.userAgent.match(/Firefox[/\s](\d+\.\d+)/);
+              return Array.isArray(e) && e.length >= 2 ? +e[1] : 0;
+            })(),
+            d = Boolean(n && window.document.documentMode),
+            l = !!navigator.sendBeacon;
+        },
+        1117: (e, t, r) => {
+          r.d(t, {
+            w: () => o
+          });
+          var n = r(50);
+          const i = {
+            agentIdentifier: "",
+            ee: void 0
+          };
+          class o {
+            constructor(e) {
+              try {
+                if ("object" != typeof e) return (0, n.Z)("shared context requires an object as input");
+                this.sharedContext = {}, Object.assign(this.sharedContext, i), Object.entries(e).forEach(e => {
+                  let [t, r] = e;
+                  Object.keys(i).includes(t) && (this.sharedContext[t] = r);
+                });
+              } catch (e) {
+                (0, n.Z)("An error occured while setting SharedContext", e);
+              }
+            }
+          }
+        },
+        8e3: (e, t, r) => {
+          r.d(t, {
+            L: () => d,
+            R: () => c
+          });
+          var n = r(8325),
+            i = r(1284),
+            o = r(4322),
+            a = r(3325);
+          const s = {};
+          function c(e, t) {
+            const r = {
+              staged: !1,
+              priority: a.p[t] || 0
+            };
+            u(e), s[e].get(t) || s[e].set(t, r);
+          }
+          function u(e) {
+            e && (s[e] || (s[e] = new Map()));
+          }
+          function d() {
+            let e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "",
+              t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : "feature";
+            if (u(e), !e || !s[e].get(t)) return a(t);
+            s[e].get(t).staged = !0;
+            const r = [...s[e]];
+            function a(t) {
+              const r = e ? n.ee.get(e) : n.ee,
+                a = o.X.handlers;
+              if (r.backlog && a) {
+                var s = r.backlog[t],
+                  c = a[t];
+                if (c) {
+                  for (var u = 0; s && u < s.length; ++u) l(s[u], c);
+                  (0, i.D)(c, function (e, t) {
+                    (0, i.D)(t, function (t, r) {
+                      r[0].on(e, r[1]);
+                    });
+                  });
+                }
+                delete a[t], r.backlog[t] = null, r.emit("drain-" + t, []);
+              }
+            }
+            r.every(e => {
+              let [t, r] = e;
+              return r.staged;
+            }) && (r.sort((e, t) => e[1].priority - t[1].priority), r.forEach(e => {
+              let [t] = e;
+              a(t);
+            }));
+          }
+          function l(e, t) {
+            var r = e[1];
+            (0, i.D)(t[r], function (t, r) {
+              var n = e[0];
+              if (r[0] === n) {
+                var i = r[1],
+                  o = e[3],
+                  a = e[2];
+                i.apply(o, a);
+              }
+            });
+          }
+        },
+        8325: (e, t, r) => {
+          r.d(t, {
+            A: () => c,
+            ee: () => u
+          });
+          var n = r(8632),
+            i = r(2210),
+            o = r(5763);
+          class a {
+            constructor(e) {
+              this.contextId = e;
+            }
+          }
+          var s = r(3117);
+          const c = "nr@context:".concat(s.a),
+            u = function e(t, r) {
+              var n = {},
+                s = {},
+                d = {},
+                f = !1;
+              try {
+                f = 16 === r.length && (0, o.OP)(r).isolatedBacklog;
+              } catch (e) {}
+              var h = {
+                on: g,
+                addEventListener: g,
+                removeEventListener: function (e, t) {
+                  var r = n[e];
+                  if (!r) return;
+                  for (var i = 0; i < r.length; i++) r[i] === t && r.splice(i, 1);
+                },
+                emit: function (e, r, n, i, o) {
+                  !1 !== o && (o = !0);
+                  if (u.aborted && !i) return;
+                  t && o && t.emit(e, r, n);
+                  for (var a = p(n), c = m(e), d = c.length, l = 0; l < d; l++) c[l].apply(a, r);
+                  var f = b()[s[e]];
+                  f && f.push([h, e, r, a]);
+                  return a;
+                },
+                get: v,
+                listeners: m,
+                context: p,
+                buffer: function (e, t) {
+                  const r = b();
+                  if (t = t || "feature", h.aborted) return;
+                  Object.entries(e || {}).forEach(e => {
+                    let [n, i] = e;
+                    s[i] = t, t in r || (r[t] = []);
+                  });
+                },
+                abort: l,
+                aborted: !1,
+                isBuffering: function (e) {
+                  return !!b()[s[e]];
+                },
+                debugId: r,
+                backlog: f ? {} : t && "object" == typeof t.backlog ? t.backlog : {}
+              };
+              return h;
+              function p(e) {
+                return e && e instanceof a ? e : e ? (0, i.X)(e, c, () => new a(c)) : new a(c);
+              }
+              function g(e, t) {
+                n[e] = m(e).concat(t);
+              }
+              function m(e) {
+                return n[e] || [];
+              }
+              function v(t) {
+                return d[t] = d[t] || e(h, t);
+              }
+              function b() {
+                return h.backlog;
+              }
+            }(void 0, "globalEE"),
+            d = (0, n.fP)();
+          function l() {
+            u.aborted = !0, u.backlog = {};
+          }
+          d.ee || (d.ee = u);
+        },
+        5546: (e, t, r) => {
+          r.d(t, {
+            E: () => n,
+            p: () => i
+          });
+          var n = r(8325).ee.get("handle");
+          function i(e, t, r, i, o) {
+            o ? (o.buffer([e], i), o.emit(e, t, r)) : (n.buffer([e], i), n.emit(e, t, r));
+          }
+        },
+        4322: (e, t, r) => {
+          r.d(t, {
+            X: () => o
+          });
+          var n = r(5546);
+          o.on = a;
+          var i = o.handlers = {};
+          function o(e, t, r, o) {
+            a(o || n.E, i, e, t, r);
+          }
+          function a(e, t, r, i, o) {
+            o || (o = "feature"), e || (e = n.E);
+            var a = t[o] = t[o] || {};
+            (a[r] = a[r] || []).push([e, i]);
+          }
+        },
+        3239: (e, t, r) => {
+          r.d(t, {
+            bP: () => s,
+            iz: () => c,
+            m$: () => a
+          });
+          var n = r(385);
+          let i = !1,
+            o = !1;
+          try {
+            const e = {
+              get passive() {
+                return i = !0, !1;
+              },
+              get signal() {
+                return o = !0, !1;
+              }
+            };
+            n._A.addEventListener("test", null, e), n._A.removeEventListener("test", null, e);
+          } catch (e) {}
+          function a(e, t) {
+            return i || o ? {
+              capture: !!e,
+              passive: i,
+              signal: t
+            } : !!e;
+          }
+          function s(e, t) {
+            let r = arguments.length > 2 && void 0 !== arguments[2] && arguments[2],
+              n = arguments.length > 3 ? arguments[3] : void 0;
+            window.addEventListener(e, t, a(r, n));
+          }
+          function c(e, t) {
+            let r = arguments.length > 2 && void 0 !== arguments[2] && arguments[2],
+              n = arguments.length > 3 ? arguments[3] : void 0;
+            document.addEventListener(e, t, a(r, n));
+          }
+        },
+        3117: (e, t, r) => {
+          r.d(t, {
+            a: () => n
+          });
+          const n = (0, r(4402).Rl)();
+        },
+        4402: (e, t, r) => {
+          r.d(t, {
+            Ht: () => u,
+            M: () => c,
+            Rl: () => a,
+            ky: () => s
+          });
+          var n = r(385);
+          const i = "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";
+          function o(e, t) {
+            return e ? 15 & e[t] : 16 * Math.random() | 0;
+          }
+          function a() {
+            const e = n._A?.crypto || n._A?.msCrypto;
+            let t,
+              r = 0;
+            return e && e.getRandomValues && (t = e.getRandomValues(new Uint8Array(31))), i.split("").map(e => "x" === e ? o(t, ++r).toString(16) : "y" === e ? (3 & o() | 8).toString(16) : e).join("");
+          }
+          function s(e) {
+            const t = n._A?.crypto || n._A?.msCrypto;
+            let r,
+              i = 0;
+            t && t.getRandomValues && (r = t.getRandomValues(new Uint8Array(31)));
+            const a = [];
+            for (var s = 0; s < e; s++) a.push(o(r, ++i).toString(16));
+            return a.join("");
+          }
+          function c() {
+            return s(16);
+          }
+          function u() {
+            return s(32);
+          }
+        },
+        7056: (e, t, r) => {
+          r.d(t, {
+            Bq: () => n,
+            Hb: () => o,
+            oD: () => i
+          });
+          const n = "NRBA",
+            i = 144e5,
+            o = 18e5;
+        },
+        7894: (e, t, r) => {
+          function n() {
+            return Math.round(performance.now());
+          }
+          r.d(t, {
+            z: () => n
+          });
+        },
+        7243: (e, t, r) => {
+          r.d(t, {
+            e: () => o
+          });
+          var n = r(385),
+            i = {};
+          function o(e) {
+            if (e in i) return i[e];
+            if (0 === (e || "").indexOf("data:")) return {
+              protocol: "data"
+            };
+            let t;
+            var r = n._A?.location,
+              o = {};
+            if (n.il) t = document.createElement("a"), t.href = e;else try {
+              t = new URL(e, r.href);
+            } catch (e) {
+              return o;
+            }
+            o.port = t.port;
+            var a = t.href.split("://");
+            !o.port && a[1] && (o.port = a[1].split("/")[0].split("@").pop().split(":")[1]), o.port && "0" !== o.port || (o.port = "https" === a[0] ? "443" : "80"), o.hostname = t.hostname || r.hostname, o.pathname = t.pathname, o.protocol = a[0], "/" !== o.pathname.charAt(0) && (o.pathname = "/" + o.pathname);
+            var s = !t.protocol || ":" === t.protocol || t.protocol === r.protocol,
+              c = t.hostname === r.hostname && t.port === r.port;
+            return o.sameOrigin = s && (!t.hostname || c), "/" === o.pathname && (i[e] = o), o;
+          }
+        },
+        50: (e, t, r) => {
+          function n(e, t) {
+            "function" == typeof console.warn && (console.warn("New Relic: ".concat(e)), t && console.warn(t));
+          }
+          r.d(t, {
+            Z: () => n
+          });
+        },
+        2587: (e, t, r) => {
+          r.d(t, {
+            N: () => c,
+            T: () => u
+          });
+          var n = r(8325),
+            i = r(5546),
+            o = r(8e3),
+            a = r(3325);
+          const s = {
+            stn: [a.D.sessionTrace],
+            err: [a.D.jserrors, a.D.metrics],
+            ins: [a.D.pageAction],
+            spa: [a.D.spa],
+            sr: [a.D.sessionReplay, a.D.sessionTrace]
+          };
+          function c(e, t) {
+            const r = n.ee.get(t);
+            e && "object" == typeof e && (Object.entries(e).forEach(e => {
+              let [t, n] = e;
+              void 0 === u[t] && (s[t] ? s[t].forEach(e => {
+                n ? (0, i.p)("feat-" + t, [], void 0, e, r) : (0, i.p)("block-" + t, [], void 0, e, r), (0, i.p)("rumresp-" + t, [Boolean(n)], void 0, e, r);
+              }) : n && (0, i.p)("feat-" + t, [], void 0, void 0, r), u[t] = Boolean(n));
+            }), Object.keys(s).forEach(e => {
+              void 0 === u[e] && (s[e]?.forEach(t => (0, i.p)("rumresp-" + e, [!1], void 0, t, r)), u[e] = !1);
+            }), (0, o.L)(t, a.D.pageViewEvent));
+          }
+          const u = {};
+        },
+        2210: (e, t, r) => {
+          r.d(t, {
+            X: () => i
+          });
+          var n = Object.prototype.hasOwnProperty;
+          function i(e, t, r) {
+            if (n.call(e, t)) return e[t];
+            var i = r();
+            if (Object.defineProperty && Object.keys) try {
+              return Object.defineProperty(e, t, {
+                value: i,
+                writable: !0,
+                enumerable: !1
+              }), i;
+            } catch (e) {}
+            return e[t] = i, i;
+          }
+        },
+        1284: (e, t, r) => {
+          r.d(t, {
+            D: () => n
+          });
+          const n = (e, t) => Object.entries(e || {}).map(e => {
+            let [r, n] = e;
+            return t(r, n);
+          });
+        },
+        4351: (e, t, r) => {
+          r.d(t, {
+            P: () => o
+          });
+          var n = r(8325);
+          const i = () => {
+            const e = new WeakSet();
+            return (t, r) => {
+              if ("object" == typeof r && null !== r) {
+                if (e.has(r)) return;
+                e.add(r);
+              }
+              return r;
+            };
+          };
+          function o(e) {
+            try {
+              return JSON.stringify(e, i());
+            } catch (e) {
+              try {
+                n.ee.emit("internal-error", [e]);
+              } catch (e) {}
+            }
+          }
+        },
+        3960: (e, t, r) => {
+          r.d(t, {
+            K: () => a,
+            b: () => o
+          });
+          var n = r(3239);
+          function i() {
+            return "undefined" == typeof document || "complete" === document.readyState;
+          }
+          function o(e, t) {
+            if (i()) return e();
+            (0, n.bP)("load", e, t);
+          }
+          function a(e) {
+            if (i()) return e();
+            (0, n.iz)("DOMContentLoaded", e);
+          }
+        },
+        8632: (e, t, r) => {
+          r.d(t, {
+            EZ: () => u,
+            Qy: () => c,
+            ce: () => o,
+            fP: () => a,
+            gG: () => d,
+            mF: () => s
+          });
+          var n = r(7894),
+            i = r(385);
+          const o</script></head></html>

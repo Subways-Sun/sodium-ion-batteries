@@ -1,7 +1,292 @@
-<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2352152X24024721</prism:url><dc:identifier>doi:10.1016/j.est.2024.112886</dc:identifier><eid>1-s2.0-S2352152X24024721</eid><prism:doi>10.1016/j.est.2024.112886</prism:doi><pii>S2352-152X(24)02472-1</pii><dc:title>Unlocking the potential of a chemically modified blue phosphorene as anode materials for high-performance sodium-ion batteries </dc:title><prism:publicationName>Journal of Energy Storage</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>2352152X</prism:issn><prism:volume>97</prism:volume><prism:startingPage>112886</prism:startingPage><prism:pageRange>112886</prism:pageRange><articleNumber>112886</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-09-01</prism:coverDate><prism:coverDisplayDate>1 September 2024</prism:coverDisplayDate><prism:copyright>© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:copyright><prism:publisher>Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:publisher><dc:creator>Regragui, Nohayla</dc:creator><dc:creator>Mansouri, Zouhir</dc:creator><dc:creator>Al-Shami, Ahmed</dc:creator><dc:creator>Mounkachi, Omar</dc:creator><dc:creator>Ez-Zahraouy, Hamid</dc:creator><dc:description>
-                  Blue phosphorene (Blu-Pn) has recently been identified as a new two-dimensional (2D) form of black phosphorus via the epitaxial growth method and has shown the ability to host a substantial amount of Na while serving as an anode in sodium-ion batteries (NIBs). However, its structural instability is an issue that hinders its further exploitability in NIBs. In this paper, we propose to chemically modify the Blu-Pn network by substituting six phosphorus atoms with a carbon source in the form of a C6 ring, constructing a new and robust CP2 nanosheet. Based on the state-of-the-art non-local van der Waals corrected density functional theory and ab initio molecular dynamic (AIMD) simulations, we systematically explore the feasibility of the designed CP2 as a potential anode material for NIBs. Adding a C6 ring in the Blu-Pn lattice reduces its energy gap from 2 eV to 1.3 eV, which disappears after Na adsorption, indicating a conductive character. Attributed to the synergistic effect, the adsorption energy of Na on CP2 nanosheet (−2.22 eV) is greatly decreased in comparison to the pristine carbon source (e.g., graphene with −0.78 eV) and pristine Blu-Pn (−1.85 eV). The Na diffusivity on CP2 at 300 K is predicted to be 4.90 × 10−11 m2/s by AIMD. The specific capacity is up to 604.1 mAh/g, which exceeds that of the commercialized graphite anode (372 mA h/g). Ultimately, the designed electrode provides a small open circuit potential of 0.66 V that falls within a desirable voltage range. This work paves the way for exploring Blu-Pn 2D anode materials for NIBs technology and provides valuable insights into surface chemical modification towards the long-term stability of Blu-Pn.
-               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Blue phosphorene</dcterms:subject><dcterms:subject>2D material</dcterms:subject><dcterms:subject>Anode</dcterms:subject><dcterms:subject>Sodium-ion batteries</dcterms:subject><dcterms:subject>Density functional theory</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2352152X24024721" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2352152X24024721" rel="scidir"/></coredata><scopus-id>85198314185</scopus-id><scopus-eid>2-s2.0-85198314185</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85198314185" rel="abstract"/><originalText><xocs:doc><xocs:meta><xocs:open-access xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd"
-                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                  xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
-   <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
-</xocs:open-access><xocs:available-online-date xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" yyyymmdd="20240712">2024-07-12</xocs:available-online-date></xocs:meta></xocs:doc></originalText></full-text-retrieval-response>
+<html lang="en-US"><head>
+      <meta name="citation_pii" content="S2352152X24024721">
+<meta name="citation_id" content="112886">
+<meta name="citation_issn" content="2352-152X">
+<meta name="citation_volume" content="97">
+<meta name="citation_publisher" content="Elsevier">
+<meta name="citation_firstpage" content="112886">
+<meta name="citation_journal_title" content="Journal of Energy Storage">
+<meta name="citation_type" content="JOUR">
+<meta name="citation_doi" content="10.1016/j.est.2024.112886">
+<meta name="dc.identifier" content="10.1016/j.est.2024.112886">
+<meta name="citation_article_type" content="Full-length article">
+<meta property="og:description" content="Blue phosphorene (Blu-Pn) has recently been identified as a new two-dimensional (2D) form of black phosphorus via the epitaxial growth method and has …">
+<meta property="og:image" content="https://ars.els-cdn.com/content/image/1-s2.0-S2352152X24X00213-cov150h.gif">
+<meta name="citation_title" content="Unlocking the potential of a chemically modified blue phosphorene as anode materials for high-performance sodium-ion batteries">
+<meta property="og:title" content="Unlocking the potential of a chemically modified blue phosphorene as anode materials for high-performance sodium-ion batteries">
+<meta name="citation_publication_date" content="2024/09/01">
+<meta name="citation_online_date" content="2024/07/12">
+<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE,NOCACHE,NOODP,NOYDIR">
+      <title>Unlocking the potential of a chemically modified blue phosphorene as anode materials for high-performance sodium-ion batteries - ScienceDirect</title>
+      <link rel="canonical" href="https://www.sciencedirect.com/science/article/pii/S2352152X24024721">
+      <meta name="tdm-reservation" content="1">
+      <meta name="tdm-policy" content="https://www.elsevier.com/tdm/tdmrep-policy.json">
+      <meta property="og:type" content="article">
+      <meta name="viewport" content="initial-scale=1">
+      <meta name="SDTech" content="Proudly brought to you by the SD Technology team">
+      <script type="55a3d673d10765d37a1895cf-text/javascript">(function newRelicBrowserProSPA() {
+  ;
+  window.NREUM || (NREUM = {});
+  NREUM.init = {
+    privacy: {
+      cookies_enabled: true
+    },
+    ajax: {
+      deny_list: ["bam-cell.nr-data.net"]
+    }
+  };
+  ;
+  NREUM.loader_config = {
+    accountID: "2128461",
+    trustKey: "2038175",
+    agentID: "1118783207",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181"
+  };
+  ;
+  NREUM.info = {
+    beacon: "bam.nr-data.net",
+    errorBeacon: "bam.nr-data.net",
+    licenseKey: "7ac4127487",
+    applicationID: "814813181",
+    sa: 1
+  };
+  ; /*! For license information please see nr-loader-spa-1.238.0.min.js.LICENSE.txt */
+  (() => {
+    "use strict";
+
+    var e,
+      t,
+      r = {
+        5763: (e, t, r) => {
+          r.d(t, {
+            P_: () => f,
+            Mt: () => p,
+            C5: () => s,
+            DL: () => v,
+            OP: () => T,
+            lF: () => D,
+            Yu: () => y,
+            Dg: () => h,
+            CX: () => c,
+            GE: () => b,
+            sU: () => _
+          });
+          var n = r(8632),
+            i = r(9567);
+          const o = {
+              beacon: n.ce.beacon,
+              errorBeacon: n.ce.errorBeacon,
+              licenseKey: void 0,
+              applicationID: void 0,
+              sa: void 0,
+              queueTime: void 0,
+              applicationTime: void 0,
+              ttGuid: void 0,
+              user: void 0,
+              account: void 0,
+              product: void 0,
+              extra: void 0,
+              jsAttributes: {},
+              userAttributes: void 0,
+              atts: void 0,
+              transactionName: void 0,
+              tNamePlain: void 0
+            },
+            a = {};
+          function s(e) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            if (!a[e]) throw new Error("Info for ".concat(e, " was never set"));
+            return a[e];
+          }
+          function c(e, t) {
+            if (!e) throw new Error("All info objects require an agent identifier!");
+            a[e] = (0, i.D)(t, o), (0, n.Qy)(e, a[e], "info");
+          }
+          var u = r(7056);
+          const d = () => {
+              const e = {
+                blockSelector: "[data-nr-block]",
+                maskInputOptions: {
+                  password: !0
+                }
+              };
+              return {
+                allow_bfcache: !0,
+                privacy: {
+                  cookies_enabled: !0
+                },
+                ajax: {
+                  deny_list: void 0,
+                  block_internal: !0,
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                distributed_tracing: {
+                  enabled: void 0,
+                  exclude_newrelic_header: void 0,
+                  cors_use_newrelic_header: void 0,
+                  cors_use_tracecontext_headers: void 0,
+                  allowed_origins: void 0
+                },
+                session: {
+                  domain: void 0,
+                  expiresMs: u.oD,
+                  inactiveMs: u.Hb
+                },
+                ssl: void 0,
+                obfuscate: void 0,
+                jserrors: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                metrics: {
+                  enabled: !0
+                },
+                page_action: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30
+                },
+                page_view_event: {
+                  enabled: !0
+                },
+                page_view_timing: {
+                  enabled: !0,
+                  harvestTimeSeconds: 30,
+                  long_task: !1
+                },
+                session_trace: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                },
+                harvest: {
+                  tooManyRequestsDelay: 60
+                },
+                session_replay: {
+                  enabled: !1,
+                  harvestTimeSeconds: 60,
+                  sampleRate: .1,
+                  errorSampleRate: .1,
+                  maskTextSelector: "*",
+                  maskAllInputs: !0,
+                  get blockClass() {
+                    return "nr-block";
+                  },
+                  get ignoreClass() {
+                    return "nr-ignore";
+                  },
+                  get maskTextClass() {
+                    return "nr-mask";
+                  },
+                  get blockSelector() {
+                    return e.blockSelector;
+                  },
+                  set blockSelector(t) {
+                    e.blockSelector += ",".concat(t);
+                  },
+                  get maskInputOptions() {
+                    return e.maskInputOptions;
+                  },
+                  set maskInputOptions(t) {
+                    e.maskInputOptions = {
+                      ...t,
+                      password: !0
+                    };
+                  }
+                },
+                spa: {
+                  enabled: !0,
+                  harvestTimeSeconds: 10
+                }
+              };
+            },
+            l = {};
+          function f(e) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            if (!l[e]) throw new Error("Configuration for ".concat(e, " was never set"));
+            return l[e];
+          }
+          function h(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            l[e] = (0, i.D)(t, d()), (0, n.Qy)(e, l[e], "config");
+          }
+          function p(e, t) {
+            if (!e) throw new Error("All configuration objects require an agent identifier!");
+            var r = f(e);
+            if (r) {
+              for (var n = t.split("."), i = 0; i < n.length - 1; i++) if ("object" != typeof (r = r[n[i]])) return;
+              r = r[n[n.length - 1]];
+            }
+            return r;
+          }
+          const g = {
+              accountID: void 0,
+              trustKey: void 0,
+              agentID: void 0,
+              licenseKey: void 0,
+              applicationID: void 0,
+              xpid: void 0
+            },
+            m = {};
+          function v(e) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            if (!m[e]) throw new Error("LoaderConfig for ".concat(e, " was never set"));
+            return m[e];
+          }
+          function b(e, t) {
+            if (!e) throw new Error("All loader-config objects require an agent identifier!");
+            m[e] = (0, i.D)(t, g), (0, n.Qy)(e, m[e], "loader_config");
+          }
+          const y = (0, n.mF)().o;
+          var w = r(385),
+            A = r(6818);
+          const x = {
+              buildEnv: A.Re,
+              bytesSent: {},
+              queryBytesSent: {},
+              customTransaction: void 0,
+              disabled: !1,
+              distMethod: A.gF,
+              isolatedBacklog: !1,
+              loaderType: void 0,
+              maxBytes: 3e4,
+              offset: Math.floor(w._A?.performance?.timeOrigin || w._A?.performance?.timing?.navigationStart || Date.now()),
+              onerror: void 0,
+              origin: "" + w._A.location,
+              ptid: void 0,
+              releaseIds: {},
+              session: void 0,
+              xhrWrappable: "function" == typeof w._A.XMLHttpRequest?.prototype?.addEventListener,
+              version: A.q4,
+              denyList: void 0
+            },
+            E = {};
+          function T(e) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            if (!E[e]) throw new Error("Runtime for ".concat(e, " was never set"));
+            return E[e];
+          }
+          function _(e, t) {
+            if (!e) throw new Error("All runtime objects require an agent identifier!");
+            E[e] = (0, i.D)(t, x), (0, n.Qy)(e, E[e], "runtime");
+          }
+          function D(e) {
+            return function (e) {
+              try {
+                const t = s(e);
+                return !!t.licenseKey && !!t.errorBeacon && !!t.applicationID;
+              } catch (e) {
+                return !1;
+              }
+            }(e);
+          }
+        },
+        9567: (e, t, r) => {
+          r.d(t, {
+            D: () => i
+          });
+          var n = r(50);
+          function i(e, t) {
+            try {
+              if (!e || "object" != typeof e) return (0, n.Z)("Setting a Configurable requires an object as input");
+              if (!t || "object" != typeof t) return (0, n.Z)("Setting a Configurable require</script></head></html>

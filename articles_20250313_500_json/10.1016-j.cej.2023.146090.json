@@ -1,13 +1,7 @@
 {
     "DOI": null,
-    "Journal": "Chemical Engineering Journal",
-    "Keywords": [
-        "Sodium-ion batteries",
-        "O3-type layered oxide cathode",
-        "Al/Cu dual substitution NaNi1/3Fe1/3Mn1/3O2",
-        "Na+ transport kinetics",
-        "Phase transition"
-    ],
+    "Journal": null,
+    "Keywords": [],
     "Sections": [],
-    "Title": "Boosting fast ionic transport and stability of O3-NaNi1/3Fe1/3Mn1/3O2 cathode via Al/Cu synergistically modulating microstructure for high-rate sodium-ion batteries"
+    "Title": null
 }
