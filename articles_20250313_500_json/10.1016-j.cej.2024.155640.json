@@ -1,0 +1,61 @@
+{
+    "DOI": null,
+    "Journal": null,
+    "Keywords": [
+        "Sodium-ion batteries",
+        "Na3V2(PO4)2F3",
+        "Fluorine-loss restrained",
+        "Optimized facet orientation",
+        "Surface energy",
+        "Recommended articles"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Na3V2(PO4)2F3 (NVPF) is considering as a promising cathode material for sodium-ion batteries (SIBs), due to its framework robustness and high working voltage. For NVPF cathodes, the main obstacle of poor conductivity could be well-addressed by carbon hybridization or nano-crystallization strategies. However, carbon compositing process would bring up fluorine-loss issue and the designation of tailor-made nanocomposite remains challenging. Here, we realize the optimal regulation on crystal growth by virtue of a fluorinated ionic liquid usage, which could compensate the fluorine-loss during high-temperature annealing process. As a structural-directing agent, ionic liquid with low surface tension also helps to reduce surficial Gibbs free energy of NVPF crystal, facilitating to reduce the particle size. Meanwhile, the π-cation interaction between reduced graphene oxide (rGO) and cations of ionic liquid is beneficial to fabricate ultrathin rGO-wrapped NVPF nanoplates (I-NVPF@rGO). The tailored I-NVPF@rGO exhibits enhanced conductivity and optimized crystal planes, resulting in excellent rate capability and improved energy density. When coupling with MoS2/SnS/rGO anode, the MoS2/SnS/rGO||I-NVPF@rGO full battery delivers a capacity of 116 mA h g−1 at 0.2 C. This strategy offers valuable insights into the development of sodium-ion batteries."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The tailored I-NVPF@rGO nanocomposite has been prepared by a low-surface-energy strategy. The obtained I-NVPF@rGO shows high electronic and ionic conductivity due to its optimized particle size, refined crystal growth, and the ultrathin conductive rGO network. The fluorinated ionic liquid compensates the fluorine inhibiting the F-loss, which endows the I-NVPF@rGO with high energy density in sodium ion batteries.",
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphic abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Data will be made available on request."
+            ],
+            "name": "Data availability",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "View Abstract",
+                "© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies."
+            ],
+            "name": "Cited by (0)",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "No articles found.",
+                "About ScienceDirect",
+                "Remote access",
+                "Advertise",
+                "Contact and support",
+                "Terms and conditions",
+                "Privacy policy",
+                "Cookies are used by this site. Cookie Settings",
+                "All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply."
+            ],
+            "name": "Recommended articles",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Fluorinated ionic liquid mediated nanostructure with enhanced conductivity and fluorine retention in Na3V2(PO4)2F3 cathode toward high-performance sodium-ion batteries"
+}
