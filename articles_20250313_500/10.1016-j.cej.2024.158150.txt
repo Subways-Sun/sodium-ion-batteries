@@ -1,0 +1,1986 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1385894724096414</prism:url><dc:identifier>doi:10.1016/j.cej.2024.158150</dc:identifier><eid>1-s2.0-S1385894724096414</eid><prism:doi>10.1016/j.cej.2024.158150</prism:doi><pii>S1385-8947(24)09641-4</pii><dc:title>Earth-abundant FeSO4-based conversion-type cathode for rechargeable sodium-ion batteries </dc:title><prism:publicationName>Chemical Engineering Journal</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13858947</prism:issn><prism:volume>503</prism:volume><prism:startingPage>158150</prism:startingPage><prism:pageRange>158150</prism:pageRange><articleNumber>158150</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2025-01-01</prism:coverDate><prism:coverDisplayDate>1 January 2025</prism:coverDisplayDate><prism:copyright>© 2024 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><dc:creator>Moeez, Iqra</dc:creator><dc:creator>Ali, Basit</dc:creator><dc:creator>Nam, Kyung-Wan</dc:creator><dc:creator>Chung, Kyung Yoon</dc:creator><dc:description>
+                  Sodium-ion batteries (SIBs) have gained prominence as the ideal choice for next-generation large-scale energy storage systems owing to advantages such as sodium abundance and cost-effectiveness. However, their synthesis requires harsh conditions such as high pressure and temperature, and the cathode materials exhibit poor electrical conductivity and sluggish kinetics, hindering SIBs from meeting the requirements for practical applications. In this study, a conversion-type Gr/FeSO4 nanocomposite based on earth-abundant and environmentally friendly elements was developed using a high-energy mechanical ball-milling method. The conversion reaction in FeSO4 was triggered via a simple direct-contact pre-sodiation method, wherein the FeSO4 particles were reversibly converted to Fe0 and Na2SO4 and recovered in the next charging process. Meanwhile, graphene in Gr/FeSO4 acted as a conductive matrix that provided additional electron transfer paths, resulting in increased ionic and electronic conductivities and enhanced diffusion kinetics. Owing to these matrices, the as-prepared Gr/FeSO4 nanocomposite exhibited remarkable long-term cyclability. This study highlights the advantages of combining pre-sodiation and conversion reactions for cathodes and demonstrates the feasibility of employing naturally abundant FeSO4 for high-performance SIBs.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Korea Institutes 2024</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc/4.0/</openaccessUserLicense><dcterms:subject>Conversion reaction</dcterms:subject><dcterms:subject>Graphene</dcterms:subject><dcterms:subject>Iron sulphate</dcterms:subject><dcterms:subject>Nanocomposite</dcterms:subject><dcterms:subject>Sodium-ion batteries</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1385894724096414" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1385894724096414" rel="scidir"/></coredata><objects><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="801" height="301" size="79928">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="720" height="590" size="87632">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="769" height="248" size="39547">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="597" height="291" size="34880">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="741" height="470" size="109123">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="9961">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="200" height="164" size="10290">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="71" size="5419">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="107" size="8331">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="139" size="17323">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3548" height="1333" size="581200">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3190" height="2612" size="492503">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3403" height="1097" size="210382">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2642" height="1287" size="165537">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3282" height="2083" size="673753">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="5752818">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894724096414-mmc1.docx?httpAccept=%2A%2F%2A</object></objects><scopus-id>85211052837</scopus-id><scopus-eid>2-s2.0-85211052837</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85211052837" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271942</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291800</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Engineering Journal</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALENGINEERINGJOURNAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20241130">2024-11-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20241130">2024-11-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20241204">2024-12-04</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20241204">2024-12-04</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2025-03-26T14:56:48</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1385894724096414</xocs:eid>
+      <xocs:pii-formatted>S1385-8947(24)09641-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1385894724096414</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cej.2024.158150</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1385894724X00236</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20250326">2025-03-26T19:22:13.334282Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20250101</xocs:date-search-begin>
+      <xocs:year-nav>2025</xocs:year-nav>
+      <xocs:indexeddate epoch="1732984129">2024-11-30T16:28:49.690297Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1385-8947</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13858947</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NST2024</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>503</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>503</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 503</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>150</xocs:sort-order>
+      <xocs:first-fp>158150</xocs:first-fp>
+      <xocs:article-number>158150</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>158150</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20250101</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 January 2025</xocs:cover-date-text>
+      <xocs:cover-date-start>2025-01-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2025</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Length Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>EARTHABUNDANTFESO4BASEDCONVERSIONTYPECATHODEFORRECHARGEABLESODIUMIONBATTERIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MOEEZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental Section</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemistry</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Material characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1512</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1533</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>NITTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>252</xocs:ref-first-fp>
+            <xocs:ref-last-lp>264</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>929</xocs:ref-first-fp>
+            <xocs:ref-last-lp>946</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>PALOMARES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>GOODENOUGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2019</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2029</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>SAWICKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>53154</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>STEVENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>PAUL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>130</xocs:ref-first-fp>
+            <xocs:ref-last-lp>151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>KUBOTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A2538</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A2550</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1938</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1969</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>BALOGUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>162</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>YABUUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-article-number>043501</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5894</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5899</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>YABUUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-article-number>043501</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1952</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21946</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>HWANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3614</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>BARPANDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4358</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>MOEEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41394</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41401</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>WASALATHILAKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>91</xocs:ref-first-fp>
+            <xocs:ref-last-lp>107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>TRESINTSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>FANTAUZZI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MOEEZX2025X158150</xocs:refkey3>
+         <xocs:refkey4ai>MOEEZX2025X158150XI</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-12-14T06:25:01Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Korea Institutes 2024</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2026-12-04T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2026-12-04T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Authors. Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-12-10T20:39:41.684Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>KIST</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2E33270</xocs:funding-id>
+            <xocs:funding-agency-acronym>KIST</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Korea Institute of Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003693</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Research Foundation of Korea</xocs:funding-agency-matched-string>
+            <xocs:funding-id>RS-2024-00404414</xocs:funding-id>
+            <xocs:funding-agency-acronym>NRF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Research Foundation of Korea</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003725</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>MSIT</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Science and ICT, Republic of Korea</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Science and ICT</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-id>GTL24011-000</xocs:funding-id>
+            <xocs:funding-agency-acronym>NST</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Research Council of Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100008783</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This research was supported by the KIST Institutional Program (Project No. 2E33270) and the National Research Foundation of Korea (RS-2024-00404414) funded by the Ministry of Science and ICT, Republic of Korea. This work was also supported by the National Research Council of Science &amp; Technology(NST) grant by the Korea government (MSIT) (No. GTL24011-000).</xocs:funding-text>
+         <xocs:funding-text>This research was supported by the KIST Institutional Program (Project No. 2E33270 ) and the National Research Foundation of Korea ( RS-2024-00404414 ) funded by the Ministry of Science and ICT . This work was also supported by the National Research Council of Science &amp; Technology (NST) grant by the Korea government ( MSIT ) (No. GTL24011-000 ). </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1385-8947(24)09641-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1385894724096414</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1385894724096414</xocs:eid>
+         <xocs:doi>10.1016/j.cej.2024.158150</xocs:doi>
+         <xocs:cid>271942</xocs:cid>
+         <xocs:timestamp>2025-03-26T19:22:13.334282Z</xocs:timestamp>
+         <xocs:cover-date-start>2025-01-01</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NST2024</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/MAIN/application/pdf/f123800cd9c82b983c9d1fa3e6a23a4b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>5216959</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1385894724096414-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/PREVIEW/image/png/4c954bbc3028c1884fe484a45bda23b2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59187</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr5/DOWNSAMPLED/image/jpeg/700cc27eeeb5962bfafbda54e4355160/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79928</xocs:filesize>
+               <xocs:pixel-height>301</xocs:pixel-height>
+               <xocs:pixel-width>801</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr3/DOWNSAMPLED/image/jpeg/cbe644a556168c4ef1d68e1953baf93b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>87632</xocs:filesize>
+               <xocs:pixel-height>590</xocs:pixel-height>
+               <xocs:pixel-width>720</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr4/DOWNSAMPLED/image/jpeg/00cc0a3e63d4e206a3fc7b53aa1f957a/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39547</xocs:filesize>
+               <xocs:pixel-height>248</xocs:pixel-height>
+               <xocs:pixel-width>769</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr1/DOWNSAMPLED/image/jpeg/791f4bbc0012df73858a32bbb9bc084d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34880</xocs:filesize>
+               <xocs:pixel-height>291</xocs:pixel-height>
+               <xocs:pixel-width>597</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr2/DOWNSAMPLED/image/jpeg/bcf2c58dce7f833a0bc27225c3325865/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>109123</xocs:filesize>
+               <xocs:pixel-height>470</xocs:pixel-height>
+               <xocs:pixel-width>741</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr5/THUMBNAIL/image/gif/020523f44901a9a284e5c195cdedb6a1/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9961</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr3/THUMBNAIL/image/gif/6ae340a353d239d3d3158304f531d41f/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10290</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>200</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr4/THUMBNAIL/image/gif/4d1aa6689b8b3b3b6e6c9791d873809f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5419</xocs:filesize>
+               <xocs:pixel-height>71</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr1/THUMBNAIL/image/gif/b0a2bc7cf4c9ade8638356936abdf0a4/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8331</xocs:filesize>
+               <xocs:pixel-height>107</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/gr2/THUMBNAIL/image/gif/4efab9fc4efe7f750ae1bb78c53acead/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17323</xocs:filesize>
+               <xocs:pixel-height>139</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/HIGHRES/image/jpeg/46ce75e741a8703134d7007a2e8e8c08/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>581200</xocs:filesize>
+               <xocs:pixel-height>1333</xocs:pixel-height>
+               <xocs:pixel-width>3548</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/HIGHRES/image/jpeg/cbeb3c0f0522a86bace3daf59cacd78d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>492503</xocs:filesize>
+               <xocs:pixel-height>2612</xocs:pixel-height>
+               <xocs:pixel-width>3190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/HIGHRES/image/jpeg/e0f9b8a50b8a910a64c9088e6f057ca3/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>210382</xocs:filesize>
+               <xocs:pixel-height>1097</xocs:pixel-height>
+               <xocs:pixel-width>3403</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/HIGHRES/image/jpeg/6e71be70ff5ad50ff18dabbf4100b737/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>165537</xocs:filesize>
+               <xocs:pixel-height>1287</xocs:pixel-height>
+               <xocs:pixel-width>2642</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724099807/HIGHRES/image/jpeg/4a893d411f1d67dbc7a302a93afae07a/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>673753</xocs:filesize>
+               <xocs:pixel-height>2083</xocs:pixel-height>
+               <xocs:pixel-width>3282</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894724096414-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894724096414/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/631fa7c1afc8ee318fa8129ee3849dac/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>5752818</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.7">
+         <item-info>
+            <jid>CEJ</jid>
+            <aid>158150</aid>
+            <ce:article-number>158150</ce:article-number>
+            <ce:pii>S1385-8947(24)09641-4</ce:pii>
+            <ce:doi>10.1016/j.cej.2024.158150</ce:doi>
+            <ce:copyright type="other" year="2024">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0015" view="all">Schematic illustrations of the (a) preparation of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite via high-energy ball-milling process and (b) conversion reaction process of Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite during charge/discharge cycling.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894724096414/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">(a) Comparison of XRD patterns of FeSO<ce:inf loc="post">4</ce:inf> and Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite powders. (b) Rietveld refinement of XRD pattern (R<ce:inf loc="post">P</ce:inf> = 8.7 %, R<ce:inf loc="post">wp</ce:inf> = 10.8 %, and χ<ce:sup loc="post">2</ce:sup> = 1.12 %) and FeSO<ce:inf loc="post">4</ce:inf> crystal structure. SEM images of (c) FeSO<ce:inf loc="post">4</ce:inf> and (d) Gr/ FeSO<ce:inf loc="post">4</ce:inf> nanocomposite. (e, f) TEM images of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite indicating the anchoring of FeSO<ce:inf loc="post">4</ce:inf> nanoparticles on graphene.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894724096414/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">(a) Galvanostatic charge–discharge curves of pre-sodiated PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite cycled between 1.0–4.0 V and its corresponding (b) capacity retention for 100 cycles at a C-rate of 0.1 C. (c) Rate capability of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> at various C-rates between 0.1 and 1.0 C. (d) Cyclic voltammogram of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> at a scanning rate of 0.1 mV s<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894724096414/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">Fe-K-edge (a, b) XANES and (c) EXAFS spectra of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> during charge–discharge cycling.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894724096414/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0035" view="all">(a, b) S 2p and (c, d) Na 1 s XPS spectra of Gr/FeSO<ce:inf loc="post">4</ce:inf> (a, c) after pre-sodiation and (b, d) during charging; the black dotted spectra and solid red lines represent the measured spectra and the sum of the peak energies, respectively. (e) <ce:italic>In-situ</ce:italic> XRD pattern of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> electrode during the first electrochemical cycle.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894724096414/gr5" id="lk00025"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Earth-abundant FeSO<ce:inf loc="post">4</ce:inf>-based conversion-type cathode for rechargeable sodium-ion batteries</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1385894724096414-f528cf9a51a02f1a573df7de3fe5180a">
+                  <ce:given-name>Iqra</ce:given-name>
+                  <ce:surname>Moeez</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="c0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-6272-486X" id="au010" author-id="S1385894724096414-297953f6dee1209f143a22ddfa42253f">
+                  <ce:given-name>Basit</ce:given-name>
+                  <ce:surname>Ali</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="c0020">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn2" id="c0025">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S1385894724096414-378b4a047cb5e2eb1797fce41f351d44">
+                  <ce:given-name>Kyung-Wan</ce:given-name>
+                  <ce:surname>Nam</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0030">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af015" id="c0035">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0040">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au020" author-id="S1385894724096414-6b67d35d32518cab050a36285389b99a">
+                  <ce:given-name>Kyung Yoon</ce:given-name>
+                  <ce:surname>Chung</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af020" id="c0050">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0055">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1385894724096414-a3700f5ef03817a7c82f74d2dbc42e11">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Energy Storage Research Centre, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Energy Storage Research Centre</sa:organization>
+                     <sa:organization>Korea Institute of Science and Technology</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:postal-code>02792</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="CUB">Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Energy Storage Research Centre, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1385894724096414-e19d3273cd1d96450063a6e2d65fa4d1">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Energy and Materials Engineering, Dongguk University, Seoul 04620, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Energy and Materials Engineering</sa:organization>
+                     <sa:organization>Dongguk University</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:postal-code>04620</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="CUB">Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Department of Energy and Materials Engineering, Dongguk University, Seoul 04620, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S1385894724096414-b96c324de3341d015c8da1de0db27245">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Advanced Energy and Electronic Materials Research Centre, Dongguk University, Seoul 04620, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Advanced Energy and Electronic Materials Research Centre</sa:organization>
+                     <sa:organization>Dongguk University</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:postal-code>04620</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="CUB">Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx015">Advanced Energy and Electronic Materials Research Centre, Dongguk University, Seoul 04620, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af020" affiliation-id="S1385894724096414-2996fbdbb9a8d5906de9301d25c5e8c1">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Division of Energy and Environment Technology, KIST School, Korea University of Science and Technology, Seoul 02792, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Energy and Environment Technology</sa:organization>
+                     <sa:organization>KIST School</sa:organization>
+                     <sa:organization>Korea University of Science and Technology</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:postal-code>02792</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="CUB">Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx020">Division of Energy and Environment Technology, KIST School, Korea University of Science and Technology, Seoul 02792, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors at: Energy Storage Research Centre, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea (K. Y. Chung); Department of Energy and Materials Engineering, Dongguk University, Seoul 04620, Republic of Korea (K.-W. Nam).</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Energy Storage Research Centre</sa:organization>
+                     <sa:organization>Korea Institute of Science and Technology</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:postal-code>02792</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="CUB">Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="np005" view="all">These authors contributed equally.</ce:note-para>
+               </ce:footnote>
+               <ce:footnote id="fn2">
+                  <ce:label>2</ce:label>
+                  <ce:note-para id="np010" view="all">Present address: Department of Chemistry and Materials Science, School of Chemical Engineering, Aalto University, P.O. Box 16100, Allto FI-00076, Finland.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="11" month="8" year="2024"/>
+            <ce:date-revised day="9" month="11" year="2024"/>
+            <ce:date-accepted day="28" month="11" year="2024"/>
+            
+            <ce:abstract class="author" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Sodium-ion batteries (SIBs) have gained prominence as the ideal choice for next-generation large-scale energy storage systems owing to advantages such as sodium abundance and cost-effectiveness. However, their synthesis requires harsh conditions such as high pressure and temperature, and the cathode materials exhibit poor electrical conductivity and sluggish kinetics, hindering SIBs from meeting the requirements for practical applications. In this study, a conversion-type Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite based on earth-abundant and environmentally friendly elements was developed using a high-energy mechanical ball-milling method. The conversion reaction in FeSO<ce:inf loc="post">4</ce:inf> was triggered via a simple direct-contact pre-sodiation method, wherein the FeSO<ce:inf loc="post">4</ce:inf> particles were reversibly converted to Fe<ce:sup loc="post">0</ce:sup> and Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and recovered in the next charging process. Meanwhile, graphene in Gr/FeSO<ce:inf loc="post">4</ce:inf> acted as a conductive matrix that provided additional electron transfer paths, resulting in increased ionic and electronic conductivities and enhanced diffusion kinetics. Owing to these matrices, the as-prepared Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite exhibited remarkable long-term cyclability. This study highlights the advantages of combining pre-sodiation and conversion reactions for cathodes and demonstrates the feasibility of employing naturally abundant FeSO<ce:inf loc="post">4</ce:inf> for high-performance SIBs.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Conversion reaction</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Graphene</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Iron sulphate</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Nanocomposite</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Sodium-ion batteries</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da005" view="all">
+               <ce:section-title id="st020">Data availability</ce:section-title>
+               <ce:para id="p0025" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Because of their cost-effectiveness and the abundance of the constituent materials, sodium-ion batteries (SIBs) are currently being developed as alternatives to commercialized lithium-ion batteries (LIBs) for large-scale applications <ce:cross-refs refid="b0005 b0010 b0015 b0020 b0025" id="r0005">[1–5]</ce:cross-refs>. Several cutting-edge studies have reported high-performance electrodes composed of earth-abundant and inexpensive elements for application in SIBs <ce:cross-refs refid="b0025 b0030 b0035 b0040 b0045 b0050" id="r0010">[5–10]</ce:cross-refs>. In this regard, Fe exhibits numerous advantages as an electrode material, such as cost-effectiveness owing to its natural abundance, simple refining process, and safety, and has attracted significant attention for enhancing the electrochemical activity of electrochemical energy storage systems <ce:cross-refs refid="b0055 b0060" id="r0015">[11,12]</ce:cross-refs>. Owing to their superior chemical characteristics, significant studies have been conducted on Fe-based electrode materials. However, the Fe-based materials currently used in SIBs experience volume changes and exhibit low conductivities, similar to those used in LIBs <ce:cross-refs refid="b0030 b0045 b0065" id="r0020">[6,9,13]</ce:cross-refs>. Therefore, numerous techniques used for LIBs have been employed to address these problems in SIBs, including nano-sizing and the fabrication of composite materials <ce:cross-refs refid="b0060 b0070" id="r0025">[12,14]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0035" view="all">To date, various Fe-based cathode materials have been reported for SIBs, such as, layered oxides, PBA cathodes, and polyanionic compounds <ce:cross-refs refid="b0060 b0065 b0070 b0075 b0080 b0085 b0090" id="r0030">[12–18]</ce:cross-refs>. It has been observed that energy densities of layered oxides are greater than those of polyanionic compounds and PBAs, and this energy in the layered oxides, <ce:italic>e.g.,</ce:italic> Na<ce:inf loc="post">0.67</ce:inf>Mn<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">2,</ce:inf> NaMn<ce:inf loc="post">0.33</ce:inf>Fe<ce:inf loc="post">0.33</ce:inf>Ni<ce:inf loc="post">0.33</ce:inf>O<ce:inf loc="post">2,</ce:inf> Na<ce:inf loc="post">0.75</ce:inf>(Cu<ce:inf loc="post">0.1</ce:inf>Fe<ce:inf loc="post">0.1</ce:inf>Mn<ce:inf loc="post">0.8</ce:inf>)O<ce:inf loc="post">2,</ce:inf> Na<ce:inf loc="post">0.76</ce:inf>Ni<ce:inf loc="post">0.33</ce:inf>Mn<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.1</ce:inf>Ti<ce:inf loc="post">0.07</ce:inf>O<ce:inf loc="post">2</ce:inf> etc., originates from the high capacity of up to 200 mAh g<ce:sup loc="post">−1</ce:sup>. However, these layered structures suffer from low operating potentials (<ce:italic>i.e.,</ce:italic> the Fe<ce:sup loc="post">4+</ce:sup>/Fe<ce:sup loc="post">3+</ce:sup> redox couple), high irreversible capacities, and structure disorder because of multiple phase transition, leading to voltage decay and cycling instabilities <ce:cross-refs refid="b0075 b0080 b0085" id="r0035">[15–17]</ce:cross-refs>. PBAs (Na<ce:inf loc="post">2</ce:inf>M[Fe(CN)<ce:inf loc="post">6,</ce:inf> M = transition metals) and polyanionic compounds (pyrophosphates, fluorophosphates, and sulfates) exhibit a similar high average operating voltage (<ce:italic>i.e.,</ce:italic> 2.75–3.75 V), but their specific capacity is less than that of layered oxides (<ce:italic>i.e.,</ce:italic> 160 mAh.g<ce:sup loc="post">−1</ce:sup>). In PBA, the reduced coulombuc effecinecy (CE), fast capacity decay, lattice distortion due to presence of Fe(CN<ce:inf loc="post">6</ce:inf>) vacancies and water molecules leads to irreversible phase transition and structure collapse, resulting in capacity fading and a short cycling lifespan. On the other hand, the polyanionic compounds such as, Na<ce:inf loc="post">2</ce:inf>FePO<ce:inf loc="post">4</ce:inf>F, Na<ce:inf loc="post">2</ce:inf>FeP<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7,</ce:inf> Na<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">2</ce:inf>(PO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>, Na<ce:inf loc="post">4</ce:inf>Fe<ce:inf loc="post">3</ce:inf>(PO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>(P<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>), and Na<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">3</ce:inf>(PO<ce:inf loc="post">4</ce:inf>)(P<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>)<ce:hsp sp="0.25"/>are considered to be the most practically promising compounds for sodium storage because of their low-cost, high operating potential, and thermal stability. However, they did not receive significant attention due to their difficult and high-temperature synthesis process <ce:cross-ref refid="b0095" id="c0060">[19]</ce:cross-ref>. Whereas, sulfate ((SO<ce:inf loc="post">4</ce:inf>)<ce:sup loc="post">2-</ce:sup>)-based polyanion compounds, such as, Fe<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3,</ce:inf> and Na<ce:italic>
+                        <ce:inf loc="post">x</ce:inf>
+                     </ce:italic>Fe<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> have the advantage of high operating voltage due to their high electronegativity compared to the other polyanions. However, slow kinetics reaction of these materials is the challenge, which can be overcome by nano-sizing, conductive carbon coating, or forming a protective an interphase layer at the surface <ce:cross-refs refid="b0060 b0090" id="r0040">[12,18]</ce:cross-refs>. Modification of these Fe and sulfate ((SO<ce:inf loc="post">4</ce:inf>)<ce:sup loc="post">2-</ce:sup>)-based materials with carbonaceous materials provides distinct enhancements, such as greater ionic and electronic conductivities, larger contact area between active materials and electrolyte, adjust the significant volume changes, prevent irreversible phase transition, and therefore enhance the electrochemical performance in term of reversible capacity, rate capability, and cycle lifespan. The nanocomposites provide the following advantages: (1) enhanced storage of sodium ions in carbonaceous materials, (2) increased electronic conductivity, and (3) decreased diffusion length of Na ions via nano-sizing <ce:cross-ref refid="b0070" id="c0065">[14]</ce:cross-ref>. Therefore, carbon nanocomposites are an effective strategy for achieving novel electrode materials with significantly improved electrochemical performances compared to their nanocomposite counterparts. However, previous efforts have only focused on applying Fe-based composites as anodes in SIBs; thus far, their application as cathode materials has been lacking.</ce:para>
+                  <ce:para id="p0040" view="all">Herein, for the first time, we propose a low-cost carbon- and Fe-based nanocomposite as the cathode material for SIBs. The unique nanocomposite cathode comprising graphene and FeSO<ce:inf loc="post">4</ce:inf> (hereinafter referred to as Gr/FeSO<ce:inf loc="post">4</ce:inf>) functions via a conversion reaction and exhibited a theoretical specific capacity of ∼ 355 mA g<ce:sup loc="post">−1</ce:sup>. We demonstrated that performing a pre-sodiation process on the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite cathode enabled a reversible conversion reaction during charge/discharge cycles for practically viable SIB devices. During the pre-sodiation process, Na<ce:sup loc="post">+</ce:sup> can be directly inserted into cathode material to compensate for the deficiency of Na ions in the active material <ce:cross-ref refid="b0100" id="c0070">[20]</ce:cross-ref>. In this study, a direct-contact method of pre-sodiation is used, which is considered to be the simplest, fast, economical, and effective method, where a potential difference between the electrode and Na-metal layer produces an electromotive force for the movement of electrons. Meanwhile, Na<ce:sup loc="post">+</ce:sup> from the Na metal move to the active material and contribute to the sodium deficiency. The conversion reaction mechanism of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite was elucidated by using <ce:italic>in-situ</ce:italic> X-ray diffraction (XRD), Fe K- edge X-ray absorption spectroscopy (XAS), transmission electron microscopy (TEM), and X-ray photoelectron spectroscopy (XPS) to systematically investigate the structural and compositional changes during charging and discharging. The combined structural analyses revealed that FeSO<ce:inf loc="post">4</ce:inf> converted to Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and Fe metal upon pre-sodiation.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st030">Results and Discussion</ce:section-title>
+                  <ce:para id="p0045" view="all">A schematic of the preparation of the nano-sized Gr/FeSO<ce:inf loc="post">4</ce:inf> composite and its reaction mechanism is shown in <ce:cross-ref refid="f0005" id="c0075">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>, where single-crystal FeSO<ce:inf loc="post">4</ce:inf> nanoparticles were anchored on the graphene sheets. Such nano-heterostructures of graphene and FeSO<ce:inf loc="post">4</ce:inf> can significantly improve the electronic conductivity of the Gr/FeSO<ce:inf loc="post">4</ce:inf> composite and facilitate Na<ce:sup loc="post">+</ce:sup> diffusion, thereby enhancing the electrochemical performance. In addition, this nano-sizing process provided a larger active surface area, which can promote the facile and reversible conversion reaction that occurs after pre-sodiation. For practical SIB applications, pre-sodiation of the cathode material is highly recommended as the cathode should be Na-rich to counterbalance a Na-deficient anode, such as hard carbon. During pre-sodiation, Na ions can be chemically inserted into the FeSO<ce:inf loc="post">4</ce:inf> structure, resulting in the conversion of FeSO<ce:inf loc="post">4</ce:inf> into metallic Fe<ce:sup loc="post">0</ce:sup> and Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>. In the following electrochemical charging process (<ce:italic>i.e.,</ce:italic> Na<ce:sup loc="post">+</ce:sup> extraction), FeSO<ce:inf loc="post">4</ce:inf> is reversibly recovered, as shown in <ce:cross-ref refid="f0005" id="c0080">Fig. 1</ce:cross-ref>b and Equation.<ce:display>
+                        <ce:formula id="e0005">
+                           <ce:label>(1)</ce:label>
+                           <ce:chem>FeSO<ce:inf loc="post">4</ce:inf> + 2Na<ce:sup loc="post">+</ce:sup> + 2e<ce:sup loc="post">–</ce:sup> ↔ Fe + Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0050" view="all">Several methods have been reported for synthesizing nanoscale materials, including plasma arcing, chemical vapor deposition, electrodeposition, sol–gel synthesis, and high-energy ball milling (HEBM). Among these, high-energy ball milling was used for preparing the Gr/FeSO<ce:inf loc="post">4</ce:inf> composite because of its simplicity and cost-effectiveness <ce:cross-refs refid="b0060 b0070" id="r0045">[12,14]</ce:cross-refs>. To demonstrate the effect of the HEBM process on the material, the physical and structural properties of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite were compared with those of dehydrated FeSO<ce:inf loc="post">4</ce:inf>. XRD patterns with Rietveld refinement and SEM and TEM images of the dehydrated FeSO<ce:inf loc="post">4</ce:inf> and nano-sized Gr/FeSO<ce:inf loc="post">4</ce:inf> are shown in <ce:cross-ref refid="f0010" id="c0085">Figure 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>. From <ce:cross-ref refid="f0010" id="c0090">Figure 2</ce:cross-ref>a, the XRD patterns of the pure phase of FeSO<ce:inf loc="post">4</ce:inf> (black line) obtained after dehydration and the as-prepared nano-sized Gr/FeSO<ce:inf loc="post">4</ce:inf> composite (red line) can be indexed to the triclinic P1 space group (PDF: 17–0873). The Rietveld refinement for Gr/FeSO<ce:inf loc="post">4</ce:inf> is shown in <ce:cross-ref refid="f0010" id="c0095">Figure 2</ce:cross-ref>b; the calculated lattice parameters are a = 5.295 Å, b = 8.068 Å, c = 6.642 Å, α = 89.6°, β = 90.0°, γ = 89.9°, and <ce:italic>V</ce:italic> = 283.719 Å<ce:sup loc="post">3</ce:sup>. The SEM image of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite (<ce:cross-ref refid="f0010" id="c0100">Figure 2</ce:cross-ref>d) reveals a decrease in the particle size (∼ 10–30 nm) after HEBM compared with that of pure FeSO<ce:inf loc="post">4</ce:inf> (<ce:cross-ref refid="f0010" id="c0105">Figure 2</ce:cross-ref>c). This was further confirmed by the TEM images in <ce:cross-ref refid="f0010" id="c0110">Figure 2</ce:cross-ref>e − f; the FeSO<ce:inf loc="post">4</ce:inf> nanoparticles were attached to the surfaces of the graphene sheets, and remained so even after 30 min of sonication during the preparation of the TEM specimen, suggesting strong interactions between the nano-sized FeSO<ce:inf loc="post">4</ce:inf> particles and graphene sheets. Furthermore, Raman, EIS and TGA spectra were measured for nano-sized Gr/FeSO<ce:inf loc="post">4</ce:inf> composite (<ce:cross-ref refid="s0055" id="c0115">Figure S1-S3</ce:cross-ref>), which suggest that the composite is consist of disordered stacked graphene sheets and strongly anchored nano-crystalline FeSO<ce:inf loc="post">4</ce:inf> with improved conductivity and thermal stability.</ce:para>
+                  <ce:para id="p0055" view="all">To observe the electrochemical performance of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite, the first conversion reaction was initiated by pre-sodiation (<ce:cross-ref refid="f0015" id="c0120">Figure 3</ce:cross-ref> and S4). We used the direct-contact method for the pre-sodiation of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite electrodes: the electrodes were directly attached to the Na-metal layer with a small amount of electrolyte (<ce:cross-ref refid="s0055" id="c0125">Figure S4</ce:cross-ref>). TEM images and EDS element maps (<ce:cross-ref refid="s0055" id="c0130">Figure S5</ce:cross-ref>) confirmed the successful intercalation of Na<ce:sup loc="post">+</ce:sup> into the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite. To confirm the content of sodium in the Gr/FeSO<ce:inf loc="post">4</ce:inf>, the atomic percentages were further observed and are shown in <ce:cross-ref refid="s0055" id="c0135">Table S1</ce:cross-ref>. The electrochemical performance of the pre-sodiated Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite (PS-Gr/FeSO<ce:inf loc="post">4</ce:inf>) is shown in <ce:cross-ref refid="f0015" id="c0140">Figure 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>a. An initial charge capacity of 94 mAh g<ce:sup loc="post">−1</ce:sup> was observed at 0.1C (red line) following the intercalation of 0.54Na<ce:sup loc="post">+</ce:sup> during pre-sodiation process. In the next discharge process, PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> attained a maximum discharge capacity of 164mAh g<ce:sup loc="post">−1</ce:sup>, confirming the successful reversible intercalation and deintercalation of 0.9Na<ce:sup loc="post">+</ce:sup> during electrochemical charge/discharge cycling. It is worth noting that the graphene in the Gr/FeSO<ce:inf loc="post">4</ce:inf> composite has a negligible contribution to the total capacity of the cathodes (<ce:cross-ref refid="s0055" id="c0145">Figure S6</ce:cross-ref>), instead enhancing the electrical conductivity of the cathode material. It is important to highlight that PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> exhibited a high capacity of 170 mAh g<ce:sup loc="post">−1</ce:sup> after 10 cycles, confirming that the FeSO<ce:inf loc="post">4</ce:inf> structure and SEI layer is stabilized in the initial cycles with a retention of 48 % after 100 cycles (<ce:cross-ref refid="f0015" id="c0150">Figure 3</ce:cross-ref>b), far exceeding that of pristine FeSO<ce:inf loc="post">4</ce:inf> (<ce:cross-ref refid="s0055" id="c0155">Figure S7</ce:cross-ref>). A fast capacity decay after 10th cycle could be due to thick and non-uniform formation of SEI layer during the pre-sodiation process. Moreover, the electrochemical performance of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> at distinct C-rates of 0.1, 0.2, 0.5, and 1.0C (<ce:cross-ref refid="f0015" id="c0160">Figure 3</ce:cross-ref>c) also confirmed that the strong anchoring of FeSO<ce:inf loc="post">4</ce:inf> particles on the graphene sheets allowed for fast electron transport to FeSO<ce:inf loc="post">4</ce:inf> through the underlying graphene layers, thus enhancing the electrochemical performance <ce:cross-ref refid="b0070" id="c0165">[14]</ce:cross-ref>. In addition, the FeSO<ce:inf loc="post">4</ce:inf> on the surfaces of the graphene sheets functioned as pillars to efficiently stop the close restacking of the graphene sheets, thereby preventing a decrease in their significant active surface areas <ce:cross-ref refid="b0105" id="c0170">[21]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0060" view="all">The reaction mechanism in PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> was identified using CV, as shown in <ce:cross-ref refid="f0015" id="c0175">Figure 3</ce:cross-ref>d. In the first cycle (red line), the cathodic peak at 2.5 V and anodic peak at 3.2 V corresponded to the intercalation and de-intercalation of Na ions into the PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> structure, respectively. In the first cycle, due to insufficient intercalation of sodium ions during pre-sodiation process, redox peaks related to Fe are not prominent; however, a weak but discriminable reduction peak was observed at 1.25 V, indicating the partial reduction of Fe<ce:sup loc="post">2+</ce:sup> to Fe<ce:sup loc="post">0</ce:sup> caused by the conversion reaction during the Na intercalation process. This peak became dominant in the fifth cycle (green line), confirming a reversible redox reaction with reduction and oxidation peaks at 1.25 and 2.27 V, respectively. Meanwhile, the formation of solid electrolyte interphase (SEI) could be observed at a voltage of 1.0 V. These results indicate that the discharge capacity mainly originated from the Fe<ce:sup loc="post">2+</ce:sup>/Fe<ce:sup loc="post">0</ce:sup> redox reaction, and the electrochemical reversibility of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> gradually increased after the initial cycles, which was confirmed by the galvanostatic performance shown in <ce:cross-ref refid="f0015" id="c0180">Figure 3</ce:cross-ref>b. Additionally, the diffusion co-efficient was calculated using the anodic and cathode peak current in the CV curve. For this, the Randles–Sevcik equation was used, as described below:<ce:display>
+                        <ce:formula id="e0010">
+                           <ce:label>(2)</ce:label>
+                           <ce:chem>
+                              <ce:italic>i<ce:inf loc="post">p</ce:inf>
+                              </ce:italic> = (2.69 × 10<ce:sup loc="post">5</ce:sup>)<ce:italic>AD<ce:sup loc="post">1/2</ce:sup>Cn<ce:sup loc="post">3/2</ce:sup>v<ce:sup loc="post">1/2</ce:sup>
+                              </ce:italic>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0065" view="all">Here, <ce:italic>i<ce:inf loc="post">p</ce:inf>
+                     </ce:italic> (mA) is a peak current and <ce:italic>A</ce:italic> (cm<ce:sup loc="post">2</ce:sup>) is an area of electrode. C (mol cm<ce:sup loc="post">−3</ce:sup>) is the molar concentration of Na ions in the electrode, <ce:italic>n</ce:italic> is a number of electrons transferred in the conversion reaction, <ce:italic>v</ce:italic> is a scan rate of CV curve, and D is a diffusion coefficient of sodium ions. The calculated values of D for different <ce:italic>i<ce:inf loc="post">p</ce:inf>
+                     </ce:italic> values lies in the range of 2.65 × 10<ce:sup loc="post">-10</ce:sup> to 3.39 × 10<ce:sup loc="post">-9</ce:sup> cm<ce:sup loc="post">2</ce:sup> s<ce:sup loc="post">−1</ce:sup> upon the charge and discharge process. Similarly, the calculated value of diffusion coefficient from GITT curve (10<ce:sup loc="post">−10</ce:sup> cm<ce:sup loc="post">2</ce:sup> s<ce:sup loc="post">−1</ce:sup>) also indicates improved mobility of sodium ions (<ce:cross-ref refid="s0055" id="c0185">Figure S8</ce:cross-ref>), and found to be comparable with the commercially available layered oxide (10<ce:sup loc="post">-11</ce:sup> cm<ce:sup loc="post">2</ce:sup> s<ce:sup loc="post">−1</ce:sup>), polyanionic compounds (10<ce:sup loc="post">-10</ce:sup> cm<ce:sup loc="post">2</ce:sup> s<ce:sup loc="post">−1</ce:sup>) and PBA (10<ce:sup loc="post">-9</ce:sup> cm<ce:sup loc="post">2</ce:sup> s<ce:sup loc="post">−1</ce:sup>) <ce:cross-refs refid="b0060 b0065 b0070 b0075 b0080 b0085 b0090" id="r0050">[12–18]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0070" view="all">To analyse the effect of the pre-sodiation method on FeSO<ce:inf loc="post">4</ce:inf> and the relevant changes in the oxidation states of Fe in PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> during cycling, we performed XAS, as shown in <ce:cross-ref refid="f0020" id="c0190">Figure 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/>. The X-ray absorption near edge structure (XANES) spectra of the Fe K-edges were observed before and after the pre-sodiation of Gr/FeSO<ce:inf loc="post">4</ce:inf>. After pre-sodiation, the Fe K-edge in <ce:cross-ref refid="f0020" id="c0195">Figure 4</ce:cross-ref>a clearly shifted toward a lower energy level, indicating a change in the oxidation state of Fe<ce:sup loc="post">2+</ce:sup> towards metallic Fe<ce:sup loc="post">0</ce:sup>; this supports our theory that FeSO<ce:inf loc="post">4</ce:inf> undergoes a conversion reaction. This reversible reaction was further confirmed by comparing the XANES spectra of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> during charging and discharging (<ce:cross-ref refid="f0020" id="c0200">Figure 4</ce:cross-ref>b). Note that during the charging process (green line in <ce:cross-ref refid="f0015" id="c0205">Figure 3</ce:cross-ref>b), Fe<ce:sup loc="post">2+</ce:sup> is mainly redox-active for PS-Gr/FeSO<ce:inf loc="post">4</ce:inf>, which recovers after the deintercalation of Na ions. In the next discharge process (purple line), the Fe K-edge underwent a small reversible shift toward a lower energy level, indicating a reversible Fe<ce:sup loc="post">2+</ce:sup>/Fe<ce:sup loc="post">0</ce:sup> redox reaction in PS-Gr/FeSO<ce:inf loc="post">4</ce:inf>. The Fourier transforms of the EXAFS plots for Gr/FeSO<ce:inf loc="post">4</ce:inf> (black line) and PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> (red line) are compared in <ce:cross-ref refid="f0020" id="c0210">Figure 4</ce:cross-ref>c. For PS-Gr/FeSO<ce:inf loc="post">4</ce:inf>, a simultaneous breaking of the Fe–O (<ce:italic>i.e.,</ce:italic> FeSO<ce:inf loc="post">4</ce:inf>) bond and formation of the metallic Fe–Fe (<ce:italic>i.e.,</ce:italic> Fe<ce:sup loc="post">0</ce:sup>) bond after the pre-sodiation process could be observed at 1.57 and 2.53 Å, respectively, confirming the Fe<ce:sup loc="post">2+</ce:sup>/Fe<ce:sup loc="post">0</ce:sup> redox reaction. However, during the charging process <ce:italic>(i.e.,</ce:italic> for PS-Gr/FeSO<ce:inf loc="post">4</ce:inf>_full charge; green line), the Fe–O bond reformed and the Fe–Fe bonds decreased after the de-intercalation of the Na<ce:sup loc="post">+</ce:sup>. This further demonstrates that Na ions were only accommodated in the structure owing to the Fe<ce:sup loc="post">2+</ce:sup>/Fe<ce:sup loc="post">0</ce:sup> redox reaction during the discharge process.</ce:para>
+                  <ce:para id="p0075" view="all">To obtain further insights into the Fe<ce:sup loc="post">2+</ce:sup>/Fe<ce:sup loc="post">0</ce:sup> redox reaction during the conversion process, XPS was performed on PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> (<ce:cross-ref refid="f0025" id="c0215">Figure 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/>). For comparison, the S 2p and O 1 s XPS profiles of pristine FeSO<ce:inf loc="post">4</ce:inf> are shown in <ce:cross-ref refid="s0055" id="c0220">Figure S9</ce:cross-ref>. The S 2p XPS spectra of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> (<ce:cross-ref refid="f0025" id="c0225">Figure 5</ce:cross-ref>a and S9) exhibit two peaks at 168.8 and 170.0 eV, corresponding to the S 2p<ce:inf loc="post">3/2</ce:inf> and S 2p<ce:inf loc="post">1/2</ce:inf> spin–orbit peaks of FeSO<ce:inf loc="post">4</ce:inf>, respectively <ce:cross-ref refid="b0110" id="c0230">[22]</ce:cross-ref>. After pre-sodiation, two additional S 2p peaks were observed at 168.1 and 169.3 eV for PS-Gr/FeSO<ce:inf loc="post">4</ce:inf>, which correspond to the formation of Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> (<ce:cross-ref refid="f0025" id="c0235">Figure 5</ce:cross-ref>a) after the intercalation of Na ions <ce:cross-ref refid="b0110" id="c0240">[22]</ce:cross-ref>. In the subsequent charging process (<ce:italic>i.e.,</ce:italic> for PS- Gr/FeSO<ce:inf loc="post">4</ce:inf>_charge), there was an increase in the intensities of the FeSO<ce:inf loc="post">4</ce:inf> peaks, indicating the reversibility of the conversion reaction from Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> to FeSO<ce:inf loc="post">4</ce:inf> (<ce:cross-ref refid="f0025" id="c0245">Figure 5</ce:cross-ref>b). In <ce:cross-ref refid="f0025" id="c0250">Figure 5</ce:cross-ref>c, the Na 1 s XPS spectrum of the PS-Gr/FeSO<ce:inf loc="post">4</ce:inf> composite exhibits five distinct peaks: the peak at 1069.6 eV is associated with sodium intercalation in graphene (Na–C) <ce:cross-ref refid="b0105" id="c0255">[21]</ce:cross-ref>, the peak at 1070.4 eV with the formation of Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> as a result of the conversion reaction in FeSO<ce:inf loc="post">4</ce:inf> 
+                     <ce:cross-refs id="c0260" refid="b0115 b0120">[23,24]</ce:cross-refs>, and the peaks at 1071.5, 1072.0, and 1072.8 eV with the formation of Na<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>, Na<ce:inf loc="post">2</ce:inf>O, and a NaF-based SEI layer at the surface, which is usually formed during pre-sodiation <ce:cross-ref refid="b0100" id="c0265">[20]</ce:cross-ref>. During the charge process, a decrease in the intensity of the Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> peak was observed in the Na 1 s XPS spectra of PS-Gr/FeSO<ce:inf loc="post">4</ce:inf>_charge (<ce:cross-ref refid="f0025" id="c0270">Figures 5</ce:cross-ref>c − d) during charging, indicating the conversion of Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> to FeSO<ce:inf loc="post">4</ce:inf>. Furthermore, the intensity of Na<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>, Na<ce:inf loc="post">2</ce:inf>O, and NaF peaks in <ce:cross-ref refid="f0025" id="c0275">Figure 5</ce:cross-ref>d and S10, also decreases, suggesting the partial dissolution of SEI layer at high voltage. These results imply that successful conversion of FeSO<ce:inf loc="post">4</ce:inf> to Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> can be achieved via pre-sodiation.</ce:para>
+                  <ce:para id="p0080" view="all">To further investigate the conversion reaction from FeSO<ce:inf loc="post">4</ce:inf> to Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>, <ce:italic>in-situ</ce:italic> XRD was conducted during electrochemical cycling, as shown in <ce:cross-ref refid="f0025" id="c0280">Figure 5</ce:cross-ref>e. Initially, the relative intensity of the Gr/FeSO<ce:inf loc="post">4</ce:inf> peak (200) at 34.0° was not much higher than that of the pristine electrode owing to low crystallinity after rearrangement of the crystal structure during the pre-sodiation process; however, the XRD peaks of the pristine FeSO<ce:inf loc="post">4</ce:inf> phase were less visible as the sodiation proceeded. The structural parameters calculated for the pre-sodiated FeSO<ce:inf loc="post">4</ce:inf> are a = 5.300 Å, b = 8.073 Å, c = 6.716 Å, α = 96.2°, β = 86.5°, γ = 91.7°, and <ce:italic>V</ce:italic> = 284.20 Å<ce:sup loc="post">3</ce:sup>, indicating a volume expansion of 0.17 % compared to the pristine FeSO4. As shown in the XRD plots (<ce:cross-ref refid="f0025" id="c0285">Figure 5</ce:cross-ref>e), two new peaks appeared at 32.2° and 45.5°, which correspond to the formation of Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and metallic Fe<ce:sup loc="post">0</ce:sup>, respectively, owing to the conversion process wherein Gr/FeSO<ce:inf loc="post">4</ce:inf> was rearranged via a decomposition process. During the charging process, the relative intensities of the XRD peaks of Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and metallic Fe<ce:sup loc="post">0</ce:sup> gradually decreased, and the FeSO<ce:inf loc="post">4</ce:inf> phase with low crystallinity was restored. At this stage, the calculated lattice parameters are decreased to a = 5.2951 Å, b = 8.0275 Å, c = 6.716 Å, α = 96.3°, β = 86.5°, γ = 91.8°, and <ce:italic>V</ce:italic> = 283.11 Å<ce:sup loc="post">3</ce:sup>, implying a 0.38 % reduction in the volume, which confirms that Gr/FeSO<ce:inf loc="post">4</ce:inf> does not show any significant changes in the volume during the cycling process. After completion of 10 cycles, the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite was extracted from the electrode for TEM characterization. The TEM-EDS analysis of the elements Fe, O, S, and Na provides evidence of the successful conversion reaction from FeSO<ce:inf loc="post">4</ce:inf> to Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> after successive intercalation and deintercalation of sodium-ions, without showing any agglomeration of the nano-sized particles, as depicted in <ce:cross-ref refid="s0055" id="c0290">Figure S11 and S12</ce:cross-ref>. Hence, XPS and XRD analyses demonstrated that FeSO<ce:inf loc="post">4</ce:inf> can be converted to Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and Fe metal via a pre-sodiation process, and this conversion-based cathode can be used as a cathode for SIBs. In addition, we compared the specific capacity, average discharge potential, and capacity retention of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite with those of inexpensive low-efficiency cathode materials (<ce:cross-ref refid="s0055" id="c0295">Table S2</ce:cross-ref>). We believe that conversion chemistry based on S–O bonding and the cost-effectiveness of sulfate-based cathodes can aid in the development of new conversion-type cathode materials with high redox potentials.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st035">Conclusions</ce:section-title>
+                  <ce:para id="p0085" view="all">We report a facile and low-cost method for preparing high-performance conversion-type composite electrodes for SIBs using commercially available sulphates (<ce:italic>i.e.,</ce:italic> FeSO<ce:inf loc="post">4</ce:inf>) and naturally abundant graphene. A simple direct-contact pre-sodiation method was utilized to initiate the conversion of FeSO<ce:inf loc="post">4</ce:inf> into Fe<ce:sup loc="post">0</ce:sup> and Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>. The use of graphene as a conductive source significantly improved the intrinsic electrical conductivity by successfully improving the ionic and electronic diffusion kinetics during sodiation/desodiation. The improved Na diffusion and higher capacitive contribution were, in turn, responsible for the enhanced electrochemical performance of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite, which exhibited a specific capacity of 164 mAh g<ce:sup loc="post">−1</ce:sup> at 0.1C with a capacity retention of 48 % after 100 cycles. These findings highlight the immense potential of using novel, earth-abundant, eco-friendly, and sustainable cathodes for large-scale SIBs. And therefore, despite conquering the portable electronic markets, challenges such as long-term stability, high specific energy, safety and access to cheap and cost effective and more eco-efficient electrode materials seem to be the overriding factors in high-volume applications of the technology and are needed to be addressed in the future.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st040">Experimental Section</ce:section-title>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title id="st045">Synthesis</ce:section-title>
+                     <ce:para id="p0090" view="all">FeSO<ce:inf loc="post">4</ce:inf> powder was obtained by drying FeSO<ce:inf loc="post">4</ce:inf>·7H<ce:inf loc="post">2</ce:inf>O (Sigma–Aldrich, USA) powder at 200 °C for 12 h in a vacuum furnace. A nanocomposite of FeSO<ce:inf loc="post">4</ce:inf> and graphene (Sigma–Aldrich, USA), that is, Gr/FeSO<ce:inf loc="post">4</ce:inf> was synthesized using high-energy ball milling (HEBM). Briefly, the dry FeSO<ce:inf loc="post">4</ce:inf> powder (80 wt%) and graphene (20 wt%) were placed in a silicon nitride jar in an Ar environment; the powder-to-ball ratio was 5:100. HEBM was then performed at 500 rpm for 15 h, resulting in a black Nano-sized powder of the desired Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title id="st050">Electrochemistry</ce:section-title>
+                     <ce:para id="p0095" view="all">For the electrochemical tests, electrodes were prepared by mixing the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite active material with the conductive agent carbon black and a polyvinylidene fluoride (PVDF) binder at a ratio of 8:1:1 (wt.%). N-Methyl-2-pyrrolidone (NMP) was used as the solvent for slurry preparation. To observe the electrochemical performance of graphene, the ratio of graphene and PVDF binder was kept 9:1 (wt.%). The prepared slurry was coated on Al-foil and dried in a vacuum oven at 120 °C for 12 h to eliminate residual solvent. For half-cell testing, 1 M NaClO<ce:inf loc="post">4</ce:inf> in propylene carbonate (PC) and fluoroethylene carbonate (FEC) (98:2 by wt.%) was used as the electrolyte and Na metal as the counter electrode. A multichannel battery tester (Maccor version 4000) was used to evaluate the electrochemical performance over a voltage range of 1.0 ∼ 4.0 V <ce:italic>vs</ce:italic>. Na/Na<ce:sup loc="post">+</ce:sup>. Low and high cut-off voltages were established at 1.0 V and 4.0 V, respectively, because the both the active material and electrolyte were considered to be stable in this voltage range for SIBs. Before assembling the 2032-coin cells, pre-sodiation was performed using a direct-contact method. Briefly, the Gr/FeSO<ce:inf loc="post">4</ce:inf> electrodes were directly attached to a thin layer of Na metal for 30 min, and a small amount of electrolyte was applied between them to provide a path for Na ion transfer. Two plastic slides with binder clippers were placed on both sides to ensure good contact. After the pre-sodiation process, the Gr/FeSO<ce:inf loc="post">4</ce:inf> electrode was detached and used to construct the 2032 half-cell. All experiments were performed in an Ar-filled glovebox with H<ce:inf loc="post">2</ce:inf> and O<ce:inf loc="post">2</ce:inf> levels of less than 0.1 ppm because of the highly reactive nature of Na metal.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>4.3</ce:label>
+                     <ce:section-title id="st055">Material characterization</ce:section-title>
+                     <ce:para id="p0100" view="all">The Powder XRD pattern of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite was recorded on an X-ray diffractometer (Ultima-IV, Rigaku) with Cu − Kα characteristic radiation (λ = 1.5418 Å); the GSAS I software was used for Rietveld Refinement. <ce:italic>In-situ</ce:italic> XRD was conducted using the R-AXIS IV++ diffractometer (Rigaku) with Mo-Kα radiation (λ = 0.7107 Å) in transmission mode. The diffraction angles of the obtained spectra were converted into Cu − Kα radiation for better comparison with the literature. To observe the morphology of the Gr/FeSO<ce:inf loc="post">4</ce:inf> nanocomposite, field emission scanning electron microscopy (FE-SEM) was conducted on the Hitachi S-4200. Cyclic voltammetry (CV) and EIS were analysed using the Bio-Logic VMP3 potentiostat/galvanostat. GITT analysis was measured using multichannel battery tester (Maccor version 4000). To monitor the chemical state and composition of Gr/FeSO<ce:inf loc="post">4</ce:inf> during cycling, XPS was performed using the PHI 5000 VersaProbe (Ulvac-PHI) with monochromatic Al − Kα radiation (1486.6 eV). Fe K-edge XAS was performed on the 1D KIST-PAL bending magnet beamline at the Pohang Light Source in transmission mode. For energy calibration, the reference spectra of the Fe metal foils were collected simultaneously. Transmission electron microscopy (TEM) and energy dispersive X-ray spectroscopy (EDS) were conducted using the FEI Talos F200X TEM (Thermo Fisher Scientific) with an accelerating voltage of 200 kV. Renishaw in Via microscope was used to observe Raman spectra. TGA analyses was performed using thermal analyzer (TA), TGA 550 in an N<ce:inf loc="post">2</ce:inf> atmosphere. For the <ce:italic>ex-situ</ce:italic> SEM, XPS, TEM, and XRD analyses, the electrodes were thoroughly washed with dimethyl carbonate to remove any residual salts.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:section-title id="st065">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0110" view="all">
+                     <ce:bold>Iqra Moeez:</ce:bold> Writing – original draft, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. <ce:bold>Basit Ali:</ce:bold> Writing – original draft, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. <ce:bold>Kyung-Wan Nam:</ce:bold> Writing – review &amp; editing, Supervision, Project administration, Formal analysis, Conceptualization. <ce:bold>Kyung Yoon Chung:</ce:bold> Writing – review &amp; editing, Supervision, Project administration, Investigation, Formal analysis, Conceptualization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st070">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0115" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st075">Acknowledgements</ce:section-title>
+               <ce:para id="p0120" view="all">This research was supported by the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100003693" xlink:type="simple" id="gp025" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">KIST</ce:grant-sponsor> Institutional Program (Project No. <ce:grant-number refid="gp025">2E33270</ce:grant-number>) and the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100003725" xlink:type="simple" id="gp010" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Research Foundation of Korea</ce:grant-sponsor> (<ce:grant-number refid="gp010">RS-2024-00404414</ce:grant-number>) funded by the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100014188" xlink:type="simple" id="gp020" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ministry of Science and ICT</ce:grant-sponsor>, Republic of Korea. This work was also supported by the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100008783" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Research Council of Science &amp; Technology</ce:grant-sponsor>(NST) grant by the Korea government (<ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100014188" xlink:type="simple" id="gp030" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">MSIT</ce:grant-sponsor>) (No. <ce:grant-number refid="gp030">GTL24011-000</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0050">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st080">Supplementary data</ce:section-title>
+                  <ce:para id="p0125" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.cej.2024.158150" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.cej.2024.158150</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0055">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st085">Supplementary data</ce:section-title>
+                  <ce:para id="p0130" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary Data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S1385894724096414/mmc1" id="lk00030"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st090">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1512</sb:first-page>
+                              <sb:last-page>1533</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C8EE03727B</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">T. Liu, Y. Zhang, Z. Jiang, X. Zeng, J. Ji, Z. Li, X. Gao, M. Sun, Z. Lin, M. Ling, J. Zheng, C. Liang, Energy Environ. Sci. 12 (2019) 1512–1533. https://doi.org/10.1039/C8EE03727B.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nitta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Yushin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Materials Today.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>252</sb:first-page>
+                              <sb:last-page>264</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.mattod.2014.10.040</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">N. Nitta, F. Wu, J.T. Lee, G. Yushin, Materials Today. 18 (2015) 252–264. https://doi.org/10.1016/j.mattod.2014.10.040.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Lemmon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Imhoff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Graff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Viswanathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Baskaran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sprenkle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Schwenzer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Funct. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>929</sb:first-page>
+                              <sb:last-page>946</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/adfm.201200690</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">J. Liu, J.G. Zhang, Z. Yang, J.P. Lemmon, C. Imhoff, G.L. Graff, L. Li, J. Hu, C. Wang, J. Xiao, G. Xia, V.V. Viswanathan, S. Baskaran, V. Sprenkle, X. Li, Y. Shao, B. Schwenzer, Adv. Funct. Mater. 23 (2013) 929–946. https://doi.org/10.1002/adfm.201200690.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Palomares</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Serras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Villaluenga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.B.</ce:given-name>
+                                 <ce:surname>Hueso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Carretero-González</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Rojo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1039/c2ee02781j</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">V. Palomares, P. Serras, I. Villaluenga, K.B. Hueso, J. Carretero-González, T. Rojo, Energy Environ. Sci. 5 (2012). https://doi.org/10.1039/c2ee02781j.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2019</sb:first-page>
+                              <sb:last-page>2029</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10008-012-1751-2</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">J.B. Goodenough, J. Solid State Electrochem. 16 (2012) 2019–2029. https://doi.org/10.1007/s10008-012-1751-2.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sawicki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53129</sb:first-page>
+                              <sb:last-page>53154</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C5RA08321D</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">M. Sawicki, L.L. Shaw, RSC Adv. 5 (2015) 53129–53154. https://doi.org/10.1039/C5RA08321D.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Dahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>147</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1149/1.1393348</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">D.A. Stevens, J.R. Dahn, J. Electrochem. Soc. 147 (2000). https://doi.org/10.1149/1.1393348.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.5229/JECST.2016.7.2.115</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">S. Paul, J. Electrochem. Sci. Technol. 7 (2016) 115–131. https://doi.org/10.5229/JECST.2016.7.2.115.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Titirici</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Storage Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>130</sb:first-page>
+                              <sb:last-page>151</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ensm.2017.01.002</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Y. Li, Y. Lu, C. Zhao, Y.S. Hu, M.M. Titirici, H. Li, X. Huang, L. Chen, Energy Storage Mater. 7 (2017) 130–151. https://doi.org/10.1016/j.ensm.2017.01.002.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kubota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Komaba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>162</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A2538</sb:first-page>
+                              <sb:last-page>A2550</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/2.0151514jes</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">K. Kubota, S. Komaba, J. Electrochem. Soc. 162 (2015) A2538–A2550. https://doi.org/10.1149/2.0151514jes.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Chou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.X.</ce:given-name>
+                                 <ce:surname>Dou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/aenm.201701428</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">J. Deng, W.B. Luo, S.L. Chou, H.K. Liu, S.X. Dou, Adv. Energy Mater. 8 (2018). https://doi.org/10.1002/aenm.201701428.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. a.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1938</sb:first-page>
+                              <sb:last-page>1969</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/D0TA10610K</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">X. Wang, S. Roy, Q. Shi, Y. Li, Y. Zhao, J. Zhang, J. Mater. Chem. A. 9 (2021) 1938–1969. https://doi.org/10.1039/D0TA10610K.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/aenm.201501727</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">C. Fang, Y. Huang, W. Zhang, J. Han, Z. Deng, Y. Cao, H. Yang, Adv. Energy Mater. 6 (2016). https://doi.org/10.1002/aenm.201501727.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Balogun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>162</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2015.09.091</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">M.S. Balogun, Y. Luo, W. Qiu, P. Liu, Y. Tong, Carbon. 98 (2016) 162–178. https://doi.org/10.1016/j.carbon.2015.09.091.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yabuuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Komaba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Technol. Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:article-number>043501</sb:article-number>
+                           <ce:doi>10.1088/1468-6996/15/4/043501</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">N. Yabuuchi, S. Komaba, Sci. Technol. Adv. Mater. 15 (2014) 043501. https:/doi.org/10.1088/1468-6996/15/4/043501.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ishida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int Ed Engl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5894</sb:first-page>
+                              <sb:last-page>5899</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/anie.201411788</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">S. Guo, P. Liu, H. Yu, Y. Zhu, M. Chen, M. Ishida, H. Zhou, Angew. Chem. Int Ed Engl. 54 (2015) 5894–5899. https://doi.org/10.1002/anie.201411788.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yabuuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Komaba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Technol. Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:article-number>043501</sb:article-number>
+                           <ce:doi>10.1088/1468-6996/15/4/043501</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">N. Yabuuchi, S. Komaba, Sci. Technol. Adv. Mater. 15 (2014) 043501. https://doi.org/10.1088/1468-6996/15/4/043501.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Demopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2014</sb:issue-nr>
+                              <sb:date>1952</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21946</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c4cp02957g</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">X. Lu, Y. Wang, P. Liu, L. Gu, Y.S. Hu, H. Li, G.P. Demopoulos, L. Chen, Phys. Chem. Chem. Phys.. 16 (2014) 21946–21952. https://doi.org/10.1039/c4cp02957g.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Myung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.K.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3529</sb:first-page>
+                              <sb:last-page>3614</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c6cs00776g</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">J.Y. Hwang, S.T. Myung, Y.K. Sun, Chem. Soc. Rev.. 46 (2017) 3529–3614. https://doi.org/10.1039/c6cs00776g.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Barpanda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Oyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Nishimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yamada</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4358</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/ncomms5358</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">P. Barpanda, G. Oyama, S.I. Nishimura, S.C. Chung, A. Yamada, Nat. Commun. 5 (2014) 4358. https://doi.org/10.1038/ncomms5358.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Moeez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.S.</ce:given-name>
+                                 <ce:surname>Appl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Interfaces.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41394</sb:first-page>
+                              <sb:last-page>41401</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsami.9b14381</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">I. Moeez, H.G. Jung, H.D. Lim, K.Y. Chung, ACS Appl. Mater. Interfaces. 11 (2019) 41394–41401. https://doi.org/10.1021/acsami.9b14381</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Wasalathilake</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Energy Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>91</sb:first-page>
+                              <sb:last-page>107</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jechem.2019.06.016</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">K.C. Wasalathilake, H. Li, L. Xu, C. Yan, J. Energy Chem. 42 (2020) 91–107. https://doi.org/10.1016/j.jechem.2019.06.016.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tresintsi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Simeonidis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Pliatsikas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Vourlias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Patsalas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mitrakas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>213</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>151</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jssc.2014.02.026</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">S. Tresintsi, K. Simeonidis, N. Pliatsikas, G. Vourlias, P. Patsalas, M. Mitrakas, J. Solid State Chem. 213 (2014) 145–151. https://doi.org/10.1016/j.jssc.2014.02.026.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fantauzzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rigoldi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Elsener</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Atzei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rossi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectrosc. Relat. Phom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.elspec.2014.01.007</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx140">M. Fantauzzi, A. Rigoldi, B. Elsener, D. Atzei, A. Rossi, J. Electron Spectrosc. Relat. Phom. 193 (2014) 6–15. https://doi.org/10.1016/j.elspec.2014.01.007.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

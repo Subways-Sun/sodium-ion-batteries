@@ -1,0 +1,33 @@
+{
+    "DOI": "10.1002/chem.201705855",
+    "Journal": "",
+    "Keywords": [
+        "electrochemistry",
+        "hydrothermal synthesis",
+        "nanostructures",
+        "sodium-ion batteries",
+        "tin disulfide"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Sodium‐ion batteries (SIBs), as a promising alternative to lithium‐ion batteries (LIBs), have been attracting extensive investigations because of low‐cost and widespread sodium resources and similar operating mechanisms to LIBs. Some researchers have directly applied electrode materials for LIBs in SIBs; however, most of the anode materials suitable for LIBs have poor electrochemical properties in SIBs. For example, graphite has been widely used as anode material for LIBs, but shows nearly no activity for sodium‐ion storage. Thus, it is important to develop appropriate anode materials with high capacity and good rate performance for SIBs. Many anode materials have been investigated, including hard carbon, alloys (involving P, Sn, Sb, etc.), and transition metal dichalcogenides (TMDs, e.g., MoS2, WS2, MoSe2). Hard carbon can achieve a specific practical capacity of approximately 300 mA h g−1 at a low operating potential (<0.1 V) through absorption/desorption of sodium ions, but its unsatisfactory reversibility needs to be solved. Compared with hard carbon, alloy anode compounds have potentially much higher theoretical capacities (elemental values are 2600 mA h g−1 for P, 847 mA h g−1 for Sn, and 660 mA h g−1 for Sb), originating from the alloying reactions between the constituent element and sodium. However, alloys of these elements suffer from extremely large volume changes during the alloying/dealloying processes, which is the main reason for their poor stability.",
+                "Recently, TMDs have attracted increasing attention, owing to their fast electron‐ and ion‐transfer kinetics on two‐dimensional sheets as well as high theoretical capacities. Taking MoS2 as an example, the process of Na+ storage in MoS2 involves a four‐electron‐transfer conversion reaction [Eq. ]:",
+                "This reaction is different from both absorption in hard carbon and alloying reactions of alloy materials. SnS2, which combines both conversion and alloying reactions, exhibits an even higher specific theoretical capacity of up to 1137 mA h g−1 compared to MoS2 or Sn, follows the mechanism detailed below [Eqs. ]:",
+                "Compared with elemental tin and other tin‐based compounds, SnS2 has the best buffering capability (large interlayer spacing c=0.5899 nm) for the huge volume changes in alloying processes. However, the large c‐direction atomic spacing weakens the interlayer van der Waals interaction, which results in poor electron transportation from sheet to sheet and finally causes remarkable capacity loss and inferior rate capability. Recently, a number of works have focused on improving the electrical conductivity of SnS2 by combining it with conductive carbonaceous materials such as reduced graphene oxide (rGO) and carbon nanotubes (CNTs). Zhang et al. reported a facile solvothermal route to grow few‐layered SnS2 nanoplates on few‐layered rGO sheets with excellent Na‐storage properties. They reported a high reversible capacity of 649 mA h g−1 at 0.1 A g−1, a stable cyclic life with 61 % capacity retention at a high current density of 800 mA g−1 after 1000 cycles, and good rate performance.",
+                "Another effective approach to enhance electrical and ionic conductivity of SnS2 is to construct heterostructures to reduce ion‐diffusion resistance and promote interfacial electron transport due to the existence of a micro electric field at heterointerfaces between coupling semiconductors with different bandgaps. Zhang and co‐workers explored optimized conditions for preparing SnO2/SnS2/CNT heterostructures from SnO2/CNT sources. This anode material showed excellent conductivity and Na+ diffusion coefficient. Jiang et al. investigated both the lithium‐ion and sodium‐ion storage capability of MoS2/SnS2 heterostructures supported on graphene sheets. This composite delivered excellent cycling ability without capacity loss up to 150 cycles at 1.5 A g−1, with a capacity of 340 mA h g−1 at a high current density of 6 A g−1 in SIBs.",
+                "Thus, we introduced antimony trisulfide to develop SnS2/Sb2S3 heterostructures anchored on rGO nanosheets (SnS2/Sb2S3@rGO) by a facile one‐pot hydrothermal approach without complicated steps, just through two main procedures: hydrothermal and calcining processes. All raw materials are easily accessible and cheap. Through investigating the formation mechanism, we deduced that SnS2 nanoplates grew on the rGO nanosheets along the c direction before coating the as‐formed Sb2S3 nanorods to form heterostructures. The SnS2/Sb2S3@rGO composite exhibited excellent electrochemical performance as an anode material for SIBs, including a high reversible capacity of 642 mA h g−1 and stable cyclic stability. In particular, SnS2/Sb2S3 heterostructures achieved an outstanding rate capacity with specific capacities of 593 and 567 mA h g−1 at high current densities of 2 and 4 A g−1, respectively."
+            ],
+            "name": "Introduction",
+            "type": "section"
+        },
+        {
+            "content": [
+                "SnS2@rGO and SnS2/Sb2S3@rGO composites were synthesized by a facile one‐pot hydrothermal reaction. The crystal structures of the as‐prepared samples were determined by XRD, as shown in Figure S1 (Supporting Information). The XRD patterns of both composites exhibit seven broad peaks of hexagonal SnS2 (JCPDS no. 23‐0677, space group: Pm"
+            ],
+            "name": "Results and Discussion",
+            "type": "section"
+        }
+    ],
+    "Title": "SnS2/Sb2S3 Heterostructures Anchored on Reduced Graphene Oxide Nanosheets with Superior Rate Capability for Sodium‐Ion Batteries"
+}

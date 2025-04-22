@@ -1,0 +1,31 @@
+{
+    "DOI": "10.1002/anie.202211866",
+    "Journal": "",
+    "Keywords": [
+        "Conducting Polymers",
+        "Fast Kinetics",
+        "Organic Composite Cathodes",
+        "Polyaniline",
+        "Sodium Dual-Ion Batteries"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Increasing energy demands put forward higher requirements for energy storage systems nowadays. It is essential to exploit the new‐type energy storage devices with controllable cost and ideal performance. At present, sodium‐based dual‐ion batteries (SDIBs) have been widely studied because of the low cost and abundant natural resources of sodium (Na). However, the development of SDIBs with high capacity and energy density is limited by the shortage of appropriate cathode materials. Most anions have larger sizes and lower ion diffusion rates than alkali metal ions, resulting in inadequate electrochemical properties. Graphite is usually used as the cathode material for dual ion batteries (DIBs) while its lack of active sites leads to an insufficient capacity (usually less than 100 mAh g−1), which seriously limits the practical applications of DIBs. In addition, solvents in the electrolyte are co‐inserted into the graphite layer of the electrode due to anion‐solvent interactions (e.g., (Solv)yPF6−), and this process can cause volume expansion/contraction of more than 136 %, further giving rise to graphite exfoliation and poor electrochemical performance. For a SDIB system, the poor performance of an electrode severely restricts the overall energy/power outputs. Therefore, investigating new cathode is an effective approach to improve the performance of SDIBs.",
+                "With extended π‐conjugation and tunable properties, conjugated polymers can obtain refined electrochemical performance by modifying their organic structures, introducing diverse functional groups or redox moieties. From the point of doping, more organic chains in doping states, more “charge islands” would be generated to overlap and delocalize in the polymers, which can further enhance the electrical conductivity of conjugated polymers. In comparison with inorganic materials, conjugated polymers have better flexibility and larger free space compared to alleviate the volume expansion during charging/discharging and inhibit serious structural changes of electrode structure to a certain extent. Polyaniline (PANI), as a typical conducting conjugated polymer, has been studied extensively in fields of energy storage with a high theoretical capacity of 294 mAh g−1, which can meet requirements of high‐performance for anions storage. However, the existence of irreversible reactions caused by different oxidation states of PANI bring down the actual capacity below half of theoretical value. Diverse polymerization conditions, such as the kinds of dopants, protonation degrees, pH values of solutions, etc. can change properties of PANI. While the electrochemical characteristics of PANI can be affected by the isomerism, density of structural defects and morphology of polymerized chains. Importantly, protonation, which is reflected on the oxidation‐state adjustments of nitrogen atoms on the conjugated backbones of PANI, can expose more active sites and benefit to acquire relatively high capacity. However, the effect of this strategy for PANI cathode is still limited and needs to be further improved.",
+                "Fluorine (F) can effectively regulate the photoelectric properties of conjugated polymers, thanks to its electron‐withdrawing, low van der Waals radius and low polarizability features. It is also a kind of available resonance donating species which can reduce the gap of conducting polymers. Different from the past, we have first succeeded in introducing fluorine element in protonated PANI/CNT composite (FPHC) to stabilize properties of PF6− storage. The HOMO–LUMO gap can be reduced after the introduction of F element, implying better electrical conductivity. Reversible and stable covalent bonds between PF6− and FPHC arise from F in PF6− with H on −NH− in FPHC, and the whole optimized PF6‐FPHC molecular structure tends to be symmetric, which guarantees the cycling stability of FPHC under high current densities. When FPHC cathode coupled with nanoparticle‐like hard carbon (NLHC) anode, the SDIB can deliver high energy/power densities (310 Wh kg−1/7720 W kg−1) and cycle steadily up to 5 000 times at a high rate of 2 A g−1. Likewise, the relative pouch‐type SDIB was assembled to further substantiate its preview of feasible application, which can drive a manufactured electrical vacuum cleaner model with a small motor (3 V, 1 W), indicating the adequate energy/power output of designed SDIBs."
+            ],
+            "name": "Introduction",
+            "type": "section"
+        },
+        {
+            "content": [
+                "As shown in Figure a, FPHC cathode is adopted in a novel SDIB different from the past, to obtain high energy and power densities and excellent reversible performance. Figure b exhibits transmission electron microscopy (TEM) image of FPHC, fluoridized‐polyaniline‐H+ (FPH) are organized on CNT substrate with a coating thickness of about 50 nm. Elemental mapping images illustrate the existence of C, N and F in FPHC and their homogeneous distribution (Figure c). The Fourier transform infrared (FT‐IR) spectrum of FPHC in Figure d can confirm functional groups and protonated state of FPH on CNT.",
+                "Peaks at about 1575, 1490, 1307, and 800 cm−1 are attributed to the vibration of N=Q=N, N−B−N, C−N and −NH+=, respectively. The high‐resolution N 1s X‐ray photoelectron spectroscopy (XPS) data can be deconvoluted into three components of non‐protonated amine (−NH−), protonated amine (−NH+−) and protonated imine (−NH+=) at 398.5, 399.2 and 401 eV, respectively (Figure e)."
+            ],
+            "name": "Results and Discussion",
+            "type": "section"
+        }
+    ],
+    "Title": "Fluorination Treatment of Conjugated Protonated Polyanilines for High‐Performance Sodium Dual‐Ion Batteries"
+}

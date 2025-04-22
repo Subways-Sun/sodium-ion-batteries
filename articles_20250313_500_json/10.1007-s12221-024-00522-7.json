@@ -1,0 +1,125 @@
+{
+    "DOI": "10.1007/s12221-024-00522-7",
+    "Journal": "",
+    "Keywords": [],
+    "Sections": [
+        {
+            "content": [
+                "Energy storage technology plays an increasingly important role in the development of modern transportation, communication technology, and power grids. Since the appearance of secondary batteries, they have been widely promoted in portable devices such as mobile phones and laptops. In addition, it is also important for the new energy resources harvesting process [1]. Since the twenty-first century, the concept of flexible batteries has been prevalent. On the one hand, the flexibility of the electrode can effectively reduce the volume change during charge and discharge process, imparting elevated cycling performance to the batteries. On the other hand, the flexible electrodes also endow the batteries higher energy density because of removing current collector, conductor and binder [2].",
+                "Many researchers employ the method of combining active materials with carbon-based materials to fabricate flexible electrode materials [3, 4]. Generally, three-dimensional fiber networks, multi-walled carbon nanotubes and other materials are used to prepare flexible electrodes [5, 6]. Especially, the method for preparing electrode materials based on carbon fiber matrix is a feasible way to realize electrode flexibility as well as desired conductivity [7]. Chen et al. [8] prepared carbon cloth@SiO2 composite as flexible electrodes in lithium-ion batteries. Using carbon cloth as substrates can increase SiO2 loading and restrain the volume change. However, the cycling stability of the material is still not ideal. Liu et al. [9] ingeniously designed a sandwich structure comprising flexible soft (graphene) and hard (amorphous carbon) double-layered SnO2 paper electrodes, demonstrating outstanding cycle stability and high-rate performance in lithium-ion batteries. Yang et al. [10] successfully synthesized SnTe/C nanofiber membranes with excellent mechanical flexibility by the electrospinning technique.",
+                "In addition as a new type of energy storage system, sodium-ion batteries have considerable application prospects in the future [11]. Currently, there are relatively fewer studies on flexible anode materials for sodium-ion batteries. Due to the unique characteristics of sodium, the choice of anode electrode is strictly limited, which hinders the insertion of a layered graphite structure in the normal electrolyte [12]. Wang et al. [13] synthesized a composite material with hollow rutile TiO2 cuboid arrays supported on carbon fiber cloth as the anode and Na3V2(PO4)3 as the cathode. It exhibits excellent electrochemical properties, elasticity and flexibility against mechanical deformation. Tin-based anode materials are one of the most potential electrode materials in sodium-ion batteries. Tin metal anode materials are usually carbon-coated to suppress the volume expansion and improve its sodium storage performance. Duran et al. [14] designed multi-walled Sn/SnO2@carbon hollow nanofibers synthesized by electrospinning, polypyrrole coating and annealing reduction methods, which have excellent reversible capacity and flexibility.",
+                "In this experiment, resultant Tin was selected as the active material, and the Sn/C flexible anode material was prepared by electrospinning and carbonization process. The prepared anode material has good flexibility, and its electrochemical performance in sodium-ion batteries is studied. The binder-free anode electrode material with a special structure can not only increase the conductivity and reduce volume expansion rate of the Sn but also increase the energy density of the sodium-ion batteries by removing the mass of binders."
+            ],
+            "name": "1 Introduction",
+            "type": "h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "Polyacrylonitrile (PAN, Mw = 150,000), Shanghai Jinshan Petrochemical Company; N,N-Dimethylformamide (DMF), Sinopharm Chemical Reagent Co., Ltd.; Stannous chloride dihydrate (SnCl2·2H2O), Azerbaijan Latin Co., Ltd.; Pure sodium metal was purchased from Sigma-Aldrich Chemical Company Inc.; The electrolyte was purchased from Suzhou Duo Duo Chemical Technology Co., LTD, in which 1 M sodium perchlorate (NaClO4) dissolved with ethylene carbonate (EC) and dimethyl carbonate (DMC) (1:1 in volume). All chemicals were used without further purification."
+                    ],
+                    "name": "2.1 Material",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "In this experiment, SnCl2·2H2O were added into prepared 10% PAN/DMF solution with three different weight ratios of PAN to SnCl2·2H2O (1:0.4, 1:0.5, 1:0.6), respectively. Samples were labeled as PAN/SnCl2·2H2O-0.4, PAN/SnCl2·2H2O-0.5, and PAN/SnCl2·2H2O-0.6. After fully stirring, nanofiber membranes were prepared by electrospinning. The electrospinning voltage was set at 20 kV, the distance between the needle and the drum collector was 18 cm, the speed of the drum was 150 r/min, and the electrospinning speed was 0.6 mL/h.",
+                        "To carbonize the nanofiber membranes, they were first heated from room temperature to 250 °C at a heating rate of 5 °C/min, maintained for 120 min, and then carbonization took place in an argon atmosphere with the temperature raised to the temperature (600 °C, 700 °C, 800 °C) at a heating rate of 5 °C/min, and held for 120 min. Finally, the Sn/C nanofiber composite was obtained after cooled to room temperature. Samples were labeled as Sn/C-0.4–600 °C, Sn/C-0.4–700 °C, Sn/C-0.4–800 °C, Sn/C-0.5–600 °C, Sn/C-0.5–700 °C, Sn/C-0.5–800 °C, Sn/C-0.7–600 °C, Sn/C-0.7–700 °C, Sn/C-0.7–800 °C. PAN/SnCl2·2H2O carbonized at 900 °C was also studied, however, the resultant film was very brittle and not suitable for binder-free electrode. For comparison, pure carbon carbonized from PAN was also studied, some morphology and structure characterization of pure carbon have been measured in our previous work [15]."
+                    ],
+                    "name": "2.2 Preparation of Sn/C Anode Materials",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "The JSM-6360LV scanning electron microscope (SEM) was used to test and analyze the surface morphology of original nanofiber membranes and carbonized nanofiber film, and the diameter distribution of nanofibers were measured by Nano Measurer. The TG/DTA6300 comprehensive thermal performance analyzer was used to conduct thermogravimetric test and analysis of nanofibers, with the heating rate of 10 °C /min, and the heating range of 25 ~ 800 °C in nitrogen. The JEM-2100F field emission transmission electron microscope (TEM-EDS) was used to conduct TEM test on carbon nanofibers and analyzed the distribution and crystallization of elements including C, N, O, and Sn in the Sn/C nanofiber film. The elemental analysis of the materials was carried out using the EA3000 elemental analyzer. The crystal structures were tested by XRD using the Empyrean X-ray diffractometer manufactured by PANalytical Corporation, with the 2θ angle range of 10°–80°. The Raman analysis of the samples was performed using Xplora Plus fully automatic confocal microscopy Raman spectrometer manufactured by Horiba France SAS.",
+                        "The samples were applied into sodium-ion batteries to measure their electrochemical performance. The working electrodes were prepared directly from the carbonized samples without adding current collector and binder. Electrodes were punched into circular disks with a diameter of 0.5 inches. Thickness and mass of electrodes were measured to calculate their density. The thickness of samples is around 143 μm. By calculation, the apparent density of samples are estimated to be 0.87, 1.08, 1.24, 1.60, and 1.93 g cm−3. The working electrodes were assembled into CR2032 coin half-cells for testing the electrochemical properties. Pure sodium metal was used as the counter electrode. 1 M NaClO4 in EC/DMC was used as electrolyte. Glass fiber mat (Whatman) was used as the separator. The assembly of the battery was carried out in a glove box filled with argon gas. The resistances of sodium-ion batteries containing Sn/C nanofiber anodes were investigated by measuring the impedances of cells with the frequency range of 100 kHz to 1 Hz under a voltage perturbation amplitude of 5 mV. Charge–discharge properties of the carbonized samples at cutoff voltage of 0.01–3 V (vs. Na/Na +) were measured by the LAND (CT2001A) battery tester. The cyclic performance was tested galvanostatically at a current density of 100 mA g−1 for 80 cycles."
+                    ],
+                    "name": "2.3 Performance Testing and Characterization",
+                    "type": "h3"
+                }
+            ],
+            "name": "2 Experimental",
+            "type": "h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "Figure 1a–c are SEM images of the as-spun nanofiber membranes and their diameter distribution of PAN and SnCl2·2H2O with the ratio of 1:0.4, 1:0.5, and 1:0.6, respectively. Nanofibers in all samples are straight and neat. The figures show that the average fiber diameters gradually increase as the growing content of SnCl2·2H2O, which are 226, 260, 270 nm, respectively.",
+                        "Figure 2 demonstrates the morphologies of carbonized Sn/C nanofibers and fiber diameter distribution. The diameters of nanofibers are located in the range of 200–500 nm. Figure 2a–c are the morphologies of Sn/C-0.4 carbonized at 600 °C, 700 °C and 800 °C respectively. It can be seen that the fibers are sticked together instead of straight and independent. Under the carbonization temperature of 700 °C, fibers become brittle and start to break. It reveals more evident when the temperature reaches 800 °C. Figure 2d–f are the morphologies of Sn/C-0.5 carbonized at 600 °C, 700 °C and 800 °C respectively. Fibers are continuous and straight, but still has a few breaking sections. Figure 2g–i show the morphologies of Sn/C-0.6 carbonizated at 600 °C, 700 °C and 800 °C respectively. It can be observed that the fibers of Sn/C-0.6–700 °C are continuous and even, and Sn particles are embedded in the carbon nanofibers as expected, representing the ideal morphology for the flexible electrodes."
+                    ],
+                    "name": "3.1 Morphology Analysis",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 3 shows the mass loss of PAN/SnCl2·2H2O and pure PAN, with TG heating from 25 to 800 °C in nitrogen. It can be observed from the curve of pure PAN that few mass loss occures before 293.8 °C. It is verified as the process of pre-oxidation, during which, a small amount of residual DMF evaporates, as well as cyclization and dehydrogenation reactions of PAN are taken place to make structure of PAN more stable [16]. A sharp drop appears from 296 to 450 °C, indicating the decomposition of PAN during the carbonization process, in which elements of hydrogen, oxygen escape from PAN in the form of H2O, CO, CO2, etc. After 500 °C, the curve tends to be flat and the mass remains 71% at 800 °C.",
+                        "In the heating of PAN/SnCl2·2H2O, reaction process includes not only the carbonization of PAN, but also the reduction of SnCl2·2H2O to Sn. The mass of PAN/SnCl2·2H2O drops faster than the pure PAN before 300 °C, because of the evaporation of DMF as well as decomposition of SnCl2·2H2O to form SnO2. Afterwards, mass keep dropping by carbonization of PAN and forming Sn. The weights of PAN/SnCl2·2H2O-0.4, PAN/SnCl2·2H2O-0.5, and PAN/SnCl2·2H2O-0.6 remain 56.33%, 54.09% and 49.40% at 800 °C, respectively."
+                    ],
+                    "name": "3.2 TGA Analysis of Sn/C Anode Material",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 4a shows the electrode with good flexibility. From the TEM image of Sn/C-0.6–700 °C in Fig. 4b, it can be observed that there are some darker areas in the fiber, which refers to certain crystalline structure of Sn particles. Figure 4c–f shows the Sn/C nanofiber mainly containing elements of C, Sn, and few N and O. EDS mapping was used to understand the distribution of C, N, O, and Sn elements in the fiber. From the image, it can be noticed that a certain amount of Sn (26.8 wt%) is evenly distributed in the fiber, without obvious agglomeration."
+                    ],
+                    "name": "3.3 TEM Analysis of Sn/C Anode Material",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "EA testing is to confirm the content of carbon. It is revealed that the carbon contents of Sn/C-0.6–600 °C, Sn/C-0.6–700 °C, Sn/C-0.6–800 °C are 42.61%, 47.26%, 49.40%, respectively. It can be seen that within a certain range, the carbon proportion of Sn/C-0.6 nanofibers gradually increases with the increase of temperature."
+                    ],
+                    "name": "3.4 Elemental Analysis of Sn/C Anode Materials",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 5 is the XRD diffraction patterns of the nanofibers (PAN-700 °C, Sn/C-0.4–700 °C, Sn/C-0.5–700 °C, Sn/C-0.6–600 °C, Sn/C-0.6–700 °C, Sn/C-0.6–800 °C). By comparison with the standard data card (JCPDS: 26–1077), the (005), (001) crystal faces of the corresponding carbon at 26.60°, 54.15° can be seen in PAN-700 °C, which proves that the PAN nanofibers have been transformed into typical amorphous carbon. Sn/C-0.6–600 °C only presents the diffraction peaks of carbon, without SnO2 or Sn, maybe because the temperature is relatively low and no SnO2 or Sn crystallization has occurred. The forming of SnO2 or Sn is related with the proportion of PAN and SnCl2·2H2O as well as the carbonization condition. The diffraction peaks of the Sn/C-0.6–700 °C and Sn/C-0.6–800 °C at around 30.6°, 32°, 43.9°, 44.9°, 55.3°, 62.5°, 63.8°, 64.6°, 72.4°, 73.2°, 79.5°, 89.4° are correlated with the diffraction peaks of standard map (JCPDS: 04–0673) at (200), (101), (220), (211), (301), (112), (400), (321), (420), (411), (312), (431) of Sn. And there is no characteristic peak of SnO2 in the XRD pattern, indicating that after pre-oxidation and carbonization, all SnCl2 is decomposed and reduced to form Sn simple substance. XRD patterns of Sn/C-0.4–700 °C and Sn/C-0.5–700 °C nanofibers show the presence of SnO2 and Sn simultaneously. The diffraction peaks at 26.61°, 33.89°, 37.95°, 51.78°, etc. are consistent with the diffraction peaks of standard map (JCPDS: 41–1445) at (110), (101), (200), (211) of SnO2, which is in accordance with others’ work [17]."
+                    ],
+                    "name": "3.5 XRD Analysis of Sn/C Anode Materials",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 6 shows the Raman characteristic peaks of nanofiber films carbonized with different carbonization temperatures and different proportions of SnCl2·2H2O. Carbon materials have two characteristic peaks: D peak (1358 cm−1) intensity represents the degree of disordered carbon structure, and G peak (1586 cm−1) intensity represents the integrity of the graphite structure. According to the figures, under the condition of the same carbonization temperature with different proportions, there is little difference in the degree of graphitizations of Sn/C-0.4–700 °C, Sn/C-0.5–700 °C, and Sn/C-0.6–700 °C nanofibers. It is also proved that with the increase of carbonization temperature, the degree of graphitization nanofiber films increases by comparing characteristic peaks of Sn/C-0.6–600 °C, Sn/C-0.6–700 °C, and Sn/C-0.6–800 °C. It can be seen that the degree of graphitization at 800 ℃ is the highest among all carbonization temperatures. Therefore, under the same conditions, carbonized temperature affects the degree of graphitization evidently, but the content of Sn element has little influence on the graphitization effect."
+                    ],
+                    "name": "3.6 Raman Analysis of Sn/C Anode Materials",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "To investigate the electronic conductivity of Sn/C nanofibers, electrochemical impedance spectra (EIS) was performed and results are shown in Fig. 7. The spectra are composed of one semicircle and a slope from high frequency to low frequency. The diameter of the semicircle represents the resistance of Na+ diffusing through the surface of the electrode [18]. As shown in Fig. 7, Sn/C-0.6–700 °C shows the lowest charge-transfer resistance of 37.84Ω, compared with 45.83, 46.75, 48.43, and 59.07Ω for Sn/C-0.6–600 °C, Sn/C-0.6–800 °C, Sn/C-0.4–700 °C, and Sn/C-0.5–700 °C respectively. According to the SEM images shown in Fig. 2, Sn/C-0.6–700 °C possessed the most uniform and continuous nanofibers, which contributes to the charge-transfer. In addition, SnO2 impurity in Sn/C-0.4–700 °C and Sn/C-0.5–700 °C may also influence the electronic conductivity of Sn/C nanofibers."
+                    ],
+                    "name": "3.7 Electrochemical Impedance Spectra",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "Figure 8 shows the first three cycles of galvanostatic charge–discharge curves of sodium-ion batteries at the current density of 100 mA g−1. The initial discharge and charging capacities of PAN-700 °C, Sn/C-0.4–700 °C, Sn/C-0.5–700 °C, and Sn/C-0.6–700 °C are 291.6/152.3, 401.8/267.6, 448.5/227.2 and 617.5/431.2 mAh g−1, respectively. As seen, the capacity increases with the increase of Sn content in the composite materials. In the following second and third charge and discharge cycles, the capacities of Sn/C-0.4–700 °C, Sn/C-0.5–700 °C decrease evidently, indicating that cycling performance is worse than Sn/C-0.6–700 °C. At the same time, in Fig. 8(d-f), the initial discharge and charging capacities of Sn/C-0.6–600 °C, Sn/C-0.6–700 °C, and Sn/C-0.6–800 °C are 533.7/380.8, 617.5/431.2, and 410.5/248.7 mAh g−1, respectively. Among them, the capacity and cycling performance of Sn/C-0.6–700 °C is optimum. It is comparable with other researchers’ work [19,20,21]. During the charge–discharge process, Sn undergoes alloying and dealloying reactions of NaxSn. Theoretical capacity of Sn is 847 mAh g−1, which is much higher than that of carbon (279 mAh g−1) [20]. As shown in Fig. 8, tin has an impact on the electrochemical performance of Sn/C nanofibers, and the higher tin content in the composite material, the higher capacity of the sodium-ion batteries."
+                    ],
+                    "name": "3.8 Charge–Discharge Performance",
+                    "type": "h3"
+                },
+                {
+                    "content": [
+                        "The cycling performance of sodium-ion batteries at 100 mA g−1 for the 80 cycles are illustrated in Fig. 9. The capacities of PAN-700 °C, Sn/C-0.4–700 °C, Sn/C-0.5–700 °C, Sn/C-0.6–600 °C, Sn/C-0.6–700 °C, and Sn/C-0.6–800 °C remain at 78.9, 181.1, 156.2, 218.9, 286.6, and 128.4 mAh g−1 after 80 cycles and their initial coulombic efficiencies are 52.2%, 66.7%, 50.7%, 71.4%, 69.8%, and 60.59%, respectively. The capacity retentions over 80 cycles were 51.8, 67.7, 68.8, 57.5, 66.5 and 51.6%, respectively. Consequently, all batteries appear capacity fading in certain range, and Sn/C-0.6–700 °C possesses higher capacity remain."
+                    ],
+                    "name": "3.9 Cycling Performance",
+                    "type": "h3"
+                }
+            ],
+            "name": "3 Results and Discussion",
+            "type": "h2"
+        },
+        {
+            "content": [
+                "In this work, flexible tin-based carbon nanofiber anode material is prepared by electrospinning technology combined with pre-oxidation and carbonization processes. Consequently, when weight ratios of PAN to SnCl2·2H2O is 1:0.6, and the carbonization temperature is 700 °C, the obtained sample is possessed with continuous fiber structure and uniformly distributed. The material represents Sn crystal structure by XRD, and the carbon content in Sn/C-0.6–700 °C is 47.26%. Finally, the electrochemical testing shows the discharge/charge capacities of the optimal sample(Sn/C-0.6–700 ℃) is 617.5/431.2 mAh g−1, after 80 cycles, the charge capacity remains 286.6 mAh g−1."
+            ],
+            "name": "4 Conclusion",
+            "type": "h2"
+        }
+    ],
+    "Title": "Flexible Tin-Based Carbon Nanofiber as Binder-Free Electrodes for Sodium-Ion Battery"
+}
