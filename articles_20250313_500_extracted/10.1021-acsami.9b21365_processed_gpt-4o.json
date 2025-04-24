@@ -1,0 +1,141 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "MoS2-C",
+            "material_formula": "MoS2-C",
+            "material_properties": [
+                {
+                    "capacity_value": 650,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 589,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 506,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 405,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 510,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 435,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 415,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 405,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 375,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 3.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 324,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 290,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 503,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 265,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 3000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) acetylacetonate",
+                    "material_formula": "Mn(acac)2",
+                    "amount": {
+                        "value": 0.36,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Molybdenyl acetylacetonate",
+                    "material_formula": "MoO2(acac)2",
+                    "amount": {
+                        "value": 0.18,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "(NH2)2CS",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

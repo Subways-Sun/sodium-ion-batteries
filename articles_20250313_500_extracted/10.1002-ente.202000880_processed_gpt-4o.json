@@ -1,0 +1,117 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "graphite",
+            "material_formula": "C20",
+            "material_properties": [
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "A/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "A/g",
+                    "cycle": 5
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "graphite powder",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 90,
+                        "unit": "w/w"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "2G",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 5
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "2G + 10 v/v EN",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 191,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 2
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NaOTf",
+                    "material_formula": "NaOTf",
+                    "amount": {
+                        "value": 1,
+                        "unit": "m"
+                    }
+                },
+                {
+                    "material_name": "2G",
+                    "material_formula": "2G",
+                    "amount": {
+                        "value": 90,
+                        "unit": "v/v"
+                    }
+                },
+                {
+                    "material_name": "EN",
+                    "material_formula": "EN",
+                    "amount": {
+                        "value": 10,
+                        "unit": "v/v"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "t-Na-GIC",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "TiS2 nanoflakes",
+            "material_formula": "TiS2",
+            "material_properties": [
+                {
+                    "capacity_value": 114,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 66.6,
+                    "current_density_unit": "mAg−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 66.6,
+                    "current_density_unit": "mAg−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "titanium powder",
+                    "material_formula": "Ti",
+                    "amount": {
+                        "value": 10,
+                        "unit": "grams"
+                    }
+                },
+                {
+                    "material_name": "sulfur powder",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 10,
+                        "unit": "grams"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/NSGs-G composite",
+            "material_formula": "MoS2/NSGs-G",
+            "material_properties": [
+                {
+                    "capacity_value": 1040.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 595.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 502.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 507.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 491.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 490.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 453.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 418.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 383.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 333.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 294.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NSGs-G",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "cetrimonium bromide",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "L-cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sodium molybdate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "bulk MoS2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 256.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 85.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "L-cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sodium molybdate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/Gs-G",
+            "material_formula": "MoS2/Gs-G",
+            "material_properties": [
+                {
+                    "capacity_value": 365.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "L-cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sodium molybdate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "cetrimonium bromide",
+                    "material_formula": "CTAB",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

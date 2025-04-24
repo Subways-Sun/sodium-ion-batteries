@@ -1,0 +1,37 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Nickel Manganese Ferrite",
+            "material_formula": "NMF",
+            "material_properties": [
+                {
+                    "capacity_value": 74.3,
+                    "capacity_unit": "%",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 13000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sodium Titanium Phosphate",
+            "material_formula": "NTP",
+            "material_properties": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaClO4",
+            "material_formula": "",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Prussian Blue Analogue",
+            "material_formula": "PBA",
+            "material_properties": []
+        }
+    ]
+}

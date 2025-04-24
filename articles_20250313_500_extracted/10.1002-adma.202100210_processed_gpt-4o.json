@@ -1,0 +1,51 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "t-FeSe",
+            "material_formula": "FeSe",
+            "material_properties": [
+                {
+                    "capacity_value": 407,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 30
+                },
+                {
+                    "capacity_value": 284,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 12.5,
+                    "current_density_unit": "C",
+                    "cycle": 30
+                },
+                {
+                    "capacity_value": 377,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "not specified",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 374,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 30
+                }
+            ]
+        }
+    ]
+}

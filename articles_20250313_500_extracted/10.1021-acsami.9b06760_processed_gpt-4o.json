@@ -1,0 +1,133 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaTFSI",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.16,
+                    "capacity_unit": "μm",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 9,
+                    "current_density_unit": "μA cm–2",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaFSI",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.16,
+                    "capacity_unit": "μm",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 9,
+                    "current_density_unit": "μA cm–2",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaOTf",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.16,
+                    "capacity_unit": "μm",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 9,
+                    "current_density_unit": "μA cm–2",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.16,
+                    "capacity_unit": "μm",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 9,
+                    "current_density_unit": "μA cm–2",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaClO4",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.16,
+                    "capacity_unit": "μm",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 9,
+                    "current_density_unit": "μA cm–2",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium perchlorate",
+                    "material_formula": "NaClO4",
+                    "amount": {
+                        "value": 97,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Sodium trifluoromethanesulfonate",
+                    "material_formula": "NaOTf",
+                    "amount": {
+                        "value": 98,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 99,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Sodium(I) bis(trifluoromethanesulfonyl)imide",
+                    "material_formula": "NaTFSI",
+                    "amount": {
+                        "value": 99.5,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Sodium(I) bis(fluorosulfonyl)imide",
+                    "material_formula": "NaFSI",
+                    "amount": {
+                        "value": 99.7,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Diethylene glycol dimethyl ether",
+                    "material_formula": "C6H14O3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                }
+            ]
+        }
+    ]
+}

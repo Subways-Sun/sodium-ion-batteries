@@ -1,0 +1,85 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "P2–Na2/3Mn0.8Fe0.1Ti0.1O2",
+            "material_formula": "Na2/3Mn0.8Fe0.1Ti0.1O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "titanium dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "sodium mesoxalate monohydrate (sacrificial sodium salt)",
+            "material_formula": "Na2C3O5",
+            "material_properties": [
+                {
+                    "capacity_value": 310,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 130,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 164,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 140
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium mesoxalate monohydrate",
+                    "material_formula": "Na2C3O5·H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "purchased"
+                    }
+                }
+            ]
+        }
+    ]
+}

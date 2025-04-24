@@ -1,0 +1,70 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Na3Sb",
+            "material_formula": "Na3Sb",
+            "material_properties": [
+                {
+                    "capacity_value": 544,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA/g",
+                    "cycle": 2
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "antimony powder",
+                    "material_formula": "Sb",
+                    "amount": {
+                        "value": 99.99,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "sodium metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 99,
+                        "unit": "%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "a-Na3–xSb",
+            "material_formula": "Na3Sb",
+            "material_properties": [
+                {
+                    "capacity_value": 544,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA/g",
+                    "cycle": 2
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": -1,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Antimony powder",
+                    "material_formula": "Sb",
+                    "amount": {
+                        "value": -1,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

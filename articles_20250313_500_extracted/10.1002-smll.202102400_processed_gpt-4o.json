@@ -1,0 +1,27 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sn@Na-NPs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 5,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

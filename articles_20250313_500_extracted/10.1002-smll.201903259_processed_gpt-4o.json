@@ -1,0 +1,174 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Co9S8@C/3DNCF",
+            "material_formula": "Co9S8@C/3DNCF",
+            "material_properties": [
+                {
+                    "capacity_value": 701.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 659.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 590.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 523.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 438.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 371.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 291.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 618.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 400.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1400
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CoCl2·6H2O",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 177,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "thioacetamide (TAA)",
+                    "material_formula": "C2H5NS",
+                    "amount": {
+                        "value": 142.5,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 32.5,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "C2H6O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "distilled water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3@C",
+            "material_formula": "Na3V2(PO4)3@C",
+            "material_properties": [
+                {
+                    "capacity_value": 377.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        }
+    ]
+}

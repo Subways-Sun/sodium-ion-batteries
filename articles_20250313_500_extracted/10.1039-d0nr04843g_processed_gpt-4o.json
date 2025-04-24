@@ -1,0 +1,51 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "In2S3/C nanofibers",
+            "material_formula": "In2S3/C",
+            "material_properties": [
+                {
+                    "capacity_value": 388.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 235.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 344.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 261.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 372.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                }
+            ]
+        }
+    ]
+}

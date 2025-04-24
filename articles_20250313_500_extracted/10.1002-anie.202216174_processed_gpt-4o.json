@@ -1,0 +1,10 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NCRT",
+            "material_formula": "NaCrRuTiO",
+            "material_properties": []
+        }
+    ]
+}

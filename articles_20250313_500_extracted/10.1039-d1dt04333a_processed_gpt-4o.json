@@ -1,0 +1,28 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaCrO2",
+            "material_formula": "NaCrO2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Chromium(III) Nitrate Nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

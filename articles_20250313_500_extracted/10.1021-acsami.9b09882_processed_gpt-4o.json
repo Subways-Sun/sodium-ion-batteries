@@ -1,0 +1,58 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Bismuth oxide nanosheets",
+            "material_formula": "BOHNs (α-/β-Bi2O3)",
+            "material_properties": [
+                {
+                    "capacity_value": 565.8,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 419.4,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 366.1,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 50,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 500
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "BOHNCG paper",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 80
+                }
+            ]
+        }
+    ]
+}

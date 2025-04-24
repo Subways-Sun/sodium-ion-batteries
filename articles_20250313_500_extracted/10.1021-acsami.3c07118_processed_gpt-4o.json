@@ -1,0 +1,190 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "FeCo2Se4 on Holey Graphene (FCS/HG)",
+            "material_formula": "FeCo2Se4",
+            "material_properties": [
+                {
+                    "capacity_value": 741.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 565.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 584,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 544.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 425.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 10000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 411.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 20000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 509.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 432.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2000
+                },
+                {
+                    "capacity_value": 611.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Cobalt(II) nitrate tetrahydrate",
+                    "material_formula": "Co(NO3)2·4H2O",
+                    "amount": {
+                        "value": 116.4,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 88.6,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide suspension",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ammonium hydroxide",
+                    "material_formula": "NH4OH",
+                    "amount": {
+                        "value": 0.3,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeCo2Se4 on Reduced Graphene Oxide (FCS/rGO)",
+            "material_formula": "FeCo2Se4",
+            "material_properties": [
+                {
+                    "capacity_value": 533.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Cobalt(II) nitrate tetrahydrate",
+                    "material_formula": "Co(NO3)2·4H2O",
+                    "amount": {
+                        "value": 116.4,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 88.6,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide suspension",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mg mL–1"
+                    }
+                },
+                {
+                    "material_name": "Ammonium hydroxide",
+                    "material_formula": "NH4OH",
+                    "amount": {
+                        "value": 0.3,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

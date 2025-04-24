@@ -1,0 +1,164 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "EC",
+            "material_formula": "C3H4O3",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "m"
+                    }
+                },
+                {
+                    "material_name": "ethylene carbonate (EC)",
+                    "material_formula": "C3H4O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unit"
+                    }
+                },
+                {
+                    "material_name": "phloroglucinol",
+                    "material_formula": "C6H6O3",
+                    "amount": {
+                        "value": 0.82,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "glyoxylic acid monohydrate",
+                    "material_formula": "C2H2O4·H2O",
+                    "amount": {
+                        "value": 0.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Pluronic F127",
+                    "material_formula": "PEO106PPO70PEO106",
+                    "amount": {
+                        "value": 1.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "absolute ethanol",
+                    "material_formula": "C2H6O",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Hard Carbon (HC)",
+            "material_formula": "/Na/C",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Phloroglucinol",
+                    "material_formula": "C6H6O3",
+                    "amount": {
+                        "value": 0.82,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glyoxylic acid monohydrate",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Pluronic F127",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 1.61,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ST1000",
+            "material_formula": "/graphitic/pores",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Phloroglucinol",
+                    "material_formula": "C6H6O3",
+                    "amount": {
+                        "value": 0.82,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glyoxylic acid monohydrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Pluronic F127",
+                    "material_formula": "PEO106PPO70‐PEO106",
+                    "amount": {
+                        "value": 1.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Absolute ethanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ST1500",
+            "material_formula": "/graphitic/pores",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Phloroglucinol",
+                    "material_formula": "C6H6O3",
+                    "amount": {
+                        "value": 0.82,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glyoxylic acid monohydrate",
+                    "material_formula": "C2H2O3",
+                    "amount": {
+                        "value": 0.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Pluronic F127",
+                    "material_formula": "C227H466O110",
+                    "amount": {
+                        "value": 1.61,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

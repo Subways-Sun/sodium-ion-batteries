@@ -1,0 +1,66 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFPP",
+            "material_formula": "Na3Fe2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 110.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 67.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 80.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NLFPP",
+            "material_formula": "NaLi3Fe3(PO4)2(P2O7)",
+            "material_properties": [
+                {
+                    "capacity_value": 87.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 65.3,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        }
+    ]
+}

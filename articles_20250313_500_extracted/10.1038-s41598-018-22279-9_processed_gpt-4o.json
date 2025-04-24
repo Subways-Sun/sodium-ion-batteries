@@ -1,0 +1,16 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "O3-type sodium cobalt oxide",
+            "material_formula": "Na1.00CoO2",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-type sodium cobalt oxide",
+            "material_formula": "Na0.59CoO2",
+            "material_properties": []
+        }
+    ]
+}

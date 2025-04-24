@@ -1,0 +1,126 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "s-NaCrO2",
+            "material_formula": "NaCrO2",
+            "material_properties": [
+                {
+                    "capacity_value": 118,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 98,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 800
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 1500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Cr(OH)3",
+                    "material_formula": "Cr(OH)3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "i-NaCrO2",
+            "material_formula": "NaCrO2",
+            "material_properties": [
+                {
+                    "capacity_value": 86,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 48,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 16,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Cr2O3",
+                    "material_formula": "Cr2O3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        }
+    ]
+}

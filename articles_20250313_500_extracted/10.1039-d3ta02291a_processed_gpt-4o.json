@@ -1,0 +1,97 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NMVTP/C",
+            "material_formula": "Na3.5MnV0.5Ti0.5(PO4)3/C",
+            "material_properties": [
+                {
+                    "capacity_value": 133.14,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.17,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 59.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 17.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 94,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.77,
+                    "current_density_unit": "C",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10.5,
+                    "current_density_unit": "C",
+                    "cycle": 1500
+                },
+                {
+                    "capacity_value": 63,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 14,
+                    "current_density_unit": "C",
+                    "cycle": 8000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMVFP/C",
+            "material_formula": "Na3.5MnV0.5Fe0.5(PO4)3/C",
+            "material_properties": [
+                {
+                    "capacity_value": 113.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.17,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 31,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 17.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMVAP/C",
+            "material_formula": "Na3.5MnV0.5Al0.5(PO4)3/C",
+            "material_properties": [
+                {
+                    "capacity_value": 82,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.17,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 10,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 17.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Na2Ti3O7-IcUH",
+            "material_formula": "Na2Ti3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 225,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 205.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 183.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 164.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 149.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 135.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 125.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 96.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 181.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 101.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2000
+                },
+                {
+                    "capacity_value": 85,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ti(OH)x@SiO2",
+                    "material_formula": "Ti(OH)x@SiO2",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "H2O2 aqueous solution",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "NaOH aqueous solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Na2Ti3O7-SH",
+            "material_formula": "Na2Ti3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 30,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ti(OH)x@SiO2",
+                    "material_formula": "Ti(OH)x@SiO2",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "H2O2 aqueous solution",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "NaOH aqueous solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

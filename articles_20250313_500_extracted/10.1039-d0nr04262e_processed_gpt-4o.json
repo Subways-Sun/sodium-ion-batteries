@@ -1,0 +1,238 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaNi0.33Mn0.33Fe0.33O2",
+            "material_formula": "NaNi0.33Mn0.33Fe0.33O2",
+            "material_properties": [
+                {
+                    "capacity_value": 168.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 143.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 127.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 14.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 0.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 28.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Nickel acetate",
+                    "material_formula": "C4H6NiO4",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Manganese acetate",
+                    "material_formula": "C4H6MnO4",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Iron nitrate",
+                    "material_formula": "Fe(NO3)3",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Yttrium nitrate",
+                    "material_formula": "Y(NO3)3",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NaNi0.33Mn0.31Y0.02Fe0.33O2",
+            "material_formula": "NaNi0.33Mn0.31Y0.02Fe0.33O2",
+            "material_properties": [
+                {
+                    "capacity_value": 151.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 147.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 136.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 124.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 107.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 65.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "nickel acetate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "manganese acetate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "iron nitrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "yttrium nitrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NaNi0.33Mn0.29Al0.04Fe0.33O2",
+            "material_formula": "NaNi0.33Mn0.29Al0.04Fe0.33O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "nickel acetate",
+                    "material_formula": "Ni(C2H3O2)2",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "manganese acetate",
+                    "material_formula": "Mn(C2H3O2)2",
+                    "amount": {
+                        "value": 0.29,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "iron nitrate",
+                    "material_formula": "Fe(NO3)3",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "aluminum nitrate",
+                    "material_formula": "Al(NO3)3",
+                    "amount": {
+                        "value": 0.04,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        }
+    ]
+}

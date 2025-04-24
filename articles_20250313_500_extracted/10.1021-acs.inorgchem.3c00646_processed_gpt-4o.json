@@ -1,0 +1,214 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "B-SnCo/NCFs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 850.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 495.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 463.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 396.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 346.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 301.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 243.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 379.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 351,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 198,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "polyacrylonitrile",
+                    "material_formula": "PAN",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "HCSs",
+                    "material_formula": "HCSs",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "cobalt dichloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0.238,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tin(II) chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.226,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "dimethylformamide",
+                    "material_formula": "DMF",
+                    "amount": {
+                        "value": 99.8,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "argon/hydrogen gas mixture",
+                    "material_formula": "Ar/H2",
+                    "amount": {
+                        "value": 95,
+                        "unit": "vol %"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnCo/NCFs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 802.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 415.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 820,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 243.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "polyacrylonitrile",
+                    "material_formula": "PAN",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "cobalt dichloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0.238,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tin(II) chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.226,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "dimethylformamide",
+                    "material_formula": "DMF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "ml"
+                    }
+                }
+            ]
+        }
+    ]
+}

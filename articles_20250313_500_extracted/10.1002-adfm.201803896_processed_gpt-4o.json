@@ -1,0 +1,134 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "O3-Nax[Mn0.25Fe0.25Co0.25Ni0.25]O2",
+            "material_formula": "O3-Nax[Mn0.25Fe0.25Co0.25Ni0.25]O2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "O3-Nax[Fe0.5Co0.5]O2",
+            "material_formula": "O3-Nax[Fe0.5Co0.5]O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Na metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Fe",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Co",
+                    "material_formula": "Co",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na2/3[Fe0.5Mn0.5]O2",
+            "material_formula": "P2-Na2/3[Fe0.5Mn0.5]O2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na[Mn0.25Fe0.25Co0.25Ni0.25]O2",
+            "material_formula": "Na[Mn0.25Fe0.25Co0.25Ni0.25]O2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na[Fe0.5Co0.5]O2",
+            "material_formula": "Na[Fe0.5Co0.5]O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 8.617,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Co3O4",
+                    "material_formula": "Co3O4",
+                    "amount": {
+                        "value": 4.812,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 3.336,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Nax[Fe0.5Mn0.5]O2",
+            "material_formula": "Nax[Fe0.5Mn0.5]O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Na metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 99.95,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "NaPF6",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 98,
+                        "unit": "%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Nax[Fe0.5Ni0.5]O2",
+            "material_formula": "Nax[Fe0.5Ni0.5]O2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Nax[Fe1/3Mn1/3Ni1/3]O2",
+            "material_formula": "Nax[Fe1/3Mn1/3Ni1/3]O2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Nax[Fe1/3Co1/3Ni1/3]O2",
+            "material_formula": "Nax[Fe1/3Co1/3Ni1/3]O2",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

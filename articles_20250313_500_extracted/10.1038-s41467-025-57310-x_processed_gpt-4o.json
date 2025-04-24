@@ -1,0 +1,78 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "RS-NaTiO2",
+            "material_formula": "RS-NaTiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 224,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "c-a’-RS-NaTiO2",
+            "material_formula": "c-a’-RS-NaTiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 224,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 4.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "a-RS-NaTiO2",
+            "material_formula": "a-RS-NaTiO2",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "TiO2(A)",
+            "material_formula": "TiO2",
+            "material_properties": []
+        }
+    ]
+}

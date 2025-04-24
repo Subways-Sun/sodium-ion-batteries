@@ -1,0 +1,191 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "EU1100",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.1,
+                    "capacity_unit": "V",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Eucommia ulmoides barks",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "EU1100M",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.1,
+                    "capacity_unit": "V",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 1.5,
+                    "capacity_unit": "V",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 83.5,
+                    "capacity_unit": "%",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Eucommia ulmoides bark powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "coal tar pitch",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "EU1300",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.1,
+                    "capacity_unit": "V",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Eucommia ulmoides barks",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Coal tar pitch powders",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "EU1300M",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0.1,
+                    "capacity_unit": "V",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 1.5,
+                    "capacity_unit": "V",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 72.8,
+                    "capacity_unit": "%",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "coal tar pitch powders",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "EU1300",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CW1300",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CW1300M",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Eucommia ulmoides barks",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Coal tar pitch",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NiS2–Co3S4@rGO nanocage",
+            "material_formula": "NiS2-Co3S4@rGO",
+            "material_properties": [
+                {
+                    "capacity_value": 1031.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 784.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 714.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 652.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 584.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 487.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 794.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 711.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Potassium cobalt cyanide",
+                    "material_formula": "C6CoK3N6",
+                    "amount": {
+                        "value": 1.33,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Nickel acetate",
+                    "material_formula": "Ni(CH3COO)2",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium citrate",
+                    "material_formula": "C6H5Na3O7·2H2O",
+                    "amount": {
+                        "value": 2.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 1,
+                        "unit": "ratio"
+                    }
+                },
+                {
+                    "material_name": "Tris",
+                    "material_formula": "Tris",
+                    "amount": {
+                        "value": 8.5,
+                        "unit": "pH"
+                    }
+                },
+                {
+                    "material_name": "Cetyltrimethylammonium bromide",
+                    "material_formula": "CTAB",
+                    "amount": {
+                        "value": 1,
+                        "unit": "ratio"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 3,
+                        "unit": "ratio"
+                    }
+                },
+                {
+                    "material_name": "Sulfur powder",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NiS2–Co3S4@rGO-2",
+            "material_formula": "NiS2-Co3S4@rGO",
+            "material_properties": [
+                {
+                    "capacity_value": 657.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 579,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 475,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Potassium cobalt cyanide",
+                    "material_formula": "C6CoK3N6",
+                    "amount": {
+                        "value": 1.33,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Nickel acetate",
+                    "material_formula": "Ni(CH3COO)2",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium citrate",
+                    "material_formula": "C6H5Na3O7·2H2O",
+                    "amount": {
+                        "value": 2.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "Tris",
+                    "material_formula": "Tris",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "Cetyltrimethylammonium bromide",
+                    "material_formula": "CTAB",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "Sulfur powder",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

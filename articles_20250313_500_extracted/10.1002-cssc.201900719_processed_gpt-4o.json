@@ -1,0 +1,27 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SnS2@C@rGO",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 26.67,
+                    "capacity_unit": "m2 g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 16.02,
+                    "capacity_unit": "m2 g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

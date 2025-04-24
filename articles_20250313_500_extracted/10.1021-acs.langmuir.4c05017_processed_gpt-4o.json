@@ -1,0 +1,280 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM",
+            "material_formula": "NaNi0.5Mn0.5O2",
+            "material_properties": [
+                {
+                    "capacity_value": 126.25,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 106.64,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 97.25,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 65,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 98.23,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 750,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mol%"
+                    }
+                },
+                {
+                    "material_name": "Nickel oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Manganese dioxide",
+                    "material_formula": "MnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFM@CLP1",
+            "material_formula": "NaNi0.5Mn0.5O2@CLP",
+            "material_properties": [
+                {
+                    "capacity_value": 127.06,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 116.89,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 99.77,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 65,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 108.81,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 750,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "PEGDA (poly(ethylene glycol) diacrylate)",
+                    "material_formula": "C10H14O5",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "PEGMEA (poly(ethylene glycol) methyl ether methacrylate)",
+                    "material_formula": "C8H14O4",
+                    "amount": {
+                        "value": 3.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Acetone",
+                    "material_formula": "C3H6O",
+                    "amount": {
+                        "value": 4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "UV819 (phenylbis(2, 4, 6-trimethylbenzoyl) phosphine oxide)",
+                    "material_formula": "C26H27O3P",
+                    "amount": {
+                        "value": 0.08,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NFM (NaNi0.33Fe0.33Mn0.33O2)",
+                    "material_formula": "NaNi0.33Fe0.33Mn0.33O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFM@CLP2",
+            "material_formula": "NaNi0.5Mn0.5O2@CLP",
+            "material_properties": [
+                {
+                    "capacity_value": 122.89,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 111.23,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "PEGDA (poly(ethylene glycol) diacrylate)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "part"
+                    }
+                },
+                {
+                    "material_name": "PEGMEA (poly(ethylene glycol) methyl ether methacrylate)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 4,
+                        "unit": "parts"
+                    }
+                },
+                {
+                    "material_name": "acetone",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "UV819 (phenylbis(2, 4, 6-trimethylbenzoyl) phosphine oxide)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 2,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "NFM material",
+                    "material_formula": "NaNi0.33Fe0.33Mn0.33O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFM@CLP3",
+            "material_formula": "NaNi0.5Mn0.5O2@CLP",
+            "material_properties": [
+                {
+                    "capacity_value": 120.15,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 111.43,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 130,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mol%"
+                    }
+                },
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "MnO2",
+                    "material_formula": "MnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

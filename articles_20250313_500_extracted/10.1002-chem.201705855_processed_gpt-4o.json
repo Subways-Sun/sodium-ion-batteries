@@ -1,0 +1,50 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SnS2@rGO",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 573.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 350,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 200
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS2/Sb2S3@rGO",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 620,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 200
+                }
+            ]
+        }
+    ]
+}

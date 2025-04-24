@@ -1,0 +1,124 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaV(SO4)2",
+            "material_formula": "NaV(SO4)2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "oxalic acid dihydrate",
+                    "material_formula": "C2H2O4·2H2O",
+                    "amount": {
+                        "value": 1.2204,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "V2O5",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 0.5867,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "(NH4)2SO4",
+                    "material_formula": "(NH4)2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Na2SO4",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2VO(SO4)2",
+            "material_formula": "Na2VO(SO4)2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Oxalic acid dihydrate",
+                    "material_formula": "C2H2O4·2H2O",
+                    "amount": {
+                        "value": 1.2204,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Vanadium(V) oxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 0.5867,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ammonium sulfate",
+                    "material_formula": "(NH4)2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V(SO4)3",
+            "material_formula": "Na3V(SO4)3",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "oxalic acid dihydrate",
+                    "material_formula": "C2H2O4·2H2O",
+                    "amount": {
+                        "value": 1.2204,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "vanadium pentoxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 0.5867,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ammonium sulfate",
+                    "material_formula": "(NH4)2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

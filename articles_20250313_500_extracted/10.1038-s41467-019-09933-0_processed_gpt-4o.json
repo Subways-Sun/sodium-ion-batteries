@@ -1,0 +1,39 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVP@C",
+            "material_formula": "Na3V2(PO4)3@C",
+            "material_properties": [
+                {
+                    "capacity_value": 368.2,
+                    "capacity_unit": "Wh/kg",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 2000
+                },
+                {
+                    "capacity_value": 1.83,
+                    "capacity_unit": "kW/kg",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 2000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Metallic Na",
+            "material_formula": "Na",
+            "material_properties": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "1M NaClO4 in EC and DEC",
+            "material_formula": "",
+            "material_properties": []
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "phosphorus-doped carbon",
+            "material_formula": "P-SC",
+            "material_properties": [
+                {
+                    "capacity_value": 478,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 283,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 256,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 80
+                },
+                {
+                    "capacity_value": 242,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 89,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 3000
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "carbon",
+            "material_formula": "SC",
+            "material_properties": [
+                {
+                    "capacity_value": 323,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 180,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 195,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "acetylene black",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 2,
+                        "unit": "w"
+                    }
+                },
+                {
+                    "material_name": "carboxyl methylated cellulose",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "w"
+                    }
+                },
+                {
+                    "material_name": "C2H5OH",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 1,
+                        "unit": "w"
+                    }
+                },
+                {
+                    "material_name": "H2O",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "w"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6",
+            "material_formula": "NaPF6",
+            "material_properties": [
+                {
+                    "capacity_value": 2673,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 125,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

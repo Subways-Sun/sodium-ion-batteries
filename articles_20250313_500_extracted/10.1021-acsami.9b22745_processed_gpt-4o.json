@@ -1,0 +1,401 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "HC-1200",
+            "material_formula": "HC",
+            "material_properties": [
+                {
+                    "capacity_value": 326.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 323.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 270.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 198.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 43.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 24,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tamarind shell",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 1,
+                        "unit": "shell"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HC-1200H",
+            "material_formula": "HC",
+            "material_properties": [
+                {
+                    "capacity_value": 311.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 311.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "tamarind shell",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HC-800",
+            "material_formula": "HC",
+            "material_properties": [
+                {
+                    "capacity_value": 196.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 171.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 148.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 118.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 67.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 44,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 32.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tamarind shell",
+                    "material_formula": ".",
+                    "amount": {
+                        "value": 0,
+                        "unit": "(post-purchase and pre-calcinated)"
+                    }
+                },
+                {
+                    "material_name": "Argon",
+                    "material_formula": "Ar",
+                    "amount": {
+                        "value": 0,
+                        "unit": "(used for atmospheric flow during carbonization)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HC-1000",
+            "material_formula": "HC",
+            "material_properties": [
+                {
+                    "capacity_value": 250.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 243.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 218.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 162.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 77.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 42.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 28.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tamarind Shell",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HC-1100",
+            "material_formula": "HC",
+            "material_properties": [
+                {
+                    "capacity_value": 282.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 267.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 228.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 184,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 86,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 42.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 28.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HC-1300",
+            "material_formula": "HC",
+            "material_properties": [
+                {
+                    "capacity_value": 312.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 311.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 214.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 163.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 65.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 25,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 15.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tamarind shell",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

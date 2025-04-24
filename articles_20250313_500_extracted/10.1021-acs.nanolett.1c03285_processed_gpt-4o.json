@@ -1,0 +1,28 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na2/3Co1/3Mn2/3O2",
+            "material_formula": "Na2/3Co1/3Mn2/3O2",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2/3Ni1/3Mn2/3O2",
+            "material_formula": "Na2/3Ni1/3Mn2/3O2",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2/3Ni1/6Co1/6Mn2/3O2",
+            "material_formula": "Na2/3Ni1/6Co1/6Mn2/3O2",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.67Ni1/3Mn2/3O2",
+            "material_formula": "Na0.67Ni1/3Mn2/3O2",
+            "material_properties": []
+        }
+    ]
+}

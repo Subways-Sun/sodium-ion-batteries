@@ -1,0 +1,198 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ZnS/NSC",
+            "material_formula": "ZnS/NSC",
+            "material_properties": [
+                {
+                    "capacity_value": 896.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 561.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 379.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "zinc pyrithione",
+                    "material_formula": "C10H8N2O2S2Zn",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "distilled water",
+                    "material_formula": ".H2O",
+                    "amount": {
+                        "value": 350,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "A-ZnS/NSC",
+            "material_formula": "A-ZnS/NSC",
+            "material_properties": [
+                {
+                    "capacity_value": 839.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 516.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 500.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 334.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 514.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 465.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 421.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 364.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 800,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 316.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "zinc pyrithione",
+                    "material_formula": "C10H8N2O2S2Zn",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3.75,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZnS",
+            "material_formula": "ZnS",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Zinc pyrithione",
+                    "material_formula": "C10H8N2O2S2Zn",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Distilled water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 350,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3.75,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

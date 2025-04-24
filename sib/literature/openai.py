@@ -2,7 +2,7 @@
 # pylint: disable=locally-disabled, line-too-long, invalid-name
 # from pydantic import BaseModel
 from openai import OpenAI
-import tiktoken
+# import tiktoken
 client = OpenAI()
 
 def classify(openai_model, user_message):

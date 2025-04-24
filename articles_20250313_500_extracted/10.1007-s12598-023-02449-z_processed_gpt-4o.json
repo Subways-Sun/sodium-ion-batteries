@@ -1,0 +1,150 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Carbon Nanofibers",
+            "material_formula": "CNFs",
+            "material_properties": [
+                {
+                    "capacity_value": 633,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Yttrium nitrate hexahydrate",
+                    "material_formula": "Y(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.005,
+                        "unit": "mol·L−1"
+                    }
+                },
+                {
+                    "material_name": "Nickel nitrate",
+                    "material_formula": "Ni(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.01,
+                        "unit": "mol·L−1"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Copper Oxide Decorated Carbon Nanofibers",
+            "material_formula": "Cu-CNFs",
+            "material_properties": [
+                {
+                    "capacity_value": 729,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 300,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 6000
+                },
+                {
+                    "capacity_value": 310,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 232,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 180,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 147,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Yttrium nitrate hexahydrate",
+                    "material_formula": "Y(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.005,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Nickel nitrate hexahydrate",
+                    "material_formula": "Ni(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.01,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Copper foil",
+                    "material_formula": "Cu",
+                    "amount": {
+                        "value": 1,
+                        "unit": "piece"
+                    }
+                }
+            ]
+        }
+    ]
+}

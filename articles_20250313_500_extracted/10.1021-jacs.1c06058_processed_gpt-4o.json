@@ -1,0 +1,45 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Hard Carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 99.5,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "none"
+                    }
+                },
+                {
+                    "material_name": "Argon",
+                    "material_formula": "Ar",
+                    "amount": {
+                        "value": 0,
+                        "unit": "cm3/min"
+                    }
+                }
+            ]
+        }
+    ]
+}

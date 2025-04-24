@@ -1,0 +1,183 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "FeSe2@NDC NBs",
+            "material_formula": "FeSe2@NDC",
+            "material_properties": [
+                {
+                    "capacity_value": 516.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 475.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 448.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 448.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 441.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 439.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 429.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 409.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 374.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 466.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 403.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe-PB@PDA",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeSe2/NC",
+            "material_formula": "FeSe2/NC",
+            "material_properties": [
+                {
+                    "capacity_value": 411.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe-based Prussian blue (Fe-PB)",
+                    "material_formula": "Fe-PB",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "P-FeSe2",
+            "material_formula": "FeSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 374.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe-PB@PDA",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

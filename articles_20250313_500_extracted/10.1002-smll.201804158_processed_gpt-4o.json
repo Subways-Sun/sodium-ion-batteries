@@ -1,0 +1,106 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "tin nanoparticle decorated, N, S codoped carbon monolith",
+            "material_formula": "N/A",
+            "material_properties": [
+                {
+                    "capacity_value": 455,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 372,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 333,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 307,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 280,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 230,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 344,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "tin nanoparticle decorated, N, S codoped carbon monolith",
+            "material_formula": "N/A",
+            "material_properties": [
+                {
+                    "capacity_value": 283,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 228,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 2000
+                }
+            ]
+        }
+    ]
+}

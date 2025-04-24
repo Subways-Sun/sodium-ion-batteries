@@ -1,0 +1,200 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ZnO nanoparticles",
+            "material_formula": "ZnO",
+            "material_properties": [
+                {
+                    "capacity_value": 349,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 58,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 169,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 44,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 325,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 54,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 128,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 94,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 59,
+                    "capacity_unit": "mAhg-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZnO-NPs calcined at 700 °C",
+            "material_formula": "ZnO",
+            "material_properties": [
+                {
+                    "capacity_value": 591,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 128,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 94,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZnO-NPs calcined at 800 °C",
+            "material_formula": "ZnO",
+            "material_properties": [
+                {
+                    "capacity_value": 355,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 59,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZnO-NPs calcined at 900 °C",
+            "material_formula": "ZnO",
+            "material_properties": [
+                {
+                    "capacity_value": 440,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                }
+            ]
+        }
+    ]
+}

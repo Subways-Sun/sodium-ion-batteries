@@ -1,0 +1,191 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.6Mn0.7Ni0.15Zn0.15O2",
+            "material_formula": "Na0.6Mn0.7Ni0.15Zn0.15O2",
+            "material_properties": [
+                {
+                    "capacity_value": 112.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 0.695,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Manganese nitrate",
+                    "material_formula": "Mn(NO3)2",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Nickel nitrate",
+                    "material_formula": "Ni(NO3)2",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Zinc nitrate",
+                    "material_formula": "Zn(NO3)2",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.6Mn0.7Ni0.15Zn0.075Cu0.075O2 (NMZC)",
+            "material_formula": "Na0.6Mn0.7Ni0.15Zn0.075Cu0.075O2",
+            "material_properties": [
+                {
+                    "capacity_value": 113.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 96.4,
+                    "capacity_unit": "%",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "manganese nitrate",
+                    "material_formula": "Mn(NO3)2",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "nickel nitrate",
+                    "material_formula": "Ni(NO3)2",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "zinc nitrate",
+                    "material_formula": "Zn(NO3)2",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "copper nitrate",
+                    "material_formula": "Cu(NO3)2",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 6.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.6Mn0.7Ni0.15Cu0.15O2 (NMC)",
+            "material_formula": "Na0.6Mn0.7Ni0.15Cu0.15O2",
+            "material_properties": [
+                {
+                    "capacity_value": 116.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) nitrate",
+                    "material_formula": "Mn(NO3)2",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) nitrate",
+                    "material_formula": "Ni(NO3)2",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Copper(II) nitrate",
+                    "material_formula": "Cu(NO3)2",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 6.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

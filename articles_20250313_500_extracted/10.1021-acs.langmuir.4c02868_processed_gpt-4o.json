@@ -1,0 +1,152 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "C-HC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Coconut shells",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Nitrogen",
+                    "material_formula": "N2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N/O-HC-1",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 296,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Coconut shells",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mentioned"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mentioned"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N/O-HC-2",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 343,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 338,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 199,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Coconut shells",
+                    "material_formula": "C-HC",
+                    "amount": {
+                        "value": 0,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 2,
+                        "unit": "weight ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N/O-HC-3",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 356,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "C-HC (from coconut shells)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1300,
+                        "unit": "°C"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 1,
+                        "unit": ":1 - 1:3 weight ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}
