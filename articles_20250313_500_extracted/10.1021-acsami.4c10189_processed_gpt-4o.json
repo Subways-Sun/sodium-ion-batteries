@@ -1,0 +1,406 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "PVDF-HFP-NaTFSI",
+            "material_formula": ": (PVDF-HFP), (CF3SO2)2NLi",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "PVDF-HFP",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 80,
+                        "unit": "weight ratio percentage"
+                    }
+                },
+                {
+                    "material_name": "NaTFSI",
+                    "material_formula": "C2F6NNaO4S2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "weight ratio percentage"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "PVDF-HFP-NaPF6",
+            "material_formula": ": (PVDF-HFP), NaPF6",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "PVDF-HFP",
+                    "material_formula": "(C2H2F2)x(C3H4)y",
+                    "amount": {
+                        "value": 8,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 2,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "dimethylformamide",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "PVDF-HFP-NaClO4",
+            "material_formula": ": (PVDF-HFP), NaClO4",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "PVDF-HFP",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 80,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "sodium perchlorate",
+                    "material_formula": "NaClO4",
+                    "amount": {
+                        "value": 20,
+                        "unit": "%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "PVDF-HFP-NaBF4",
+            "material_formula": ": (PVDF-HFP), NaBF4",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "PVDF-HFP",
+                    "material_formula": "PVDF-HFP",
+                    "amount": {
+                        "value": 8,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "sodium tetrafluoroborate",
+                    "material_formula": "NaBF4",
+                    "amount": {
+                        "value": 2,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "dimethylformamide",
+                    "material_formula": "DMF",
+                    "amount": {
+                        "value": 100,
+                        "unit": "%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Zn-doped NVP",
+            "material_formula": "Na3.2V1.8Zn0.2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 53.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 50.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 48.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 45.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 42.0,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 38.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 3,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 36.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 4,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zinc acetate",
+                    "material_formula": "Zn(CH3COO)2",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Vanadium oxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 1.8,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium phosphate",
+                    "material_formula": "Na3PO4",
+                    "amount": {
+                        "value": 3.2,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "1 M NaBF4 in TEGDME liquid electrolyte",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "sodium tetrafluoroborate",
+                    "material_formula": "NaBF4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "tetraethylene glycol dimethyl ether",
+                    "material_formula": "TEGDME",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Zn-doped NVP",
+            "material_formula": "Na3.2V1.8Zn0.2(PO4)3",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Vanadium precursor",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 1.8,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Zinc precursor",
+                    "material_formula": "ZnO",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium source",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3.2,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Phosphate source",
+                    "material_formula": "(NH4)2HPO4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Zn-doped NVP",
+            "material_formula": "Na3.2V1.8Zn0.2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 74.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 66.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 58.0,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 53.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 44.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 30.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 4,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zinc acetate",
+                    "material_formula": "Zn(C2H3O2)2",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "moles"
+                    }
+                },
+                {
+                    "material_name": "Sodium dihydrogen phosphate",
+                    "material_formula": "NaH2PO4",
+                    "amount": {
+                        "value": 3.2,
+                        "unit": "moles"
+                    }
+                },
+                {
+                    "material_name": "Vanadium pentoxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 1.8,
+                        "unit": "moles"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "PVDF-HFP-NaTFSI-based gel polymer electrolyte",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "PVDF-HFP",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 8,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium trifluoromethanesulfonimide",
+                    "material_formula": "NaTFSI",
+                    "amount": {
+                        "value": 2,
+                        "unit": "weight ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Zn-doped NVP",
+            "material_formula": "Na3.2V1.8Zn0.2(PO4)3",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Zinc source",
+                    "material_formula": "Zn",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium phosphate",
+                    "material_formula": "Na3PO4",
+                    "amount": {
+                        "value": 3.2,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Vanadium source",
+                    "material_formula": "V",
+                    "amount": {
+                        "value": 1.8,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        }
+    ]
+}

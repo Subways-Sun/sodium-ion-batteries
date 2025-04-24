@@ -1,0 +1,134 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NMNO_A",
+            "material_formula": "Na0.67Mn0.9Ni0.1O2",
+            "material_properties": [
+                {
+                    "capacity_value": 130,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 118,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 100,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 60
+                },
+                {
+                    "capacity_value": 72,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 130
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CH3COONa",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts (5% excess)"
+                    }
+                },
+                {
+                    "material_name": "[CH3COO]2Ni",
+                    "material_formula": "[CH3COO]2Ni",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                },
+                {
+                    "material_name": "[CH3COO]2Mn",
+                    "material_formula": "[CH3COO]2Mn",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts with acid:metal-atom molar ratio of 3:1"
+                    }
+                },
+                {
+                    "material_name": "Ethylene glycol",
+                    "material_formula": "C2H6O2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "few droplets"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMNO_B",
+            "material_formula": "Na0.52(H2O)0.3Mn0.9Ni0.1O2",
+            "material_properties": [
+                {
+                    "capacity_value": 136,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 65,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 70
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 1.05,
+                        "unit": "stoichiometric proportion"
+                    }
+                },
+                {
+                    "material_name": "nickel acetate",
+                    "material_formula": "[CH3COO]2Ni",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric proportion"
+                    }
+                },
+                {
+                    "material_name": "manganese acetate",
+                    "material_formula": "[CH3COO]2Mn",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric proportion"
+                    }
+                }
+            ]
+        }
+    ]
+}

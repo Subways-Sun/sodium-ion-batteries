@@ -1,0 +1,101 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Na/In/C composite",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 3,
+                    "capacity_unit": "mAh cm-2",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm-2",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 3,
+                    "capacity_unit": "mAh cm-2",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2,
+                    "current_density_unit": "mA cm-2",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 5,
+                    "capacity_unit": "mAh cm-2",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 5,
+                    "current_density_unit": "mA cm-2",
+                    "cycle": 600
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Metal Na foil",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "Metallic In powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "Carbon cloth disks",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 4,
+                        "unit": "weight ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "1.0 M NaClO4 in EC:PC with 5% FEC",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium perchlorate",
+                    "material_formula": "NaClO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Ethylene carbonate",
+                    "material_formula": "EC",
+                    "amount": {
+                        "value": 50,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Propylene carbonate",
+                    "material_formula": "PC",
+                    "amount": {
+                        "value": 50,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Fluoroethylene carbonate",
+                    "material_formula": "FEC",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "KMF-OS",
+            "material_formula": "K1.56Mn[Fe(CN)6]0.92□0.08·0.61 H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 93.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 96.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 81,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1500
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1300
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 56,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

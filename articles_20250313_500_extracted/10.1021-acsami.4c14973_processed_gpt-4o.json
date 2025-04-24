@@ -1,0 +1,172 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Prussian Blue Analogues (PBAs)",
+            "material_formula": "Na2Fe(CN)6",
+            "material_properties": [
+                {
+                    "capacity_value": 82.77,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 80.16,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 83.94,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 114.98,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 121.04,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 82.32,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 79.47,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 91.23,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 112.91,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 101.53,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 68.84,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 70.45,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 86.62,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 83.07,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 88.55,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na4Fe(CN)6·10H2O",
+                    "material_formula": "C6FeN6Na4O10",
+                    "amount": {
+                        "value": 0.002,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "ascorbic acid",
+                    "material_formula": "C6H8O6",
+                    "amount": {
+                        "value": 3,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "HCl",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "NaBH4",
+                    "material_formula": "NaBH4",
+                    "amount": {
+                        "value": 0.002,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Na metal",
+            "material_formula": "Na",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

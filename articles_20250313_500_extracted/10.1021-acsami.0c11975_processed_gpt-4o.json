@@ -1,0 +1,117 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V1.3Cr0.7(PO4)3",
+            "material_formula": "Na3V1.3Cr0.7(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 77.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 76.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 67.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 61.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 49.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 75.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 77.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "anhydrous citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "sodium acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "vanadium (III) 2, 4-pentanedionate",
+                    "material_formula": "C15H21O6V",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "chromic nitrate nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "VN/C@NGO",
+            "material_formula": "Na3V(PO3)3N",
+            "material_properties": [
+                {
+                    "capacity_value": 78.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 8,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 59.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 2400,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 91.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA/g",
+                    "cycle": 800
+                },
+                {
+                    "capacity_value": 75.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 800,
+                    "current_density_unit": "mA/g",
+                    "cycle": 5000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "VN/C",
+            "material_formula": "Na3V(PO3)3N",
+            "material_properties": []
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "graphite",
+            "material_formula": "C",
+            "material_properties": [
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "%",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "A/g",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 36,
+                    "capacity_unit": "%",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "A/g",
+                    "cycle": 300
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "1 M NaPF6 diglyme",
+            "material_formula": "C4H10O2",
+            "material_properties": []
+        }
+    ]
+}

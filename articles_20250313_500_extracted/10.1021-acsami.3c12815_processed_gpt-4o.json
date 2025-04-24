@@ -1,0 +1,10 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "EC-DMC mixture",
+            "material_formula": "",
+            "material_properties": []
+        }
+    ]
+}

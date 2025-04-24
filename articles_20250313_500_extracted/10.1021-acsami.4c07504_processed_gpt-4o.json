@@ -1,0 +1,102 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "single-crystalline Na[Ni0.6Co0.2Mn0.2]O2",
+            "material_formula": "Na[Ni0.6Co0.2Mn0.2]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 108.26,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "%",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 350
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Co3O4",
+                    "material_formula": "Co3O4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "MnO2",
+                    "material_formula": "MnO2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 140,
+                        "unit": "% molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "polycrystalline Na[Ni0.6Co0.2Mn0.2]O2",
+            "material_formula": "Na[Ni0.6Co0.2Mn0.2]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 117.94,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 30.08,
+                    "capacity_unit": "%",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 350
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ni0.6Co0.2Mn0.2(OH)2",
+                    "material_formula": "Ni0.6Co0.2Mn0.2(OH)2",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "unclear"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 115.0,
+                        "unit": "% molar ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}

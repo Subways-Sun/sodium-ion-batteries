@@ -1,0 +1,54 @@
+{
+    "DOI": null,
+    "Journal": null,
+    "Keywords": [
+        "Sodium-ion battery",
+        "Oxygen redox chemistry",
+        "O3 layered oxide",
+        "Doping modification",
+        "Cathode material",
+        "Recommended articles"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Facilitating anion redox chemistry is an effective strategy to increase the capacity of layered oxides for sodium-ion batteries. Nevertheless, there remains a paucity of literature pertaining to the oxygen redox chemistry of O3-type layered oxide cathode materials. This work systematically investigates the effect of Fe doping on the anionic oxygen redox chemistry and electrochemical reactions in O3-NaNi0.4Cu0.1Mn0.4Ti0.1O2. The results of the density functional theory (DFT) calculations indicate that the electrons of the O 2p occupy a higher energy level. In the ex-situ X-ray photoelectron spectrometer (XPS) of O 1s, the addition of Fe facilitates the lattice oxygen (On−) to exhibit enhanced activity at 4.45 V. The in-situ X-ray diffraction (XRD) demonstrates that the doping of Fe effectively suppresses the Y phase transition at high voltages. Furthermore, the Galvanostatic Intermittent Titration Technique (GITT) data indicate that Fe doping significantly increases the Na+ migration rate at high voltages. Consequently, the substitution of Fe can elevate the cut-off voltage to 4.45 V, thereby facilitating electron migration from O2−. The redox of O2−/On− (n < 2) contributes to the overall capacity. O3-Na(Ni0.4Cu0.1Mn0.4Ti0.1)0.92Fe0.08O2 provides an initial discharge specific capacity of 180.55 mA h g−1 and 71.6% capacity retention at 0.5 C (1 C = 240 mA g−1). This work not only demonstrates the beneficial impact of Fe substitution for promoting the redox activity and reversibility of O2− in O3-type layered oxides, but also guarantees the structural integrity of the cathode materials at high voltages (>4.2 V). It offers a novel avenue for investigating the anionic redox reaction in O3-type layered oxides to design advanced cathode materials."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Fe atoms promote the anionic redox of O3 layered oxides (Na-full) sodium-ion battery cathode materials and enhance the structural stability in high voltage.",
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "View Abstract",
+                "© 2024 Science Press and Dalian Institute of Chemical Physics, Chinese Academy of Sciences. Published by Elsevier B.V. and Science Press. All rights are reserved, including those for text and data mining, AI training, and similar technologies."
+            ],
+            "name": "Cited by (0)",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "No articles found.",
+                "About ScienceDirect",
+                "Remote access",
+                "Advertise",
+                "Contact and support",
+                "Terms and conditions",
+                "Privacy policy",
+                "Cookies are used by this site. Cookie Settings",
+                "All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply."
+            ],
+            "name": "Recommended articles",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Facilitating the oxygen redox chemistry in O3-type layered oxide cathode material for sodium-ion batteries by Fe substitution"
+}

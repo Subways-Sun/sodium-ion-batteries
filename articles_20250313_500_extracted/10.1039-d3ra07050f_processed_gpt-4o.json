@@ -1,0 +1,157 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CoFe2O4",
+            "material_formula": "CoFe2O4",
+            "material_properties": [
+                {
+                    "capacity_value": 617,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 76,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 839,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 98,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 224,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 350,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 69,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 171,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 125,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 103,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g−1",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 87,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g−1",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 66
+                },
+                {
+                    "capacity_value": 108,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 66
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 99.0,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "ferric chloride",
+                    "material_formula": "FeCl3",
+                    "amount": {
+                        "value": 98,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "potassium chloride",
+                    "material_formula": "KCl",
+                    "amount": {
+                        "value": 99.5,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "sodium chloride",
+                    "material_formula": "NaCl",
+                    "amount": {
+                        "value": 99.5,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "hydrogen peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 30,
+                        "unit": "%"
+                    }
+                }
+            ]
+        }
+    ]
+}

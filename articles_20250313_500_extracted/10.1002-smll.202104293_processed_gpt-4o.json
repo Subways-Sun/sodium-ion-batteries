@@ -1,0 +1,22 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Ti3C2Tx MXene",
+            "material_formula": "Ti3C2Tx",
+            "material_properties": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb2S3",
+            "material_formula": "Sb2S3",
+            "material_properties": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Ti3C2-Sb2S3 composite",
+            "material_formula": "",
+            "material_properties": []
+        }
+    ]
+}

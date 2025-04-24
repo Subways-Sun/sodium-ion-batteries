@@ -1,0 +1,16 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "α-Na2FePO4F",
+            "material_formula": "α-Na2FePO4F",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "β-Na2FePO4F",
+            "material_formula": "β-Na2FePO4F",
+            "material_properties": []
+        }
+    ]
+}

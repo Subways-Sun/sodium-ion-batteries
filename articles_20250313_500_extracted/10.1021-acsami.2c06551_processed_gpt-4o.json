@@ -1,0 +1,109 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "OFC@CoS2/CoO@rGO",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 205.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 353,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 229,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 161,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 3500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium chloroacetate",
+                    "material_formula": "ClCH2COONa",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "methanol",
+                    "material_formula": "CH4O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "polyvinylpyrrolidone",
+                    "material_formula": "(C6H9NO)n",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "cobalt nitrate",
+                    "material_formula": "Co(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "2-methylimidazole",
+                    "material_formula": "C4H6N2",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "sulfur",
+                    "material_formula": "S8",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "carbon disulfide",
+                    "material_formula": "CS2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "aminated graphene oxide",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

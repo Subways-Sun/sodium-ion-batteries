@@ -1,0 +1,69 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.75Ni0.33Mn0.67O2",
+            "material_formula": "Na0.75Ni0.33Mn0.67O2",
+            "material_properties": [
+                {
+                    "capacity_value": 146.57,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 131.87,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 15.24,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Mn⋅4H2O",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Ni⋅4H2O",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": ". CO(NH2)2",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Sodium fluoride",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0.75,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}

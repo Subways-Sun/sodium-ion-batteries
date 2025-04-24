@@ -1,0 +1,158 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "F-FeS2",
+            "material_formula": "FeS2",
+            "material_properties": [
+                {
+                    "capacity_value": 1341,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 840,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 823,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 771,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 721,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 693,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 662,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 630,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 3.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 608,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 4.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 582,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 861,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 755,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe2O3 precursor",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sublimed sulfur",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 0.025,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeS2",
+            "material_formula": "FeS2",
+            "material_properties": [
+                {
+                    "capacity_value": 194,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sublimed sulfur",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

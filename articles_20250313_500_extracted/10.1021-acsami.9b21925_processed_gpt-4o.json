@@ -1,0 +1,102 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Single-phase Na-titanate oxide (NTO)",
+            "material_formula": "NaTiO12",
+            "material_properties": [
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.5,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium-metal flakes",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "biphenyl",
+                    "material_formula": "C12H10",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "1,2-dimethoxyethane (DME)",
+                    "material_formula": "C4H10O2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "LTO powder (LT-112)",
+                    "material_formula": "Li4Ti5O12",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Fe2(SO4)3",
+            "material_formula": "Na2Fe2(SO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "iron(II) sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 2,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}

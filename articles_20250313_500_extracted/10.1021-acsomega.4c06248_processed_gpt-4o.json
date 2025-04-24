@@ -1,0 +1,205 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "B-NLMC",
+            "material_formula": "Na-Li-Mn-Co-O with B doping",
+            "material_properties": [
+                {
+                    "capacity_value": 115.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 166.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 166.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 30.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 16.8,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "lithium carbonate",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "manganese acetate tetrahydrate",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 32,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "cobalt acetate tetrahydrate",
+                    "material_formula": "Co(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "boric acid",
+                    "material_formula": "H3BO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "citric acid monohydrate",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 45,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "BF-NLMC",
+            "material_formula": "Na-Li-Mn-Co-O with B and F doping",
+            "material_properties": [
+                {
+                    "capacity_value": 71.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 141.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 100.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 148.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 16.8,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "lithium fluoride",
+                    "material_formula": "LiF",
+                    "amount": {
+                        "value": 4.0,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "manganese acetate tetrahydrate",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 32.0,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "cobalt acetate tetrahydrate",
+                    "material_formula": "Co(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "boric acid",
+                    "material_formula": "H3BO3",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "citric acid monohydrate",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 45,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaClO4 in EC/DEC",
+            "material_formula": ".",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

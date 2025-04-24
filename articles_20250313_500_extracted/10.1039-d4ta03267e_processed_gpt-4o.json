@@ -1,0 +1,265 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Sn0 (FeF3·0.33H2O)",
+            "material_formula": "Sn0FeF3·0.33H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 194.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 93.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "iron powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen fluoride",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0.21,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn4",
+            "material_formula": "Sn0.04Fe0.96F3·0.33H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 160.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "iron powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "hydrofluoric acid",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "hydrogen peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn6",
+            "material_formula": "Sn0.06Fe0.94F3·0.33H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 148.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn8 (Sn0.08Fe0.92F3·0.33H2O)",
+            "material_formula": "Sn0.08Fe0.92F3·0.33H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 141.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 115.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 128.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 104.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 40,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 82.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 65.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 50.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 33.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 63.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "iron powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0.16,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "hydrofluoric acid",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "hydrogen peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn10",
+            "material_formula": "Sn0.10Fe0.90F3·0.33H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 101.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

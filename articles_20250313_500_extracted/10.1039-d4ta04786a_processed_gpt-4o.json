@@ -1,0 +1,252 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na2/3Ni1/3Mn2/3O2",
+            "material_formula": "Na2/3Ni1/3Mn2/3O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Mn(NO3)2·4H2O",
+                    "material_formula": "Mn(NO3)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ni(NO3)2·6H2O",
+                    "material_formula": "Ni(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "NH3",
+                    "material_formula": "NH3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na0.60Mn3/4Ni1/4O2",
+            "material_formula": "Na0.60Mn3/4Ni1/4O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) nitrate tetrahydrate",
+                    "material_formula": "Mn(NO3)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) nitrate hexahydrate",
+                    "material_formula": "Ni(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ammonia",
+                    "material_formula": "NH3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na2/3Mn3/4Ni1/4O2",
+            "material_formula": "Na2/3Mn3/4Ni1/4O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Mn(NO3)2·4H2O",
+                    "material_formula": "Mn(NO3)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ni(NO3)2·6H2O",
+                    "material_formula": "Ni(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "NH3",
+                    "material_formula": "NH3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "NaOH (aqueous solution)",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-NaxNi1/3Mn2/3O2",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Nickel(II) nitrate hexahydrate",
+                    "material_formula": "Ni(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) nitrate tetrahydrate",
+                    "material_formula": "Mn(NO3)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ammonia",
+                    "material_formula": "NH3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "L"
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-NaxMn3/4Ni1/4O2",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 2.2,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) nitrate tetrahydrate",
+                    "material_formula": "Mn(NO3)2·4H2O",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) nitrate hexahydrate",
+                    "material_formula": "Ni(NO3)2·6H2O",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "Ammonia",
+                    "material_formula": "NH3",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "mass ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na1/2±δMn3/4Ni1/4O2",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "manganese(II) nitrate tetrahydrate",
+                    "material_formula": "Mn(NO3)2·4H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "liter"
+                    }
+                },
+                {
+                    "material_name": "nickel(II) nitrate hexahydrate",
+                    "material_formula": "Ni(NO3)2·6H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "liter"
+                    }
+                },
+                {
+                    "material_name": "ammonia",
+                    "material_formula": "NH3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "liter"
+                    }
+                },
+                {
+                    "material_name": "sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 1,
+                        "unit": "liter"
+                    }
+                }
+            ]
+        }
+    ]
+}

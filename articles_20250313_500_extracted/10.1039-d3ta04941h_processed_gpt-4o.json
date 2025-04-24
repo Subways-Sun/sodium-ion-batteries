@@ -1,0 +1,144 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "POP1-1200",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 131.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CTP P1",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "CTP P2",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "CTP P3",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "POP2-1200",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 154.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Isotropic CTP with softening point of 179.5 °C",
+                    "material_formula": "P2",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "POP3-1200",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 276.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 213.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 75,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "isotropic CTP with softening point of 213.0 °C",
+                    "material_formula": "P3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "RPOP3-1200",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 148.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CTP with softening point of 116.1 °C",
+                    "material_formula": "P1",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "CTP with softening point of 179.5 °C",
+                    "material_formula": "P2",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "CTP with softening point of 213.0 °C",
+                    "material_formula": "P3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na-intercalated MnFe(CN)6",
+            "material_formula": "NaMnFe(CN)6",
+            "material_properties": [
+                {
+                    "capacity_value": 0.5,
+                    "capacity_unit": "not mentioned",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na-intercalated FeFe(CN)6",
+            "material_formula": "NaFeFe(CN)6",
+            "material_properties": [
+                {
+                    "capacity_value": 0.5,
+                    "capacity_unit": "not mentioned",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 0.25,
+                    "capacity_unit": "not mentioned",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "K-intercalated MnFe(CN)6",
+            "material_formula": "KMnFe(CN)6",
+            "material_properties": [
+                {
+                    "capacity_value": 0.5,
+                    "capacity_unit": "not mentioned",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "K-intercalated FeFe(CN)6",
+            "material_formula": "KFeFe(CN)6",
+            "material_properties": [
+                {
+                    "capacity_value": 0.5,
+                    "capacity_unit": "not mentioned",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 0.25,
+                    "capacity_unit": "not mentioned",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

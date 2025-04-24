@@ -1,0 +1,59 @@
+{
+    "DOI": null,
+    "Journal": null,
+    "Keywords": [
+        "Sodium-ion Batteries",
+        "Sodium Iron Pyrophosphate",
+        "Sodium Titanium Pyrophosphate",
+        "Interface Modification",
+        "Recommended articles"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "The off-stoichiometric compound Na3.12Fe2.44(P2O7)2 (NFPO) is a highly promising, cost-effective, and structurally robust cathode material for sodium-ion batteries (SIBs). However, the slowing Na-ion migration kinetics and poor interface stability have seriously limited its rate capability and air stability. In this work, we successfully synthesis a sodium titanium pyrophosphate (NaTiP2O7 donated as NTPO) coating NFPO (denoted as NFPO-NTPO) cathode material via a liquid phase coating method for SIBs. After optimizing NTPO content, at 0.1C, NFPO-NTPO-4 % cathode achieves a reversible specific capacity of 108.4 mAh g−1. Remarkably, it maintains 88.39 % capacity at 10C comparing to 0.1C and stabilizes over 3000 cycles with 92.66 % retention rate. Moreover, it retains 88.89 % capacity after 5000 cycles at 20C, even after 28 days of air exposure. The NFPO-Ti cathode, alongside the complete battery system, exhibits remarkable electrochemical performance across a broad temperature range spanning from −40 to 60 ℃."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Data will be made available on request."
+            ],
+            "name": "Data availability",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "View Abstract",
+                "© 2024 Published by Elsevier Inc."
+            ],
+            "name": "Cited by (0)",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "No articles found.",
+                "About ScienceDirect",
+                "Remote access",
+                "Advertise",
+                "Contact and support",
+                "Terms and conditions",
+                "Privacy policy",
+                "Cookies are used by this site. Cookie Settings",
+                "All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply."
+            ],
+            "name": "Recommended articles",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Regular ArticleAir stable and fast-charging cathode material for all climate sodium-ion batteries"
+}

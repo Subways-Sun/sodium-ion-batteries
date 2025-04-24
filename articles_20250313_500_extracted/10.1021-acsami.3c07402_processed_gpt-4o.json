@@ -1,0 +1,337 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "KTO",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 229.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 173.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 257.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 236.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 222.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 209.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 198.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 800,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 189.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 176.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "anatase TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 7,
+                        "unit": "weight ratio"
+                    }
+                },
+                {
+                    "material_name": "metal K",
+                    "material_formula": "K",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M in K-Nt-DME solution"
+                    }
+                },
+                {
+                    "material_name": "naphthalene",
+                    "material_formula": "C10H8",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M in K-Nt-DME solution"
+                    }
+                },
+                {
+                    "material_name": "1,2-dimethoxyethane",
+                    "material_formula": "C4H10O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M in K-Nt-DME solution"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NTO",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 192.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 288.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 221.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Naphthalene",
+                    "material_formula": "C10H8",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "1,2-dimethoxyethane",
+                    "material_formula": "C4H10O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "liters"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TO",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 203.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 50
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "commercial anatase TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 7,
+                        "unit": "weight_ratio"
+                    }
+                },
+                {
+                    "material_name": "Super P",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 2,
+                        "unit": "weight_ratio"
+                    }
+                },
+                {
+                    "material_name": "poly(vinylidene difluoride) (PVDF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight_ratio"
+                    }
+                },
+                {
+                    "material_name": "1,2-dimethoxyethane (DME)",
+                    "material_formula": "C4H10O2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "KTO",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 358.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 259.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "metal K",
+                    "material_formula": "K",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "naphthalene",
+                    "material_formula": "C10H8",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "1,2-dimethoxyethane",
+                    "material_formula": "C4H10O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "anatase TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 7,
+                        "unit": ":1"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TO",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 402.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 227.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "anatase TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Super P",
+                    "material_formula": "not specified",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "poly(vinylidene difluoride) (PVDF)",
+                    "material_formula": "not specified",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "NMP solvent",
+                    "material_formula": "not specified",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        }
+    ]
+}

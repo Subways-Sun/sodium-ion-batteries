@@ -1,0 +1,239 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "P2‐FMO",
+            "material_formula": "Na0.67Fe0.25Mn0.75O2",
+            "material_properties": [
+                {
+                    "capacity_value": 122,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 215,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 5.4,
+                    "capacity_unit": "%",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 6
+                },
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Lithium carbonate",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2‐LFMO",
+            "material_formula": "Na0.67Li0.1Fe0.225Mn0.675O2",
+            "material_properties": [
+                {
+                    "capacity_value": 144,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 208,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 6.5,
+                    "capacity_unit": "%",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 6
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Lithium carbonate",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2/O3‐LFMO",
+            "material_formula": "Na0.67Li0.2Fe0.2Mn0.6O2",
+            "material_properties": [
+                {
+                    "capacity_value": 196,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 227,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 158.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 60
+                },
+                {
+                    "capacity_value": 99.9,
+                    "capacity_unit": "%",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 120
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 137.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                },
+                {
+                    "material_name": "Lithium Carbonate",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) Oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                }
+            ]
+        }
+    ]
+}

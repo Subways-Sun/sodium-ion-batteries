@@ -1,0 +1,166 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "α-MnO2",
+            "material_formula": "MnO2",
+            "material_properties": [
+                {
+                    "capacity_value": 230,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 109,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 92,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 189,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 172
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Electrolytic Manganese Dioxide (EMD)",
+                    "material_formula": "MnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Sulfuric Acid",
+                    "material_formula": "H2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "α-MnO2/OLC composite",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 266,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 139,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 139,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 476,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 400
+                },
+                {
+                    "capacity_value": 137,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 700,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "α-MnO2 nanorods",
+                    "material_formula": "α-MnO2",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "OLC",
+                    "material_formula": "OLC",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "distilled water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "1 M Na2SO4 aqueous electrolyte",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mentioned"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "TiCxN1-x/N-TiO2 heterostructure",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 312.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 173.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 388.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 358.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 312.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 265.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 245.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 225.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 195.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 173.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 171.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 600
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "anatase TiO2 nanopowder",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "acetylene black",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.025,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "polyvinylidene fluoride (PVDF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.025,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "N-methylpyrrolidone (NMP)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

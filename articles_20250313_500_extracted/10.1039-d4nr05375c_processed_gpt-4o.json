@@ -1,0 +1,127 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM-P",
+            "material_formula": "NaxFeMnyTi(1-y)O2",
+            "material_properties": [
+                {
+                    "capacity_value": 135.62,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 12,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 70.67,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "% excess"
+                    }
+                },
+                {
+                    "material_name": "Ni1/3Fe1/3Mn1/3(OH)2",
+                    "material_formula": "Ni1/3Fe1/3Mn1/3(OH)2",
+                    "amount": {
+                        "value": 1,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFMT-B",
+            "material_formula": "NaxFeMnyTi(1-y)O2 + Na2Ti3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 137.51,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 12,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 82.57,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NFM-P",
+                    "material_formula": "Na0.95Ni1/3Fe1/3Mn1/3O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 1000,
+                        "unit": "mass ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFMT-L",
+            "material_formula": "NaxFeMnyTi(1-y)O2 + Na2Ti3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 139.54,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 12,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 85.77,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NFM-P",
+                    "material_formula": "Na0.95Ni1/3Fe1/3Mn1/3O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "tetrabutyl titanate",
+                    "material_formula": "C16H36O4Ti",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

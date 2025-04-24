@@ -1,0 +1,61 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaxFe1/2Mn1/2O2",
+            "material_formula": "NaxFe1/2Mn1/2O2",
+            "material_properties": [
+                {
+                    "capacity_value": 173,
+                    "capacity_unit": "mA h/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 188,
+                    "capacity_unit": "mA h/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Iron nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Manganese nitrate tetrahydrate",
+                    "material_formula": "Mn(NO3)2·4H2O",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

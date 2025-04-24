@@ -1,0 +1,116 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Bi/CNRs-15",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 261.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 240.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2400
+                },
+                {
+                    "capacity_value": 237.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 237.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "bismuth chloride",
+                    "material_formula": "BiCl3",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "potassium iodide",
+                    "material_formula": "KI",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "acetic acid",
+                    "material_formula": "CH3COOH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 12.5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "BiOI nanosheets",
+                    "material_formula": "BiOI NSs",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "trimesic acid",
+                    "material_formula": "H3BTC",
+                    "amount": {
+                        "value": 0.9,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "dimethylformamide",
+                    "material_formula": "DMF",
+                    "amount": {
+                        "value": 22.5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "methanol",
+                    "material_formula": "CH3OH",
+                    "amount": {
+                        "value": 7.5,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "pure Bi",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

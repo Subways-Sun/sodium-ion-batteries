@@ -1,0 +1,50 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.66[Mn0.33Fe0.33Ti0.3Sn0.04]O2",
+            "material_formula": "Na0.66[Mn0.33Fe0.33Ti0.3Sn0.04]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.66[Mn0.44Fe0.22Ti0.3Sn0.04]O2",
+            "material_formula": "Na0.66[Mn0.44Fe0.22Ti0.3Sn0.04]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

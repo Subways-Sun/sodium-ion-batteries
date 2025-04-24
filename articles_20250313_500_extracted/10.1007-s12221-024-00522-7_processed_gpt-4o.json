@@ -1,0 +1,174 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "carbonized Sn/C nanofibers",
+            "material_formula": "Sn/C",
+            "material_properties": [
+                {
+                    "capacity_value": 401.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 267.6,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 448.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 227.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile",
+                    "material_formula": "PAN",
+                    "amount": {
+                        "value": 10,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide",
+                    "material_formula": "DMF",
+                    "amount": {
+                        "value": 90,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "ratio"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "ratio"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn/C-0.6 nanofibers",
+            "material_formula": "Sn/C",
+            "material_properties": [
+                {
+                    "capacity_value": 617.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 431.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 533.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 380.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 410.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 248.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 286.6,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile",
+                    "material_formula": "PAN",
+                    "amount": {
+                        "value": 10,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide",
+                    "material_formula": "DMF",
+                    "amount": {
+                        "value": 10,
+                        "unit": "%"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "0.6"
+                    }
+                }
+            ]
+        }
+    ]
+}

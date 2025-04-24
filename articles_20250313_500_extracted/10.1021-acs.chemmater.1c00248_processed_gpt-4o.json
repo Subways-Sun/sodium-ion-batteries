@@ -1,0 +1,45 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NMMO",
+            "material_formula": "Na2/3[Mg1/3Mn2/3]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 0.67,
+                    "capacity_unit": "x",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Magnesium oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

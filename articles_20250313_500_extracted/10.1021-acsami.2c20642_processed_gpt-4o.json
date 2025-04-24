@@ -1,0 +1,65 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NLMC",
+            "material_formula": "NaLiMgCuMnO",
+            "material_properties": [
+                {
+                    "capacity_value": 198,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 225,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 218,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 215,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 130,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "Sodium",
+            "material_formula": "Na",
+            "material_properties": []
+        }
+    ]
+}

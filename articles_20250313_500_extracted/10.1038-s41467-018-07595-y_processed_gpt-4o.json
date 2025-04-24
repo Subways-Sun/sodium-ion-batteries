@@ -1,0 +1,136 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "monoclinic NaMnO2−y−δ(OH)2y",
+            "material_formula": "NaMnO2−y−δ(OH)2y",
+            "material_properties": [
+                {
+                    "capacity_value": 223.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 211.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 156.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50.0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 173.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "birnessite Na0.46MnO2−y(OH)2y",
+            "material_formula": "Na0.46MnO2−y(OH)2y",
+            "material_properties": [
+                {
+                    "capacity_value": 139.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 140.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 85.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "birnessite Na0.71MnO2−y(OH)2y",
+            "material_formula": "Na0.71MnO2−y(OH)2y",
+            "material_properties": [
+                {
+                    "capacity_value": 176.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 179.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 106.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "birnessite NaMnO2−y(OH)2y·0.10H2O",
+            "material_formula": "NaMnO2−y(OH)2y·0.10H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 218.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 194.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 136.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "KNHCF@CNTF",
+            "material_formula": "KNi[Fe(CN)6]@CNTF",
+            "material_properties": [
+                {
+                    "capacity_value": 58.54,
+                    "capacity_unit": "mAh cm-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A cm-3",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 52.85,
+                    "capacity_unit": "mAh cm-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A cm-3",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Nickel sulfate hexahydrate",
+                    "material_formula": "NiSO4·6H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Potassium persulfate",
+                    "material_formula": "K2S2O8",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ammonia solution",
+                    "material_formula": "NH4OH",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Potassium ferricyanide",
+                    "material_formula": "K3[Fe(CN)6]",
+                    "amount": {
+                        "value": 3.0,
+                        "unit": "mM"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NTP@CNTF",
+            "material_formula": "NaTi2(PO4)3@CNTF",
+            "material_properties": [
+                {
+                    "capacity_value": 98.4,
+                    "capacity_unit": "mAh cm-3",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A cm-3",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 82.5,
+                    "capacity_unit": "percentage",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 8.0,
+                    "current_density_unit": "mA cm-3",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "TiCl3 solution",
+                    "material_formula": "TiCl3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "ethylene glycol",
+                    "material_formula": "C2H6O2",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "phosphoric acid",
+                    "material_formula": "H3PO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "sodium dihydrogen phosphate dihydrate",
+                    "material_formula": "NaH2PO4·2H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "KNHCF",
+            "material_formula": "K3[Fe(CN)6]",
+            "material_properties": [
+                {
+                    "capacity_value": 48.6,
+                    "capacity_unit": "mAh cm-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A cm-3",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Nickel(II) sulfate hexahydrate",
+                    "material_formula": "NiSO4·6H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Potassium persulfate",
+                    "material_formula": "K2S2O8",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Aqueous ammonia",
+                    "material_formula": "NH3 (aq) 28%",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ni(OH)2 powder",
+                    "material_formula": "Ni(OH)2",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Potassium ferricyanide",
+                    "material_formula": "K3[Fe(CN)6]",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

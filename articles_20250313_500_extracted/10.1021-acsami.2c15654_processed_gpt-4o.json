@@ -1,0 +1,394 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NNSO",
+            "material_formula": "Na3Ni2SbO6",
+            "material_properties": [
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 112,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 48.16,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 10,
+                        "unit": "% molar excess"
+                    }
+                },
+                {
+                    "material_name": "caesium carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "magnesium oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "antimony(III) oxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Cs0.03",
+            "material_formula": "Na3-xCsxNi2SbO6 (x=0.03)",
+            "material_properties": [
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "anhydrous sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 1.1,
+                        "unit": "mol (10% molar excess)"
+                    }
+                },
+                {
+                    "material_name": "cesium carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0.03,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "nickel oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "magnesium oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0.0,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "antimony trioxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Cs0.15",
+            "material_formula": "Na3-xCsxNi2SbO6 (x=0.15)",
+            "material_properties": [
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 10,
+                        "unit": "% molar excess"
+                    }
+                },
+                {
+                    "material_name": "Cesium Carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) Oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Magnesium Oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Antimony(III) Oxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Cs0.27",
+            "material_formula": "Na3-xCsxNi2SbO6 (x=0.27)",
+            "material_properties": [
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 109,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Cs2CO3",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sb2O3",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Mg0.1",
+            "material_formula": "Na3Ni1.9Mg0.1SbO6",
+            "material_properties": [
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "anhydrous sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 1.1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "cesium carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 1.9,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "magnesium oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "antimony trioxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Cs0.15Mg0.1",
+            "material_formula": "Na2.85Cs0.15Ni1.9Mg0.1SbO6",
+            "material_properties": [
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 66,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 1.1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Cesium carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Nickel oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 1.9,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Magnesium oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Antimony oxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na2/3Ni1/3Mn2/3O2",
+            "material_formula": "Na2/3Ni1/3Mn2/3O2",
+            "material_properties": [
+                {
+                    "capacity_value": 87.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 30.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 43.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium acetate",
+                    "material_formula": "NaAc",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric with 5% excess"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) acetate",
+                    "material_formula": "NiAc2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) acetate",
+                    "material_formula": "MnAc2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na2/3Co1/9Ni1/6Mn2/3O2",
+            "material_formula": "Na2/3Co1/9Ni1/6Mn2/3O2",
+            "material_properties": [
+                {
+                    "capacity_value": 77.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "/",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 61.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium acetate",
+                    "material_formula": "NaAc",
+                    "amount": {
+                        "value": 5,
+                        "unit": "% excess"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(III) acetate",
+                    "material_formula": "CoAc3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) acetate",
+                    "material_formula": "NiAc2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) acetate",
+                    "material_formula": "MnAc2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na2/3Fe1/9Ni1/6Mn2/3O2",
+            "material_formula": "Na2/3Fe1/9Ni1/6Mn2/3O2",
+            "material_properties": [
+                {
+                    "capacity_value": 72.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "/",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 69.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "NaAc",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "mole"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Nitrate",
+                    "material_formula": "Fe(NO3)3",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "mole"
+                    }
+                },
+                {
+                    "material_name": "Nickel Acetate",
+                    "material_formula": "NiAc2",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "mole"
+                    }
+                },
+                {
+                    "material_name": "Manganese Acetate",
+                    "material_formula": "MnAc2",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "mole"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-Na2/3Li1/9Ni5/18Mn2/3O2",
+            "material_formula": "Na2/3Li1/9Ni5/18Mn2/3O2",
+            "material_properties": [
+                {
+                    "capacity_value": 92.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 72.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 76.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium acetate",
+                    "material_formula": "NaAc",
+                    "amount": {
+                        "value": 5,
+                        "unit": "% excess"
+                    }
+                },
+                {
+                    "material_name": "Lithium acetate",
+                    "material_formula": "LiAc",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) acetate",
+                    "material_formula": "NiAc2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) acetate",
+                    "material_formula": "MnAc2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
