@@ -1,0 +1,18 @@
+2025-04-24 21:03:48 - INFO - Number of papers retrieved for 'lithium ion battery anode': 1000
+2025-04-24 21:03:53 - INFO - Number of papers retrieved for 'lithium ion battery cathode': 1000
+2025-04-24 21:03:57 - INFO - Number of papers retrieved for 'lithium ion battery electrode': 1000
+2025-04-24 21:03:57 - INFO - Finished initial search, number of papers retrieved: 3000
+2025-04-24 21:03:57 - INFO - Number of papers after removing duplicates: 2178
+2025-04-24 21:03:57 - INFO - Retrieving abstract for 10.1016/j.ces.2024.120302 from Scopus
+2025-04-24 21:03:59 - INFO - Retrieving abstract for 10.1016/j.jelechem.2023.117427 from Scopus
+2025-04-24 21:04:00 - INFO - Retrieving abstract for 10.1007/s10854-024-12630-4 from Springer
+2025-04-24 21:04:02 - INFO - Retrieving abstract for 10.1038/s41467-018-05986-9 from Springer
+2025-04-24 21:04:05 - INFO - Retrieving abstract for 10.1016/j.jallcom.2023.171668 from Scopus
+2025-04-24 21:04:06 - INFO - Retrieving abstract for 10.1038/srep21829 from Springer
+2025-04-24 21:04:08 - INFO - Retrieving abstract for 10.1016/j.mtcomm.2024.109087 from Scopus
+2025-04-24 21:04:09 - INFO - Retrieving abstract for 10.1016/j.est.2025.116290 from Scopus
+2025-04-24 21:04:11 - INFO - Retrieving abstract for 10.1016/j.jelechem.2024.118507 from Scopus
+2025-04-24 21:04:12 - INFO - Retrieving abstract for 10.1016/j.inoche.2024.112985 from Scopus
+2025-04-24 21:04:13 - INFO - Retrieving abstract for 10.1038/s41467-020-16460-w from Springer
+2025-04-24 21:04:16 - INFO - Retrieving abstract for 10.1016/j.est.2023.109481 from Scopus
+2025-04-24 21:04:17 - INFO - Retrieving abstract for 10.1016/j.cej.2025.159999 from Scopus

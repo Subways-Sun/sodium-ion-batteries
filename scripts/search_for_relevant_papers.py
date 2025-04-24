@@ -20,15 +20,18 @@ logging.basicConfig(
 )
 
 # Define search parameters
-query_list = ["sodium+ion+battery+anode",
-              "sodium+ion+battery+cathode",
-              "sodium+ion+battery+electrode",
-              "sib+cathode",
-              "sib+anode",
-              "sib+electrode"]
+# query_list = ["sodium+ion+battery+anode",
+#               "sodium+ion+battery+cathode",
+#               "sodium+ion+battery+electrode",
+#               "sib+cathode",
+#               "sib+anode",
+#               "sib+electrode"]
+query_list = ["lithium+ion+battery+anode",
+              "lithium+ion+battery+cathode",
+              "lithium+ion+battery+electrode"]
 
 fields = "externalIds,title,abstract,publicationTypes,publicationDate"
-count = 4000 # Number of papers to retrieve for each keyword
+count = 30 # Number of papers to retrieve for each keyword
 publication_types = "JournalArticle" # Only retrieve journal articles
 year = "2016-" # Only retrieve papers published after 2016
 
@@ -37,7 +40,8 @@ url_list = list([])
 
 # Search for relevant papers
 for query in query_list:
-    result_temp = ss.search_bulk(query, count, fields = fields, publicationTypes = publication_types, year = year)
+    # result_temp = ss.search_bulk(query, count, fields = fields, publicationTypes = publication_types, year = year)
+    result_temp = ss.search(query, fields = fields, publicationTypes = publication_types, year = year, limit = count)
     data = result_temp[0]
     url = result_temp[1]
     logging.info(f"Number of papers retrieved for '{query.replace('+', ' ')}': {len(data)}")
@@ -50,15 +54,15 @@ result = lp.remove_duplicates(result)
 logging.info(f"Number of papers after removing duplicates: {len(result)}")
 
 # Only keep papers from select publishers
-publishers = ["10.1039", # RSC
-              "10.1016", # Elsevier
-              "10.1021", # ACS
-              "10.1002", # Wiley
-              "10.1007", # Springer
-              "10.1080", # Taylor & Francis
-              "10.1038"] # Nature
-result = lp.keep_select_publishers(result, publishers)
-logging.info(f"Number of papers from select publishers: {len(result)}")
+# publishers = ["10.1039", # RSC
+#               "10.1016", # Elsevier
+#               "10.1021", # ACS
+#               "10.1002", # Wiley
+#               "10.1007", # Springer
+#               "10.1080", # Taylor & Francis
+#               "10.1038"] # Nature
+# result = lp.keep_select_publishers(result, publishers)
+# logging.info(f"Number of papers from select publishers: {len(result)}")
 
 # Retrieve abstract from Scopus and Springer
 for paper in result:

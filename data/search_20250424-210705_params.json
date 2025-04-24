@@ -1,0 +1,17 @@
+{
+    "searchKeywords": [
+        "lithium+ion+battery+anode",
+        "lithium+ion+battery+cathode",
+        "lithium+ion+battery+electrode"
+    ],
+    "fields": "externalIds,title,abstract,publicationTypes,publicationDate",
+    "count": 30,
+    "publicationTypes": "JournalArticle",
+    "year": "2016-",
+    "result_len": 87,
+    "urls": [
+        "https://api.semanticscholar.org/graph/v1/paper/search?query=lithium%2Bion%2Bbattery%2Banode&limit=30&fields=externalIds%2Ctitle%2Cabstract%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle",
+        "https://api.semanticscholar.org/graph/v1/paper/search?query=lithium%2Bion%2Bbattery%2Bcathode&limit=30&fields=externalIds%2Ctitle%2Cabstract%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle",
+        "https://api.semanticscholar.org/graph/v1/paper/search?query=lithium%2Bion%2Bbattery%2Belectrode&limit=30&fields=externalIds%2Ctitle%2Cabstract%2CpublicationTypes%2CpublicationDate&publicationTypes=JournalArticle"
+    ]
+}

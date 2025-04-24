@@ -1,0 +1,27 @@
+2025-04-24 21:06:07 - INFO - Number of papers retrieved for 'lithium ion battery anode': 30
+2025-04-24 21:06:19 - INFO - Number of papers retrieved for 'lithium ion battery cathode': 30
+2025-04-24 21:06:21 - INFO - Number of papers retrieved for 'lithium ion battery electrode': 30
+2025-04-24 21:06:21 - INFO - Finished initial search, number of papers retrieved: 90
+2025-04-24 21:06:21 - INFO - Number of papers after removing duplicates: 88
+2025-04-24 21:06:21 - INFO - Retrieving abstract for 10.1038/s41467-023-37034-6 from Springer
+2025-04-24 21:06:24 - INFO - Retrieving abstract for 10.1038/s41467-022-33790-z from Springer
+2025-04-24 21:06:26 - INFO - Retrieving abstract for 10.1007/s40820-022-00790-z from Springer
+2025-04-24 21:06:28 - INFO - Retrieving abstract for 10.1038/srep20592 from Springer
+2025-04-24 21:06:31 - INFO - Retrieving abstract for 10.1038/s41467-020-15355-0 from Springer
+2025-04-24 21:06:33 - INFO - Retrieving abstract for 10.1016/j.jhazmat.2016.03.062 from Scopus
+2025-04-24 21:06:35 - INFO - Retrieving abstract for 10.1038/nnano.2010.174 from Springer
+2025-04-24 21:06:37 - INFO - Retrieving abstract for 10.1038/s41467-019-09248-0 from Springer
+2025-04-24 21:06:39 - INFO - Retrieving abstract for 10.1016/j.wasman.2016.12.007 from Scopus
+2025-04-24 21:06:41 - INFO - Retrieving abstract for 10.1038/s41467-023-36197-6 from Springer
+2025-04-24 21:06:43 - INFO - Retrieving abstract for 10.1016/j.wasman.2017.03.018 from Scopus
+2025-04-24 21:06:44 - INFO - Retrieving abstract for 10.1007/s40820-016-0123-3 from Springer
+2025-04-24 21:06:47 - INFO - Retrieving abstract for 10.1038/s41467-023-37009-7 from Springer
+2025-04-24 21:06:49 - INFO - Retrieving abstract for 10.1016/j.esci.2023.100152 from Scopus
+2025-04-24 21:06:50 - INFO - Retrieving abstract for 10.1007/s10845-019-01484-x from Springer
+2025-04-24 21:06:53 - INFO - Retrieving abstract for 10.1038/srep09792 from Springer
+2025-04-24 21:06:55 - INFO - Retrieving abstract for 10.1038/srep05694 from Springer
+2025-04-24 21:06:57 - INFO - Retrieving abstract for 10.1038/s41560-023-01272-1 from Springer
+2025-04-24 21:07:00 - INFO - Retrieving abstract for 10.1038/srep26382 from Springer
+2025-04-24 21:07:02 - INFO - Retrieving abstract for 10.1038/srep06883 from Springer
+2025-04-24 21:07:05 - INFO - Number of papers after removing papers with no abstract: 87
+2025-04-24 21:07:05 - INFO - Number of papers retrieved: 87
