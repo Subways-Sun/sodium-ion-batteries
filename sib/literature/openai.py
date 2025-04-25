@@ -16,7 +16,7 @@ def classify(openai_model, user_message):
         messages=[
             {
                 "role": "system",
-                "content": prompt_v2
+                "content": prompt_v4
             },
             {
                 "role": "user",

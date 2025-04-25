@@ -13,7 +13,7 @@ logging.basicConfig(
     filename = f"logs/lit_classification_openai_{time.strftime('%Y-%m-%d_%H%M%S')}.log",
     encoding = "utf-8",
     filemode = "a",
-    format = "{asctime} - {levelname} - {message}",
+    format = "{asctime}.{msecs:03.0f} - {levelname} - {message}",
     style = "{",
     datefmt = "%Y-%m-%d %H:%M:%S",
     level = logging.DEBUG
@@ -27,12 +27,13 @@ if platform.system() == "Windows":
 if platform.system() == "Darwin":
     WORK_DIR = HOME_PATH + r"/Documents/GitHub/sodium-ion-batteries"
 
-RESULT = "search_20241106-223705_noirrelevant.json"
-# RESULT = "search_20241106-223705_50irrelevant.json"
+# RESULT = "search_20241106-223705_noirrelevant.json"
+RESULT = "search_20241106-223705_50irrelevant.json"
+RESULT_OPENAI = "search_20241106-223705_50irrelevant_openai_v4.json"
+
 RESULT_PATH = os.path.join(WORK_DIR, "data_annotated", RESULT)
 
 data = read_json(RESULT_PATH)
-
 try:
     for i in range(len(data)):
         logging.info(f"Processing DOI {data[i]['externalIds']['DOI']} of {len(data)}")
@@ -46,15 +47,15 @@ try:
             data[i]["label_openai"] = 0
         else:
             data[i]["label_openai"] = -1
-except Exception as e:
-    logging.error(f"Error processing DOI {data[i]['externalIds']['DOI']}: {e}")
-    RESULT_OPENAI = "search_20241106-223705_noirrelevant_openai_v1.json"
     RESULT_PATH_OPENAI = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI)
     write_json(RESULT_PATH_OPENAI, data)
 
-RESULT_OPENAI = "search_20241106-223705_noirrelevant_openai_v2.json"
-RESULT_PATH_OPENAI = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI)
-write_json(RESULT_PATH_OPENAI, data)
+except Exception as e:
+    logging.error(f"Error processing DOI {data[i]['externalIds']['DOI']}: {e}")
+    RESULT_PATH_OPENAI = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI)
+    write_json(RESULT_PATH_OPENAI, data)
+    print("Error occurred, data saved. Exiting")
+
 # # Keep relevant papers
 # RESULT_OPENAI_RELEVANT = "search_20250313-003348_3000-_openai_relevant.json"
 # RESULT_PATH_OPENAI_RELEVANT = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI_RELEVANT)

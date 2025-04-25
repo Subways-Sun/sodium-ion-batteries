@@ -12,7 +12,7 @@ logging.basicConfig(
     filename = f"logs/info_extraction_openai_{time.strftime('%Y-%m-%d_%H%M%S')}.log",
     encoding = "utf-8",
     filemode = "a",
-    format = "{asctime} - {levelname} - {message}",
+    format = "{asctime}.{msecs:03.0f} - {levelname} - {message}",
     style = "{",
     datefmt = "%Y-%m-%d %H:%M:%S",
     level = logging.DEBUG

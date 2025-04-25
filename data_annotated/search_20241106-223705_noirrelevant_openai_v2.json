@@ -1603,7 +1603,7 @@
         ],
         "Comments": [],
         "label_int": 1,
-        "label_openai_raw": "relevant cathode anode",
+        "label_openai_raw": "relevant anode",
         "label_openai": 1
     },
     {
@@ -1770,7 +1770,7 @@
         ],
         "Comments": [],
         "label_int": 1,
-        "label_openai_raw": "relevant cathode anode",
+        "label_openai_raw": "relevant anode",
         "label_openai": 1
     },
     {

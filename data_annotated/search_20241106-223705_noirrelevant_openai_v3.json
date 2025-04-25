@@ -68,7 +68,7 @@
         ],
         "Comments": [],
         "label_int": 1,
-        "label_openai_raw": "relevant anode",
+        "label_openai_raw": "relevant cathode anode",
         "label_openai": 1
     },
     {
@@ -640,8 +640,8 @@
         ],
         "Comments": [],
         "label_int": 1,
-        "label_openai_raw": "relevant anode",
-        "label_openai": 1
+        "label_openai_raw": "irrelevant",
+        "label_openai": 0
     },
     {
         "id": 457,
@@ -862,8 +862,8 @@
         ],
         "Comments": [],
         "label_int": 0,
-        "label_openai_raw": "relevant anode",
-        "label_openai": 1
+        "label_openai_raw": "irrelevant",
+        "label_openai": 0
     },
     {
         "id": 466,
@@ -1207,8 +1207,8 @@
         ],
         "Comments": [],
         "label_int": 1,
-        "label_openai_raw": "relevant anode",
-        "label_openai": 1
+        "label_openai_raw": "irrelevant",
+        "label_openai": 0
     },
     {
         "id": 480,
@@ -1603,7 +1603,7 @@
         ],
         "Comments": [],
         "label_int": 1,
-        "label_openai_raw": "relevant cathode anode",
+        "label_openai_raw": "relevant anode",
         "label_openai": 1
     },
     {
@@ -1770,7 +1770,7 @@
         ],
         "Comments": [],
         "label_int": 1,
-        "label_openai_raw": "relevant cathode anode",
+        "label_openai_raw": "relevant anode",
         "label_openai": 1
     },
     {
@@ -1985,8 +1985,8 @@
         ],
         "Comments": [],
         "label_int": 0,
-        "label_openai_raw": "relevant anode",
-        "label_openai": 1
+        "label_openai_raw": "irrelevant",
+        "label_openai": 0
     },
     {
         "id": 512,
