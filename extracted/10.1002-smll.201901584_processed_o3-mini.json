@@ -2,28 +2,12 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "BT/C NFs",
+            "material_name": "Branched TiO2/C Nanofibers (BT/C NFs)",
             "material_formula": "TiO2/C",
             "material_properties": [
                 {
-                    "capacity_value": 636,
-                    "capacity_unit": "mAh g−1",
-                    "capacity_type": "charge",
-                    "current_density_value": 200,
-                    "current_density_unit": "mA g−1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 329,
-                    "capacity_unit": "mAh g−1",
-                    "capacity_type": "discharge",
-                    "current_density_value": 200,
-                    "current_density_unit": "mA g−1",
-                    "cycle": 1
-                },
-                {
                     "capacity_value": 283.5,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 200,
                     "current_density_unit": "mA g−1",
@@ -31,7 +15,7 @@
                 },
                 {
                     "capacity_value": 358.6,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "reversible",
                     "current_density_value": 50,
                     "current_density_unit": "mA g−1",
@@ -39,7 +23,7 @@
                 },
                 {
                     "capacity_value": 323.9,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "reversible",
                     "current_density_value": 100,
                     "current_density_unit": "mA g−1",
@@ -47,7 +31,7 @@
                 },
                 {
                     "capacity_value": 292.7,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "reversible",
                     "current_density_value": 200,
                     "current_density_unit": "mA g−1",
@@ -55,7 +39,7 @@
                 },
                 {
                     "capacity_value": 261.0,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "reversible",
                     "current_density_value": 500,
                     "current_density_unit": "mA g−1",
@@ -63,7 +47,7 @@
                 },
                 {
                     "capacity_value": 236.1,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "reversible",
                     "current_density_value": 1000,
                     "current_density_unit": "mA g−1",
@@ -71,7 +55,7 @@
                 },
                 {
                     "capacity_value": 204.1,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "reversible",
                     "current_density_value": 2000,
                     "current_density_unit": "mA g−1",
@@ -80,11 +64,11 @@
             ],
             "starting_material": [
                 {
-                    "material_name": "T/C NFs",
+                    "material_name": "TiO2/C nanofibers (T/C NFs)",
                     "material_formula": "TiO2/C",
                     "amount": {
-                        "value": 1,
-                        "unit": "portion"
+                        "value": 2.5,
+                        "unit": "g (PVP and Ti(OC4H9)4 each)"
                     }
                 },
                 {
@@ -92,7 +76,7 @@
                     "material_formula": "HNO3",
                     "amount": {
                         "value": 0,
-                        "unit": "unspecified"
+                        "unit": "not specified"
                     }
                 },
                 {
@@ -100,7 +84,7 @@
                     "material_formula": "NaOH",
                     "amount": {
                         "value": 50,
-                        "unit": "mL"
+                        "unit": "mL (10 mol L−1)"
                     }
                 },
                 {
@@ -108,19 +92,19 @@
                     "material_formula": "HCl",
                     "amount": {
                         "value": 50,
-                        "unit": "mL"
+                        "unit": "mL (0.1 mol L−1)"
                     }
                 }
             ]
         },
         {
             "material_type": "anode",
-            "material_name": "T/C NFs",
+            "material_name": "TiO2/C Nanofibers (T/C NFs)",
             "material_formula": "TiO2/C",
             "material_properties": [
                 {
                     "capacity_value": 147.6,
-                    "capacity_unit": "mAh g−1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 200,
                     "current_density_unit": "mA g−1",
@@ -130,7 +114,7 @@
             "starting_material": [
                 {
                     "material_name": "PVP",
-                    "material_formula": "null",
+                    "material_formula": "PVP",
                     "amount": {
                         "value": 2.5,
                         "unit": "g"
@@ -143,21 +127,37 @@
                         "value": 2.5,
                         "unit": "g"
                     }
+                },
+                {
+                    "material_name": "Methanol",
+                    "material_formula": "CH3OH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Acetic acid",
+                    "material_formula": "CH3COOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
                 }
             ]
         },
         {
             "material_type": "cathode",
-            "material_name": "Na3V2(PO4)3/C",
+            "material_name": "Na3V2(PO4)3/C (NVP/C)",
             "material_formula": "Na3V2(PO4)3/C",
             "material_properties": [
                 {
-                    "capacity_value": 85,
-                    "capacity_unit": "mAh g−1",
-                    "capacity_type": "discharge",
-                    "current_density_value": 0.2,
-                    "current_density_unit": "C",
-                    "cycle": 100
+                    "capacity_value": 70,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
                 }
             ],
             "starting_material": [
@@ -166,7 +166,7 @@
                     "material_formula": "NH4VO3",
                     "amount": {
                         "value": 2,
-                        "unit": "molar ratio part"
+                        "unit": "molar ratio"
                     }
                 },
                 {
@@ -174,23 +174,23 @@
                     "material_formula": "NaH2PO4",
                     "amount": {
                         "value": 3,
-                        "unit": "molar ratio part"
+                        "unit": "molar ratio"
                     }
                 },
                 {
-                    "material_name": "Citric acid",
+                    "material_name": "Citric Acid",
                     "material_formula": "C6H8O7",
                     "amount": {
                         "value": 2,
-                        "unit": "molar ratio part"
+                        "unit": "molar ratio"
                     }
                 },
                 {
                     "material_name": "PVP",
-                    "material_formula": "–",
+                    "material_formula": "[(C6H9NO)n]",
                     "amount": {
                         "value": 10,
-                        "unit": "wt%"
+                        "unit": "wt% solution"
                     }
                 }
             ]

@@ -36,6 +36,22 @@
                     "current_density_value": 40,
                     "current_density_unit": "C",
                     "cycle": 0
+                },
+                {
+                    "capacity_value": 102.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
                 }
             ],
             "starting_material": [
@@ -83,7 +99,7 @@
         },
         {
             "material_type": "cathode",
-            "material_name": "pristine NVP",
+            "material_name": "NVP",
             "material_formula": "Na3V2(PO4)3",
             "material_properties": [
                 {
@@ -91,6 +107,22 @@
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 49.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
                     "current_density_unit": "C",
                     "cycle": 0
                 }
@@ -117,6 +149,14 @@
                     "material_formula": "Na2CO3",
                     "amount": {
                         "value": 296.8,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sodium silicate",
+                    "material_formula": "Na2SiO3",
+                    "amount": {
+                        "value": 56.8,
                         "unit": "mg"
                     }
                 },

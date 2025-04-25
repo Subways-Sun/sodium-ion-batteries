@@ -91,7 +91,15 @@
                     "capacity_type": "specific",
                     "current_density_value": 0.2,
                     "current_density_unit": "A g−1",
-                    "cycle": 0
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 343,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 300
                 }
             ],
             "starting_material": []

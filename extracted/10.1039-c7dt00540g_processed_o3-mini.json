@@ -3,7 +3,7 @@
         {
             "material_type": "anode",
             "material_name": "M-Fe2O3/C composite",
-            "material_formula": "",
+            "material_formula": "γ-Fe2O3",
             "material_properties": [
                 {
                     "capacity_value": 980.3,
@@ -136,19 +136,11 @@
                     }
                 },
                 {
-                    "material_name": "H2SO4",
+                    "material_name": "Sulfuric acid",
                     "material_formula": "H2SO4",
                     "amount": {
                         "value": 0.23,
                         "unit": "g"
-                    }
-                },
-                {
-                    "material_name": "Water",
-                    "material_formula": "H2O",
-                    "amount": {
-                        "value": 5,
-                        "unit": "mL"
                     }
                 },
                 {
@@ -158,13 +150,21 @@
                         "value": 1.0,
                         "unit": "g"
                     }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 5.0,
+                        "unit": "mL"
+                    }
                 }
             ]
         },
         {
             "material_type": "anode",
             "material_name": "Fe2O3/MC composite",
-            "material_formula": "",
+            "material_formula": "γ-Fe2O3",
             "material_properties": [
                 {
                     "capacity_value": 578.6,
@@ -173,6 +173,14 @@
                     "current_density_value": 50,
                     "current_density_unit": "mA g^-1",
                     "cycle": 1
+                },
+                {
+                    "capacity_value": 168.4,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 100
                 },
                 {
                     "capacity_value": 79,
@@ -185,8 +193,8 @@
             ],
             "starting_material": [
                 {
-                    "material_name": "CMK-3 template",
-                    "material_formula": "",
+                    "material_name": "CMK-3",
+                    "material_formula": "CMK-3",
                     "amount": {
                         "value": 0.4,
                         "unit": "g"
@@ -196,7 +204,7 @@
                     "material_name": "Fe(NO3)3·9H2O",
                     "material_formula": "Fe(NO3)3·9H2O",
                     "amount": {
-                        "value": 1.0,
+                        "value": 1,
                         "unit": "g"
                     }
                 },

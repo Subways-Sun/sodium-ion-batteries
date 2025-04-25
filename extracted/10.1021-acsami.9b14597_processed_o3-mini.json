@@ -2,8 +2,8 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "S–TiO2/CS electrode",
-            "material_formula": "S–TiO2/CS",
+            "material_name": "S–TiO2/CS",
+            "material_formula": "TiO2",
             "material_properties": [
                 {
                     "capacity_value": 445.6,
@@ -17,6 +17,22 @@
                     "capacity_value": 317.6,
                     "capacity_unit": "mA h g–1",
                     "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 209.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 140.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
                     "current_density_value": 2,
                     "current_density_unit": "C",
                     "cycle": 1
@@ -83,6 +99,14 @@
                     "capacity_type": "specific",
                     "current_density_value": 20,
                     "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
                     "cycle": 655
                 },
                 {
@@ -96,7 +120,7 @@
             ],
             "starting_material": [
                 {
-                    "material_name": "Titanium oxysulfate",
+                    "material_name": "titanium oxysulfate",
                     "material_formula": "TiOSO4",
                     "amount": {
                         "value": 2.0,
@@ -104,7 +128,7 @@
                     }
                 },
                 {
-                    "material_name": "Isopropyl alcohol",
+                    "material_name": "isopropyl alcohol",
                     "material_formula": "C3H8O",
                     "amount": {
                         "value": 40,
@@ -112,35 +136,19 @@
                     }
                 },
                 {
-                    "material_name": "Diethylenetriamine",
-                    "material_formula": "C4H13N3",
+                    "material_name": "diethylenetriamine",
+                    "material_formula": "H2N-CH2CH2-NH-CH2CH2-NH2",
                     "amount": {
                         "value": 0.03,
                         "unit": "mL"
                     }
                 },
                 {
-                    "material_name": "Glucose",
+                    "material_name": "glucose",
                     "material_formula": "C6H12O6",
                     "amount": {
                         "value": 0.1,
                         "unit": "g"
-                    }
-                },
-                {
-                    "material_name": "Super P",
-                    "material_formula": "",
-                    "amount": {
-                        "value": 0,
-                        "unit": ""
-                    }
-                },
-                {
-                    "material_name": "Polyvinylidene fluoride",
-                    "material_formula": "(-CH2-CF2-)n",
-                    "amount": {
-                        "value": 0,
-                        "unit": ""
                     }
                 }
             ]

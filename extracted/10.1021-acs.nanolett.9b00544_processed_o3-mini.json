@@ -2,8 +2,8 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "G/N interface",
-            "material_formula": "Graphene/Na2O",
+            "material_name": "Graphene/Na2O Interface",
+            "material_formula": "Na2O",
             "material_properties": [
                 {
                     "capacity_value": 0.099,
@@ -18,8 +18,8 @@
         },
         {
             "material_type": "anode",
-            "material_name": "C@SnO2@C composite",
-            "material_formula": "C@SnO2@C",
+            "material_name": "C@SnO2@C Composite",
+            "material_formula": "",
             "material_properties": [
                 {
                     "capacity_value": 370,
@@ -88,7 +88,7 @@
                     }
                 },
                 {
-                    "material_name": "Citric acid",
+                    "material_name": "Citric Acid",
                     "material_formula": "C6H8O7",
                     "amount": {
                         "value": 2.5,
@@ -96,19 +96,11 @@
                     }
                 },
                 {
-                    "material_name": "SnCl4",
+                    "material_name": "Tin Tetrachloride",
                     "material_formula": "SnCl4",
                     "amount": {
                         "value": 0.79,
                         "unit": "g"
-                    }
-                },
-                {
-                    "material_name": "Distilled water",
-                    "material_formula": "H2O",
-                    "amount": {
-                        "value": 100,
-                        "unit": "mL"
                     }
                 }
             ]

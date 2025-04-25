@@ -2,7 +2,7 @@
     "material": [
         {
             "material_type": "cathode",
-            "material_name": "NFM",
+            "material_name": "NFM cathode",
             "material_formula": "",
             "material_properties": [
                 {
@@ -30,7 +30,40 @@
                     "cycle": 100
                 }
             ],
-            "starting_material": []
+            "starting_material": [
+                {
+                    "material_name": "NaNi1/3Fe1/3Mn1/3O2",
+                    "material_formula": "NaNi1/3Fe1/3Mn1/3O2",
+                    "amount": {
+                        "value": 95,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Carbon Black (Super P)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 3.5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylidene difluoride (PVDF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "N-methyl pyrrolidone (NMP)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
         }
     ]
 }

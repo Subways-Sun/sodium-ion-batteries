@@ -2,39 +2,39 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "Pristine MoS2",
+            "material_name": "pristine MoS2",
             "material_formula": "MoS2",
             "material_properties": [
                 {
                     "capacity_value": 174,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 1,
-                    "current_density_unit": "A g^-1",
-                    "cycle": 0
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
                 },
                 {
                     "capacity_value": 29,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 1,
-                    "current_density_unit": "A g^-1",
+                    "current_density_unit": "A g−1",
                     "cycle": 500
                 },
                 {
                     "capacity_value": 262,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "specific",
                     "current_density_value": 0.2,
-                    "current_density_unit": "A g^-1",
+                    "current_density_unit": "A g−1",
                     "cycle": 0
                 },
                 {
                     "capacity_value": 17,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "specific",
                     "current_density_value": 5,
-                    "current_density_unit": "A g^-1",
+                    "current_density_unit": "A g−1",
                     "cycle": 0
                 }
             ],
@@ -56,19 +56,11 @@
                     }
                 },
                 {
-                    "material_name": "HCl",
+                    "material_name": "Hydrochloric acid",
                     "material_formula": "HCl",
                     "amount": {
                         "value": 100,
                         "unit": "μL"
-                    }
-                },
-                {
-                    "material_name": "Distilled water",
-                    "material_formula": "H2O",
-                    "amount": {
-                        "value": 39,
-                        "unit": "mL"
                     }
                 }
             ]
@@ -80,34 +72,34 @@
             "material_properties": [
                 {
                     "capacity_value": 129,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 1,
-                    "current_density_unit": "A g^-1",
-                    "cycle": 0
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
                 },
                 {
                     "capacity_value": 64,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 1,
-                    "current_density_unit": "A g^-1",
+                    "current_density_unit": "A g−1",
                     "cycle": 5000
                 },
                 {
                     "capacity_value": 159,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "specific",
                     "current_density_value": 0.2,
-                    "current_density_unit": "A g^-1",
+                    "current_density_unit": "A g−1",
                     "cycle": 0
                 },
                 {
                     "capacity_value": 69,
-                    "capacity_unit": "mA h g^-1",
+                    "capacity_unit": "mA h g−1",
                     "capacity_type": "specific",
                     "current_density_value": 5,
-                    "current_density_unit": "A g^-1",
+                    "current_density_unit": "A g−1",
                     "cycle": 0
                 }
             ],

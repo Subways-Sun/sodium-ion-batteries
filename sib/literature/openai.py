@@ -7,12 +7,16 @@ client = OpenAI()
 
 def classify(openai_model, user_message):
     """Function to chat with the AI"""
+    prompt_v1 = "You are a scientific paper classifier. Your task is to classify the given abstract of a scientific paper into one of the following categories: 'relevant cathode', 'relevant anode', 'relevant cathode anode', or 'irrelevant'. The classification is based on whether the abstract mainly discusses sodium ion battery electrodes, and if so, whether it discusses cathode, anode, or both. Do not include quotation marks in your response."
+    prompt_v2 = "You are a scientific paper classifier. Your task is to classify the given abstract of a scientific paper into one of the following categories: 'relevant cathode', 'relevant anode', 'relevant cathode anode', or 'irrelevant'. The classification is based on whether the abstract mainly discusses sodium ion battery electrodes, and if so, whether it discusses cathode, anode, or both. If you are not sure, or the abstract contains too little information, classify it as 'irrelevant'. Do not include quotation marks in your response."
+    prompt_v3 = "You are a scientific paper classifier. Your task is to classify the given abstract of a scientific paper into one of the following categories: 'relevant cathode', 'relevant anode', 'relevant cathode anode', or 'irrelevant'. The classification is based on whether the abstract mainly discusses sodium ion battery electrodes, and if so, whether it discusses cathode, anode, or both. If the abstract mainly discusses other types of batteries such as lithium and potassium ion batteries, or is a review article, classify it as 'irrelevant'. If you are not sure, or the abstract contains too little information, classify it as 'irrelevant'. Do not include quotation marks in your response."
+    prompt_v4 = "You are a scientific paper classifier. Your task is to classify the given abstract of a scientific paper into one of the following categories: 'relevant cathode', 'relevant anode', 'relevant cathode anode', or 'irrelevant'. The classification is based on whether the abstract mainly discusses sodium ion battery electrodes, and if so, whether it discusses cathode, anode, or both. If the abstract is unrelated to the field, or contains only theoretical approaches such as computer simulations (for example, density functional theory), or mainly discusses other types of batteries such as lithium and potassium ion batteries, or is a review article, classify it as 'irrelevant'. If you are not sure, or the abstract contains too little information, classify it as 'irrelevant'. Do not include quotation marks in your response."
     completion = client.chat.completions.create(
         model=openai_model,
         messages=[
             {
                 "role": "system",
-                "content": "You are a scientific paper classifier. Your task is to classify the given abstract of a scientific paper into one of the following categories: 'relevant cathode', 'relevant anode', 'relevant cathode anode', or 'irrelevant'. The classification is based on whether the abstract mainly discusses sodium ion battery electrodes, and if so, whether it discusses cathode, anode, or both. If the abstract is unrelated to the field, or contains only theoretical approaches such as computer simulations (for example, density functional theory), or mainly discusses other types of batteries such as lithium and potassium ion batteries, or is a review article, classify it as 'irrelevant'. If you are not sure, or the abstract contains too little information, classify it as 'irrelevant'. Do not include quotation marks in your response."
+                "content": prompt_v2
             },
             {
                 "role": "user",
@@ -161,11 +165,14 @@ def extract(openai_model, user_message, mode: str, material_name: str = ""):
         return completion.choices[0].message.content
 
     elif openai_model == "o3-mini":
-        user_message = f"{prompt}\n{user_message}"
         completion = client.beta.chat.completions.parse(
             model = openai_model,
             reasoning_effort = "medium",
             messages = [
+                {
+                    "role": "developer",
+                    "content": prompt
+                },
                 {
                     "role": "user",
                     "content": user_message
@@ -174,6 +181,9 @@ def extract(openai_model, user_message, mode: str, material_name: str = ""):
             response_format = results_json if mode == "results" else experimental_json
         )
         return completion.choices[0].message.content
+    
+    else:
+        return
 
 # def num_tokens_from_messages(messages, model="gpt-4o-2024-08-06"):
 #     """Return the number of tokens used by a list of messages."""

@@ -2,24 +2,24 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "bare TiO2",
+            "material_name": "Bare TiO2",
             "material_formula": "TiO2",
             "material_properties": [
                 {
                     "capacity_value": 143.2,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "charge",
-                    "current_density_value": 0.0,
-                    "current_density_unit": "",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
                     "cycle": 1
                 },
                 {
                     "capacity_value": 107.0,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "charge",
-                    "current_density_value": 0.0,
-                    "current_density_unit": "",
-                    "cycle": 0
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 80
                 },
                 {
                     "capacity_value": 58.7,
@@ -41,17 +41,17 @@
                     "capacity_value": 152.1,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "charge",
-                    "current_density_value": 0.0,
-                    "current_density_unit": "",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
                     "cycle": 1
                 },
                 {
                     "capacity_value": 121.4,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "charge",
-                    "current_density_value": 0.0,
-                    "current_density_unit": "",
-                    "cycle": 0
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 80
                 },
                 {
                     "capacity_value": 152.1,
@@ -129,26 +129,10 @@
             "starting_material": [
                 {
                     "material_name": "Titanium(IV) isopropoxide",
-                    "material_formula": "Ti(OCH(CH3)2)4",
+                    "material_formula": "Ti[OCH(CH3)2]4",
                     "amount": {
-                        "value": 0,
-                        "unit": "wt% (95 wt% for 5% Mn sample)"
-                    }
-                },
-                {
-                    "material_name": "Triton X-100",
-                    "material_formula": "null",
-                    "amount": {
-                        "value": 1,
-                        "unit": "wt%"
-                    }
-                },
-                {
-                    "material_name": "Multi-walled carbon nanotubes (MWCNTs)",
-                    "material_formula": "null",
-                    "amount": {
-                        "value": 5,
-                        "unit": "wt%"
+                        "value": 80,
+                        "unit": "ml isopropanol solution (wt% not specified)"
                     }
                 },
                 {
@@ -160,19 +144,11 @@
                     }
                 },
                 {
-                    "material_name": "Isopropanol",
-                    "material_formula": "C3H8O",
+                    "material_name": "Multi-walled carbon nanotubes",
+                    "material_formula": "MWCNTs",
                     "amount": {
-                        "value": 80,
-                        "unit": "ml"
-                    }
-                },
-                {
-                    "material_name": "Hydrochloric acid",
-                    "material_formula": "HCl",
-                    "amount": {
-                        "value": 1,
-                        "unit": "M (used for pH adjustment to ~2)"
+                        "value": 5,
+                        "unit": "wt%"
                     }
                 }
             ]

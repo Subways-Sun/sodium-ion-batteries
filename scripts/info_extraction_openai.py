@@ -18,9 +18,9 @@ logging.basicConfig(
     level = logging.DEBUG
 )
 
-openai_model = "gpt-4o"
+openai_model = "o3-mini"
 
-full_text_dir = os.path.join(os.getcwd(), "articles_20250313_500_json")
+full_text_dir = os.path.join(os.getcwd(), "extraction")
 logging.debug(f"Full text directory: {full_text_dir}")
 
 for file in os.listdir(full_text_dir):
@@ -44,4 +44,4 @@ for file in os.listdir(full_text_dir):
                 sm = extract(openai_model, experimental, "experimental", i["material_name"])
                 i["starting_material"] = json.loads(sm)["starting_material"]
 
-        write_json(os.path.join(os.getcwd(), "articles_20250313_500_extracted", f"{file.removesuffix('.json')}_processed_{openai_model}.json"), data)
+        write_json(os.path.join(os.getcwd(), "extracted", f"{file.removesuffix('.json')}_processed_{openai_model}.json"), data)

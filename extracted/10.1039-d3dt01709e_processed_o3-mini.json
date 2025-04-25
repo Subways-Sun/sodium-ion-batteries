@@ -32,7 +32,7 @@
                 {
                     "capacity_value": 313.2,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.1,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -40,7 +40,7 @@
                 {
                     "capacity_value": 292.6,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.2,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -48,7 +48,7 @@
                 {
                     "capacity_value": 260.5,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.5,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -56,7 +56,7 @@
                 {
                     "capacity_value": 235.8,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 1,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -64,7 +64,7 @@
                 {
                     "capacity_value": 204.9,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 2,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -72,7 +72,7 @@
                 {
                     "capacity_value": 148.2,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 5,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -80,7 +80,7 @@
                 {
                     "capacity_value": 312.3,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 0.1,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -99,16 +99,16 @@
                     "material_name": "BC aerogel",
                     "material_formula": "",
                     "amount": {
-                        "value": 0,
-                        "unit": ""
+                        "value": 1,
+                        "unit": "mass ratio part (relative amount)"
                     }
                 },
                 {
-                    "material_name": "Sulfur Powder",
+                    "material_name": "Sulfur powder",
                     "material_formula": "",
                     "amount": {
-                        "value": 0,
-                        "unit": ""
+                        "value": 5,
+                        "unit": "mass ratio part (relative amount)"
                     }
                 }
             ]
@@ -129,7 +129,7 @@
                 {
                     "capacity_value": 6.5,
                     "capacity_unit": "mA h g^-1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 5,
                     "current_density_unit": "A g^-1",
                     "cycle": 0
@@ -138,10 +138,10 @@
             "starting_material": [
                 {
                     "material_name": "BC aerogel",
-                    "material_formula": "null",
+                    "material_formula": "",
                     "amount": {
                         "value": 0,
-                        "unit": "null"
+                        "unit": ""
                     }
                 }
             ]

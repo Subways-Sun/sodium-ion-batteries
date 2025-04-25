@@ -2,7 +2,7 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "NaTi2(PO4)3",
+            "material_name": "NTP",
             "material_formula": "NaTi2(PO4)3",
             "material_properties": [
                 {
@@ -11,7 +11,7 @@
                     "capacity_type": "discharge",
                     "current_density_value": 0.2,
                     "current_density_unit": "A g−1",
-                    "cycle": 1
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 286.3,
@@ -19,7 +19,7 @@
                     "capacity_type": "discharge",
                     "current_density_value": 2,
                     "current_density_unit": "A g−1",
-                    "cycle": 1
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 225.2,
@@ -27,12 +27,12 @@
                     "capacity_type": "discharge",
                     "current_density_value": 5,
                     "current_density_unit": "A g−1",
-                    "cycle": 1
+                    "cycle": 0
                 },
                 {
-                    "capacity_value": 129,
+                    "capacity_value": 129.0,
                     "capacity_unit": "mA h g−1",
-                    "capacity_type": "reversible",
+                    "capacity_type": "discharge",
                     "current_density_value": 0.2,
                     "current_density_unit": "A g−1",
                     "cycle": 150
@@ -40,7 +40,7 @@
                 {
                     "capacity_value": 102.1,
                     "capacity_unit": "mA h g−1",
-                    "capacity_type": "reversible",
+                    "capacity_type": "discharge",
                     "current_density_value": 2,
                     "current_density_unit": "A g−1",
                     "cycle": 150
@@ -48,7 +48,7 @@
                 {
                     "capacity_value": 93.7,
                     "capacity_unit": "mA h g−1",
-                    "capacity_type": "reversible",
+                    "capacity_type": "discharge",
                     "current_density_value": 5,
                     "current_density_unit": "A g−1",
                     "cycle": 150
@@ -56,7 +56,7 @@
                 {
                     "capacity_value": 88.5,
                     "capacity_unit": "mA h g−1",
-                    "capacity_type": "reversible",
+                    "capacity_type": "discharge",
                     "current_density_value": 6,
                     "current_density_unit": "A g−1",
                     "cycle": 0
@@ -64,7 +64,7 @@
                 {
                     "capacity_value": 55.5,
                     "capacity_unit": "mA h g−1",
-                    "capacity_type": "reversible",
+                    "capacity_type": "discharge",
                     "current_density_value": 10,
                     "current_density_unit": "A g−1",
                     "cycle": 3000
@@ -72,7 +72,7 @@
             ],
             "starting_material": [
                 {
-                    "material_name": "sulfonated polymer nanotubes",
+                    "material_name": "Sulfonated polymer nanotubes (SPNTs)",
                     "material_formula": "",
                     "amount": {
                         "value": 70,
@@ -80,7 +80,7 @@
                     }
                 },
                 {
-                    "material_name": "tetrabutyltitanate",
+                    "material_name": "Tetrabutyltitanate (TBT)",
                     "material_formula": "",
                     "amount": {
                         "value": 1.7,
@@ -88,7 +88,7 @@
                     }
                 },
                 {
-                    "material_name": "sodium carbonate",
+                    "material_name": "Sodium carbonate",
                     "material_formula": "Na2CO3",
                     "amount": {
                         "value": 0.159,
@@ -96,7 +96,7 @@
                     }
                 },
                 {
-                    "material_name": "diphosphorus pentoxide",
+                    "material_name": "Phosphorus pentoxide",
                     "material_formula": "P2O5",
                     "amount": {
                         "value": 0.596,

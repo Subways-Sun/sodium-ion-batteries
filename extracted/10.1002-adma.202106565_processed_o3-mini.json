@@ -2,7 +2,7 @@
     "material": [
         {
             "material_type": "anode",
-            "material_name": "h‐M‐SSG scaffold",
+            "material_name": "h-M-SSG",
             "material_formula": "",
             "material_properties": [
                 {
@@ -11,29 +11,45 @@
                     "capacity_type": "not mentioned",
                     "current_density_value": 10,
                     "current_density_unit": "mA cm−2",
-                    "cycle": 0
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 10,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 1200
                 },
                 {
                     "capacity_value": 40,
                     "capacity_unit": "mAh cm−2",
-                    "capacity_type": "not mentioned",
+                    "capacity_type": "discharge",
                     "current_density_value": 40,
                     "current_density_unit": "mA cm−2",
-                    "cycle": 0
+                    "cycle": 180
                 }
             ],
             "starting_material": [
                 {
-                    "material_name": "1.0‐h‐Ti3C2/CNTs",
-                    "material_formula": "null",
+                    "material_name": "1.0-h-Ti3C2/CNTs",
+                    "material_formula": "Ti3C2/CNTs composite",
                     "amount": {
                         "value": 10,
                         "unit": "mL"
                     }
                 },
                 {
-                    "material_name": "0.3‐h‐Ti3C2/CNTs",
-                    "material_formula": "null",
+                    "material_name": "0.3-h-Ti3C2/CNTs",
+                    "material_formula": "Ti3C2/CNTs composite",
                     "amount": {
                         "value": 10,
                         "unit": "mL"
@@ -41,7 +57,7 @@
                 },
                 {
                     "material_name": "CNTs solution",
-                    "material_formula": "null",
+                    "material_formula": "CNTs",
                     "amount": {
                         "value": 10,
                         "unit": "mL"
@@ -51,7 +67,7 @@
         },
         {
             "material_type": "anode",
-            "material_name": "h‐Ti3C2/CNTs scaffold",
+            "material_name": "h-Ti3C2/CNTs",
             "material_formula": "",
             "material_properties": [
                 {
@@ -60,7 +76,7 @@
                     "capacity_type": "not mentioned",
                     "current_density_value": 10,
                     "current_density_unit": "mA cm−2",
-                    "cycle": 0
+                    "cycle": 9
                 }
             ],
             "starting_material": [
@@ -69,12 +85,12 @@
                     "material_formula": "Ti3C2",
                     "amount": {
                         "value": 0,
-                        "unit": "null"
+                        "unit": "relative mass ratio (0.3 or 1.0 relative to CNTs)"
                     }
                 },
                 {
                     "material_name": "Carbon Nanotubes (CNTs)",
-                    "material_formula": "CNTs",
+                    "material_formula": "",
                     "amount": {
                         "value": 2.0,
                         "unit": "mg L−1"
@@ -84,9 +100,17 @@
         },
         {
             "material_type": "anode",
-            "material_name": "CNTs scaffold",
+            "material_name": "CNTs",
             "material_formula": "",
             "material_properties": [
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 300
+                },
                 {
                     "capacity_value": 10,
                     "capacity_unit": "mAh cm−2",
@@ -96,16 +120,7 @@
                     "cycle": 0
                 }
             ],
-            "starting_material": [
-                {
-                    "material_name": "CNTs aqueous solution",
-                    "material_formula": "CNTs",
-                    "amount": {
-                        "value": 10,
-                        "unit": "mL"
-                    }
-                }
-            ]
+            "starting_material": []
         }
     ]
 }

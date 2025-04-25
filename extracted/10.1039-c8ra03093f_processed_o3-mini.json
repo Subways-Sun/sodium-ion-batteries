@@ -14,6 +14,22 @@
                     "cycle": 1
                 },
                 {
+                    "capacity_value": 163,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
                     "capacity_value": 204,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
@@ -38,7 +54,7 @@
                     "cycle": 1
                 },
                 {
-                    "capacity_value": 163,
+                    "capacity_value": 183,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 50,
@@ -46,12 +62,12 @@
                     "cycle": 1
                 },
                 {
-                    "capacity_value": 183,
+                    "capacity_value": 101,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 50,
                     "current_density_unit": "mA g−1",
-                    "cycle": 1
+                    "cycle": 50
                 },
                 {
                     "capacity_value": 224,
@@ -62,6 +78,14 @@
                     "cycle": 1
                 },
                 {
+                    "capacity_value": 157,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
                     "capacity_value": 216,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
@@ -70,7 +94,7 @@
                     "cycle": 1
                 },
                 {
-                    "capacity_value": 90,
+                    "capacity_value": 119,
                     "capacity_unit": "mA h g−1",
                     "capacity_type": "discharge",
                     "current_density_value": 50,
@@ -80,7 +104,7 @@
             ],
             "starting_material": [
                 {
-                    "material_name": "NaI",
+                    "material_name": "Sodium iodide",
                     "material_formula": "NaI",
                     "amount": {
                         "value": 1.05,
@@ -89,7 +113,7 @@
                 },
                 {
                     "material_name": "TCNQ",
-                    "material_formula": "null",
+                    "material_formula": "TCNQ",
                     "amount": {
                         "value": 1,
                         "unit": "mmol"
@@ -99,7 +123,7 @@
         },
         {
             "material_type": "cathode",
-            "material_name": "AC",
+            "material_name": "Activated Carbon (AC)",
             "material_formula": "",
             "material_properties": [
                 {

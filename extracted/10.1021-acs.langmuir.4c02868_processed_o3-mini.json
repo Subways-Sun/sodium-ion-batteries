@@ -3,12 +3,12 @@
         {
             "material_type": "anode",
             "material_name": "C-HC",
-            "material_formula": "null",
+            "material_formula": "",
             "material_properties": [
                 {
                     "capacity_value": 272,
                     "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
+                    "capacity_type": "reversible",
                     "current_density_value": 30,
                     "current_density_unit": "mA g–1",
                     "cycle": 1
@@ -16,35 +16,10 @@
                 {
                     "capacity_value": 262.4,
                     "capacity_unit": "mA h g–1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 30,
                     "current_density_unit": "mA g–1",
                     "cycle": 100
-                }
-            ],
-            "starting_material": [
-                {
-                    "material_name": "coconut shells",
-                    "material_formula": "null",
-                    "amount": {
-                        "value": 0,
-                        "unit": "null"
-                    }
-                }
-            ]
-        },
-        {
-            "material_type": "anode",
-            "material_name": "N/O-HC-1",
-            "material_formula": "null",
-            "material_properties": [
-                {
-                    "capacity_value": 296,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 30,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
                 }
             ],
             "starting_material": [
@@ -52,16 +27,41 @@
                     "material_name": "coconut shells",
                     "material_formula": "",
                     "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N/O-HC-1",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 296,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Coconut shells",
+                    "material_formula": "",
+                    "amount": {
                         "value": 1,
-                        "unit": "weight ratio"
+                        "unit": "part (relative weight)"
                     }
                 },
                 {
-                    "material_name": "urea",
+                    "material_name": "Urea",
                     "material_formula": "CH4N2O",
                     "amount": {
                         "value": 1,
-                        "unit": "weight ratio"
+                        "unit": "part (relative weight)"
                     }
                 }
             ]
@@ -69,79 +69,79 @@
         {
             "material_type": "anode",
             "material_name": "N/O-HC-2",
-            "material_formula": "null",
+            "material_formula": "",
             "material_properties": [
                 {
                     "capacity_value": 343,
                     "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
+                    "capacity_type": "reversible",
                     "current_density_value": 30,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 338,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 30,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 307,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 60,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 289,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 150,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 272,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 300,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 250,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 600,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 222,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 900,
-                    "current_density_unit": "mA g–1",
-                    "cycle": 1
-                },
-                {
-                    "capacity_value": 178,
-                    "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
-                    "current_density_value": 1500,
                     "current_density_unit": "mA g–1",
                     "cycle": 1
                 },
                 {
                     "capacity_value": 315.0,
                     "capacity_unit": "mA h g–1",
-                    "capacity_type": "discharge",
+                    "capacity_type": "reversible",
                     "current_density_value": 30,
                     "current_density_unit": "mA g–1",
                     "cycle": 100
+                },
+                {
+                    "capacity_value": 338,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 307,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 60,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 222,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 900,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 178,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
                 },
                 {
                     "capacity_value": 199,
@@ -154,19 +154,19 @@
             ],
             "starting_material": [
                 {
-                    "material_name": "coconut shells",
-                    "material_formula": "",
+                    "material_name": "Coconut shells (converted to C-HC)",
+                    "material_formula": "null",
                     "amount": {
-                        "value": 1300,
-                        "unit": "°C (calcination temperature)"
+                        "value": 1,
+                        "unit": "weight unit (ratio basis)"
                     }
                 },
                 {
-                    "material_name": "urea",
-                    "material_formula": "",
+                    "material_name": "Urea",
+                    "material_formula": "CH4N2O",
                     "amount": {
                         "value": 2,
-                        "unit": "weight ratio with C-HC"
+                        "unit": "weight unit (ratio basis)"
                     }
                 }
             ]
@@ -174,12 +174,12 @@
         {
             "material_type": "anode",
             "material_name": "N/O-HC-3",
-            "material_formula": "null",
+            "material_formula": "",
             "material_properties": [
                 {
                     "capacity_value": 356,
                     "capacity_unit": "mA h g–1",
-                    "capacity_type": "specific",
+                    "capacity_type": "reversible",
                     "current_density_value": 30,
                     "current_density_unit": "mA g–1",
                     "cycle": 1
@@ -187,19 +187,19 @@
             ],
             "starting_material": [
                 {
-                    "material_name": "C-HC",
-                    "material_formula": "null",
+                    "material_name": "C-HC (coconut shell-derived carbon)",
+                    "material_formula": "",
                     "amount": {
                         "value": 1,
-                        "unit": "weight ratio"
+                        "unit": "weight ratio part"
                     }
                 },
                 {
                     "material_name": "Urea",
-                    "material_formula": "null",
+                    "material_formula": "CO(NH2)2",
                     "amount": {
                         "value": 3,
-                        "unit": "weight ratio"
+                        "unit": "weight ratio parts"
                     }
                 }
             ]
