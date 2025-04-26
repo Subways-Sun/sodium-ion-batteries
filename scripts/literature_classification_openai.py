@@ -1,5 +1,5 @@
 """Script to classify literature using OpenAI API"""
-# pylint: disable=locally-disabled, line-too-long, invalid-name
+# pylint: disable=locally-disabled, line-too-long, invalid-name, consider-using-enumerate, logging-fstring-interpolation
 import json
 import platform
 import os
@@ -29,24 +29,25 @@ if platform.system() == "Darwin":
 
 # RESULT = "search_20241106-223705_noirrelevant.json"
 RESULT = "search_20241106-223705_50irrelevant.json"
-RESULT_OPENAI = "search_20241106-223705_50irrelevant_openai_v4.json"
+RESULT_OPENAI = "search_20241106-223705_50irrelevant_openai_repeat.json"
 
 RESULT_PATH = os.path.join(WORK_DIR, "data_annotated", RESULT)
 
 data = read_json(RESULT_PATH)
 try:
-    for i in range(len(data)):
-        logging.info(f"Processing DOI {data[i]['externalIds']['DOI']} of {len(data)}")
-        user_message = data[i]["text"]
-        res = cl('gpt-4o', user_message)
-        logging.info(f"Response: {res}")
-        data[i]["label_openai_raw"] = res.content
-        if res.content in ("relevant", "relevant cathode", "relevant anode", "relevant cathode anode"):
-            data[i]["label_openai"] = 1
-        elif res.content == "irrelevant":
-            data[i]["label_openai"] = 0
-        else:
-            data[i]["label_openai"] = -1
+    for x in range(10):
+        for i in range(len(data)):
+            logging.info(f"Processing DOI {data[i]['externalIds']['DOI']} of {len(data)}")
+            user_message = data[i]["text"]
+            res = cl('gpt-4o', user_message)
+            logging.info(f"Response: {res}")
+            data[i][f"label_openai_raw_{x}"] = res.content
+            if res.content in ("relevant cathode", "relevant anode", "relevant cathode anode"):
+                data[i][f"label_openai_{x}"] = 1
+            elif res.content == "irrelevant":
+                data[i][f"label_openai_{x}"] = 0
+            else:
+                data[i][f"label_openai_{x}"] = -1
     RESULT_PATH_OPENAI = os.path.join(WORK_DIR, "data_annotated", RESULT_OPENAI)
     write_json(RESULT_PATH_OPENAI, data)
 

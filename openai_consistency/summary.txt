@@ -1,0 +1,68 @@
+GPT Classification Agreement Analysis
+===================================
+
+Number of items analyzed: 150
+Percentage agreement: 97.88%
+Mean pairwise agreement: 0.9788
+Scott's Pi: 0.9666
+Fleiss' Kappa: 0.9699
+
+Category Distribution:
+-------------------
+relevant anode: 661 (44.1%)
+irrelevant: 598 (39.9%)
+relevant cathode: 138 (9.2%)
+relevant cathode anode: 103 (6.9%)
+
+Top 10 Items with Most Disagreement:
+--------------------------------
+1. ID: 479, Title: The binder effect on an oxide-based anode in lithium and sodium-ion battery applications: the fastest way to ultrahigh performance.
+   Unique categories: 2
+   Category counts: {'relevant anode': 6, 'irrelevant': 4}
+   Entropy: 0.9710
+
+2. ID: 468, Title: Recent Advances in Anode Materials for Sodium-Ion Batteries
+   Unique categories: 2
+   Category counts: {'irrelevant': 7, 'relevant anode': 3}
+   Entropy: 0.8813
+
+3. ID: 431, Title: Biphenylene network as sodium ion battery anode material.
+   Unique categories: 2
+   Category counts: {'relevant anode': 8, 'irrelevant': 2}
+   Entropy: 0.7219
+
+4. ID: 433, Title: Sandwich-Like SnS2/Graphene/SnS2 with Expanded Interlayer Distance as High-Rate Lithium/Sodium-Ion Battery Anode Materials.
+   Unique categories: 2
+   Category counts: {'irrelevant': 2, 'relevant anode': 8}
+   Entropy: 0.7219
+
+5. ID: 456, Title: Sodium-Based Dual-Ion Battery Based on the Organic Anode and Ionic Liquid Electrolyte.
+   Unique categories: 2
+   Category counts: {'irrelevant': 2, 'relevant anode': 8}
+   Entropy: 0.7219
+
+6. ID: 511, Title: Reappraise hard carbon anodes for practical lithium/sodium-ion batteries from a light of full-cell matters
+   Unique categories: 2
+   Category counts: {'relevant anode': 8, 'irrelevant': 2}
+   Entropy: 0.7219
+
+7. ID: 530, Title: Advanced P2-Na2/3Ni1/3Mn7/12Fe1/12O2 Cathode Material with Suppressed P2-O2 Phase Transition toward High-Performance Sodium-Ion Battery.
+   Unique categories: 2
+   Category counts: {'relevant cathode': 8, 'relevant cathode anode': 2}
+   Entropy: 0.7219
+
+8. ID: 465, Title: Single‐Layered MoS2 Fabricated by Charge‐Driven Interlayer Expansion for Superior Lithium/Sodium/Potassium‐Ion‐Battery Anodes
+   Unique categories: 2
+   Category counts: {'irrelevant': 9, 'relevant anode': 1}
+   Entropy: 0.4690
+
+9. ID: 502, Title: Nitrogen Doped Carbon Coated Bi Microspheres as High-performance Anode for Half and Full Sodium Ion Batteries.
+   Unique categories: 2
+   Category counts: {'relevant anode': 9, 'relevant cathode anode': 1}
+   Entropy: 0.4690
+
+10. ID: 432, Title: Hierarchically Designed Nitrogen-Doped MoS2/Silicon Oxycarbide Nanoscale Heterostructure as High-Performance Sodium-Ion Battery Anode.
+   Unique categories: 1
+   Category counts: {'relevant anode': 10}
+   Entropy: 0.0000
+
