@@ -1,7 +1,154 @@
 {
     "DOI": null,
     "Journal": null,
-    "Keywords": [],
-    "Sections": [],
-    "Title": null
+    "Keywords": [
+        "S-CoP@NPC nanotube",
+        "Sulfur-doped",
+        "N-doped porous carbon coating",
+        "Capacitive contribution",
+        "Sodium-ion battery"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Transition metal phosphides have attracted increasing attention as anode materials for sodium-ion batteries (SIBs). Cobalt phosphide (CoP) has been deemed as prospective anode materials owing to its high theoretical capacity. Nevertheless, the defects of cobalt phosphides are evident. Low conductivity, the non-negligible volume expansion and aggregation of particles during sodiation/desodiation process result in poor cycling performance and rapid capacity decay, which greatly limit their applications. Herein, we designed a hollow-nanotube structure of sulfur-doped cobalt phosphide (S-CoP) nanoparticles coated by nitrogen-doped porous carbon (S-CoP@NPC), which can be successfully synthesized via an ordinary hydrothermal process followed by the low-temperature phosphorization/sulfuration treatment. The doping of sulfur element provides more active sites, meanwhile, the carbon coating largely helps to avoid the agglomeration of nanoparticles, alleviate volume expansion and improve the conductivity of materials. The S-CoP@NPC composite presents stable cycling performance, showing a discharge specific capacity of 230 mAh g−1 over 370 cycles at 0.2 A g−1. In addition, it also exhibits good rate capability with a discharge specific capacity of 143 mAh g−1 at 5 A g−1, even when the current density returns to 0.2 A g−1, the discharge specific capacity can recover 213 mAh g−1. Furthermore, the kinetic analysis of S-CoP@NPC composite explains that the excellent cycling and rate performance benefit from the extrinsic pseudocapacitive behavior."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Herein, we designed a hollow-nanotube structure of S-doped cobalt phosphide (CoP) nanoparticles coated by nitrogen-doped porous carbon (S-CoP@NPC), which can be successfully synthesized via an ordinary hydrothermal process followed by the low-temperature phosphorization/sulfuration treatment. The S-CoP@NPC composite presents stable cycling performance (230 mAh g−1 over 370 cycles at 0.2 A g−1) and good rate capability (143 mAh g−1 at 5 A g−1).",
+                "Good rate performance of S-CoP@NPC composite benefited from the extrinsic.",
+                "pseudocapacitive behavior.",
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Nowadays, lithium ion batteries (LIBs) are considered as one of the most successful electrochemical energy storage (EES) devices in the application of electric vehicles (Tesla Model S and BYD e6), portable electronic products (laptops and mobile phones) and stationary energy storage power stations on account of the high specific energy density and long-term cycling life [1], [2], [3]. However, the limited lithium resource is mainly concentrated in the South America called lithium triangle, definitely increasing the cost of LIBs [4]. In order to deal with the above-mentioned problems, sodium ion batteries (SIBs) are attracting researchers’ attention due to the similar electrochemical characteristics compared with LIBs [5], [6]. Furthermore, the wide distribution and natural abundance of sodium reserve in the earth crust immensely reduce the cost of SIBs. However, the limitation of the development for sodium ion batteries is due to the difficulty in finding suitable anode materials to insert sodium ions with high capacity and good cycling stability.",
+                "Recently, phosphide-based materials are considered as a promising anode for SIBs due to their high specific capacity and low cost. Han and coworkers [7] prepared amorphous-P/C nanocomposite by using high energy ball-milling of commercial red phosphorous powder and carbon black at a certain ratio. Despite amorphous-P/C nanocomposite delivered high initial discharge and charge capacities of 2015 and 1764 mAh g−1, possessing a pretty high initial coulombic efficiency of 87%, the cycling stability was not good. The specific capacity still decreased from 1500 mAh g−1 after the first 20 cycles to 1000 mAh g−1 at 80th cycle, although 10% of fluoroethylene carbonate (FEC) was added in the traditional electrolyte (1 mol L-1 sodium hexafluorophosphate (NaPF6) in ethylene carbonate(EC)/diethyl carbonate (DEC) solution) to further protect the anode materials. In order to enhance the cycling stability of phosphorous anode material for SIBs, one of the effective strategies is to decorate P with other metal elements. From the same group, Yang and coworkers [8] prepared Sn4P3/C nanocomposite using the same method except for adding commercial Sn. The Sn4P3/C nanocomposite can maintain the good cycling stability with the capacity retention of 86% for 150 cycles, which was ascribed to the synergistic Na-storage reactions of the Sn and P for the Sn4P3/C anode material during sodiation/desodiation process. Inspired by these pioneer works, most of transition metal phosphides have been reported as anode materials in the application of SIBs, such as iron phosphides [9], [10], [11], cobalt phosphides [12], [13], molybdenum phosphides [14], [15], selenium phosphides [16], [17], tin phosphides [18], [19], [20], nickel phosphides [21], [22], copper phosphides [23], [24], zinc phosphides [25], [26]. Among them, CoP possesses high theoretical specific capacity, good electronic conductivity and strong thermodynamic stability of Co-P bond [27]. Benefitting from these advantages, CoP has been considered as an anode material for SIBs with great promise. The first research on CoP as an anode material for SIBs was reported by Chou’s group [12]. They described a simple ball-milling method for the preparation of CoP nanoparticles and demonstrated good electrochemical Na+ storage performance. This CoP anode exhibited a high initial specific capacity of 770 mAh g−1 along with excellent rate capability. However, the cobalt phosphide anode displayed a low capacity retention (70% after 25 cycles with 5% FEC addition) resulting from the unstable solid electrolyte interphase (SEI) film formed on the surface of bared CoP anode without the carbon coating. Zhang [28] et al. prepared CoP nanoparticles embedded in nitrogen doped carbon nanosheets (CoP/CNS) composite by using a simple one-step calcination of Co-MOF and red phosphorus. The CoP/CNS displayed a high capacity of 598 mAh g−1 at a current density of 0.1 A g−1. Zhang and coworkers [29] demonstrated a novel method for the synthesis of polypyrrole (PPy) coated CoP nanowires on carbon paper (CoP@PPy/CP). The coated conducting polymer PPy could protect CoP to mitigate the volume change and increase charge transfer during charge/discharge process. The CoP@PPy/CP anode exhibited good electrochemical Na+ storage performance (a high area capacity of 0.521 mAh cm−2 at 0.15 mA cm−2 after 100 cycles). Based on these reported studies, the coating (carbons and conducting polymers) of active CoP material can effectively enhance its electrochemical performance (rate capability and cycling stability). Recently, Elshahawy and coworkers [30] displayed that sulfur-doped CoP as an electrode material for supercapacitors not only delivered a relative high capacity but also a better cycling stability than bared CoP along with high energy/power density. Therefore, it can be expected that doping sulfur into CoP accompanied with carbon coating is an effective method to further enhance the electrochemical performance of CoP.",
+                "Herein, we have designed a hollow-nanotube structure of sulfur-doped cobalt phosphide (S-CoP) nanoparticles coated by nitrogen-doped porous carbon (S-CoP@NPC) derived from polydopamine through a simple hydrothermal process combined with low-temperature phosphorization/sulfuration treatment. When tested as an anode material for SIBs, as-prepared S-CoP@NPC composite shows good electrochemical Na-storage performance. The S-CoP@NPC anode can deliver a high discharge specific capacity of 230 mAh g−1 after 370 cycles at 0.2 A g−1 and good rate capability (143 mAh g−1 at 5 A g−1) due to the synergistic effect of S doping and N-doped porous carbon coating."
+            ],
+            "name": "Introduction",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "content": [
+                                "All the reagents (purchased from Macklin) in the experiment are analytically pure and without further purification. 5 mmol Tris(hydroxymethyl)methyl aminomethane was dissolved in 50 mL deionized water, then 14.7 mL (0.1 mol L-1) diluted hydrochloric acid (HCl) was added into above solution, and stirred for 5 min. Then deionized water was added until a constant volume of 100 mL, stirred for 10 min."
+                            ],
+                            "name": "Preparation of buffer solution",
+                            "type": "section_h4"
+                        },
+                        {
+                            "content": [
+                                "3 mmol Co(NO3)2·6H2O and 12 mmol CO(NH2)2 were mixed in 80 mL deionized water. Then the solution was transferred into a 100 mL Teflon-lined stainless-steel autoclave. The autoclave was put in an oven at 100 °C for 6 h. After the autoclave cooled to room temperature, the precursor was collected by centrifugation, washed four times by deionized water and ethanol, and dried at 80 °C for 12 h."
+                            ],
+                            "name": "Synthesis of precursor Co(CO3)0.5OH·0.11H2O",
+                            "type": "section_h4"
+                        },
+                        {
+                            "content": [
+                                "The precursor and Na2H2PO2 with a mass ratio of 1:10 were placed in two quartz boats respectively. The two boats were set in a tube furnace (the boat with Na2H2PO2 was put upstream) under N2 atmosphere with a rate of 5 °C min−1 reaching a temperature of 350 °C and kept for 2 h to produce CoP hollow tube."
+                            ],
+                            "name": "Synthesis of CoP hollow tube",
+                            "type": "section_h4"
+                        },
+                        {
+                            "content": [
+                                "The obtained CoP and sulfur powder with a mass ratio of 1:2 were placed in two quartz boats respectively. The two boats were set in a tube furnace (the boat with sulfur powder was put upstream) under N2 atmosphere with a rate of 5 °C min−1 reaching a temperature of 400 °C and kept for 1 h. Then the S-CoP hollow tube was obtained."
+                            ],
+                            "name": "Synthesis of S-CoP",
+                            "type": "section_h4"
+                        },
+                        {
+                            "content": [
+                                "80 mg Co(CO3)0.5OH·0.11H2O was added into 100 mL buffer solution under ultrasonication for 2 h and stirred for 1 h to form a suspension. Then 40 mg 3-hydroxytyramine hydrochloride was dissolved in the above suspension, stirred for 3 h. The mixed solution was filtered out and washed by deionized water and ethanol, and dried at 60 °C for 12 h. Then the sample was set in a tube furnace under N2 atmosphere heated to 600 °C with a rate of 5 °C min−1 and maintained for 2 h. The following phosphorization/sulfuration treatment is the same as mentioned above."
+                            ],
+                            "name": "Synthesis of S-CoP@NPC nanotube",
+                            "type": "section_h4"
+                        }
+                    ],
+                    "name": "Materials synthesis",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The powder X-ray diffraction (XRD, Rigaku D/max-2500) with Cu Kα radiation (λ = 1.54056 Å) was used to explore the crystal structures of as-synthesized samples and chemical states of surface elements were measured by the X-ray photoelectron spectra (XPS, ESCALAB 250). The thermal gravimetric analysis (TGA, METTLER Stare SW 11.00) was performed in air atmosphere from 30 to 1000 °C with a heating rate of 10 °C min−1. Micromeritics Model ASAP 2460 was served to determine the specific surface area of as-prepared samples. Scanning electron microscopy (FESEM, JSM-7001F) and high-resolution transmission electron microscopy (HRTEM, JEOL JEM-3010) were employed to investigate the morphologies and microstructures of as-synthesized samples."
+                    ],
+                    "name": "Materials characterization",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The active materials were prepared as anode materials for sodium-ion battery by the state of slurry coated on copper foil, which was prepared by mixing the active materials, conductive agent (super P) and binder (sodium alginate) with a mass ratio of 7:2:1 and the solvent was deionized water. The mass loading and thickness of the active materials were about 1.0 mg cm−2 and 70 μm respectively. The electrochemical tests were based on CR 2025 type coin cell. Metal sodium and glass fibre were used as counter electrode and separator, respectively. 1.0 M sodium perchlorate (NaClO4) in ethylene carbonate (EC)/dimethyl carbonate (DMC) (v/v = 1:1) solution with 5.0% FEC addition served as electrolyte. The CV test was produced using CS310 electrochemical workstation and electrochemical impedance spectra (EIS) was measured using the same electrochemical workstation with an amplitude of 5 mV and ranged from 100 kHz to 0.01 Hz. Cycling and rate performance tests were measured by Neware battery testing system (CT3008)."
+                    ],
+                    "name": "Electrochemical measurements",
+                    "type": "section_h3"
+                }
+            ],
+            "name": "Experimental section",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The formation of S-CoP@NPC nanotube is illustrated in Scheme. 1. Firstly, the precursor Co(CO3)0.5OH·0.11H2O was synthesized through a simple hydrothermal reaction. Then the carbon coating was formed after the addition of dopamine with a carbonization treatment. After a low temperature phosphorization/sulfuration treatment (during this process, the Na2H2PO2 and sulfur powder act as P source and S source, respectively), the S-CoP@NPC nanotube was obtained.",
+                "Fig. S1 shows the XRD patterns of as-prepared S-CoP with different mass ratios of CoP and sulfur powder. The crystal structure of pure cobalt phosphide shows little change after sulfur doped. Considering the superior crystallinity of S-CoP among three samples, S-CoP with the mass ratio 1:2 of pure CoP and sulfur powder was selected for further study. Fig. 1 exhibits the XRD spectra of pure CoP, S-CoP, and S-CoP@NPC composite. The refinements of the XRD patterns fit the results very well. It is obvious that all the diffraction peaks are well indexed to the orthorhombic phase (JPCDS no. 29-0497) with space group Pnma [31]. The additional peak at around 26° of S-CoP@NPC is attributed to amorphous carbon [28]. The intensities of diffraction peaks of S-CoP@NPC composite are weaker than that of S-CoP, indicating the S-CoP was successfully coated by the carbon layer, which is favorable for alleviating the volume expansion of CoP nanoparticles and improving the conductivity of composite.",
+                "The existence of sulfur element and the chemical states of surface elements were investigated by XPS. The XPS spectra of CoP, S-CoP and S-CoP@NPC in Fig. S2 demonstrate the existence of Co, P, S, C and N elements. Fig. 2a, b and c show the Co 2p XPS spectra of pure CoP, S-CoP and S-CoP@NPC composites. These peaks at 778.3 eV and 793.4 eV can be assigned to Co 2p3/2 and Co 2p1/2 of Co3+ in CoP, S-CoP and S-CoP@NPC respectively. The peaks at 780.1 eV and 798.1 eV are corresponded to Co 2p3/2 and Co 2p1/2, respectively, which are supposed to be the oxidized Co species [32]. In addition, two satellite peaks are centered at 784.1 eV and 802.9 eV [33]. The XPS spectrum of N 1 s (Fig. 2d) can be fitted with three peaks at 401.5 eV, 400.3 eV and 398.5 eV, corresponding to graphitic N, pyrrolic N and pyridinic N, respectively [34], [35], [36]. As shown in Fig. 2e, the broad peaks at 133.0 eV, 134.6 eV and 133.9 eV in the P 2p region of CoP, S-CoP and S-CoP@NPC can be ascribed to the PO species, which are derived from the oxidation of superficial P element exposed to the air. The two spin–orbit peaks at around 130.1 eV and 129.2 eV come from P 2p1/2 and P 2p3/2, corresponding to the combination with Co, respectively [37]. It is worth noting that there’s a shift both in binding energy of Co 2p spectra and P 2p spectra, indicating the doping of sulfur element. Fig. 2f displays the XPS spectra of S 2p, the peaks at 163.9 eV and 162.5 eV are S 2p1/2 and S 2p3/2, caused by the formation of metal sulfidephosphide [30]. Compared with S-CoP, S-CoP@NPC shows a negatively shift in S 2p region due to the nitrogen doping [38]. Furthermore, the sulfur contents of CoP, S-CoP and S-CoP@NPC are 0 at%, 4.97 at% and 2.17 at%, respectively. The increased sulfur contents affirm the successful doping of sulfur. All the results confirm the formation of S-CoP@NPC composite.",
+                "The scanning electron microscopy (SEM) images display the morphologies and microstructures of CoP, S-CoP and S-CoP@NPC. After the phosphorization process (as shown in Fig. S3a-d), the precursor Co(CO3)0.5OH·0.11H2O transformed into CoP, appearing hollow tube structure. Compared with pure CoP, the morphology of S-CoP can be maintained even after sulfuration treatment (Fig. S3e-f). Fig. 3a-d display SEM images of S-CoP@NPC composite at different magnification. To further investigate the morphology and microstructure of S-CoP@NPC, HRTEM was used. Fig. 3e-g clearly reveal that the diameter of S-CoP@NPC nanotube is about 50 nm and the CoP nanoparticles are coated by carbon layer, which can be attributed to the high temperature carbonization process prior to the phosphatization/sulfuration treatment. Consequently, the formation of carbon layer can greatly confine the agglomeration of CoP nanoparticles. As shown in Fig. 3h, HRTEM lattice image of S-CoP@NPC composite with a d-spacing of 0.200 nm is in good accordance with (2 1 0) plane of CoP nanoparticles, which fits the XRD results well. The elemental mapping images in Fig. 3i reveal that Co, P, C, S are fairly well-distributed in the S-CoP@NPC composite, which are consistent with the XPS results. And the carbon content of S-CoP@NPC composite was measured by the thermal gravimetric analysis (TGA). Based on the result (Fig. S4), it can be calculated that the carbon content of S-CoP@NPC composite is 25.54% [39]. The N2 adsorption/desorption isothermal curve of S-CoP@NPC shows an apparent hysteresis loop (type IV curve), demonstrating the mesoporous structure of composite (Fig. S5). The specific surface area and total pore volume were calculated to be 28.9 m2 g−1 and 0.131 cm3 g−1, manifesting a relative high value compared to CoP and S-CoP (Table S1). It has been reported that the mesoporous structure is favourable to the insertion/extraction of sodium ions and provides more active sites for the ion transport, which are profitable to the electrochemical performance [40].",
+                "To further investigate the electrochemical behavior of S-CoP@NPC anode for sodium-ion battery, the cyclic voltammetry was employed. Fig. 4a shows the typical S-CoP@NPC composite CV curves in the voltage range of 0.01–3.0 V at a relative slow scan rate of 0.1 mV s−1. The distinct difference between the first cycle and the subsequent two cycles indicates different redox behaviors. In the first cathodic scan cycle, the irreversible peak at about 0.6 V is caused by some irreversible reactions, the formation of solid electrolyte interphase (SEI) layer and the insertion of Na+ into CoP to form Na3P (Reaction (1)). The anodic peak at 1.7 V in the first cycle can be attributed to the oxidation of Na3P (Reaction (2)) [31], [41].(1)CoP + 3Na+ +3e → Na3P + Co Reaction(2)Na3P → 3Na+ +3e + P Reaction",
+                "After the first scan, the following two curves exhibit similar cathodic and anodic peaks. It is clearly that the cathodic peak shifts to 0.9 V in the subsequent cycles, which may correspond to the structure reorganization and also prove the good reversibility of anode material. Fig. 4b shows the charge–discharge profiles of S-CoP@NPC anode, for the first, second, fifth and tenth cycles at a current density of 0.2 A g−1. It is noteworthy that all the current densities and specific capacities are calculated based on the total mass of active materials. There is an obvious platform at about 0.8–0.6 V in the 1st discharging process, which is consistent with the CV curves [31]. The anode material in the first discharge–charge process displays a discharge specific capacity of 487 mAh g−1 and a charge specific capacity of 252 mAh g−1. It is reported that the formation of SEI film is mainly responsible for the capacity loss [40].",
+                "Fig. 4c shows the rate performance of CoP, S-CoP, and S-CoP@NPC as anodes for sodium ion battery. Compared to pure CoP and S-CoP, the S-CoP@NPC composite exhibits better rate performance. The S-CoP@NPC electrode exhibits reversible discharge capacities of 244, 216, 189 and 180 mAh g−1 at 0.2 A g−1, 0.5 A g−1, 1 A g−1 and 2 A g−1. After 40 cycles, when the current density increases to 5 A g−1, the specific capacity can still maintain 143 mAh g−1. The capacity can recover to 213 mAh g−1 when the current density reverts to 0.2 A g−1, indicating good rate performance of the S-CoP@NPC composite. Fig. 4d presents the cycling performance of CoP, S-CoP and S-CoP@NPC. The S-CoP@NPC has a better cycling stability than that of CoP and S-CoP, showing a discharge capacity of 230 mAh g−1 over 370 cycles at 0.2 A g−1 with a high capacity retention of 91%. The comparison of electrochemical performance between our work and previous reported cobalt phosphides is shown in Table S2. S-CoP@NPC exhibits good cyclic performance and rate performance benefiting from the unique structure, which can alleviate the volume expansion of CoP nanoparticles during charge–discharge process to a great extent. In addition, the doping of sulfur element provides more active sites to improve the capacity partly.",
+                "Fig. 5a shows CV curves of S-CoP@NPC composite at scan rates of 0.1, 0.2, 0.3 and 0.5 mV s−1, which were used to inspect the excellent electrochemical performance and quantify the contribution of capacitance to the total Na+ storage capacity. The peak current (",
+                "i) and sweep rate (v) obey the formula",
+                "i = a v b, where",
+                "a and",
+                "b are parameters. The value of",
+                "b can illustrate the mechanism of Na+ storage. For",
+                "b = 0.5, the reaction process is absolutely dominated by the diffusion mechanism, while",
+                "b = 1 indicates that the reaction process is dominated by the capacitive behavior [42]. As shown in Fig. 5b, the",
+                "b values of cathodic peak and anodic peak are 0.87 and 0.99 respectively, manifesting the total capacity consists of diffusion-controlled and capacitive capacities. The proportions of capacitive contribution and diffusion-controlled contribution can be calculated through the following equation:",
+                "i ( V ) = k 1 v + k 2 v 1 / 2",
+                "In this equation, i(V) is the current at a fixed voltage,",
+                "k 1,",
+                "k 2 are constants,",
+                "k 1 v is capacitive contribution to the i(V) [43]. By determining the value of",
+                "k 1, we can obtain the proportions of capacitive and diffusion-controlled capacities. Fig. 5c shows a capacitive current contribution of 69.6% at 0.1 mV s−1. Fig. 5d displays the proportions of capacitive contribution are 69.6%, 74.9%, 83.5% and 88.3% at scan rates of 0.1, 0.2, 0.3 and 0.5 mV s−1, respectively. The proportion of capacitive contribution increases in pace with scan rates, which contributes to the good rate performance.",
+                "Electrochemical Impendence Spectroscopy (EIS) was used to explore the outstanding electrochemical properties of S-CoP@NPC. The Nyquist plots are shown in Fig. 6 and the inset displays the equivalent circuit. The radius of the semicircle in the medium–high frequency indicates the charge-transfer resistance (Rct",
+                "R c t) and the slope in the low frequency corresponds to Warburg resistance (",
+                "WW), indicating the diffusion process of sodium ions in the electrode [39], [40]. According to the fitting results, the charge-transfer resistance of S-CoP@NPC composite is 8.87 Ω, while the charge-transfer resistances of CoP and S-CoP electrodes are 12.9 Ω and 16.19 Ω respectively, demonstrating the carbon coating largely improves the electrical conductivity of S-CoP@NPC electrode. In addition, the S-CoP@NPC composite was measured as an anode for lithium ion battery (Fig. S6a-b), which also presents good rate performance and excellent long-cycle stability (a discharge capacity of 528 mAh g−1 at a current density of 0.2 A g−1 after 205 cycles) accompanied with a high initial columbic efficiency (91%)."
+            ],
+            "name": "Results and discussion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "In summary, we successfully synthesised a hollow-nanotube structure of S-doped cobalt phosphide (S-CoP) nanoparticles coated by nitrogen-doped porous carbon (S-CoP@NPC) as anode for SIBs via a simple hydrothermal process combined with low-temperature phosphorization/sulfuration treatment. When tested as anode material for SIBs, the S-CoP@NPC composite exhibits excellent stable cycling life with a capacity retention of 91% after 370 cycles and good rate performance (the discharge specific capacity of 244, 216, 189, 180 and 143 mAh g−1 at 0.2 A g−1, 0.5 A g−1, 1 A g−1, 2 A g−1 and 5 A g−1). The enhanced electrochemical performance of S-CoP@NPC is attributed to synergistic effect of sulfur doping and nitrogen-doped porous carbon coating. Sulfur-doping increases the surface area of electrode and provide more active sites, N-doped carbon coating improves the conductivity of electrode, shortens the ion transportation pathways and alleviates the volume expansion and agglomeration of CoP nanoparticles during charge–discharge process. The rational design and enhanced performance make it possible for cobalt phosphide to be promising anode materials for SIBs."
+            ],
+            "name": "Conclusions",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Qianqian Chang is responsible for the design of experiments, creation of models, verification, data curation and writing the original manuscript. Yuhong Jin is in charge of the formulation of the whole research goals and aims, project administration and Funding acquisition. Miao Jia is responsible for the designing electrochemical test programs and cell assembles. Qiong Yuan is responsible for formal analysis and physical characterization. Chenchen Zhao is responsible for providing the laboratory instruments and analysis tools. Mengqiu Jia is responsible for supervision, reviewing and editing."
+            ],
+            "name": "Credit author statement",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The authors declared that there is no conflict of interest."
+            ],
+            "name": "Declaration of Competing Interest",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Sulfur-doped CoP@ Nitrogen-doped porous carbon hollow tube as an advanced anode with excellent cycling stability for sodium-ion batteries"
 }

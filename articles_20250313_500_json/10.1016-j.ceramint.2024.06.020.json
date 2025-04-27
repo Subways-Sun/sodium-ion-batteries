@@ -1,7 +1,172 @@
 {
     "DOI": null,
     "Journal": null,
-    "Keywords": [],
-    "Sections": [],
-    "Title": null
+    "Keywords": [
+        "2D layered material",
+        "MoTe2",
+        "Hierarchical self-assembly",
+        "Carbon coating",
+        "Sodium-ion batteries"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Addressing the slow electrochemical kinetics and electrode pulverization of sodium ion batteries (SIBs) is needed to continuously develop advanced anode materials. Molybdenum telluride (MoTe2) is considered promising for SIBs anodes due to its wider interlayer distance, faster electronic conductivity, and weaker interlayer force. However, the nanoparticle aggregation and layered structure collapse caused by bond breakage weaken its inherent advantages for excellent sodium storage performance. Herein, hierarchically nanostructured regulation and surface coating of MoTe2 based SIB anodes are simultaneously achieved by employing Mo-PDA as precursors through a concise and effective method containing chelation, preoxidation and tellurization. The microstructure and morphology of MoTe2/C composites can be facilely regulated by controlling the chelation time and tellurization temperature. The as-synthesized MoTe2/C-6h-600 electrode exhibits encouraging Na+ storage performance, which delivers discharge capacitances of 290.7 mAh g−1 (0.1 A g−1) and 161.1 mAh g−1 (1.0 A g−1) after hundreds and thousands cycles, respevtively. Furthermore, the assembled full cell of MoTe2/C-6h-600//NVP delivers a stable reversible capacitance of 103 mAh g−1, which is promising for future practical applications."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Developing rechargeable batteries for energy storage is crucial for tackling environmental pollution, meeting social development needs, and discovering fresh energy sources [, , ]. Sodium-ion batteries (SIBs) have gained significant attentiveness because of the low cost of sodium resources and their ability to provide long-lasting and high-capacity energy storage [, , ]. However, the sluggish electrochemical kinetics caused by the larger Na+ radius and the problem of pulverization and volume expansion pose significant challenges to improve the SIB performances containing rate capability, long-term stability, and safety [ , , ]. To tackle these challenges, considerable effort has been dedicated to develop advanced SIB anodes [ , , ]. Unfortunately, the majority of reported anode materials suffer from weaknesses such as poor electronic conductivity, inferior structure stability, and unstable cycling performance [, , ]. Transition metal dichalcogenides (TMDs), with their unique Na+ storage mechanism and layered structures, offer promising characteristics containing high theoretical capacitance, fast charge transfer, and weak chemical bonds [ , , ].",
+                "Recently, there has been increasing attention on molybdenum-based SIB anodes benefitting from their structural diversity and good performance [ , , ]. Molybdenum telluride (MoTe2) with unique 2D layered architecture is a typical TMD, which has a relatively wider interlayer spacing (MoTe2 (∼0.70 nm) > MoSe2 (∼0.65 nm) > MoS2 (∼0.62 nm) > graphite (∼0.34 nm)) and weaker interlayer forces (Te–Mo–Te), allowing for excessive Na+ storage without serious volume change [ , , ]. For instance, Panda et al. [ ] used high-temperature solid-state reaction to prepare high-purity MoTe2, which exhibited an initial discharge capacity of ∼320 mA h g−1 at 1.0 A g−1. Liang et al. [ ] reported the synthesis of MoTe2 nanosheets based on the space-confined effect of NaCl template, which delivered high reversible discharge specific capacity (412 mA h g−1 at 100 mA g−1) as well as good rate and cycling capabilities. However, bond breakage easily occurs between layers of MoTe2 due to the volume change when numerous sodium ions are inserted, leading to nanoparticle aggregation and layered structure collapse, which weakens its inherent advantages for excellent Na+ storage performance []. To overcome this issue, carbonaceous materials were often chosen to be combined with MoTe2 to maintain the structure strength [, , ]. Dopamine (DA) is a cost-effective carbon source, which can not only be converted into nitrogen-doped carbon, but also adsorb and chelate molybdate ions through numerous catechol groups [, , ].",
+                "Herein, nanosheet self-assembled MoTe2/C composites with hierarchical architecture are synthesized by employing chelation, preoxidation, and tellurization techniques. In the processes, DA proceeds self-polymerization and chelation with molybdate ions simultaneously to form Mo-PDA. After preoxidation, and tellurization, PDA is converted into nitrogen doped carbon and Mo–O bond breaks accompanied by the formation of Te–Mo–Te. Furthermore, the microstructure of MoTe2/C could be regulated through chelation time and tellurization temperature. The resulting 3D hierarchical structure with nanosheet self-assembly provides numerous active sites for Na+ storage. The assembled half-cell and full-cell both exhibit excellent rate capability and prolonged cycles."
+            ],
+            "name": "Introduction",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "All chemicals are used directly without further manipulation. First of all, 200 mg of Ammonium heptamolybdate tetrahydrate (Tianjin Kemiou Chemical Reagent Co., Ltd., 99.0 wt%) and 400 mg dopamine hydrochlorideare (Sinopharm Chemical Reagent Co., Ltd., 98.0 wt%) dissolved in the Tris-HCl buffer solution (C4H11NO3·HCl, 0.05 mol/L, 25 °C, Shanghai Aladdin Biochemical Technology Co,. Ltd.), which formed a homogeneous solution after magnetic agitation. After 6 h of magnetic stirring at room temperature and pressure, dopamine (DA) is converted to polydopamine (PDA) through the self-polymerization reaction. Meanwhile, the precursor of Mo-PDA is formed through chelating the molybdate ion. The precursor underwent multiple rinses with deionized water and anhydrous ethanol to eliminate residues and impurities. Moreover, Mo-PDA was dried at 60 °C to remove moisture. The influence of stirring time on material properties is investigated by controlling stirring time for 3h, 6 h and 9 h, respectively. The corresponding final products are named MoTe2/C-3h-600, MoTe2/C-6h-600 and MoTe2/C-9h-600."
+                    ],
+                    "name": "Synthesis of Mo-PDA",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The synthesized Mo-PDA flower-like precursor was processed under Ar and annealed at 450 °C for 3 h. After cooling, MoOx/C is formed by in-situ decomposition and carbonation of the precursor."
+                    ],
+                    "name": "Synthesis of MoOx/C",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The prepared MoOx/C powder and Te powder (Shanghai Aladdin Biochemical Technology Co,. Ltd., 99.9 wt%) with 1:5 of mass ratio are calcined in a low-temperature furnace under an Ar atmosphere for 5 h. During the calcination process, Te powder located upstream of the tube furnace is vaporized at high temperatures, and the gas flows to the MoOx/C powder, transforming the sample to MoTe2/C powder. The influence of calcination temperature on material properties is investigated by controlling the calcination temperature at 500 °C, 600 °C and 700 °C, named MoTe2/C-6h-500, MoTe2/C-6h-600 and MoTe2/C-6h-700, respectively."
+                    ],
+                    "name": "Synthesis of MoTe2/C",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The crystalline structures of MoTe2/C (Cu-Kα radiation, λ = 0.15417 nm) were tested with X-ray diffraction (XRD, Smart Lab 9 kW, Rigaku, Japan). Raman spectrometer was used to record the surface structural information of products with a 532 nm laser (Renishaw-invia, UK). Thermogravimetric analysis (TG209F1, Netzsch, Germany) was conducted to detect the carbon content of MoTe2/C. The SEM (Hitachi S-4800, Japan) and TEM (FEI Tecnai F20, USA) were used to collect the morphological and microstructure information of MoTe2/C. The XPS spectra (Thermo Kalpha, USA) were performed to analyze the MoTe2/C composite with 284.6 eV of C1s as the correction."
+                    ],
+                    "name": "Materials characterizations",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The coin type batteries (CR2032) were assembled with MoTe2/C composite as anodes, which are evenly mixed with acetylene black and polyvinylidene difluoride (PVDF) with the proportion of 8:1:1 in the aid of N-methyl-2-pyrrolidone (NMP). The samples coated on the Cu foil were dried in vacuum for 12 h. The working electrodes were tailored into round slice with Φ14 mm and 1.4 mg cm−1 active material. For Na + half cells, the counter electrode (Na foil), separator (glass fiber membrane, Whatman), and 1 M NaClO4 electrolyte (EC: DEC = 1:1 vol%) with 5 vol% FEC (fluoroethylene carbonates) were used. For Na+ full cells, the assembly procedures are similar to those of a half cell, except for the use of Na3V2(PO4)3 (NVP) as the cathode. Electrochemical measurements and electrochemical impedance spectroscopy (EIS) were performed by a CHI660E working station (Chenhua, Shanghai). The continuous galvanostatic charge-discharge (GCD) was measured using a Neware BTS3000 battery tester."
+                    ],
+                    "name": "Electrochemical characterizations",
+                    "type": "section_h3"
+                }
+            ],
+            "name": "Experimental section",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "Fig. 1 illustrates the chelation, preoxidation and tellurization three-step preparation processes of the flower-like MoTe2/C composite. Firstly, (NH4)6Mo7O24·4H2O and DA were mixed with the Tris buffer solution and stirred evenly. In the meantime, chelation and self-polymerization of DA are going on simultaneously. On the one hand, DA possesses numerous catechol groups that can chelate and adsorb a large number of molybdate ions from the decomposition of (NH4)6Mo7O24·4H2O (Mo7O246−+4H2O→7MoO42−+8H+) [ ]. On the other hand, PDA is formed because of the self-polymerization of DA under weakly alkaline conditions. More importantly, under the bidirectional action of chelation and self-polymerization, the precursor Mo-PDA composite was generated with the color change of the reaction solution from transparent to dark brown (Fig. S1) [ , , ]. Secondly, Mo-PDA composites were pre-oxidized at 450 °C for 3h to form the intermediate product MoOx/C. During calcination, PDA is converted to amorphous nitrogen doped carbon materials at the high calcination temperature while (NH4)6Mo7O24·4H2O is decomposed into MoOx. Finally, MoTe2/C composite is synthesized after the tellurization of MoOx/C at 600 °C for 5 h.",
+                        "Fig. 2a illustrates the XRD patterns of the sample MoTe2/C synthesized at 500 °C, 600 °C, and 700 °C tellurization temperatures with the same chelation time of 6h. At 500 °C, there is no characteristic XRD peak due to the low tellurization temperature. When the tellurization temperatures reach 600 °C and 700 °C, the peaks observed at 12.79°, 25.75°, 29.42°, 31.73°, 32.53°, 50.73°, 52.73° in XRD patterns correspond to the (002), (004), (201), (−112), (112), (310), (020) crystal planes of MoTe2 (JCPDS: 71–2157) []. Due to the large amount of amorphous carbon in the MoTe2/C composites, the weakly wide diffraction peaks in the 17°–28° range are attributed to the carbon material in the sample [ ]. Furthermore, Fig. S2 displays the sample surface information using Raman spectra, two typical carbon peaks at 1341 cm−1 (peak D) and 1604 cm−1 (peak G) were observed, which deliver the ID/IG values of the MoTe2-6h-600 and MoTe2-6h-700 are 1.23 and 1.14, respectively, indicating that MoTe2-6h-600 exhibits more surface defects. Furthermore, MoTe2/C composites were determined by TGA (Fig. S3). In the range of 220 °C–340 °C, the amount of MoTe2/C material increases due to the oxidation of MoTe2 [ , ]. The weight drop above 350 °C is due to the continuous oxidation of carbon. The carbon content in the composites is estimated to be about 34 %.",
+                        "The elemental composition and chemical bond types of MoTe2/C-6h-600 were studied by XPS. The XPS survey spectra show that MoTe2/C-6h-600 is composed of Mo, Te, C, and N (Fig. 2b). The detected oxygen may be caused by the partial oxidation of MoTe2 in the air [ ]. The Mo 3d spectrum of the sample is shown in Fig. 2c. The prominent peaks located at 231.3 eV (Mo 3d3/2) and 228.2 eV (Mo 3d5/2) indicate the binding energies of Mo–Te in the MoTe2 phase [ , ]. The peaks at 232.7 eV (Mo 3d5/2) and 235.8 eV (Mo 3d2/3) are from the binding energies of Mo–O after sample oxidation [ , , ]. The Te 3d spectrum is shown in Fig. 2d, peaks at 583.3 eV (Te 3d3/2) and 573.1 eV (Te 3d5/2) belong to the Te–Mo bond and represent the MoTe2 phase [ , ]. In addition, peaks at 576.6 eV (Te 3d5/2) and 587.0 eV (Te 3d3/2) correspond Te–O bond after sample oxidation [ , ]. The N 1s spectrum is displayed in Fig. 2e, peaks at 401.5 eV, 399.3 eV, and 398.4 eV suggest the presence of graphite N, pyrrole N, and pyridine N, respectively [ , ]. The C 1s spectrum in Fig. 2f shows the peaks at 288.1 eV for C–O, 286.3 eV for C–N and 284.6 eV for C–C bonds, respectively [ ]."
+                    ],
+                    "name": "Structure and chemical composition analysis",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The microstructure of MoTe2/C synthesized at different tellurization temperatures were performed by SEM and TEM measurements (Fig. 3). In Fig. 3a–c, the three products are similar in morphology and size. The microspheres are about 2 μm in size and consist of a large number of layered nanosheets that are connected in a 3D interconnected network. However, the overlap degree of nanosheets of MoTe2/C-6h-500 is higher than that of MoTe2/C-6h-600. Meanwhile, the nanosheets of MoTe2/C-6h-700 collapsed due to the excessive temperature. The unique hierarchical structure of MoTe2/C can provide increased amount of active sites for sodium storage, improve the electron and ion transport rates, as well as relieve structural damage caused by volume effects. Fig. 3d–f shows the microstructure of MoTe2/C-6h-600 captured by TEM and HR-TEM. It can be seen that the microsphere is composed of numerous ultrathin and interconnected nanosheets, which corresponds well to the above SEM images. The HR-TEM image resolved the lattice fringes of MoTe2 with a lattice spacing of 0.257 nm from the (−113) crystal faces of MoTe2. Fig. 3g shows the SAED diffraction rings from (−115) and (126) faces of MoTe2, indicating the polycrystalline structures of MoTe2. Moreover, EDS mappings show that the C, N, Te, and Mo uniformly distributed in MoTe2/C composite (Fig. 3h).",
+                        "The microstructures of MoTe2/C composites synthesized at different chelation times were further characterized (Fig. 4). Fig. 4 also shows the SEM images of the intermediate products Mo-PDA and MoOx/C at different synthesis times. It can be seen that the morphology of Mo-PDA-3h looks more like spheres, the lamellar structure is not fully developed. Meanwhile, the morphologies of Mo-PDA-6h and Mo-PDA-9h are nanosheets assembled in flower-like structures. By contrast, the nanosheet stacking of Mo-PDA-9h is denser than that of Mo-PDA-6h, which is speculated to be caused by too long reaction time (Fig. 4a–c). Because of the different morphologies of the precursor, the samples after preoxidation and tellurization also exhibit significantly different morphological characteristics (Fig. 4d–f for MoOx/C, Fig. 4g–i for MoTe2/C). Generally speaking, insufficient reaction time leads to incomplete development of the hierarchical structure of the product, resulting in the aggregation of nanoparticles. On the other hand, excessive reaction time can easily cause thickening and secondary aggregation of nanosheets, which is also unfavorable for rapid electrolyte immersion and ion/electron transport."
+                    ],
+                    "name": "Morphology and microstructure analysis",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The electrochemical performance of MoTe2/C as anodes of sodium-ion battery was tested using coin-type CR2032 half-cell. Fig. 5a displays the CV curve of the MoTe2/C-6h-600 for the initial three cycles in the voltage range 0.01–3.0 V (vs Na/Na+) at 0.1 mV s−1. In the 1st cathodic scan, four reduction peaks appeared at 0.3 V, 0.69 V, 1.05 V and 1.71 V. The appearance of wide peaks is due to the gradual insertion reaction of Na+ (Eq. (1)) to form NaxMoTe2 [ , ].(1)MoTe2 + xNa+ + xe− ↔ NaxMoTe2",
+                        "The small and sharp peaks are due to the reduction of NaxMoTe2 to Mo and Na2Te (Eq. (2)) and the SEI (solid electrolyte interphase) formation [ , ].(2)NaxMoTe2 + (4-x) Na+ + (4-x) e− ↔ 2Na2Te + Mo",
+                        "Moreover, the anodic peak at 1.56 V belongs to the opposite process of equations (1), (2) []. After the 1st cycle, the cathodic peaks shift towards the high potential, which may be caused by the lattice distortion and electron polarization decrease of MoTe2 due to the periodic embedding and de-embedding of Na+ in the main lattice structure of MoTe2 [ , ]. In addition, the CV profiles of the 2nd and 3rd cycles are nearly identical, suggesting that the structure of the MoTe2/C anode has excellent stability [ ].",
+                        "Fig. 5b depicts the GCD curves of the MoTe2/C-6h-600 at 100 mA g−1 with 0.01–3.0 V (vs Na/Na+). During the 1st discharge, two significant voltage platforms can be observed at around 1.2 V and 0.7 V. During the 1st charge, a significant voltage platform appears near 1.5 V. The observed voltage platforms correspond to reduction and oxidation peaks appeared in CV profiles. During the subsequent process, distinct voltage plateaus at 1.25 V and 1.54 V were observed, respectively. These voltage platforms also barely shifted after 100 cycles, which indicates that MoTe2/C-6h-600 electrode has good structure stability. Fig. 5c shows the specific discharge capacities of three MoTe2/C electrodes at different current densities. When the current density increases gradually, the average reversible capacitance of the MoTe2/C-6h-600 electrode is 284.7, 252.7, 206.6, 165.2, 129.5 mAh g−1, respectively, which are superior to MoTe2/C-6h-500 electrode (109.6, 81.2, 47.5, 27.3, 9.8 mAh g−1) and MoTe2/C-6h-700 electrode (184.9, 167.9, 137.5, 114.6, 96.8 mAh g−1). When cycling to 0.1 A g−1, the specific discharge capacitance of MoTe2/C-6h-600 electrode can be restored to 285.3 mAh g−1, which proves that MoTe2/C-6h-600 electrode has excellent rate tolerance and stable structure.",
+                        "Fig. 5d compares the specific discharge capacitances of three MoTe2/C electrodes for 100 cycles at 0.1 A g−1. The observed initial capacitance of the MoTe2/C-6h-500 electrode is 227 mA h g−1, which stabilized at 119 mA h g−1 after 100 cycles. The initial discharge capacitance of the MoTe2/C-6h-700 electrode is 422 mA h g−1, which can be stabilized at 168 mAh g−1 after cycling. The capacitance of MoTe2/C-6h-600 electrode is 627 mA h g−1 for the 1st discharge and stabilized at about 290.7 mA h g−1 after 100 cycles with ∼99 % Coulombic efficiency. In contrast, the MoTe2/C-6h-600 has a higher capacity and excellent coulomb efficiency at the same current density. Based on the comparison of rate and cycle, the long-term cycle stability of MoTe2/C-6h-600 electrode at high current density of 1.0 A g−1 was further studied (Fig. 5e). After 1000 cycles, the capacitance is 166.6 mA h g−1with a 83.21 % retention. After 3000 cycles, the capacitance of 161.1 mA h g−1 is still maintained with 80.46 % capacity retention, and the capacity decay rate is only 0.0065 % per cycle.",
+                        "The effect of chelation time has also been investigated in detail. Fig. S4a shows the rate capabilities of MoTe2/C samples at various current densities. When at 0.1, 0.2, 0.5, 1.0, 2.0 A g−1, the specific discharge capacitance of MoTe2/C-6h-600 is higher than MoTe2/C-3h-600 (192.7, 151.9, 118.6, 89.8, 63.6 mA h g−1) and MoTe2/C-9h-600 (223.8, 191.6, 158.9, 130.5, 103.7 mA h g−1). Fig. S4b shows the comparison of discharge specific capacities of three electrodes for 100 cycles at 0.1 A g−1. The MoTe2/C-3h-600 and MoTe2/C-9h-600 electrodes stabilized at 138 and 195.3 mAh g−1 after 100 cycles, respectively. It can be seen that the MoTe2/C-6h-600 electrode has better electrochemical performance than the other two electrodes at the same current density. Combining the above data, even compared with other 2D layered sodium-ion battery anodes previously reported (Table S1), the unique nanosheet-assembled MoTe2/C-6h-600 with hierarchical architecture can simultaneously facilitate the ion/electron transport and alleviate the strain-induced structure damage, bringing the enhanced electrochemical properties in terms of capacitance, rate and cycle.",
+                        "To understand the electrochemical kinetics of MoTe2/C in SIBs, CV curves were measured at different sweep speeds to investigate its pseudocapacitance behavior. Fig. 6a shows the CV profiles of MoTe2/C-6h-600 at 0.2, 0.4, 0.6, 0.8, 1.0 mV s−1. The profile shapes at different sweep speeds are roughly similar. When the sweep speed increases, the oxidation peak shiftted to high potential and the reduction peak went to low potential, which is a feature of surface diffusion control []. The power-law formula (Eq. 3) can be used to analyze the material capacitance effect [ ],(3)",
+                        "i p = a v bwhere ip is the peak current, v is the scanning rate, and b is the adjustment parameter. The b value are calculated by the slope of the log(i) and log(v) plots (Eq. (4)).(4)",
+                        "log ( i ) = b l o g ( v ) + log ( a )",
+                        "The values of b closing to 0.5 or 1.0 indicate the electrochemical diffusion or capacitive effect, respectively [ ]. Fig. 6b shows the log(i) and log(v) curves of the MoTe2/C-6h-600 electrode with b values closing to 1, indicating the fast redox kinetics on the surface of MoTe2/C-6h-600 electrode with capacitive effect, which may be related to its good performances at high current density [ ].",
+                        "In order to further analyze the relationship between diffusion capacitance and pseudo-capacitance contribution, the processes can be described quantitatively according to the formula (Eq. 5),(5)",
+                        "i = k 1 v + k 2 v 1 / 2",
+                        "the total current contribution (i) is divided by k1v and k2v1/2, which indicated the capacitive control and diffusion control processes. Fig. 6c shows that the pseudo-capacitance contribution reaches 89 % when the sweep speed is 0.6 mV s−1. The ratio gradually increases to about 93 % when the scanning rate went up from to 1.0 mV s−1 (Fig. 6d). The high capacitance contribution may be due to the hierarchical nanostructure with nanosheets self-assembly, which raises more surface active sites to hold more Na+.",
+                        "The galvanostatic intermittent titration technique (GITT)was further used to estimate the Na+ diffusion coefficient during the charge and discharge (Fig. S5) [ ]. In GITT measurements, the variation of voltage response to time can be achieved by alternating pulses and relaxation. Fig. S5a shows GITT curves of MoTe2/C-6h-600 and MoTe2/C-6h-700 electrodes. Fig. S5b shows the enlarged description of GITT data. The Na+ diffusion coefficient can be achieved from equation (Eq. 6) [].(6)",
+                        "D ( N a + ) = 4 π τ ( m B V M M B S ) 2 ( Δ E s Δ E τ ) 2",
+                        "In the formula, mB, VM and MB are the active substance mass, molar volume, and molar mass. τ and S represent the current pulse time and surface area. ΔEs and ΔEτ are the voltage changes associated with current pulse and constant current, respectively. Figs. S5c–d shows the relationship between sodium ion diffusivity and voltage during discharge and charging respectively. From the charge-discharge process, the value of LogDNa + for MoTe2/C-6h-600 is higher than that of MoTe2/C-6h-700, indicating that MoTe2/C-6h-600 has better diffusion kinetics.",
+                        "To investigate the interfacial resistance of the MoTe2/C electrodes, EIS tests of MoTe2/C-3h-600, MoTe2/C-6h-500, MoTe2/C-6h-600, MoTe2/C-6h-700, and MoTe2/C-9h-600 were evaluated after cycles. As depicted in Fig. S6, the Nyquist diagram of the MoTe2/C electrode consists of a semicircle and a diagonal line. The semicircle in the mid-high frequency is induced by the charge transfer between the active material and the electrolyte. The observable diagonal line corresponding to Warburg impedance (Zw, in the low frequency region) represents Na+ diffusion in the electrode [ ]. EIS data are fitted using the equivalent circuit diagram in Fig. S6, R1 is related to solution resistance (Rs) and R2 is related to Rct. CPE1 is related to the constant phase element of the Rct, Wo is related to the Warburg impedance. After fitting, the Rct values of MoTe2/C-3h-600, MoTe2/C-6h-500, MoTe2/C-6h-600, MoTe2/C-6h-700, and MoTe2/C-9h-600 electrodes are184.7Ω, 302.3 Ω, 140.1 Ω, 192.4 Ω, and 245 Ω, respectively. MoTe2/C-6h-600 electrode has the lowest impedance, which can effectively improve electronic conductivity, reduce charge transfer impedance, and deliver higher electrochemical performance.",
+                        "The SEM images before and after cycling of MoTe2/C-6h-600 and MoTe2/C-6h-700 are illustrated in Fig. 7 to identify the structure stability of electrodes. Before cycling, the two electrodes both have similar smooth surfaces. However, MoTe2/C-6h-700 displays many small and narrow cracks in the electrode plate after cycling. By contrast, MoTe2/C-6h-600 has almost no cracks in the electrodes after cycling, and the flower-like structure has good mechanical strength, so that it can maintain its original appearance. Furthermore, TEM and HRTEM characterizations of MoTe2/C-6h-600 after cycling are shown in Fig. S7. Although it did not clearly display the flower like morphology probably due to the relatively complex components of electrode plates, the ultrathin nanosheets of MoTe2/C-6h-600 were observed, suggesting the stable microstructures. The (112) and (004) crystal faces of MoTe2 were observed with the lattice spacing of 0.27 nm and 0.34 nm, which is also corresponding to the mentioned mechanism analysis of reversible conversion reaction (equations (1), (2))). Additionally, XPS characterizations of MoTe2/C-6h-600 electrode plates before and after cycling show that the main characteristic peaks of each element are relatively close to the initial prepared product powder (Fig. S8), except for the shift of C–O bonds, which may be related to the addition of conductive carbon black in the electrode plates.",
+                        "Considering the outstanding performances of MoTe2/C-6h-600 in half cells, it was assembled into full cells based on the Na3V2(PO4)3 (NVP) as cathode coupling to evaluate the applicability of MoTe2/C-6h-600. Fig. S9 displays the electrochemical performance and morphology of NVP cathode. Fig. 8a shows the structural diagram of full cell (MoTe2/C-6h-600//NVP). The full cell delivers an excellent 1st discharge capacitance of 186 mAh g−1 and a good reversible capacitance of 103 mAh g−1 after 100 cycles (Fig. 8b). Fig. 8c shows the similar GCD curves to MoTe2/C-6h-600 half cell and the initial Coulombic efficiency reaches 97 %. Furthermore, Fig. 8d exhibits a digital photo that the assembled MoTe2/C-6h-600//NVP full cell powered an electronic gyroscope and Video S1 displays the related rotation scene.",
+                        "The following is the supplementary data related to this article.",
+                        {
+                            "content": [
+                                "Play",
+                                "Restart",
+                                "Rewind",
+                                "Forward",
+                                "Volume",
+                                "70%",
+                                "Slower",
+                                "Faster",
+                                "Preferences",
+                                "Enter full screen",
+                                "Captions",
+                                "Descriptions",
+                                "Keyboard",
+                                "Transcript",
+                                "0:00 / 0:02Speed: 1xPaused",
+                                "Download: Download video (573KB)",
+                                "Video 1. 2"
+                            ],
+                            "name": "Media player",
+                            "type": "section_h4"
+                        }
+                    ],
+                    "name": "Electrochemical performance analysis",
+                    "type": "section_h3"
+                }
+            ],
+            "name": "Results and discussion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "In summary, hierarchical flower-like MoTe2/C composites with unique nanosheet self-assembly are synthesized by employing Mo-PDA as precursors through a concise and effective synthesis route combined chelation, preoxidation and tellurization. The as-synthesized MoTe2/C composites exhibit rich structure designability and morphology regulatability, which are beneficial for enhanced Na+ storage. Specifically, MoTe2/C-6h-600 electrode maintains a discharge capacitance of 290.7 mAh g−1 at 0.1 A g−1 after 100 cycles and 161.1 mAh g−1 at 1.0 A g−1 after 3000 cycles. Furthermore, the assembled MoTe2/C-6h-600//NVP full cell has an excellent reversible capacitance of 103 mAh g−1 after 100 cycles, indicating the promising practical applications. Although we have discussed many advantages of as-prepared MoTe2/C nanocomposites, there are still some limitations. For example, how to reduce the preparation temperature of materials will be beneficial for energy consumption management. In addition, it is necessary to further improve the capacitance of full cell to drive large electronic instruments instead of current small electronic devices."
+            ],
+            "name": "Conclusion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Lifeng Zhang: Writing – review & editing, Funding acquisition, Conceptualization. Yaoxin He: Writing – original draft, Visualization, Data curation. Jiaxi Bai: Software, Methodology, Formal analysis. Fenghua Liu: Investigation, Formal analysis. Robert Bradley: Software, Methodology. Weiping Wu: Writing – review & editing, Methodology. Xingang Kong: Funding acquisition, Formal analysis. Shouwu Guo: Visualization, Funding acquisition."
+            ],
+            "name": "CRediT authorship contribution statement",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+            ],
+            "name": "Declaration of competing interest",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Simultaneous hierarchical regulation and surface coating of MoTe2 based sodium-ion battery anodes with high capacity and long cycle stability"
 }

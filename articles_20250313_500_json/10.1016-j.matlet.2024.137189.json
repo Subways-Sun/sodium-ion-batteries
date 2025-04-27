@@ -1,7 +1,77 @@
 {
     "DOI": null,
     "Journal": null,
-    "Keywords": [],
-    "Sections": [],
-    "Title": null
+    "Keywords": [
+        "Electrophoretic deposition",
+        "NTO/CNT composite",
+        "Anode",
+        "Lithium/Sodium-ion cell"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "In this study, we have demonstrated that electrophoretically fabricated NiTiO3 (NTO)/CNT composite is a viable negative electrode for lithium and sodium ion batteries, with favorable electrochemical performance. NTO/CNT exhibited initial discharge capacity of 1032 mAhg−1 and 751 mAhg−1 at 100 mAg−1 with a retained capacity of ∼ 412 mAhg−1 and ∼ 180 mAhg−1 even after 100 cycles against lithium and sodium ion respectively. CNT helps in buffering the volume fluctuations by giving structural stability and enables good cycle life performance. Also such good performance can be ascribed to the porous microstructure, good adherence property with the current collector and uniform active material distribution with carbon black and CNT on the deposited film."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Lithium-ion batteries (LIBs) offer significant advantages across practical applications, from portable devices to electric vehicles, thanks to advancements in technology and manufacturing scale [1]. Nevertheless, the high cost, associated safety issues, and challenging recycling techniques are of serious concern [2]. In addition, to improve the overall energy density of LIBs, alternative anodes to that of graphite must be developed.",
+                "Alternatively, sodium-ion batteries (SIBs) promises to be a cost-efficient alternative, thanks to the practically limitless sodium resources [3]. State-of-the-art graphite anodes dominate the Li-ion anode market due to their low electrode potential, low cost, and cycling stability. However, their very low sodium intercalation capacity limits their application as SIB anode. [4]. Therefore, it’s a common research objective to develop anodes with comprehensive performance for both LIBs and SIBs.",
+                "Transition metal oxides has been gaining attention as alternative anodes due to their high capacities, stabilities, safety and huge abundance, however inadequate electronic conductivity, large volumetric fluctuations resulting rapid capacity fading, inferior cyclability, and voltage hysteresis leads to low energy efficiencies [5]. One way to circumvent these complications is to improve the performance by various carbonaceous materials like carbon nanotubes (CNT) or graphene oxide (GO) (Supplementary Table S1) [6], [7]. However, integrating the composite components with precise control over particle size and coating thickness is often a challenge in conventional slurry casting approach.",
+                "In this respect, electrophoretic deposition (EPD) offers several advantages. It is a versatile and cost effective suspension based colloidal manufacturing process which can produce homogeneous and dense coating for various applications [8]. This technique also offers control over particle size, coating thickness by adjusting process parameters. Here in, NTO/CNT composite anode film was deposited by electrophoretic deposition (EPD) technique on copper foil. The NTO/CNT electrode effectively endures the large volumetric changes during cycling providing improved electrochemical performance for both lithium and sodium ion storage."
+            ],
+            "name": "Introduction",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "NTO powder synthesis procedure was adapted from our previous publication [9]. The crystallinity of the purchased MWCNT were characterized by X-ray diffractometer. The morphology of the synthesized powder and the composite film was examined by scanning electron microscope.",
+                "To fabricate NTO/CNT composite electrodes using EPD, a stable suspension was prepared in isopropanol medium [9]. Concisely, as-prepared NTO powder, carbon black and CNT were dispersed in 100 ml isopropanol. To formulate a stable suspension, suitable amount of PAA and nickel nitrate dispersants were also added. The schematic of this technique, the reaction processes with associated parameters supplemented as scheme 1.",
+                "Circular discs were punched from the deposited film to prepare CR2032 coin cells in an argon-filled glove box, using lithium and sodium counter electrodes. For the lithium-ion half-cell, a Celgard 2400 separator and LiPF6 (1 M) in a mix of ethylene carbonate and diethyl carbonate were used as the electrolyte. For sodium, a Glass fiber (Whatman GF/C) separator and NaClO4 (1 M) in polyethylene carbonate served as the electrolyte. The cells were electrochemically tested via galvanostatic charge–discharge (GCD), cyclic voltammograms (CV) and electrochemical impedance spectroscopy (EIS) studies."
+            ],
+            "name": "Experimental",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The phase constituents and composition of the NTO powder obtained by sol–gel method was identified by the X-ray technique already shown in previous paper [9] confirming pure rhombohedral phase. The X-ray diffraction pattern of purchased MWCNT is shown in Fig. 1a. The X-ray of CNT depicts typical pattern with strong diffraction peaks at 25.8°, 43.1° and 53° corresponding highly ordered graphitic stricture present in the material [10]. Also the zoomed view of X-ray pattern of deposited NTO/CNT composite shown in Fig. 1b, where the strong intensity peaks of underlying Cu foil is visible at 43°, 50° and 74° and the peaks of CNTs merged with Cu peaks are obtained at 25.8°, 43.1° and 53°. All other evident peaks observed correspond to NTO. From Fig. 1c, the morphology of NTO powder can clearly be seen where the formation of highly crystalline polyhedral shaped particles found to be sintered together during high temperature calcination. From the microscopic image of EPD grown NTO/CNT film (Fig. 1d), it can be observed that NTO particles are uniformly distributed among snarled and tangled tubes of CNTs and carbon black to form a complete dense and electronically conductive structural integrity. Such morphology gives an improved conduction pathway aiding overall conductivity and hinders the accumulation of the active material during cycling.",
+                "Fig. 2a and e shows CV of initial three cycles for the composite at a scan rate 0.1 mVsec-1 in the potential range of 0.01–3 V. As envisioned from the figures, the first cycle curve slightly differs from the successive cycles due to the structural changes occurring along with the formation of SEI and other organic by products. In Fig. 2a, for the first cathodic scan broad peaks around 2.09 and 1.1 V can be attributed to the reduction of Ti4+ and Ni2+ respectively associated with the electrolyte dissolution and formation of amorphous Li2O (0.2 V). In the subsequent cycles, two peaks appear at ∼ 1 and 2.1 V can be assigned to the reduction of Ti4+ and Ni2+. During the anodic sweep, the two peaks at ∼ 1.6 and 2.6 V corresponds to the decomposition of Li2O and oxidation of Ni and Ti [11]. Likewise, in Fig. 2e, a cathodic current rise at ∼ 0.3 and 1.1 V can be attributed to the insertion of sodium into the NTO structure with the formation of amorphous Na2O. Two anodic peaks appear at 0.95 and 2.1 V due to the desodiation in the material and oxidation of Ni and Ti. Fig. 2b and f shows charge/discharge plots at a current density of 100 mAg−1 in the potential range of 0.01–3 V and 0.01–2.5 V against lithium and sodium. The 1st discharge and charge capacities are 1032 mAhg−1 and 534 mAhg−1, delivering a coulombic efficiency of ∼ 52 % (Fig. 2b). In Fig. 2f, the 1st discharge capacity was obtained at 751 mAhg−1 and charge capacity at 314 mAhg−1 with an initial coulombic efficiency of ∼ 48 %. The primary coulombic loss and large irreversibility in the consecutive cycles should be attributable to the decomposition of electrolyte, irreversible production of SEI and structural rearrangement of active material [12]. In Fig. 2c and g, the electrodes show a stable reversible capacity of ∼ 417 and 170 mAhg−1 correspondingly after 100 cycles. Such improved performance can be ascribed due to the porous network structure of CNTs with NTO which can reduce volumetric distortions during cycling and could also boost the liquid electrolyte permeation into bulk material. The rate performance was conducted at several specific currents presented in Fig. 2d and h. At different rates, the electrodes have delivered specific capacity of 428, 345, 228, 200, 162, 150, 144, and 130 mAhg−1 against lithium (Fig. 2d) and 196, 148,118, 86 and 46 mAhg−1 against sodium (Fig. 2h). Notably, upon brought down to the initial current, the sample still able to deliver a capacity of ∼ 394 and 161 mAg−1 signifying excellent structural integrity of the electrode.",
+                "EIS measurements were performed for pristine and prolonged cycled samples in order to comprehend their electrochemical behavior for both lithium (Fig. 3a and 3b) and sodium (Fig. 3c and d) with enlarged views in the insets. An equivalent circuit model is used (Fig. 3e) to fit the experimental data. The fitting results are presented in the supplementary information as Table S2. Both pristine and cycled electrodes exhibited alike Nyquist plots composed of depressed semicircle at intermediate frequencies. Due to the lack of surface activation resistance of pristine electrode observed to be very high but reduced with cycling due to the formation of electrochemically active phases and enhanced ionic diffusion activity in the material [7]."
+            ],
+            "name": "Results & Discussion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "NTO/CNT composite electrodes were fabricated using a simple and cost-effective EPD process. The MWCNTs form a 3D conductive network, acting as a buffer zone and facilitating smooth alkali ion transport during cycling, enhancing Li/Na storage. The uniform distribution of NTO, carbon black, and CNT in the EPD film, along with its strong adhesion to the current collector, contributes to its superior performance. Consequently, this EPD method shows great promise for developing advanced electrodes for LIBs and SIBs."
+            ],
+            "name": "Conclusion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Tania Majumder: Writing – original draft, Methodology, Investigation, Formal analysis, Data curation. Debasish Das: Validation, Formal analysis, Data curation. Subhasish B. Majumder: Writing – review & editing, Validation, Supervision, Conceptualization."
+            ],
+            "name": "CRediT authorship contribution statement",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+            ],
+            "name": "Declaration of competing interest",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Electrophoretically deposited nickel titanate/CNT composite as promising anode for lithium/sodium ion batteries"
 }

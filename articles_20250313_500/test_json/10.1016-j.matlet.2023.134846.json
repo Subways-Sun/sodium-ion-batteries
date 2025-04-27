@@ -1,0 +1,80 @@
+{
+    "DOI": null,
+    "Journal": null,
+    "Keywords": [
+        "CoNiSe2",
+        "Honeycomb-structured",
+        "Binary-metal selenides",
+        "SIBs",
+        "Energy storage and conversion",
+        "Nanocomposites"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Metal selenides show great potential as an anode for sodium-ion batteries (SIBs). However, they suffer from huge volume change and sluggish kinetics. The binary-metal selenide of CoNiSe2 is proposed to be embedded in a honeycomb-like conductive structure decorated with ZIF-67 pyrolytic carbon coating (HC-ZC@CNS). Even at 10 A g−1, the as-prepared HC-ZC@CNS electrodes exhibit a remarkable Na+ storage capability of 258.3 mA h g−1 when employed in SIBs. The improving electrochemical behavior is attributed to the skilled structure's excellent conductivity, capacitive contribution, better Na+ diffusion coefficient, and the synergetic effect between Co and Ni. This design provides a new paradigm for enhancing SIBs performances."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Metal selenides (MS) are considered one of the most potential candidates for sodium-ion batteries (SIBs) due to their high theoretical capacity [1]. However, the limitation of low electrical conductivity, large volume change, and poor transport kinetics hinder its application on SIBs and therefore need to be improved [2].",
+                "Much effort has been made to solve the above issues, and one of the most effective strategies is compound MS with carbon. No matter carbon framework or carbon coating can ameliorate the conductivity and buffer the volume expansion, carbon coating would promote the formation of stable solid electrolyte interface (SEI) layers by avoiding the MS direct contact with the electrolyte [3], [4]. For instance, Li and his group assembled dopamine pyrolytic carbon on Co0.5Ni0.5Se2 and significantly improved the stability of materials with high-capacity retention of 417 mA h g−1 after 100 cycles at 0.2 A g−1 [5]. Another way to improve the Na+ storage performance of MS is introducing another metal element to regulate internal crystal structure and accelerate the Na+ ion transportation [6]. For example, Jia et al. prepared ZnSe/CoSe@NPC with excellent rete property of 236.4 mA h g−1 at 10 A g−1 [7]. Nonetheless, the conductive framework still needs further optimization, and the carbon coating normally is a simple dense modality without additional pore structure for the electrolyte to infiltrate the anode. Besides, the mechanism of the two metals’ synergistic effect still needs further study.",
+                "Herein, we synthesized a honeycomb-like carbon structure with a typical metal–organic framework (ZIF-67) pyrolytic carbon coated CoNiSe2 composite (HC-ZC@CNS), which owns stable conductive framework, abundant pore carbon coating, and enhanced kinetics. The electrochemical performance of HC-ZC@CNS electrodes displays a significant advantage compared with single honeycomb-structured carbon NiSe2 composite (HC@NiSe2). The strategy of constructing selenide vacancies provides a direct illumination for the synthesis of MS carbon composite and other high-performance anode materials."
+            ],
+            "name": "Introduction",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Typically, Ni(NO3)2·6H2O (Sinopharm, AR) and polyvinylpyrrolidone (Macklin, AR, PVP K130) with a mass rate of 1:1 were dissolved in deionized water. The solution was placed into an 80 ℃ oven for around 12 h until the sol–gel was formed. The gel was carbonized at 700 ℃ for 3 h with a heating rate of 3 °C min−1 under Ar atmosphere and named as HC@Ni-O. 0.5 g PVP, 0.5 g HC@Ni-O, and 1 g Zn(NO3)2·6H2O (Sinopharm, AR) were subsequently dispersed in 90 mL methanol and stirred for two days. Then, 90 mL methanol with 2.5 g 2-Methylimidazole (Macklin, AR) was added into the above solution slowly and stirred for another 30 min. After centrifugation and drying at 80 ℃ overnight, the dark brown powder was obtained and named as HC-ZIF-67@Ni-O. Finally, the HC-ZC@CNS was obtained by a selenization process of heating 0.5 g HC-ZIF-67@Ni-O with 1 g Se (Sigma, 98%) power at 600 ℃ for 2 h in Ar. As comparison, the HC@NiSe2 was made by direct selenization without loading ZIF-67.",
+                "The materials characterization and electrochemical measurements are listed in Supporting Information."
+            ],
+            "name": "Experimental section",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The preparation procedure of HC-ZC@CNS is illustrated in Fig. 1(a). First, the abundant gas generated by the decomposition of nitrate and PVP in the pyrolysis promotes the honeycomb-like structure’s formation. On this basis, ZIF-67 in-situ grew in the macropore, which not only introduces Co element but also provides a porous coating. Finally, the HC-ZC@CNS is synthesized via one-step selenization, and the CoNiSe2 particles are well stick on a honeycomb-like framework with porous carbon shell coating.",
+                "Fig. 1(b)-()–(g))–( and Fig. S1 show the electron microscopy images of samples. The HC@Ni-O exhibits a honeycomb-like porous structure constituted by a smooth 2D nanosheet. The nano-size ZIF-67 can be observed on a 2D nanosheet in HC-ZIF-67@Ni-O (Fig. 1(c)). The HC-ZC@CNS after selenization shown in Fig. 1(d) maintains a honeycomb-like structure with a few small particles dispersed on the surface. The HC@NiSe2 shown in Fig. S1 displays abundant particles on the sheets, which is attributed to the crystal growth of NiSe2. Fig. 1(e) of the HC-ZC@CNS TEM image shows the CoNiSe2 particles with an average diameter of ∼200 nm are randomly dispersed on carbon sheet. The crystal lattice observed in Fig. 1(f) is measured to 2.67 Å, corresponding to the (0 0 2) phase of CoNiSe2. Moreover, the elemental mapping images shown in Fig. 1(g) reveal CoNiSe2 particles have been excellent anchored on an N-doped carbon framework.",
+                "Fig. 2(a) exhibits the XRD patterns of HC-ZC@CNS and HC@NiSe2. The characteristic peaks can be well matched to PDF#65-7038 of CoNiSe2 and PDF#88-1711 of NiSe2, respectively. The crystal structure of Ni-Se is proved to be modified by the addition of Co. Two peaks observed in Fig. 2(b) are corresponding to the D band and G band of carbon in the Raman spectrum. ID/IG of HC-ZC@CNS is 0.97, implying the carbon in HC-ZC@CNS is in an amorphous state [3]. The TGA was conducted and the carbon content was calculated to 21.3% (Fig. S2). The N2 adsorption–desorption isotherms of samples are detected in Fig. 2(c) and Fig. S3. The BET specific surface area of HC-ZC@CNS is 73.8 m2 g−1, higher than the 48.0 m2 g−1 of HC@NiSe2. In addition, the pore size of HC-ZC@CNS and HC@NiSe2 is mainly for mesoporous between 3 and 5 nm according to the BJH calculation method. The larger surface area and suitable pore-size distribution can provide a significant advantage in electrolyte infiltration [8].",
+                "XPS measurement was conducted to analyze the surface chemical states and selenide vacancies of HC-ZC@CNS. The XPS survey spectra further verify the existence of the Co, Ni, Se, C, and N elements (Fig. S4), while the existence of O is attributed to the surface oxidation and incomplete pyrolysis of the functional group [9]. The high-resolution C 1s spectra shown in Fig. S5 can be fitted as C-C, C-O, CC, and the N 1s shown in Fig. S6 is defined as three peaks (pyrrolic N, pyridinic N, and graphitic N) [10]. Fig. 2(d)–(f) of the high-resolution spectra of Co 2p, Ni 2p, and Se 3d identify the chemical composition of CoNiSe2 in HC-ZC@CNS [3]. The peaks of Co3+, Ni3+, and SeOx are related to the oxidization on the surface [11].",
+                "Fig. 3(a) reveals the first three charging/discharging curves of HC-ZC@CNS at 2 A g−1. The distinct difference in the initial discharge curve is attributed to the formation of the SEI layer. The following curves overlap well, implying the high reversibility of HC-ZC@CNS in SIBs. The initial discharge capacity reaches 524.6 mA h g−1, and the first coulombic efficiency (CE) achieves as high as 83%. The rate performance of HC-ZC@CNS was tested and displayed in Fig. 3(b). The reversible capacity maintains 436.8, 350.8, 311.0, 303.5, 291.8, 287.3, 281.0, 272.3, and 258.3 mA h g−1 at 0.1, 0.2, 0.5, 1, 1.5, 2, 3, 5 and 10 A g−1, respectively. Moreover, the reversible capacity achieves 469.6 mA h g−1 after 150 cycles when the current density reset to 0.1 A g−1. As shown in Fig. 3(d), the HC-ZC@CNS also shows outstanding cycling stability. The capacity of HC-ZC@CNS exhibit 301.5 mA h g−1 after 400 cycles at 2 A g−1, while the CE maintains almost 100% after the first cycle. In comparison with previously reported anode materials, listed in Table S1, the HC-ZC@CNS shows more remarkable Na+ storage capability [12], [13], [14].",
+                "To evaluate the mechanism of improving the Na+ storage capacity in HC-ZC@CNS, the EIS and corresponding fitting results were shown in Fig. S7 and Table S2. Both electrolyte resistance (Rf) and charge-transfer resistance (Rct) of HC-ZC@CNS exhibit reduction compared with HC@NiSe2. Fig. 3(d) and Fig. S8 display the capacitive behavior calculation results of HC-ZC@CNS and HC@NiSe2, and the HC-ZC@CNS exhibits a higher percentage of capacitive behavior in every scan rate. In addition, as shown in Fig. 3(e)–(f) and Fig. S9, the GITT testing result illustrates that the HC-ZC@CNS owns improved Na+ diffusion performance as we expect."
+            ],
+            "name": "Results and discussion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "In summary, the honeycomb-like carbon with ZIF-67 pyrolytic carbon coating CoNiSe2 composite was successfully synthesized for SIBs anode materials. Advantage from improving conductivity, capacitive contribution, and Na+ diffusion coefficient, the HC-ZC@CNS exhibits excellent specific capacity of 272.3 mA h g−1 at 10 A g−1 and prolonged stability of 301.5 mA h g−1 after 400 cycles at 2 A g−1. The prominent Na+ storage performance not only proves the potential of HC-ZC@CNS in SIBs but also demonstrates that the strategy of internal crystal structure by constructing bimetal selenides is an effective way to design SIBs anode materials."
+            ],
+            "name": "Conclusion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Peng Zhou: Methodology, Data curation, Formal analysis, Writing – original draft. Liping Wang: Data curation, Formal analysis, Supervision, Conceptualization. Mingyu Zhang: Data curation, Formal analysis, Supervision, Conceptualization. Qizhong Huang: Data curation, Formal analysis. Zhean Su: Writing – review & editing. Ping Xu: Writing – review & editing. Chen Zeng: Writing – review & editing. Mingdong Liao: Writing – review & editing."
+            ],
+            "name": "CRediT authorship contribution statement",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+            ],
+            "name": "Declaration of Competing Interest",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "ZIF-67 encapsulated CoNiSe2 particles anchored on honeycomb structure as high-performance anode materials for sodium-ion battery"
+}
