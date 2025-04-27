@@ -1,0 +1,215 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "BT/C NFs",
+            "material_formula": "TiO2/C",
+            "material_properties": [
+                {
+                    "capacity_value": 636,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 329,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 283.5,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 358.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 323.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 292.7,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 261.0,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 236.1,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 204.1,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 10
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "T/C NFs (TiO2/C nanofibers)",
+                    "material_formula": "TiO2/C",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Concentrated nitric acid",
+                    "material_formula": "HNO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Dilute hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "T/C NFs",
+            "material_formula": "TiO2/C",
+            "material_properties": [
+                {
+                    "capacity_value": 147.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "PVP",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tetrabutyl titanate",
+                    "material_formula": "Ti(OC4H9)4",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Methanol",
+                    "material_formula": "CH3OH",
+                    "amount": {
+                        "value": 4,
+                        "unit": "parts (by weight ratio)"
+                    }
+                },
+                {
+                    "material_name": "Acetic acid",
+                    "material_formula": "CH3COOH",
+                    "amount": {
+                        "value": 1,
+                        "unit": "parts (by weight ratio)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3/C",
+            "material_formula": "Na3V2(PO4)3/C",
+            "material_properties": [
+                {
+                    "capacity_value": 85,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.0,
+                    "current_density_unit": "0.2C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium dihydrogen phosphate",
+                    "material_formula": "NaH2PO4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 2,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone (PVP)",
+                    "material_formula": "PVP",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

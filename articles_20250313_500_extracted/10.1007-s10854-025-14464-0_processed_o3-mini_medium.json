@@ -1,0 +1,424 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "ZF-0",
+            "material_formula": "Na0.75Ni0.33Mn0.67O2",
+            "material_properties": [
+                {
+                    "capacity_value": 146.57,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 131.87,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 15.24,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 146.57,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 121.58,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102.29,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 89.88,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 62.45,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 45.43,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Mn·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Ni·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CH4N2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "ZF-2",
+            "material_formula": "Na0.75Ni0.23Mn0.67Zn0.1O2-xFx (x=0.02)",
+            "material_properties": [
+                {
+                    "capacity_value": 132.49,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 125.31,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 88.99,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Mn⋅4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Nickel acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Ni⋅4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Zinc acetate dihydrate",
+                    "material_formula": "(CH3COOH)2Zn⋅2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium fluoride",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "ZF-5",
+            "material_formula": "Na0.75Ni0.23Mn0.67Zn0.1O2-xFx (x=0.05)",
+            "material_properties": [
+                {
+                    "capacity_value": 137.13,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 134.47,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 110.37,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 130.68,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 131.93,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 128.04,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 121.29,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 108.18,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 94.71,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 111.24,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 68.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Mn⋅4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Nickel acetate tetrahydrate",
+                    "material_formula": "(CH3COOH)2Ni⋅4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Zinc acetate dihydrate",
+                    "material_formula": "(CH3COOH)2Zn⋅2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "(NH2)2CO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "molar ratio 4:1 with metal ions (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Sodium fluoride",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "added in a molar ratio with precursor (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "molar ratio 1:0.75 with precursor (exact amount not specified, with 5% Na excess)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "ZF-8",
+            "material_formula": "Na0.75Ni0.23Mn0.67Zn0.1O2-xFx (x=0.08)",
+            "material_properties": [
+                {
+                    "capacity_value": 143.28,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 144.34,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 102.53,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese acetate tetrahydrate",
+                    "material_formula": "(CH3COO)2Mn·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Nickel acetate tetrahydrate",
+                    "material_formula": "(CH3COO)2Ni·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Zinc acetate dihydrate",
+                    "material_formula": "(CH3COO)2Zn·2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "molar ratio of 4:1 relative to transition metal ions (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Sodium fluoride",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "amount not specified"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "molar ratio of 0.75 relative to NaF with 5% excess sodium (exact amount not specified)"
+                    }
+                }
+            ]
+        }
+    ]
+}

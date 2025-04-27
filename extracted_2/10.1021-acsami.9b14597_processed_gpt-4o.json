@@ -1,0 +1,157 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "S-doped TiO2/CS",
+            "material_formula": "/",
+            "material_properties": [
+                {
+                    "capacity_value": 445.6,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 317.6,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 209.4,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 140.7,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 293.5,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 25
+                },
+                {
+                    "capacity_value": 256.4,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 25
+                },
+                {
+                    "capacity_value": 255.5,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.25,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 228.6,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 200.8,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 167.6,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 146.5,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120.6,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 655
+                },
+                {
+                    "capacity_value": 100.5,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 5000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "titanium oxysulfate",
+                    "material_formula": "TiOSO4",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "isopropyl alcohol",
+                    "material_formula": "IPA",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "diethylenetriamine",
+                    "material_formula": "DETA",
+                    "amount": {
+                        "value": 0.03,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "glucose",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

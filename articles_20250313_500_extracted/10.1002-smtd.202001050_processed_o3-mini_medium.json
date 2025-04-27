@@ -1,0 +1,158 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Ag@C substrate",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 2,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 2,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 2,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 3,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Carbon cloth",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 50,
+                        "unit": "cm²"
+                    }
+                },
+                {
+                    "material_name": "Acetone",
+                    "material_formula": "C3H6O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ag particles",
+                    "material_formula": "Ag",
+                    "amount": {
+                        "value": 300,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Prussian White (PW)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 136,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 128,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 75,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 52,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 122,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) sulfate monohydrate",
+                    "material_formula": "MnSO4·H2O",
+                    "amount": {
+                        "value": 0.001,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium citrate dihydrate",
+                    "material_formula": "Na3C6H5O7·2H2O",
+                    "amount": {
+                        "value": 0.01,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Potassium ferrocyanide trihydrate",
+                    "material_formula": "K4Fe(CN)6·3H2O",
+                    "amount": {
+                        "value": 0.001,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        }
+    ]
+}

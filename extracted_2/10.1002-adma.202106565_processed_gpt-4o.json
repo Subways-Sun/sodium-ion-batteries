@@ -1,0 +1,150 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "h-M-SSG/Na",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 5,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 5,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 10,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 15,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 15,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 20,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 40,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 40,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 180
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "1.0-h-Ti3C2/CNTs",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "0.3-h-Ti3C2/CNTs",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "CNTs solutions",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "h-Ti3C2/CNTs/Na",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 5,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 5,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 10,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 9
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "KOH",
+                    "material_formula": "KOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "CNTs",
+                    "material_formula": "CNTs",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "mg/L"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CNTs/Na",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh cm−2",
+                    "capacity_type": "charge",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm−2",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

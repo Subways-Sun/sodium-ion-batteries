@@ -1,0 +1,34 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "E‑MoS2‑9",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "PC@MoS2‑4",
+            "material_formula": "MoS2 (with carbon coating)",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

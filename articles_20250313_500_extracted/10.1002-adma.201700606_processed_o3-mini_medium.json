@@ -1,0 +1,861 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 471,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 187,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 74,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 225,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 164,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 161,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 175,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 350,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoSe2",
+            "material_formula": "MoSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 462,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 456,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 445,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 345,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "WS2",
+            "material_formula": "WS2",
+            "material_properties": [
+                {
+                    "capacity_value": 600,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 550,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 236,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 311,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "WSe2",
+            "material_formula": "WSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 300,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 270,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS2",
+            "material_formula": "SnS2",
+            "material_properties": [
+                {
+                    "capacity_value": 500,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 400
+                },
+                {
+                    "capacity_value": 378,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 633,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 523,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 458,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 348,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 3,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS",
+            "material_formula": "SnS",
+            "material_properties": [
+                {
+                    "capacity_value": 492,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 810,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 308,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 7290,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 433,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 1100,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 420,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TiS2",
+            "material_formula": "TiS2",
+            "material_properties": [
+                {
+                    "capacity_value": 186,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 101,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2400,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 175,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 480,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 140,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 480,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NbS2",
+            "material_formula": "NbS2",
+            "material_properties": [
+                {
+                    "capacity_value": 190,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 157,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeS2",
+            "material_formula": "FeS2",
+            "material_properties": [
+                {
+                    "capacity_value": 447,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 205,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 20000
+                },
+                {
+                    "capacity_value": 170,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 261,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeS",
+            "material_formula": "FeS",
+            "material_properties": [
+                {
+                    "capacity_value": 610,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 195,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 354.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 340,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 6,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 621,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 584,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 250,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 537,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 505,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 452,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 500,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 430,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 91,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 280,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 4568,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "FeS2",
+                    "material_formula": "FeS2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeSe2",
+            "material_formula": "FeSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 403,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2000
+                },
+                {
+                    "capacity_value": 226,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 383,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 408,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoS2",
+            "material_formula": "CoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 280,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 310,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 192,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 700,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Co3S4",
+            "material_formula": "Co3S4",
+            "material_properties": [
+                {
+                    "capacity_value": 423,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 329,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 154,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoS",
+            "material_formula": "CoS",
+            "material_properties": [
+                {
+                    "capacity_value": 567,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 231,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 636,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 359,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Co9S8",
+            "material_formula": "Co9S8",
+            "material_properties": [
+                {
+                    "capacity_value": 505,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 404,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 380,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 300,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 230,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoSe2",
+            "material_formula": "CoSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 434,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 354,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 410,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1800
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NiS2",
+            "material_formula": "NiS2",
+            "material_properties": [
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Ni3S2",
+            "material_formula": "Ni3S2",
+            "material_properties": [
+                {
+                    "capacity_value": 422,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 15
+                },
+                {
+                    "capacity_value": 450,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 377,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 3,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NiSe2",
+            "material_formula": "NiSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 311,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb2S3",
+            "material_formula": "Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 670,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 699,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 661,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

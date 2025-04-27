@@ -1,0 +1,190 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Na/In/C composite electrode",
+            "material_formula": "Na/In/C (10:1:4 by weight)",
+            "material_properties": [
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 870
+                },
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 710
+                },
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 560
+                },
+                {
+                    "capacity_value": 3,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 5,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 600
+                },
+                {
+                    "capacity_value": 5,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium foil",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 10,
+                        "unit": "weight ratio parts"
+                    }
+                },
+                {
+                    "material_name": "Indium powder",
+                    "material_formula": "In",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio parts"
+                    }
+                },
+                {
+                    "material_name": "Carbon cloth disk",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 4,
+                        "unit": "weight ratio parts"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NaVPOF (Na3V2O2(PO4)2F)",
+            "material_formula": "Na3V2O2(PO4)2F",
+            "material_properties": [
+                {
+                    "capacity_value": 124,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 101,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 61,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 88.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 800
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "hexadecyl trimethyl ammonium bromide",
+                    "material_formula": "CTAB",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "DMF",
+                    "material_formula": "N,N-Dimethylformamide",
+                    "amount": {
+                        "value": 36,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "sodium fluoride",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0.0015,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0.001,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 8,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "ammonium hydrogen phosphate",
+                    "material_formula": "(NH4)2HPO4",
+                    "amount": {
+                        "value": 0.001,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        }
+    ]
+}

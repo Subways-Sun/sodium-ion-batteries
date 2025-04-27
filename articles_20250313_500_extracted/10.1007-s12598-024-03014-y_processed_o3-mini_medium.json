@@ -1,0 +1,149 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SnTe@rGO@NC",
+            "material_formula": "SnTe@rGO@NC",
+            "material_properties": [
+                {
+                    "capacity_value": 485.1,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 261.5,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 188.0,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 250.0,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 206.1,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 165.9,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 118.1,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 78.3,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 44.4,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 243.2,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 95.8,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 182.3,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tris–HCl",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 121,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Dopamine",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "H2O",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Concentrated HCl",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 15,
+                        "unit": "μL"
+                    }
+                },
+                {
+                    "material_name": "SnTe@rGO",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

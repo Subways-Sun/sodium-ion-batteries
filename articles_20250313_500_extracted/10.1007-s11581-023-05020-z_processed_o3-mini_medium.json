@@ -1,0 +1,318 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "TiO2",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 267,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 40,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2600
+                },
+                {
+                    "capacity_value": 50,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "metatitanic acid powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 600,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TiO2@C",
+            "material_formula": "TiO2@C",
+            "material_properties": [
+                {
+                    "capacity_value": 630,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 330,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 290,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 217,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 100,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 270,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2600
+                },
+                {
+                    "capacity_value": 490,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 210,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 190,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 170,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 125,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 74,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 205,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 230,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 220,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 800
+                },
+                {
+                    "capacity_value": 160,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 11
+                },
+                {
+                    "capacity_value": 130,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10000
+                },
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 4500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tris(hydroxymethyl)aminomethane hydrochloride",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 300,
+                        "unit": "mL (buffer solution)"
+                    }
+                },
+                {
+                    "material_name": "metatitanic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 600,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "dopamine hydrochloride",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 225,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 112,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 109,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 101,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

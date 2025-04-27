@@ -1,0 +1,16 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SnS2@rGO",
+            "material_formula": "SnS2",
+            "material_properties": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS2/Sb2S3@rGO",
+            "material_formula": "SnS2/Sb2S3",
+            "material_properties": []
+        }
+    ]
+}

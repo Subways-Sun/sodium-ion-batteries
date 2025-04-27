@@ -1,0 +1,42 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V(PO3)3N",
+            "material_formula": "Na3V(PO3)3N",
+            "material_properties": [
+                {
+                    "capacity_value": 78.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 8,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 59.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 2400,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "hard carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                }
+            ]
+        }
+    ]
+}

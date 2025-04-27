@@ -1,0 +1,19 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.653Mn0.929O2 layered oxide with Mn vacancy",
+            "material_formula": "Na0.653Mn0.929O2",
+            "material_properties": [
+                {
+                    "capacity_value": 210,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

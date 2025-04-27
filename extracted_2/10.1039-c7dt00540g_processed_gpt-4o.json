@@ -1,0 +1,214 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "M-Fe2O3/C composite",
+            "material_formula": "M-Fe2O3/C",
+            "material_properties": [
+                {
+                    "capacity_value": 980.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 423.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 689.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 292.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 270.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 270,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 226,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 194,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 166,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 265,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 101.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 1.25,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sulfuric acid",
+                    "material_formula": "H2SO4",
+                    "amount": {
+                        "value": 0.14,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.32,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sulfuric acid",
+                    "material_formula": "H2SO4",
+                    "amount": {
+                        "value": 0.09,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "SBA-15",
+                    "material_formula": "SiO2",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Fe2O3/MC composite",
+            "material_formula": "Fe2O3/MC",
+            "material_properties": [
+                {
+                    "capacity_value": 578.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 168.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 79,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe(NO3)3·9H2O",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "CMK-3 template",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

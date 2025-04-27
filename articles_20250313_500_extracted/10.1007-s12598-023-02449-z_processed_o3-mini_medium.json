@@ -1,0 +1,189 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CNFs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 633,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Yttrium nitrate hexahydrate",
+                    "material_formula": "Y(NO3)3·6H2O",
+                    "amount": {
+                        "value": 5e-05,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Nickel nitrate hexahydrate",
+                    "material_formula": "Ni(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.0001,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Copper foil",
+                    "material_formula": "Cu",
+                    "amount": {
+                        "value": 1,
+                        "unit": "piece"
+                    }
+                },
+                {
+                    "material_name": "Acetylene",
+                    "material_formula": "C2H2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Cu-CNFs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 729,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 300,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 310,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 232,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 180,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 147,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 6000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Yttrium Nitrate Hexahydrate",
+                    "material_formula": "Y(NO3)3·6H2O",
+                    "amount": {
+                        "value": 5e-05,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Nickel Nitrate Hexahydrate",
+                    "material_formula": "Ni(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.0001,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Alcohol (solvent)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Copper Foil",
+                    "material_formula": "Cu",
+                    "amount": {
+                        "value": 1,
+                        "unit": "foil piece"
+                    }
+                },
+                {
+                    "material_name": "Copper Target",
+                    "material_formula": "Cu",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Argon Gas",
+                    "material_formula": "Ar",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6/DME",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

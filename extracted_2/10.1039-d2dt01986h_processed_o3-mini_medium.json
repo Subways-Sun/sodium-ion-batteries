@@ -1,0 +1,344 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "1T-MoS2-Sb",
+            "material_formula": "MoS2 doped with Sb",
+            "material_properties": [
+                {
+                    "capacity_value": 493,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 523,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 459,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 347,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 183,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2200
+                },
+                {
+                    "capacity_value": 242,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 324,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 256,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 221,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 199,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 159,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 235,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Chitosan",
+                    "material_formula": "C6H11NO4)n",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Phosphomolybdic acid",
+                    "material_formula": "H3[PMo12O40]",
+                    "amount": {
+                        "value": 110,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "SbCl3",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 11,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sulfur powder",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 2,
+                        "unit": "w/w ratio relative to precursor powder"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "2H-MoS2-1",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 394,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 438,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 166,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 229,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Chitosan",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Phosphotungstic Acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 110,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sulfur Powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "2H-MoS2-2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 318,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 395,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 145,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Chitosan",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Phosphotungstic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 250,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sulfur powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "ratio (precursor:sulfur = 1:2)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Bulk MoS2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 103,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 322,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Phosphomolybdic acid (PMA)",
+                    "material_formula": "H3PMo12O40",
+                    "amount": {
+                        "value": 110,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sulfur powder",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 220,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

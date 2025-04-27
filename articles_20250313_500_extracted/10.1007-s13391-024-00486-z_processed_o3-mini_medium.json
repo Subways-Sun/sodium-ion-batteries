@@ -1,0 +1,98 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "EU1100",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Eucommia ulmoides bark",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "EU1300",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Eucommia ulmoides barks",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "EU1100M",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "EU1100",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "coal tar pitch powders",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "EU1300M",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "EU1300",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "coal tar pitch powders",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CW1300",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CW1300M",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

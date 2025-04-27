@@ -1,0 +1,75 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sn foil anode",
+            "material_formula": "Sn",
+            "material_properties": [
+                {
+                    "capacity_value": 750,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.01,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 766,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 666,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 803,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 692,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 226,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 508,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 847,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM",
+            "material_formula": "NFM",
+            "material_properties": [
+                {
+                    "capacity_value": 149.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 58.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 83.0,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

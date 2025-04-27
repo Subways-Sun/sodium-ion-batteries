@@ -1,0 +1,73 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "C‐HAT‐550",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 18.6,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 18.6,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 5
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "C‐HAT‐1000",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 18.6,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 18.6,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 5
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "C‐HAT‐1600",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 18.6,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 18.6,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Na2Mn1.4Ni0.6Fe(PO4)3",
+            "material_formula": "Na2Mn1.4Ni0.6Fe(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 350,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C/5",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Ferric Nitrate Nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) Acetate Tetrahydrate",
+                    "material_formula": "Mn(CH3CO2)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) Acetate Tetrahydrate",
+                    "material_formula": "Ni(CH3CO2)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Na2Mn0.4Ni1.6Fe(PO4)3",
+            "material_formula": "Na2Mn0.4Ni1.6Fe(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 372,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C/5",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ferric nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) acetate tetrahydrate",
+                    "material_formula": "Mn(CH3CO2)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) acetate tetrahydrate",
+                    "material_formula": "Ni(CH3CO2)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

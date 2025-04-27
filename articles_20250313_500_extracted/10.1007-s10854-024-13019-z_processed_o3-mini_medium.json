@@ -1,0 +1,168 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Pristine NMO",
+            "material_formula": "Na2Mn3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 103.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NaCH3COO·3H2O",
+                    "material_formula": "NaCH3COO·3H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Mn(CH3COO)2·4H2O",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "2.5 wt% NMO@Al2O3",
+            "material_formula": "Na2Mn3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 153.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Acetate Trihydrate",
+                    "material_formula": "NaCH3COO·3H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) Acetate Tetrahydrate",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Aluminum Nitrate Octahydrate",
+                    "material_formula": "Al(NO3)3·8H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "5 wt% NMO@Al2O3",
+            "material_formula": "Na2Mn3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 117.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium acetate trihydrate",
+                    "material_formula": "NaCH3COO·3H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (unspecified)"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) acetate tetrahydrate",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (unspecified)"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate octahydrate",
+                    "material_formula": "Al(NO3)3·8H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (unspecified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "10 wt% NMO@Al2O3",
+            "material_formula": "Na2Mn3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 144.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium acetate trihydrate",
+                    "material_formula": "NaCH3COO·3H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) acetate tetrahydrate",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate octahydrate",
+                    "material_formula": "Al(NO3)3·8H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

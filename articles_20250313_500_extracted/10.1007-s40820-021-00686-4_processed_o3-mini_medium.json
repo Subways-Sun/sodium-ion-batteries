@@ -1,0 +1,50 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CSC",
+            "material_formula": "Composite of CoS2 and SnS2 with CNT network",
+            "material_properties": [
+                {
+                    "capacity_value": 327.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 410.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 500
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na1.5VPO4.8F0.7",
+            "material_formula": "Na1.5VPO4.8F0.7",
+            "material_properties": [
+                {
+                    "capacity_value": 124.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 350
+                }
+            ]
+        }
+    ]
+}

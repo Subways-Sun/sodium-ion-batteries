@@ -1,0 +1,49 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Carbon Hollow Spheres",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 100,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Solid Carbon Spheres",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 50,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "3D Macroporous MXene Films",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.5,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        }
+    ]
+}

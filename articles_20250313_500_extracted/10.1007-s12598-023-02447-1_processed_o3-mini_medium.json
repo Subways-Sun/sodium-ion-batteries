@@ -1,0 +1,239 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/ZnS/G",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 848,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 498,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 470,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 497,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 465,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.3,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 445,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 408,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 376,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 298,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 280,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 60,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Zinc nitrate hexahydrate",
+                    "material_formula": "Zn(NO3)2·6H2O",
+                    "amount": {
+                        "value": 89,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 370,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "thiourea",
+                    "amount": {
+                        "value": 800,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/G",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 612,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 336,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 277,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 60,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 370,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 800,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZnS/G",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 796,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 414,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 114,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A·g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 60,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "zinc nitrate hexahydrate",
+                    "material_formula": "Zn(NO3)2·6H2O",
+                    "amount": {
+                        "value": 89,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 800,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

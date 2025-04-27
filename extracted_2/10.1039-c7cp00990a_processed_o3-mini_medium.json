@@ -1,0 +1,126 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "pristine MoS2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 174,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 29,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 262,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 17,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "(NH4)6Mo7O24·4H2O",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 1.366,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "CS(NH2)2",
+                    "material_formula": "CS(NH2)2",
+                    "amount": {
+                        "value": 2.534,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 100,
+                        "unit": "μL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "M-MoS2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 129,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 64,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 5000
+                },
+                {
+                    "capacity_value": 159,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 69,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "as-prepared MoS2",
+                    "material_formula": "MoS2",
+                    "amount": {
+                        "value": 0.16,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "methanol",
+                    "material_formula": "CH3OH",
+                    "amount": {
+                        "value": 35,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

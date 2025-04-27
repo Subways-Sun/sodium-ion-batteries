@@ -1,0 +1,138 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CuS",
+            "material_formula": "CuS",
+            "material_properties": [
+                {
+                    "capacity_value": 567.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 535.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 507.0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 400
+                },
+                {
+                    "capacity_value": 402.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 7000
+                },
+                {
+                    "capacity_value": 543.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 513.6,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 501.0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 497.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 489.0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 4.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 461.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)2F3",
+            "material_formula": "Na3V2(PO4)2F3",
+            "material_properties": [
+                {
+                    "capacity_value": 389,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 309,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 274.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 255.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 243.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

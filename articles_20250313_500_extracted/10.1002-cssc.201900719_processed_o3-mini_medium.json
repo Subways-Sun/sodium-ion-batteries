@@ -1,0 +1,22 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SnS2@C",
+            "material_formula": "SnS2@C",
+            "material_properties": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS2@C@rGO-3",
+            "material_formula": "SnS2/C/rGO composite",
+            "material_properties": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS2@C@rGO-4",
+            "material_formula": "SnS2/C/rGO composite",
+            "material_properties": []
+        }
+    ]
+}

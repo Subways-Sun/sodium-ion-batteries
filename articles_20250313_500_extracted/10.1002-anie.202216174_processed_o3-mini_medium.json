@@ -1,0 +1,16 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NC",
+            "material_formula": "",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NCRT",
+            "material_formula": "",
+            "material_properties": []
+        }
+    ]
+}

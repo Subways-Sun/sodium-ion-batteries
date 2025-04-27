@@ -1,0 +1,117 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Branched TiO2/C Nanofibers",
+            "material_formula": "BT/C NFs",
+            "material_properties": [
+                {
+                    "capacity_value": 358.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 323.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 292.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 261.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 236.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 204.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 636,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 329,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 283.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "T/C NFs",
+                    "material_formula": "/",
+                    "amount": {
+                        "value": 0,
+                        "unit": "/"
+                    }
+                },
+                {
+                    "material_name": "sodium hydroxide solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "dilute hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "nitric acid",
+                    "material_formula": "HNO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "/"
+                    }
+                }
+            ]
+        }
+    ]
+}

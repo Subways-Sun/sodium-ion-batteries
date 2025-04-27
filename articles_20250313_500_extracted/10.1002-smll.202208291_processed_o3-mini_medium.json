@@ -1,0 +1,10 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2@NSC composite",
+            "material_formula": "MoS2 + N,S-doped Carbon",
+            "material_properties": []
+        }
+    ]
+}

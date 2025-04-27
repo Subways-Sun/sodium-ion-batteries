@@ -1,0 +1,117 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaTCNQ",
+            "material_formula": "NaTCNQ",
+            "material_properties": [
+                {
+                    "capacity_value": 192,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 204,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 233,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 216,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 163,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 183,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 224,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 216,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NaI",
+                    "material_formula": "NaI",
+                    "amount": {
+                        "value": 1.05,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "TCNQ",
+                    "material_formula": "TCNQ",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Activated Carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

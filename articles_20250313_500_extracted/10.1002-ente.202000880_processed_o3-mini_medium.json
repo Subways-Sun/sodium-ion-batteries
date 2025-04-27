@@ -1,0 +1,116 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Graphite Electrode",
+            "material_formula": "C (pristine graphite); [Na(2G)x]C20 (sodiated compound)",
+            "material_properties": [
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 191,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 28,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 36,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 2
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphite powder",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 90,
+                        "unit": "w/w%"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylidene fluoride (PVDF)",
+                    "material_formula": "[-CH2-CF2-]n",
+                    "amount": {
+                        "value": 10,
+                        "unit": "w/w%"
+                    }
+                },
+                {
+                    "material_name": "Carboxymethyl cellulose (CMC)",
+                    "material_formula": "Cellulose derivative",
+                    "amount": {
+                        "value": 10,
+                        "unit": "w/w%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "2G",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "2G + 10 v/v EN",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "2G",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 90,
+                        "unit": "v/v%"
+                    }
+                },
+                {
+                    "material_name": "EN",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "v/v%"
+                    }
+                }
+            ]
+        }
+    ]
+}

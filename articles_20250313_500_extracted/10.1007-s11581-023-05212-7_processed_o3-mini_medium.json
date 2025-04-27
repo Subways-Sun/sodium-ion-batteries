@@ -1,0 +1,207 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/NC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 582.96,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 435.97,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 334.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 252.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 351.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 282.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 258.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 227.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 199.67,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 172.31,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 6.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 338.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium molybdate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CS(NH2)2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium chloride",
+                    "material_formula": "NaCl",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/NC (no NaCl)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 213.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium Molybdate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CS(NH2)2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Pure MoS2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 100.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium Molybdate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CS(NH2)2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

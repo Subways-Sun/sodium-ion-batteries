@@ -1,0 +1,344 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NMVP/C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 98.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "°C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphite Oxide (GO)",
+                    "material_formula": "N/A",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (target compound basis)"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric volume (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric volume (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric volume (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric volume (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Manganese Acetate Tetrahydrate",
+                    "material_formula": "(CH3COO)2Mn·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric volume (not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMVP/C/rGO",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphite oxide (GO)",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 2,
+                        "unit": "h sonication"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "C20H28O8Zr",
+                    "material_formula": "C20H28O8Zr",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mmol (stoichiometric amount for 4 mmol total target)"
+                    }
+                },
+                {
+                    "material_name": "C6H8O7",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mmol (stoichiometric amount for 4 mmol total target)"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mmol (stoichiometric amount for 4 mmol total target)"
+                    }
+                },
+                {
+                    "material_name": "CH3COONa",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mmol (stoichiometric amount for 4 mmol total target)"
+                    }
+                },
+                {
+                    "material_name": "NH4VO3",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mmol (stoichiometric amount for 4 mmol total target)"
+                    }
+                },
+                {
+                    "material_name": "(CH3COO)2Mn·4H2O",
+                    "material_formula": "(CH3COO)2Mn·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mmol (stoichiometric amount for 4 mmol total target)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMVPZ/C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 98.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 69.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 40,
+                    "current_density_unit": "°C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 65.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 60,
+                    "current_density_unit": "°C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphite Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (target compound basis; exact amount in GO suspension not specified)"
+                    }
+                },
+                {
+                    "material_name": "Zirconium precursor",
+                    "material_formula": "C20H28O8Zr",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (stoichiometric proportion for target compound)"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (stoichiometric proportion for target compound)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (stoichiometric proportion for target compound)"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (stoichiometric proportion for target compound)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (stoichiometric proportion for target compound)"
+                    }
+                },
+                {
+                    "material_name": "Manganese Acetate Tetrahydrate",
+                    "material_formula": "(CH3COO)2Mn·4H2O",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol (stoichiometric proportion for target compound)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMVPZ/C/rGO",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 98.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 77.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 40,
+                    "current_density_unit": "°C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 71.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 60,
+                    "current_density_unit": "°C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphite Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Zirconium precursor",
+                    "material_formula": "C20H28O8Zr",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) Acetate Tetrahydrate",
+                    "material_formula": "(CH3COO)2Mn·4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

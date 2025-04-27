@@ -1,0 +1,166 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MTH",
+            "material_formula": "MoTe2",
+            "material_properties": [
+                {
+                    "capacity_value": 380,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 277,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 50
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium molybdate dihydrate",
+                    "material_formula": "NaMoO4·2H2O",
+                    "amount": {
+                        "value": 8,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "tellurium metallic powder",
+                    "material_formula": "Te",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "sodium borohydride",
+                    "material_formula": "NaBH4",
+                    "amount": {
+                        "value": 12,
+                        "unit": "mM"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MTE",
+            "material_formula": "MoTe2",
+            "material_properties": [
+                {
+                    "capacity_value": 425,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 355,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 348,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 299,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 352,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 298,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 235,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g-1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 165,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 135,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g-1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 5
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tellurium oxide",
+                    "material_formula": "TeO2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "Nitric acid",
+                    "material_formula": "HNO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "Molybdenum (coated on Aluminium foil)",
+                    "material_formula": "Mo",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

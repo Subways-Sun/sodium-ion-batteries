@@ -1,0 +1,150 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "M‐NFPF@C",
+            "material_formula": "Na2FePO4F",
+            "material_properties": [
+                {
+                    "capacity_value": 114,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 82,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 58,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 42,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CH3COONa",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "NaF",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Mesoporous FePO4",
+                    "material_formula": "FePO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "M‐NFPF",
+            "material_formula": "Na2FePO4F",
+            "material_properties": [
+                {
+                    "capacity_value": 93.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CH3COONa",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (exact quantity not provided)"
+                    }
+                },
+                {
+                    "material_name": "NaF",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (exact quantity not provided)"
+                    }
+                },
+                {
+                    "material_name": "Mesoporous FePO4",
+                    "material_formula": "FePO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (exact quantity not provided)"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount based on a FePO4:citric acid ratio of 5:1"
+                    }
+                }
+            ]
+        }
+    ]
+}

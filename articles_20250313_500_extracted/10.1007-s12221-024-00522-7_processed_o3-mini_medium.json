@@ -1,0 +1,338 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "PAN-700°C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 291.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 152.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 78.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 90,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn/C-0.4–700°C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 401.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 267.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 181.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "–",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio (relative amount)"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt.% solution (solvent basis)"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "weight ratio to PAN"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn/C-0.5–700°C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 448.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 227.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 156.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio (relative to itself)"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt% in PAN/DMF solution"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "weight ratio to PAN"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn/C-0.6–600°C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 533.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 380.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 218.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "[-CH2-CH(CN)-]n",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt% in DMF solution"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 90,
+                        "unit": "wt% in PAN solution"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "weight ratio to PAN"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn/C-0.6–700°C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 617.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 431.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 286.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "[(–CH2–CH(CN)–)]n",
+                    "amount": {
+                        "value": 1,
+                        "unit": "weight ratio part (relative)"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt% solution (PAN in DMF)"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate (SnCl2·2H2O)",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "weight ratio part relative to PAN"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn/C-0.6–800°C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 410.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 248.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 128.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "[-CH2-CH(CN)-]n",
+                    "amount": {
+                        "value": 1,
+                        "unit": "relative weight (10% solution in DMF)"
+                    }
+                },
+                {
+                    "material_name": "Stannous chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "relative weight (PAN:SnCl2·2H2O = 1:0.6)"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ST1000 Hard Carbon",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Phloroglucinol",
+                    "material_formula": "C6H6O3",
+                    "amount": {
+                        "value": 0.82,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glyoxylic acid monohydrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Pluronic F127",
+                    "material_formula": "PEO106-PPO70-PEO106",
+                    "amount": {
+                        "value": 1.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Absolute ethanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ST1500 Hard Carbon",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Phloroglucinol",
+                    "material_formula": "C6H6O3",
+                    "amount": {
+                        "value": 0.82,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glyoxylic acid monohydrate",
+                    "material_formula": "C2H2O3·H2O",
+                    "amount": {
+                        "value": 0.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Pluronic F127",
+                    "material_formula": "PEO106-PPO70-PEO106",
+                    "amount": {
+                        "value": 1.61,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Absolute ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "Ethylene Carbonate",
+            "material_formula": "C3H4O3",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

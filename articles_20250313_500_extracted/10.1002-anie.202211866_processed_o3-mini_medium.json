@@ -1,0 +1,10 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "FPHC cathode",
+            "material_formula": "",
+            "material_properties": []
+        }
+    ]
+}

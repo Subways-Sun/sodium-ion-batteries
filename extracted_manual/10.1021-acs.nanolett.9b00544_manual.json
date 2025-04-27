@@ -88,20 +88,6 @@
                     }
                 }
             ]
-        },
-        {
-            "material_type": "anode",
-            "material_name": "S-doped Graphene/Na2O interface",
-            "material_formula": "SG/Na2O",
-            "material_properties": [],
-            "starting_material": []
-        },
-        {
-            "material_type": "anode",
-            "material_name": "OG/N interface",
-            "material_formula": "OG/Na2O",
-            "material_properties": [],
-            "starting_material": []
         }
     ]
 }

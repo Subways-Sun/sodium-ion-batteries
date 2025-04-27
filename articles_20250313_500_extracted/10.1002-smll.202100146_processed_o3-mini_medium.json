@@ -1,0 +1,158 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "P2‐FMO",
+            "material_formula": "Na0.67Fe0.25Mn0.75O2",
+            "material_properties": [
+                {
+                    "capacity_value": 122,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 215,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2‐LFMO",
+            "material_formula": "Na0.67Li0.1Fe0.225Mn0.675O2",
+            "material_properties": [
+                {
+                    "capacity_value": 144,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 208,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na₂CO₃",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Li₂CO₃",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Mn₂O₃",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Fe₂O₃",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (amount not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2/O3‐LFMO",
+            "material_formula": "Na0.67Li0.2Fe0.2Mn0.6O2",
+            "material_properties": [
+                {
+                    "capacity_value": 196,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 227,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 158.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 120
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Li2CO3",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

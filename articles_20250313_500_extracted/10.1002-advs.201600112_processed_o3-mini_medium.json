@@ -1,0 +1,134 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Boric Acid",
+                    "material_formula": "H3BO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2P3–1/6B1/6O12",
+            "material_formula": "Na3V2P3–1/6B1/6O12",
+            "material_properties": [
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 100,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NH4VO3",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "H3BO3",
+                    "material_formula": "H3BO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                }
+            ]
+        }
+    ]
+}

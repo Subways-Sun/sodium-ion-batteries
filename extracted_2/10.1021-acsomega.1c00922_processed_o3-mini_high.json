@@ -1,0 +1,36 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Carbon Nanofibers (CNFs)",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Melamine",
+                    "material_formula": "C3H6N6",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "[-CH2-CH(CN)-]n",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        }
+    ]
+}
