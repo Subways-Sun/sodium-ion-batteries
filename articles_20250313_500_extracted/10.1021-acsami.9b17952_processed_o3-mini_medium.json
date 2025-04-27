@@ -1,0 +1,207 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "P2-1",
+            "material_formula": "Na0.76Ca0.03[Cu0.21Fe0.16Mn0.60Si0.04]S0.07O2−ε",
+            "material_properties": [
+                {
+                    "capacity_value": 69.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 51.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "chalcopyrite concentrate",
+                    "material_formula": "CuFeS2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "P2-2",
+            "material_formula": "Na0.63Ca0.05[Cu0.20Fe0.19Mn0.59Si0.02]S0.07O2−η",
+            "material_properties": [
+                {
+                    "capacity_value": 77.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 78,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 76,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 72,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 67,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 56,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 62.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Chalcopyrite Concentrate",
+                    "material_formula": "CuFeS2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "O3-3",
+            "material_formula": "Na0.91Ca0.02[Cu0.24Fe0.20Mn0.56]S0.05O2−σ",
+            "material_properties": [
+                {
+                    "capacity_value": 107.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 78.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 58,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "chalcopyrite concentrate",
+                    "material_formula": "CuFeS2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified (2% excess added)"
+                    }
+                }
+            ]
+        }
+    ]
+}

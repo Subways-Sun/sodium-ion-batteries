@@ -1,0 +1,49 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVPF3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 112.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 105.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 117.04,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 15.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "Succinonitrile",
+            "material_formula": "NCCH2CH2CN",
+            "material_properties": []
+        }
+    ]
+}

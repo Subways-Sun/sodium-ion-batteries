@@ -1,0 +1,25 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Graphite",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVP",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVPF",
+            "material_formula": "Na3V2(PO4)2F3",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

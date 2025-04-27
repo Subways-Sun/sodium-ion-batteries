@@ -1,0 +1,789 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "r-G",
+            "material_formula": "C (graphene)",
+            "material_properties": [
+                {
+                    "capacity_value": 543,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 497,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 20,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 15,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "r-G/S",
+            "material_formula": "C with S doping (r-G/S composite)",
+            "material_properties": [
+                {
+                    "capacity_value": 749,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 651,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 160,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tin(IV) chloride pentahydrate",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "relative molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Concentrated hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS2",
+            "material_formula": "SnS2",
+            "material_properties": [
+                {
+                    "capacity_value": 1014,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 697,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 290,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 50,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tin(IV) chloride pentahydrate",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS2/S@r-G",
+            "material_formula": "SnS2/S@r-G",
+            "material_properties": [
+                {
+                    "capacity_value": 800,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 746,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 606,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 590,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tin(IV) chloride pentahydrate",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Concentrated Hydrochloric Acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "3% Co-SnS2/S@r-G",
+            "material_formula": "Co-doped SnS2/S@r-G",
+            "material_properties": [
+                {
+                    "capacity_value": 970,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 797,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 709,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 645,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tin(IV) chloride pentahydrate",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 3,
+                        "unit": "% molar ratio relative to SnCl4·5H2O"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Concentrated Hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "7% Co-SnS2/S@r-G",
+            "material_formula": "Co-doped SnS2/S@r-G",
+            "material_properties": [
+                {
+                    "capacity_value": 1148,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 1044,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 878,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 791,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 860,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 820,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 763,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 727,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 3,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 666,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 625,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 7,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 570,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 501,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 15,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 433,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 359,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 30,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 296,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 40,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 820,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 603,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 469,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "SnCl4·5H2O",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "CoCl2·6H2O",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Concentrated HCl",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "7% Co-SnS2/S@r-G(400)",
+            "material_formula": "Co-doped SnS2/S@r-G (calcined at 400 °C)",
+            "material_properties": [
+                {
+                    "capacity_value": 786,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 635,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 547,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 480,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tin(IV) chloride pentahydrate",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 7,
+                        "unit": "percent doping relative to SnCl4·5H2O (molar basis)"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "C2H5NS",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Concentrated hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "7% Co-SnS2@r-G",
+            "material_formula": "Co-doped SnS2@r-G (without sulfur composite)",
+            "material_properties": [
+                {
+                    "capacity_value": 445,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 390,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "SnCl4·5H2O",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide (GO)",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "CoCl2·6H2O",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 7,
+                        "unit": "mol% (relative to SnCl4·5H2O)"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "7% Co-SnS2/S@r-G(100)",
+            "material_formula": "Co-doped SnS2/S@r-G (treated at 100 °C)",
+            "material_properties": [
+                {
+                    "capacity_value": 591,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 501,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tin(IV) chloride pentahydrate",
+                    "material_formula": "SnCl4·5H2O",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide (GO) dispersion",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 16,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 7,
+                        "unit": "percent (molar ratio relative to SnCl4·5H2O)"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Concentrated hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

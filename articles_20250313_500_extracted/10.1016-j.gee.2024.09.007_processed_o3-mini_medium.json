@@ -1,0 +1,306 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "N-doped porous carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 1071,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "S-doped disordered carbon (DC-S)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 516,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.02,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Phosphate-doped carbon nanosheet (CN-P)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 328,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 108,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Boron-doped reduced graphene oxide (BF‐rGO)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 280,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Soft–hard carbon composite (FP:MP composite)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 282,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Graphene@Hierarchically Porous Carbon (G@HPC)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Antimony–rGO nanosheet composite (Sb–rGO)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 598,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 131,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 50
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Carbon‐coated Sn nanoparticle composite (Sn4P3@C)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 790,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnO2@graphene composite",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 1942,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 638,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TiO2–carbon nanofiber composite (F–TiO2@CNF)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 311,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Graphene–Ti3C2TX composite (H–MXG)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 270,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 167,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 2000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/MXenes/CKF composite",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 583.5,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 298,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 300
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Bi–modified carbon nanofiber film (Bi/CNF)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 346,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb@N, S co-doped carbon nanofibers (Sb@N, S–CNFs)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 318.3,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 200
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Fe1-xS@PCNWs/rGO composite",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 573,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnTe/CNF composite membrane (SnTe/CNFM)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 289.8,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MXene/hard carbon composite (HC–MX)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 368,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1500
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HCS/MX composite",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 346,
+                    "capacity_unit": "mA h g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1000
+                }
+            ]
+        }
+    ]
+}

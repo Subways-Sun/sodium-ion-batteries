@@ -1,0 +1,264 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sn@Mn2SnO4-NC",
+            "material_formula": "Mn2SnO4",
+            "material_properties": [
+                {
+                    "capacity_value": 320.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 500,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 279.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 313.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 265.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 250.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 227.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 200.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 165.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 185.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 7000
+                },
+                {
+                    "capacity_value": 169.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 4000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 3000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "SnO2@MnO2",
+                    "material_formula": "SnO2@MnO2",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn@SnO2-NC",
+            "material_formula": "SnO2",
+            "material_properties": [
+                {
+                    "capacity_value": 184.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Synthesized SnO2",
+                    "material_formula": "SnO2",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Tris buffer solution",
+                    "material_formula": "Tris(hydroxymethyl)aminomethane",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mM (concentration)"
+                    }
+                },
+                {
+                    "material_name": "Hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 37,
+                        "unit": "% (concentration)"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn@Mn2SnO4-NC(s)",
+            "material_formula": "Mn2SnO4",
+            "material_properties": [
+                {
+                    "capacity_value": 147.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 3000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "ZnSn(OH)6 precursor (solid)",
+                    "material_formula": "ZnSn(OH)6",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Dopamine Hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Tris Buffer Solution",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "Hydrochloric Acid (HCl)",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnO2@MnO2",
+            "material_formula": "SnO2/MnO2",
+            "material_properties": [
+                {
+                    "capacity_value": 34.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 4000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 3000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "SnO2",
+                    "material_formula": "SnO2",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "KMnO4",
+                    "material_formula": "KMnO4",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "37% HCl",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 60,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

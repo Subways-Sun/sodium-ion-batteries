@@ -1,0 +1,215 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "HSC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 70.9,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 68,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Tetraethyl Orthosilicate (TEOS)",
+                    "material_formula": "Si(OC2H5)4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ethylenediamine (EDA)",
+                    "material_formula": "C2H8N2",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Resorcinol",
+                    "material_formula": "C6H6O2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Formaldehyde Aqueous Solution",
+                    "material_formula": "CH2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Hydrofluoric Acid (HF)",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 10,
+                        "unit": "%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HBC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 337,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tetraethyl orthosilicate (TEOS)",
+                    "material_formula": "Si(OC2H5)4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Resorcinol",
+                    "material_formula": "C6H6O2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HBC/VGSs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 409,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 701.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 542.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 462.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 406.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 358.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 303.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 466.1,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 230.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 2500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "HBC",
+                    "material_formula": "HBC",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Methane",
+                    "material_formula": "CH4",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL/min"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen",
+                    "material_formula": "H2",
+                    "amount": {
+                        "value": 160,
+                        "unit": "mL/min"
+                    }
+                }
+            ]
+        }
+    ]
+}

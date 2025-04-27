@@ -1,0 +1,147 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NMF",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium ferrocyanide",
+                    "material_formula": "Na4Fe(CN)6",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Sodium chloride",
+                    "material_formula": "NaCl",
+                    "amount": {
+                        "value": 15,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Manganese chloride",
+                    "material_formula": "MnCl2",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NTP",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "sodium acetate trihydrate",
+                    "material_formula": "CH3COONa·3H2O",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 7.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "pyrrolidone (PVP)",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "titanium(IV) butoxide",
+                    "material_formula": "Ti(OC4H9)4",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "Alkaline electrolyte",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium perchlorate",
+                    "material_formula": "NaClO4",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL of 17 m neutral electrolyte"
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mL of 1 M solution"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Ni/C coating",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Nafion-Na",
+                    "material_formula": "Nafion-Na",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 0.45,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "isopropanol",
+                    "material_formula": "C3H8O",
+                    "amount": {
+                        "value": 0.45,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ni/C",
+                    "material_formula": "Ni/C",
+                    "amount": {
+                        "value": 0.025,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Co/C coating",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

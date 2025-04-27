@@ -1,0 +1,127 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoSe2/MXene film",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 281,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoSe2@Mo2CTX/C",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 652.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2200
+                },
+                {
+                    "capacity_value": 484.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2200
+                },
+                {
+                    "capacity_value": 238.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2200
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Layered MoSe2 nanoplates",
+            "material_formula": "MoSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 422.28,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 513,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 440,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NiSe2@C@MXene",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 327,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 4000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "porous Ti3C2Tx MXene",
+            "material_formula": "Ti3C2Tx",
+            "material_properties": [
+                {
+                    "capacity_value": 166,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 124,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 24,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

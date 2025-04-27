@@ -1,0 +1,102 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Vulcan XC-72R",
+            "material_formula": "C",
+            "material_properties": [
+                {
+                    "capacity_value": 136,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 126,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "V-MPA",
+            "material_formula": "C (with MPA surface treatment)",
+            "material_properties": [
+                {
+                    "capacity_value": 161,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 155,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "3-mercaptopropionic acid",
+                    "material_formula": "HSCH2CH2COOH",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL of 0.5 M solution per 100 mg Vulcan XC-72R"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "V-EDT",
+            "material_formula": "C (with EDT surface treatment)",
+            "material_properties": [
+                {
+                    "capacity_value": 158,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 165,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "1,2-ethanedithiol",
+                    "material_formula": "HSCH2CH2SH",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL of 0.5 M solution per 100 mg Vulcan XC-72R"
+                    }
+                },
+                {
+                    "material_name": "Vulcan XC-72R",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

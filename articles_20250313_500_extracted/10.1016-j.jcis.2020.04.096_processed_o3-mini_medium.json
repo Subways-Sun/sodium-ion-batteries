@@ -1,0 +1,117 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "S-CoP@NPC composite",
+            "material_formula": "S-CoP@NPC",
+            "material_properties": [
+                {
+                    "capacity_value": 487,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 252,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 244,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 216,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 189,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 180,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 143,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 40
+                },
+                {
+                    "capacity_value": 213,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 230,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 370
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Co(CO3)0.5OH·0.11H2O",
+                    "material_formula": "Co(CO3)0.5OH·0.11H2O",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "3-hydroxytyramine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sodium hypophosphite",
+                    "material_formula": "Na2H2PO2",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mass ratio parts relative to precursor (not explicitly given for S-CoP@NPC synthesis)"
+                    }
+                },
+                {
+                    "material_name": "Sulfur powder",
+                    "material_formula": "S",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mass ratio parts relative to CoP (not explicitly given for S-CoP@NPC synthesis)"
+                    }
+                }
+            ]
+        }
+    ]
+}

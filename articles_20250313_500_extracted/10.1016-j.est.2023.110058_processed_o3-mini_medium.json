@@ -1,0 +1,303 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 170,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 14,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 152,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 28,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 56,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 140,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 97,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 280,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 62,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 560,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 46,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1400,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 17,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2800,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric quantity (not explicitly specified)"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) oxide",
+                    "material_formula": "MnO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric quantity (not explicitly specified)"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric quantity (not explicitly specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "BNFM",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 181,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 14,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 176,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 28,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 154,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 56,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 132,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 140,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 116,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 280,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 94,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 560,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 65,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1400,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 32,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2800,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "MnO",
+                    "material_formula": "MnO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Bi(NO3)2",
+                    "material_formula": "Bi(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "BNFM@Bi2O3",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 180,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 14,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 175,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 28,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 156,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 56,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 134,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 140,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 118,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 280,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 560,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 67,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1400,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 35,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2800,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "BNFM (Bi-doped Na[Ni0.55Mn0.30Bi0.05Fe0.1]O2)",
+                    "material_formula": "Na[Ni0.55Mn0.30Bi0.05Fe0.1]O2",
+                    "amount": {
+                        "value": 2,
+                        "unit": "wt% coating reference (relative amount of Bi2O3 on BNFM)"
+                    }
+                },
+                {
+                    "material_name": "Bismuth nitrate pentahydrate",
+                    "material_formula": "Bi(NO3)3·5H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount to yield 2 wt% Bi2O3 (exact quantity not specified)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium hydroxide",
+                    "material_formula": "NH4OH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "added dropwise (exact quantity not specified)"
+                    }
+                }
+            ]
+        }
+    ]
+}

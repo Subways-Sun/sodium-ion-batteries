@@ -1,0 +1,99 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "TAQ",
+            "material_formula": "C12H8+2nN6O4 (n ≈ 0.985)",
+            "material_properties": [
+                {
+                    "capacity_value": 355,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 325,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 298,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 214,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 246,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 167,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 269,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 132,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 196,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 5000
+                },
+                {
+                    "capacity_value": 181.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 5000
+                },
+                {
+                    "capacity_value": 135,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

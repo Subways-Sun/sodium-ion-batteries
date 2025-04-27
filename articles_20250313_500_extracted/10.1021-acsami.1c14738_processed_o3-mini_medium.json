@@ -1,0 +1,568 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "PAN4-PEG0 Hard Carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 484,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 249.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 210.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 187,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 169,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 142.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 133,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 112.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 201.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 90
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "polyacrylonitrile (PAN) powder",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "N,N-dimethylformamide (DMF)",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 34,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "PAN4-PEG4 Hard Carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 380.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 264.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 241,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 214,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 198.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 188.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 179.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 172.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 136.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 238.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 90
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Polyethylene glycol (PEG)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "PAN4-PEG8 Hard Carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 494,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 337.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 332.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 281,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 265.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 255,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 247.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 234.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 224.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 320.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 90
+                },
+                {
+                    "capacity_value": 286.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 265.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 241.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 215.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 182.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 155.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 155,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 350
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "polyacrylonitrile (PAN)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "N,N-dimethylformamide (DMF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 34,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "polyethylene glycol (PEG)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 8,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "PAN4-PEG12 Hard Carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 418.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 282.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 263.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 234,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 221.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 213.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 206.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 201.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 187.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 280.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 90
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "polyacrylonitrile",
+                    "material_formula": "–CH2–CH(CN)– (n units)",
+                    "amount": {
+                        "value": 4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "polyethylene glycol",
+                    "material_formula": "(C2H4O)n",
+                    "amount": {
+                        "value": 12,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2/3Ni1/3Mn2/3O2",
+            "material_formula": "Na2/3Ni1/3Mn2/3O2",
+            "material_properties": [
+                {
+                    "capacity_value": 286.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 265.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 241.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 215.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 182.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 155.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 155,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 350
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

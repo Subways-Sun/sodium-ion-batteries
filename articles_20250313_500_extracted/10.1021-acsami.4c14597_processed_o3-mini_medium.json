@@ -1,0 +1,102 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NS-P-OPDC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 406.77,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 193.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 3,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "P-OPDC",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVP",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 441.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 320.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 3,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 235.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NH4VO3",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2.7,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "NaH2PO4",
+                    "material_formula": "NaH2PO4",
+                    "amount": {
+                        "value": 4.4,
+                        "unit": "mass ratio"
+                    }
+                },
+                {
+                    "material_name": "C6H12O6",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 1.3,
+                        "unit": "mass ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}

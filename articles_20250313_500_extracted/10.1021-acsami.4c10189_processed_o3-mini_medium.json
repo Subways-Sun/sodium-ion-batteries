@@ -1,0 +1,92 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "PVDF-HFP-NaTFSI",
+            "material_formula": "PVDF-HFP + NaTFSI",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "PVDF-HFP",
+                    "material_formula": "Poly(vinylidene fluoride-co-hexafluoropropylene)",
+                    "amount": {
+                        "value": 8,
+                        "unit": "weight ratio parts"
+                    }
+                },
+                {
+                    "material_name": "Sodium trifluoromethanesulfonimide (NaTFSI)",
+                    "material_formula": "NaN(SO2CF3)2",
+                    "amount": {
+                        "value": 2,
+                        "unit": "weight ratio parts"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Zn-doped NVP",
+            "material_formula": "Na3.2V1.8Zn0.2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 53.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 50.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 48.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 45.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 42.0,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 38.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 3,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 36.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 4,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

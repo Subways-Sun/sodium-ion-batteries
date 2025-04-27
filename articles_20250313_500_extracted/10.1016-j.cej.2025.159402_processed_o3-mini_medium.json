@@ -1,0 +1,16 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sb@C",
+            "material_formula": "Sb@C",
+            "material_properties": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "C",
+            "material_formula": "C",
+            "material_properties": []
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CoSe2/C",
+            "material_formula": "CoSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 545,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 467,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 428,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 484,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 447,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 380,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 335,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.6,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 304,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 3.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 296,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 6.4,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 355,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 345,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 10000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "critic acid",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Co(NO3)2·6H2O",
+                    "material_formula": "Co(NO3)2·6H2O",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Se",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "bare CoSe2",
+            "material_formula": "CoSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 300,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "pure carbon",
+            "material_formula": "C",
+            "material_properties": [
+                {
+                    "capacity_value": 46,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

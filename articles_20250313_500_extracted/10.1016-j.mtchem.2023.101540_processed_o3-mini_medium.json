@@ -1,0 +1,200 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "PB-P0",
+            "material_formula": "Na1.6Fe[Fe(CN)6]0.98◻0.02",
+            "material_properties": [
+                {
+                    "capacity_value": 111.7,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 101.57,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium chloride",
+                    "material_formula": "NaCl",
+                    "amount": {
+                        "value": 35,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Poly(vinylpyrrolidone)",
+                    "material_formula": "PVP",
+                    "amount": {
+                        "value": 6.67,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium ferrocyanide decahydrate",
+                    "material_formula": "Na4Fe(CN)6·10H2O",
+                    "amount": {
+                        "value": 1.45,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "PB-P3",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 123.2,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 112.95,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "PBA",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 500,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "PEDOT-PSS dispersion",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.3,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "PB-P5",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 131.0,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 116.12,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "PBA",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 500,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Distilled Water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 20,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "PEDOT-PSS Dispersion",
+                    "material_formula": "poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate)",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "ml"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "PB-P10",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 112.2,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium chloride",
+                    "material_formula": "NaCl",
+                    "amount": {
+                        "value": 35,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Hydrochloric acid solution",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 300,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Poly(vinylpyrrolidone) (PVP)",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 6.67,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium ferrocyanide decahydrate",
+                    "material_formula": "Na4Fe(CN)6·10H2O",
+                    "amount": {
+                        "value": 1.45,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "PEDOT-PSS dispersion",
+                    "material_formula": "poly(3,4-ethylenedioxythiophene)-poly(styrene sulfonate)",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "ml"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "O3-type Ni-rich NaNi0.8Mn0.2O2 (Pristine NM)",
+            "material_formula": "NaNi0.8Mn0.2O2",
+            "material_properties": [
+                {
+                    "capacity_value": 205.1,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 128.6,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 82.17,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ni0.8Mn0.2(OH)2",
+                    "material_formula": "Ni0.8Mn0.2(OH)2",
+                    "amount": {
+                        "value": 8.143,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 3.915,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2WO4-infused O3-type Ni-rich NaNi0.8Mn0.2O2 (NWO3@NM)",
+            "material_formula": "NaNi0.8Mn0.2O2",
+            "material_properties": [
+                {
+                    "capacity_value": 196.0,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": -1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ni0.8Mn0.2(OH)2",
+                    "material_formula": "Ni0.8Mn0.2(OH)2",
+                    "amount": {
+                        "value": 8.143,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 3.915,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Na2WO4",
+                    "material_formula": "Na2WO4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2WO4-infused O3-type Ni-rich NaNi0.8Mn0.2O2 (NWO5@NM)",
+            "material_formula": "NaNi0.8Mn0.2O2",
+            "material_properties": [
+                {
+                    "capacity_value": 195.8,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 160.8,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 105.5,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ni0.8Mn0.2(OH)2",
+                    "material_formula": "Ni0.8Mn0.2(OH)2",
+                    "amount": {
+                        "value": 8.143,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 3.915,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Na2WO4",
+                    "material_formula": "Na2WO4",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2WO4-infused O3-type Ni-rich NaNi0.8Mn0.2O2 (NWO7@NM)",
+            "material_formula": "NaNi0.8Mn0.2O2",
+            "material_properties": [
+                {
+                    "capacity_value": 194.6,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": -1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ni0.8Mn0.2(OH)2",
+                    "material_formula": "Ni0.8Mn0.2(OH)2",
+                    "amount": {
+                        "value": 8.143,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 3.915,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Na2WO4",
+                    "material_formula": "Na2WO4",
+                    "amount": {
+                        "value": 7,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

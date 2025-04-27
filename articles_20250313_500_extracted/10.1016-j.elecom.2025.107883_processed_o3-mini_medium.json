@@ -1,0 +1,456 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na4FeV(PO4)3@C (x = 0)",
+            "material_formula": "Na4FeV(PO4)3@C",
+            "material_properties": [
+                {
+                    "capacity_value": 101.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 50.54,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 2500
+                },
+                {
+                    "capacity_value": 100.06,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 89.25,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 85.22,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 78.69,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 68.08,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 56.63,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 39.15,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Citric acid monohydrate",
+                    "material_formula": "C6H8O7·H2O",
+                    "amount": {
+                        "value": 0.024,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium acetate dihydrate",
+                    "material_formula": "CH3COONa·2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (unspecified)"
+                    }
+                },
+                {
+                    "material_name": "Potassium carbonate",
+                    "material_formula": "K2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount for x = 0 (effectively none)"
+                    }
+                },
+                {
+                    "material_name": "Iron(II) sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (unspecified)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (unspecified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na4-xKxFeV(PO4)3@C (x = 0.05)",
+            "material_formula": "Na4-xKxFeV(PO4)3@C, x=0.05",
+            "material_properties": [
+                {
+                    "capacity_value": 104.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 68.65,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 2500
+                },
+                {
+                    "capacity_value": 64.58,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid Monohydrate",
+                    "material_formula": "C6H8O7·H2O",
+                    "amount": {
+                        "value": 0.024,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Vanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate Dihydrate",
+                    "material_formula": "CH3COONa·2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Potassium Carbonate",
+                    "material_formula": "K2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Ferrous Sulfate Heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na4-xKxFeV(PO4)3@C (x = 0.1)",
+            "material_formula": "Na4-xKxFeV(PO4)3@C, x=0.1",
+            "material_properties": [
+                {
+                    "capacity_value": 109.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 83.85,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 3000
+                },
+                {
+                    "capacity_value": 109.85,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105.52,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102.22,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.82,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.98,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 88.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 83.88,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 108.25,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid Monohydrate",
+                    "material_formula": "C6H8O7·H2O",
+                    "amount": {
+                        "value": 0.024,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate Dihydrate",
+                    "material_formula": "CH3COONa·2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Potassium Carbonate",
+                    "material_formula": "K2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Iron(II) Sulfate Heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na4-xKxFeV(PO4)3@C (x = 0.15)",
+            "material_formula": "Na4-xKxFeV(PO4)3@C, x=0.15",
+            "material_properties": [
+                {
+                    "capacity_value": 102.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 66.26,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 2500
+                },
+                {
+                    "capacity_value": 58.65,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid Monohydrate",
+                    "material_formula": "C6H8O7·H2O",
+                    "amount": {
+                        "value": 0.024,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate Dihydrate",
+                    "material_formula": "CH3COONa·2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Potassium Carbonate",
+                    "material_formula": "K2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Iron(II) Sulfate Heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

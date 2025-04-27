@@ -1,0 +1,247 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Pristine NNFM",
+            "material_formula": "NaNi0.33Fe0.33Mn0.33O2",
+            "material_properties": [
+                {
+                    "capacity_value": 136.03,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 130.52,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 112.75,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 42.79,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ni0.33Fe0.33Mn0.33C2O4 precursor",
+                    "material_formula": "Ni0.33Fe0.33Mn0.33C2O4",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate anhydrous",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt% excess (relative to precursor, equimolar basis)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NZSP-2 coated NNFM",
+            "material_formula": "NaNi0.33Fe0.33Mn0.33O2",
+            "material_properties": [
+                {
+                    "capacity_value": 134.83,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 128.09,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 121.94,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 86.97,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zirconium isopropoxide isopropanol complex",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.73,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tetraethyl orthosilicate",
+                    "material_formula": "Si(OC2H5)4",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ammonium phosphate monobasic",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0.11,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NZSP-5 coated NNFM",
+            "material_formula": "NaNi0.33Fe0.33Mn0.33O2",
+            "material_properties": [
+                {
+                    "capacity_value": 130.21,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 125.02,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 114.13,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 80.95,
+                    "capacity_unit": "mAhg−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylic acid",
+                    "material_formula": "–",
+                    "amount": {
+                        "value": 0.18,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Anhydrous ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ni0.33Fe0.33Mn0.33C2O4 precursor",
+                    "material_formula": "Ni0.33Fe0.33Mn0.33C2O4",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Zirconium isopropoxide isopropanol complex",
+                    "material_formula": "–",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Tetraethyl orthosilicate",
+                    "material_formula": "Si(OC2H5)4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium phosphate monobasic",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NZSP",
+            "material_formula": "Na3Zr2Si2PO12",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Zirconium isopropoxide isopropanol complex",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.73,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "tetraethyl orthosilicate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ammonium phosphate monobasic",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.11,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

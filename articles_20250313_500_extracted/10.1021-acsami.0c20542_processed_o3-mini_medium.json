@@ -1,0 +1,118 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "P2–Na2/3Mn0.8Fe0.1Ti0.1O2",
+            "material_formula": "Na2/3Mn0.8Fe0.1Ti0.1O2",
+            "material_properties": [
+                {
+                    "capacity_value": 26,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 164,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 140
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) Oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Titanium Dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2C3O5",
+            "material_formula": "Na2C3O5",
+            "material_properties": [
+                {
+                    "capacity_value": 331,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 310,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 130,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium mesoxalate monohydrate",
+                    "material_formula": "Na2C3O5·H2O (gem diol: NaO2CC(OH)2CO2Na)",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Peanut shell-derived HC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

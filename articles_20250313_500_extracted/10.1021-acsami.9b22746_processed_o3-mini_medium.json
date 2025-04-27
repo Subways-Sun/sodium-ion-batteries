@@ -1,0 +1,342 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVP-M",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 116.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 114.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 109.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 103.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 99.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 110.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 72.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 5000
+                },
+                {
+                    "capacity_value": 102.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 95.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 86.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 82.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 77.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 70.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 40,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 400
+                },
+                {
+                    "capacity_value": 62.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 40,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "C6H8O7",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 3,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Ammonium vanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 2,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 3,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Poly(vinylpyrrolidone)",
+                    "material_formula": "PVP",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Carbon nanofibers",
+                    "material_formula": "CNFs",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVP-S",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 107.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 82.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 76.0,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 67.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73.7,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 2,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 3,
+                        "unit": "stoichiometric ratio"
+                    }
+                }
+            ]
+        }
+    ]
+}

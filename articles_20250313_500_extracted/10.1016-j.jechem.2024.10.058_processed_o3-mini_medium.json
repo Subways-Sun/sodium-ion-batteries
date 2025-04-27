@@ -1,0 +1,434 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NCMT",
+            "material_formula": "NCMT",
+            "material_properties": [
+                {
+                    "capacity_value": 166.2,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 92.94,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol%"
+                    }
+                },
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "CuO",
+                    "material_formula": "CuO",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NCMTFe0.04",
+            "material_formula": "NCMTFe0.04",
+            "material_properties": [
+                {
+                    "capacity_value": 171.7,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount, plus an additional 3 mol%"
+                    }
+                },
+                {
+                    "material_name": "Nickel oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Copper oxide",
+                    "material_formula": "CuO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Titanium dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NCMTFe0.06",
+            "material_formula": "NCMTFe0.06",
+            "material_properties": [
+                {
+                    "capacity_value": 176.4,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Additional Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol%"
+                    }
+                },
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                },
+                {
+                    "material_name": "CuO",
+                    "material_formula": "CuO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                },
+                {
+                    "material_name": "TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NCMTFe0.08",
+            "material_formula": "NCMTFe0.08",
+            "material_properties": [
+                {
+                    "capacity_value": 180.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 106.93,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 121.1,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol%"
+                    }
+                },
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (not explicitly provided)"
+                    }
+                },
+                {
+                    "material_name": "CuO",
+                    "material_formula": "CuO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (not explicitly provided)"
+                    }
+                },
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (not explicitly provided)"
+                    }
+                },
+                {
+                    "material_name": "TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (not explicitly provided)"
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (not explicitly provided)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NCMTFe0.10",
+            "material_formula": "NCMTFe0.10",
+            "material_properties": [
+                {
+                    "capacity_value": 176.1,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol%"
+                    }
+                },
+                {
+                    "material_name": "Nickel oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Copper(II) oxide",
+                    "material_formula": "CuO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Titanium dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NCMTFe0.20",
+            "material_formula": "NCMTFe0.20",
+            "material_properties": [
+                {
+                    "capacity_value": 174.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol% extra (in addition to the stoichiometric ratio)"
+                    }
+                },
+                {
+                    "material_name": "Nickel oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Copper oxide",
+                    "material_formula": "CuO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Titanium dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                }
+            ]
+        }
+    ]
+}

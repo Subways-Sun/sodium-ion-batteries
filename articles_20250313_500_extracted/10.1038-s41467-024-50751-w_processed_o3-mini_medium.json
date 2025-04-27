@@ -1,0 +1,164 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "Base electrolyte",
+            "material_formula": "1.7 M NaTFSI in EMC-FEC (3.5:1 by mol.)",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium trifluoromethanesulfonimide",
+                    "material_formula": "NaN(SO2CF3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ethyl Methyl Carbonate",
+                    "material_formula": "C4H8O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Fluoroethylene carbonate",
+                    "material_formula": "C3H3FO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Trimethyl phosphate",
+                    "material_formula": "C3H9O4P",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "LF electrolyte",
+            "material_formula": "1.7 M NaTFSI in TMP-FEC (3.5:1 by mol.)",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium trifluoromethanesulfonimide",
+                    "material_formula": "Na[(CF3SO2)2N]",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Ethyl methyl carbonate",
+                    "material_formula": "C4H8O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Fluoroethylene carbonate",
+                    "material_formula": "C3H3FO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Trimethyl phosphate",
+                    "material_formula": "C3H9O4P",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "WCIE electrolyte",
+            "material_formula": "NaTFSI with TMP, FEC, and DFBn (optimized composition)",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "PB cathode",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 118.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 105.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 98.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 76.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Prussian blue powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 80,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Conductive carbon",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylidene fluoride (PVDF) binder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "N-Methyl-2-Pyrrolidone (NMP)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        }
+    ]
+}

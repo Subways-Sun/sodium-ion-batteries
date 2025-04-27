@@ -1,0 +1,247 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na3VAl(PO4)3 (NVAlP@Al0, bare)",
+            "material_formula": "Na3VAl(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 85,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C/10",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C/10",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 59.4,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 30
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 3,
+                        "unit": "molar ratio (relative amount)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium vanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio (relative amount)"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio (relative amount)"
+                    }
+                },
+                {
+                    "material_name": "Sodium phosphate monobasic",
+                    "material_formula": "NaH2PO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar equivalent (amount adjusted to match metal ratios)"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL (total volume: 50 mL for solution A and 50 mL for solution B)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3VAl(PO4)3 coated with a-Al2O3 (NVAlP@Al2)",
+            "material_formula": "Na3VAl(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 86,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C/10",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 63.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 30
+                },
+                {
+                    "capacity_value": 55.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Vanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Aluminum Nitrate Nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium Phosphate Monobasic",
+                    "material_formula": "NaH2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water (Solution A)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water (Solution B)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Aluminum Isopropoxide",
+                    "material_formula": "Al(OCH(CH3)2)3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ethylic Alcohol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3VAl(PO4)3 coated with a-Al2O3 (NVAlP@Al3)",
+            "material_formula": "Na3VAl(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 88,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C/10",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 63.8,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 30
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL of deionized water (solution A)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium vanadate",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL of deionized water (solution A)"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL of deionized water (solution A)"
+                    }
+                },
+                {
+                    "material_name": "Sodium phosphate monobasic",
+                    "material_formula": "NaH2PO4",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL of deionized water (solution B)"
+                    }
+                },
+                {
+                    "material_name": "Aluminum isopropoxide",
+                    "material_formula": "Al(OCH(CH3)2)3",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL of ethylic alcohol"
+                    }
+                },
+                {
+                    "material_name": "Ethylic alcohol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

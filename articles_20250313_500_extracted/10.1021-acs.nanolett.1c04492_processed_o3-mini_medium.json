@@ -1,0 +1,154 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "I-PB",
+            "material_formula": "Na1.58Fe[Fe(CN)6]0.87·2.38H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 123,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 15,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 117,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 109,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 75,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 750,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 85,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1500,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA/g",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 110.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 75,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 132.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1500,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "W-PB",
+            "material_formula": "Na1.12Fe[Fe(CN)6]0.72·5.25H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 15,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 50,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA/g",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 66.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 54.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 75,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

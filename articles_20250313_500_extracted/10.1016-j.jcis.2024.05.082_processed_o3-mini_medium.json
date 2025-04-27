@@ -1,0 +1,279 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoSe2-Cu1.82Se@GA",
+            "material_formula": "MoSe2-Cu1.82Se@GA",
+            "material_properties": [
+                {
+                    "capacity_value": 533.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 426.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 423.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 416.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 409.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 406.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 444.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Mo-Cu-MOF@GO aerogel",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Se powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoSe2-MnSe@GA",
+            "material_formula": "CoSe2-MnSe@GA",
+            "material_properties": [
+                {
+                    "capacity_value": 456.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 470.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 457.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 439.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 425.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 406.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 460.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 442.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Co-Mn-MOF@GO aerogel",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Se powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NiSe2-ZnSe@GA",
+            "material_formula": "NiSe2-ZnSe@GA",
+            "material_properties": [
+                {
+                    "capacity_value": 302.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 285.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 237.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 206.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 180.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 171.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 190.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zinc sulfate heptahydrate",
+                    "material_formula": "ZnSO4·7H2O",
+                    "amount": {
+                        "value": 0.24,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone (PVP, K-30)",
+                    "material_formula": "PVP",
+                    "amount": {
+                        "value": 0.45,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Potassium tetracyanonickelate hydrate",
+                    "material_formula": "K3[Ni(CN)4]·xH2O",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 45,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

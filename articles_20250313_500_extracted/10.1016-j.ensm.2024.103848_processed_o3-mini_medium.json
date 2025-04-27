@@ -1,0 +1,257 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFPP@CN",
+            "material_formula": "NaFePO4",
+            "material_properties": [
+                {
+                    "capacity_value": 108.8,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe(NO3)3·9H2O",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not provided)"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not provided)"
+                    }
+                },
+                {
+                    "material_name": "EDTA-2Na",
+                    "material_formula": "EDTA-2Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not provided)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "La2-NFPP@CN",
+            "material_formula": "NaFePO4",
+            "material_properties": [
+                {
+                    "capacity_value": 117.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Lanthanum nitrate",
+                    "material_formula": "La(NO3)3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Disodium ethylenediaminetetraacetate",
+                    "material_formula": "EDTA-2Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "La4-NFPP@CN",
+            "material_formula": "NaFePO4",
+            "material_properties": [
+                {
+                    "capacity_value": 126.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Lanthanum nitrate",
+                    "material_formula": "La(NO3)3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "EDTA disodium salt",
+                    "material_formula": "EDTA-2Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "La6-NFPP@CN",
+            "material_formula": "NaFePO4",
+            "material_properties": [
+                {
+                    "capacity_value": 122.1,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe(NO3)3·9H2O",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "La(NO3)3",
+                    "material_formula": "La(NO3)3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "EDTA-2Na",
+                    "material_formula": "EDTA-2Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "La4-Br-NFPP@CN",
+            "material_formula": "NaFePO4",
+            "material_properties": [
+                {
+                    "capacity_value": 128.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 55.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 92.9,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 2000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe(NO3)3·9H2O",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "LaBr3",
+                    "material_formula": "LaBr3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "EDTA-2Na",
+                    "material_formula": "EDTA-2Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                }
+            ]
+        }
+    ]
+}

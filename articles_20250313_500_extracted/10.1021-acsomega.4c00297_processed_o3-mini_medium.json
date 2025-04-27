@@ -1,0 +1,76 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "HC-SnSe2 Composite",
+            "material_formula": "SnSe2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Hard carbon powders (Carbotron P(J))",
+                    "material_formula": "C (hard carbon)",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "[SnCl4{nBuSe(CH2)3SenBu}] precursor",
+                    "material_formula": "[SnCl4{nBuSe(CH2)3SenBu}]",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HC-SnSx–SnSe2 Layered Composite",
+            "material_formula": "SnSx–SnSe2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Hard carbon powders Carbotron P(J)",
+                    "material_formula": "C (hard carbon)",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tin(IV) chloride",
+                    "material_formula": "SnCl4",
+                    "amount": {
+                        "value": 0.9,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "nBuSe(CH2)3SenBu",
+                    "material_formula": "nBuSe(CH2)3SenBu",
+                    "amount": {
+                        "value": 1.06,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tin(IV) chloride",
+                    "material_formula": "SnCl4",
+                    "amount": {
+                        "value": 1.25,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "nBuS(CH2)3SnBu",
+                    "material_formula": "nBuS(CH2)3SnBu",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

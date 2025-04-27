@@ -1,0 +1,58 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "1200HCMNT",
+            "material_formula": "C",
+            "material_properties": [
+                {
+                    "capacity_value": 228,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "1400HCMNT",
+            "material_formula": "C",
+            "material_properties": [
+                {
+                    "capacity_value": 292.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 224,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 167,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS1.5Te0.5@C nanocables",
+            "material_formula": "MoS1.5Te0.5@C",
+            "material_properties": [
+                {
+                    "capacity_value": 655.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 544.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 462.9,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 447.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 421.0,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 407.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 387.1,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 352.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 355.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Te nanotubes",
+                    "material_formula": "Te",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "D-glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Na2MoO4·2H2O",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 150,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "SC(NH2)2",
+                    "amount": {
+                        "value": 300,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Distilled water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CNT@MoS2 nanotubes",
+            "material_formula": "CNT@MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 800.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 591.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CNT",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "d-glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Na2MoO4·2H2O",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 150,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "thiourea",
+                    "material_formula": "CS(NH2)2",
+                    "amount": {
+                        "value": 300,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Expanded Graphite (EG)",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6-based non-aqueous electrolyte",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "NaPF6",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "Molar (in electrolyte formulation)"
+                    }
+                },
+                {
+                    "material_name": "Ethylene Carbonate (EC)",
+                    "material_formula": "C3H4O3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "volume ratio part (in 1:1:1 mixture)"
+                    }
+                },
+                {
+                    "material_name": "Ethyl Methyl Carbonate (EMC)",
+                    "material_formula": "C4H8O3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "volume ratio part (in 1:1:1 mixture)"
+                    }
+                },
+                {
+                    "material_name": "Dimethyl Carbonate (DMC)",
+                    "material_formula": "C3H6O3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "volume ratio part (in 1:1:1 mixture)"
+                    }
+                }
+            ]
+        }
+    ]
+}

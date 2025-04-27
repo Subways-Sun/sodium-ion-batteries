@@ -1,0 +1,304 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/CoS2-RGO",
+            "material_formula": "MoS2/CoS2-RGO",
+            "material_properties": [
+                {
+                    "capacity_value": 1686.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 703.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 544.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 534.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 482.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 427.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 370.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 285.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 218.15,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 521.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 593.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 388.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 503.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 180,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "L(+)-Cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 0.945,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0.4639,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium Molybdate (VI) dihydrate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.4716,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2-RGO",
+            "material_formula": "MoS2-RGO",
+            "material_properties": [
+                {
+                    "capacity_value": 380.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 180,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "L(+)-Cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 0.945,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0.4639,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium Molybdate(vi) Dihydrate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.4716,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoS2-RGO",
+            "material_formula": "CoS2-RGO",
+            "material_properties": [
+                {
+                    "capacity_value": 121.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 180,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "L(+)-Cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 0.945,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) chloride hexahydrate",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0.4639,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium molybdate(vi) dihydrate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.4716,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVP/C",
+            "material_formula": "Na3V2(PO4)3/C",
+            "material_properties": [
+                {
+                    "capacity_value": 64,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "V2O5",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "H2C2O4·2H2O (Oxalic acid dihydrate)",
+                    "material_formula": "H2C2O4·2H2O",
+                    "amount": {
+                        "value": 9,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "NaH2PO4",
+                    "material_formula": "NaH2PO4",
+                    "amount": {
+                        "value": 9,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "DMF (N,N-Dimethylformamide)",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 180,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

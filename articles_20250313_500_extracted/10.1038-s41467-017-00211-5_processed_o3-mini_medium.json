@@ -1,0 +1,199 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CaV4O9 nanowires (CVO-450)",
+            "material_formula": "CaV4O9",
+            "material_properties": [
+                {
+                    "capacity_value": 350,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 363.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 205.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 203.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 161.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "V2O5",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "H2O2",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 5,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "CaCl2",
+                    "material_formula": "CaCl2",
+                    "amount": {
+                        "value": 90,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 30,
+                        "unit": "ml"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CaV4O9 nanowires (CVO-550)",
+            "material_formula": "CaV4O9",
+            "material_properties": [
+                {
+                    "capacity_value": 265.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 331.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 146.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 12
+                },
+                {
+                    "capacity_value": 149.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1600
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Vanadium pentoxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 5,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Calcium chloride",
+                    "material_formula": "CaCl2",
+                    "amount": {
+                        "value": 90,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "VO2 nanowires (VO2-450)",
+            "material_formula": "VO2",
+            "material_properties": [
+                {
+                    "capacity_value": 166.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 90.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 600
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Vanadium(V) oxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen Peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 5,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 30,
+                        "unit": "ml"
+                    }
+                }
+            ]
+        }
+    ]
+}

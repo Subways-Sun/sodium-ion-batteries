@@ -1,0 +1,184 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Li-ILT",
+            "material_formula": "Li0.74H0.33Ti1.73O4",
+            "material_properties": [
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "HTO crystals",
+                    "material_formula": "H1.07Ti1.73O4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Lithium hydroxide solution",
+                    "material_formula": "LiOH",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL (1 mol/L)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Na-ILT",
+            "material_formula": "Na0.53H0.54Ti1.73O4",
+            "material_properties": [
+                {
+                    "capacity_value": 137,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 153,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 139,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 81,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 48,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "HTO crystals",
+                    "material_formula": "H1.07T1.73O4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium Hydroxide Solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "K-ILT",
+            "material_formula": "K0.39H0.68Ti1.73O4",
+            "material_properties": [
+                {
+                    "capacity_value": 61,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "HTO crystals",
+                    "material_formula": "H1.07T1.73O4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "KOH solution",
+                    "material_formula": "KOH",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL (1 mol/L)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Cs-ILT",
+            "material_formula": "Cs0.49H0.58Ti1.73O4",
+            "material_properties": [
+                {
+                    "capacity_value": 77,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "H1.07Ti1.73O4 (HTO) crystals",
+                    "material_formula": "H1.07Ti1.73O4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Cesium hydroxide solution",
+                    "material_formula": "CsOH",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL (1 mol/L)"
+                    }
+                }
+            ]
+        }
+    ]
+}

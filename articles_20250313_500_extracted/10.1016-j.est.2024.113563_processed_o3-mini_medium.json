@@ -1,0 +1,183 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SAPHC1200",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 196.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 197.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.03,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 178.3,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.15,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 165.8,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.3,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 115.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 67.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 3.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "discarded sulfuric acid paper",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "dilute sulfuric acid",
+                    "material_formula": "H2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SAPHC1300",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 340.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "discarded sulfuric acid paper",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "dilute sulfuric acid",
+                    "material_formula": "H2SO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SAPHC1400",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 350.1,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 350.1,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.03,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 346.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.15,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 333.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.3,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 279.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 210.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 3.0,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 264,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Discarded sulfuric acid paper",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

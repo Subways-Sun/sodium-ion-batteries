@@ -1,0 +1,271 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sb@P-N/C",
+            "material_formula": "Sb@P-N/C",
+            "material_properties": [
+                {
+                    "capacity_value": 525.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 424.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 410.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 390.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 363.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 331.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "SbCl3",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "micromole"
+                    }
+                },
+                {
+                    "material_name": "Triphenylphosphine",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone (PVP)",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Polymethyl methacrylate (PMMA)",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.75,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb@N/C",
+            "material_formula": "Sb@N/C",
+            "material_properties": [
+                {
+                    "capacity_value": 415.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 392.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 360.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 345.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 323.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 308.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "SbCl3",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "micromole"
+                    }
+                },
+                {
+                    "material_name": "Urea",
+                    "material_formula": "CH4N2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "N,N-dimethylformamide",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone",
+                    "material_formula": "[(C6H9NO)n]",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Polymethyl methacrylate",
+                    "material_formula": "(C5O2H8)n",
+                    "amount": {
+                        "value": 0.75,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb@C",
+            "material_formula": "Sb@C",
+            "material_properties": [
+                {
+                    "capacity_value": 386.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "SbCl3",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "μmol"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Polymethyl methacrylate",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.75,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na(Ni1/3Fe1/3Mn1/3)O2",
+            "material_formula": "Na(Ni1/3Fe1/3Mn1/3)O2",
+            "material_properties": [
+                {
+                    "capacity_value": 66.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

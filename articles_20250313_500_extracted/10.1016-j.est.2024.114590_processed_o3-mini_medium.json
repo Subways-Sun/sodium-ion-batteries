@@ -1,0 +1,198 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SC-0-1300°C@5",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 427,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 231,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 194,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Distilled Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Argon",
+                    "material_formula": "Ar",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SC-450–1300°C@5",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 417,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 245,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 239,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Distilled water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SC-450–1300°C@3",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 441,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 277,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 271,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 352.71,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 320.53,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 247.76,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 173.96,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 127.77,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 82.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60.67,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

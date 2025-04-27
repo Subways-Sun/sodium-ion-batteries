@@ -1,0 +1,69 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NaV3(PO4)3@C nanofiber",
+            "material_formula": "NaV3(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 118,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Phosphate Acid",
+                    "material_formula": "H3PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Polyvinyl Alcohol (PVA) Polymer",
+                    "material_formula": "[(C2H4O)]_n",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Acetic Acid",
+                    "material_formula": "CH3COOH",
+                    "amount": {
+                        "value": 30,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

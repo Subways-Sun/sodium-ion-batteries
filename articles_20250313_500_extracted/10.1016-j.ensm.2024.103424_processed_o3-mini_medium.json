@@ -1,0 +1,158 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NLMNC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 163.0,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 116.1,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 102.1,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 111.3,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) sulfate",
+                    "material_formula": "MnSO4",
+                    "amount": {
+                        "value": 0.035,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) sulfate",
+                    "material_formula": "NiSO4",
+                    "amount": {
+                        "value": 0.01,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Copper(II) sulfate",
+                    "material_formula": "CuSO4",
+                    "amount": {
+                        "value": 0.005,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium bicarbonate",
+                    "material_formula": "NH4HCO3",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0.67,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Lithium hydroxide",
+                    "material_formula": "LiOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMNC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 93.8,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 26.8,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA·g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) sulfate",
+                    "material_formula": "MnSO4",
+                    "amount": {
+                        "value": 0.035,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) sulfate",
+                    "material_formula": "NiSO4",
+                    "amount": {
+                        "value": 0.01,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Copper(II) sulfate",
+                    "material_formula": "CuSO4",
+                    "amount": {
+                        "value": 0.005,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium bicarbonate",
+                    "material_formula": "NH4HCO3",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0.67,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

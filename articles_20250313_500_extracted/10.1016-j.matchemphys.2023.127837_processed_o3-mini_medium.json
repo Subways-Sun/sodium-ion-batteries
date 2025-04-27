@@ -1,0 +1,134 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NF–Sb2S3@rGO",
+            "material_formula": "Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 838.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 609.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 433.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 605.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 559.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene oxide suspension",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 21.9,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "DDAB",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Potassium antimony tartrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NF–Sb2S3",
+            "material_formula": "Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 826.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 400.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "DDAB",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "potassium antimony tartrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

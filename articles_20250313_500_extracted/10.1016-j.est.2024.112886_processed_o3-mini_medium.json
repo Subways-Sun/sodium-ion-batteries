@@ -1,0 +1,19 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CP2 nanosheet",
+            "material_formula": "CP2",
+            "material_properties": [
+                {
+                    "capacity_value": 604.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Pristine NMO",
+            "material_formula": "Na4Mn9O18",
+            "material_properties": [
+                {
+                    "capacity_value": 69.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 3,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 83.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CH3COONa⋅3H2O",
+                    "material_formula": "CH3COONa⋅3H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "percent excess (relative stoichiometry)"
+                    }
+                },
+                {
+                    "material_name": "MnC4H6O4⋅4H2O",
+                    "material_formula": "MnC4H6O4⋅4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric (exact amount not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMOF-1",
+            "material_formula": "Na4Mn9O18 (Fe-doped)",
+            "material_properties": [
+                {
+                    "capacity_value": 123.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 104.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 3,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 92.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium acetate trihydrate",
+                    "material_formula": "CH3COONa⋅3H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "percent excess (relative stoichiometry)"
+                    }
+                },
+                {
+                    "material_name": "Manganese butanoate tetrahydrate",
+                    "material_formula": "MnC4H6O4⋅4H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3⋅9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio for 0.006 Fe doping"
+                    }
+                },
+                {
+                    "material_name": "Citric acid monohydrate",
+                    "material_formula": "C6H8O7⋅H2O",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mol/L"
+                    }
+                }
+            ]
+        }
+    ]
+}

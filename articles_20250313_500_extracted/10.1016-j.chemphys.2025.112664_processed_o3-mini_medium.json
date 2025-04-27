@@ -1,0 +1,19 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "SnS2/G heterojunction",
+            "material_formula": "SnS2/G",
+            "material_properties": [
+                {
+                    "capacity_value": 481.78,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

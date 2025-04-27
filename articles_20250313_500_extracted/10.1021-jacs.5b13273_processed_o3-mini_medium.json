@@ -1,0 +1,145 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Antimony (Sb) Electrode",
+            "material_formula": "Sb",
+            "material_properties": [
+                {
+                    "capacity_value": 544,
+                    "capacity_unit": "mAhg–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Antimony powder",
+                    "material_formula": "Sb",
+                    "amount": {
+                        "value": 70,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Carboxymethylcellulose (CMC)",
+                    "material_formula": "CMC",
+                    "amount": {
+                        "value": 18,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "SuperP carbon",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 12,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NaSb (Reference Compound)",
+            "material_formula": "NaSb",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sb powder",
+                    "material_formula": "Sb",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Na3Sb (Reference Compound)",
+            "material_formula": "Na3Sb",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sb powder",
+                    "material_formula": "Sb",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Crystalline Na3Sb (c-Na3Sb)",
+            "material_formula": "Na3Sb",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Antimony powder",
+                    "material_formula": "Sb",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium metal",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Amorphous Na3–xSb (a-Na3–xSb)",
+            "material_formula": "Na3–xSb",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Amorphous Na1.7Sb (a-Na1.7Sb)",
+            "material_formula": "Na1.7Sb",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Amorphous Na1.0Sb (a-Na1.0Sb)",
+            "material_formula": "Na1.0Sb",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Crystalline Sb (c-Sb)",
+            "material_formula": "Sb",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

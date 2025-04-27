@@ -1,0 +1,208 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVP-MoO4 (0)",
+            "material_formula": "Na(3+2x)V2(PO4)(3-x)MoO4(x) (x=0)",
+            "material_properties": [
+                {
+                    "capacity_value": 94.3,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 61.1,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 46,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 85,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 66.5,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVP-MoO4 (0.05)",
+            "material_formula": "Na(3+2x)V2(PO4)(3-x)MoO4(x) (x=0.05)",
+            "material_properties": [
+                {
+                    "capacity_value": 90.0,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 81.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 74,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 75.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVP-MoO4 (0.10)",
+            "material_formula": "Na(3+2x)V2(PO4)(3-x)MoO4(x) (x=0.10)",
+            "material_properties": [
+                {
+                    "capacity_value": 108.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 99.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 92,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90.2,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84.2,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 103,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84.0,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 90.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 50.7,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 2000
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVP-MoO4 (0.15)",
+            "material_formula": "Na(3+2x)V2(PO4)(3-x)MoO4(x) (x=0.15)",
+            "material_properties": [
+                {
+                    "capacity_value": 81.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 81.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 150
+                },
+                {
+                    "capacity_value": 53.7,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 78.7,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                }
+            ]
+        }
+    ]
+}

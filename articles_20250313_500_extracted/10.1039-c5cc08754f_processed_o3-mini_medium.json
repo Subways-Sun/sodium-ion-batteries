@@ -1,0 +1,42 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "PB mesocrystals",
+            "material_formula": "Prussian blue (analog)",
+            "material_properties": [
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 45
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "PB single-crystals",
+            "material_formula": "Prussian blue (analog)",
+            "material_properties": [
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ]
+        }
+    ]
+}

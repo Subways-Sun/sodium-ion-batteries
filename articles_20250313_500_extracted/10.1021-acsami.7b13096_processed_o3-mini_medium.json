@@ -1,0 +1,42 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MS_Fe–Sb alloy ribbons",
+            "material_formula": "FeSb2 (88.38%) and FeSb (11.62%)",
+            "material_properties": [
+                {
+                    "capacity_value": 555,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 300,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "sodium manganese oxide (NMO) cathode",
+            "material_formula": "not mentioned",
+            "material_properties": [
+                {
+                    "capacity_value": 160,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "not mentioned",
+                    "cycle": 50
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "VNQDs@PCNFs-N/F",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 392.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 411.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 356.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 324,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 299.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 273.5,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 245.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 220.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 6000
+                },
+                {
+                    "capacity_value": 356.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 2000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Poly(vinyl alcohol) (PVA)",
+                    "material_formula": "[-CH2CHOH-]n",
+                    "amount": {
+                        "value": 900,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Poly(tetrafluoroethylene) (PTFE) solution",
+                    "material_formula": "-(CF2–CF2)n-",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "VN@CNFs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 234.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 25.2,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Poly(vinyl alcohol)",
+                    "material_formula": "[-CH2CHOH-]n",
+                    "amount": {
+                        "value": 900,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "PCNFs-N/F",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 245.9,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Poly(vinyl alcohol) (PVA)",
+                    "material_formula": "[-CH2CHOH-]n",
+                    "amount": {
+                        "value": 900,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Poly(tetrafluoroethylene) (PTFE) solution",
+                    "material_formula": "(-CF2–CF2-)n",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

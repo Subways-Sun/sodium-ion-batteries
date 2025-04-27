@@ -1,0 +1,358 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "rGO-Mo2C/MoC-rGO",
+            "material_formula": "rGO-Mo2C/MoC-rGO",
+            "material_properties": [
+                {
+                    "capacity_value": 778,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 388,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 322,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 285,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 263,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 259,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 301,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 252,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 212,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 171,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 122,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 78,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 41,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 230,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 5000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyvinylpyrrolidone",
+                    "material_formula": "(C6H9NO)n",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Formic acid",
+                    "material_formula": "HCOOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Hexaammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "C6H12O6·4H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "rGO-Mo2C/MoC",
+            "material_formula": "rGO-Mo2C/MoC",
+            "material_properties": [
+                {
+                    "capacity_value": 246,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 190,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 140,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 77,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 46,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 32,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 16,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyvinylpyrrolidone (PVP)",
+                    "material_formula": "(C6H9NO)n",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Formic acid",
+                    "material_formula": "HCOOH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Hexaammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide (GO) suspension",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 191.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 175.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 156.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 141,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 122.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 86.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 160.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 136.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 108.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

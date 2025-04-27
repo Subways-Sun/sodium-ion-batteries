@@ -1,0 +1,167 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.66[Mn0.33Fe0.33Ti0.3Sn0.04]O2",
+            "material_formula": "Na0.66[Mn0.33Fe0.33Ti0.3Sn0.04]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 103,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 95,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) Carbonate",
+                    "material_formula": "MnCO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Tin(IV) Oxide",
+                    "material_formula": "SnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Titanium Dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mol% excess relative to stoichiometric amount"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.66[Mn0.44Fe0.22Ti0.3Sn0.04]O2",
+            "material_formula": "Na0.66[Mn0.44Fe0.22Ti0.3Sn0.04]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(II) carbonate",
+                    "material_formula": "MnCO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Tin(IV) oxide",
+                    "material_formula": "SnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Titanium dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mol% excess"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.44MnO2",
+            "material_formula": "Na0.44MnO2",
+            "material_properties": [
+                {
+                    "capacity_value": 45,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese carbonate",
+                    "material_formula": "MnCO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

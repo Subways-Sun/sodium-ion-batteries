@@ -1,0 +1,207 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sb/Sb2O3@NPC-0.5",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 219.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "potassium citrate",
+                    "material_formula": "C6H5K3O7",
+                    "amount": {
+                        "value": 3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "melamine",
+                    "material_formula": "C3H6N6",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "appropriate amount"
+                    }
+                },
+                {
+                    "material_name": "antimony trichloride",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb/Sb2O3@NPC-1.0",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 969.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 503.6,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 430.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 384.9,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 340.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 297.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 186.9,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 300.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Potassium citrate",
+                    "material_formula": "C6H5K3O7",
+                    "amount": {
+                        "value": 3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Melamine",
+                    "material_formula": "C3H6N6",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "appropriate amount"
+                    }
+                },
+                {
+                    "material_name": "Antimony trichloride",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb/Sb2O3@NPC-1.5",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 159.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "potassium citrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "melamine",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ethanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "antimony trichloride",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

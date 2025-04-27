@@ -1,0 +1,287 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Cu59.7Sb29.8Sn5.3Zn0.3P4.9",
+            "material_formula": "Cu59.7Sb29.8Sn5.3Zn0.3P4.9",
+            "material_properties": [
+                {
+                    "capacity_value": 263.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 319.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Copper foil",
+                    "material_formula": "Cu",
+                    "amount": {
+                        "value": 0,
+                        "unit": "substrate (mass difference used, not explicitly provided)"
+                    }
+                },
+                {
+                    "material_name": "Boric acid",
+                    "material_formula": "H3BO3",
+                    "amount": {
+                        "value": 0.65,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Ammonium acetate",
+                    "material_formula": "CH3COONH4",
+                    "amount": {
+                        "value": 0.78,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Sodium hypophosphite",
+                    "material_formula": "NaH2PO2",
+                    "amount": {
+                        "value": 0.45,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Potassium antimonyl tartrate",
+                    "material_formula": "C8H4K2O12Sb2",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Zinc chloride",
+                    "material_formula": "ZnCl2",
+                    "amount": {
+                        "value": 0.09,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tin(II) chloride dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "M"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Cu68.6Sb23.0Sn3.2Zn0.3P4.9",
+            "material_formula": "Cu68.6Sb23.0Sn3.2Zn0.3P4.9",
+            "material_properties": [
+                {
+                    "capacity_value": 368.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 422.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 376.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 357.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 342.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 334.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 323.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 800,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 312.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1600,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 290.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 3200,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Copper foil",
+                    "material_formula": "Cu",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Antimony source",
+                    "material_formula": "C8H4K2O12Sb2",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Zinc source",
+                    "material_formula": "ZnCl2",
+                    "amount": {
+                        "value": 0.09,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tin source",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Phosphorus source",
+                    "material_formula": "NaH2PO2",
+                    "amount": {
+                        "value": 0.45,
+                        "unit": "M"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Cu72.9Sb19.4Sn2.6Zn0.3P4.8",
+            "material_formula": "Cu72.9Sb19.4Sn2.6Zn0.3P4.8",
+            "material_properties": [
+                {
+                    "capacity_value": 212.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 327.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Copper foil",
+                    "material_formula": "Cu",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Boric Acid",
+                    "material_formula": "H3BO3",
+                    "amount": {
+                        "value": 0.65,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Acetate",
+                    "material_formula": "CH3COONH4",
+                    "amount": {
+                        "value": 0.78,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Sodium Hypophosphite",
+                    "material_formula": "NaH2PO2",
+                    "amount": {
+                        "value": 0.45,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "C8H4K2O12Sb2",
+                    "material_formula": "C8H4K2O12Sb2",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Zinc Chloride",
+                    "material_formula": "ZnCl2",
+                    "amount": {
+                        "value": 0.09,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Tin(II) Chloride Dihydrate",
+                    "material_formula": "SnCl2·2H2O",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "M"
+                    }
+                }
+            ]
+        }
+    ]
+}

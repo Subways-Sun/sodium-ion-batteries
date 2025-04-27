@@ -1,0 +1,125 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CoMoO4",
+            "material_formula": "CoMoO4",
+            "material_properties": [
+                {
+                    "capacity_value": 537,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 410,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 417,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 377,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 351,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 346,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 360,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 317,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 98,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 274,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 245,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 221,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 490,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 165,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 980,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 266,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 49,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CoCl2·6H2O",
+                    "material_formula": "CoCl2·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Na2MoO4",
+                    "material_formula": "Na2MoO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "p-NFM",
+            "material_formula": "O3-type α-NaFeO2 layered structure",
+            "material_properties": [
+                {
+                    "capacity_value": 140,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 89.97,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 79.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 1.05,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) Acetate Tetrahydrate",
+                    "material_formula": "(CH3COO)2Ni·4H2O",
+                    "amount": {
+                        "value": 0.32,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Nitrate Nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.32,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) Acetate Tetrahydrate",
+                    "material_formula": "(CH3COO)2Mn·4H2O",
+                    "amount": {
+                        "value": 0.32,
+                        "unit": "stoichiometric ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "A2C2-NFM",
+            "material_formula": "O3-type α-NaFeO2 layered structure (Al and Cu dual-substituted)",
+            "material_properties": [
+                {
+                    "capacity_value": 140,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 113,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 127.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 97.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 80.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 1.05,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) Acetate Tetrahydrate",
+                    "material_formula": "(CH3COO)2Ni·4H2O",
+                    "amount": {
+                        "value": 0.32,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Nitrate Nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.32,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) Acetate Tetrahydrate",
+                    "material_formula": "(CH3COO)2Mn·4H2O",
+                    "amount": {
+                        "value": 0.32,
+                        "unit": "stoichiometric ratio"
+                    }
+                },
+                {
+                    "material_name": "Aluminum Nitrate Nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.0,
+                        "unit": "x/100 (variable)"
+                    }
+                },
+                {
+                    "material_name": "Copper(II) Acetate Monohydrate",
+                    "material_formula": "(CH3COO)2Cu·H2O",
+                    "amount": {
+                        "value": 0.0,
+                        "unit": "(0.04 - x/100) (variable)"
+                    }
+                }
+            ]
+        }
+    ]
+}

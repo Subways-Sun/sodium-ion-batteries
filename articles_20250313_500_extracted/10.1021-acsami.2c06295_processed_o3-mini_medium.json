@@ -1,0 +1,374 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NTs-WS2",
+            "material_formula": "WS2",
+            "material_properties": [
+                {
+                    "capacity_value": 504,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 444,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 157,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                },
+                {
+                    "capacity_value": 540,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 407,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 57,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "WO3 nanoparticles",
+                    "material_formula": "WO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen sulfide gas",
+                    "material_formula": "H2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen gas",
+                    "material_formula": "H2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Nitrogen gas",
+                    "material_formula": "N2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NTs-WS2@C",
+            "material_formula": "WS2@C",
+            "material_properties": [
+                {
+                    "capacity_value": 684,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 528,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 305,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                },
+                {
+                    "capacity_value": 497,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 456,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 160,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 419,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 373,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 307,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 209,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 321,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 70
+                },
+                {
+                    "capacity_value": 485,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 146,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 103,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 605,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 465,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 152,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                },
+                {
+                    "capacity_value": 458,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 300,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 318,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 62
+                },
+                {
+                    "capacity_value": 321,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 59,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 29,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "WS2 nanotubes",
+                    "material_formula": "WS2",
+                    "amount": {
+                        "value": 0.16,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.04,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "commercial 2H-WS2",
+            "material_formula": "WS2",
+            "material_properties": [
+                {
+                    "capacity_value": 512,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 436,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 147,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                },
+                {
+                    "capacity_value": 499,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 373,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 52,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 80,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 60
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

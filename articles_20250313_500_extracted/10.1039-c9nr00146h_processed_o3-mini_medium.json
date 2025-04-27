@@ -1,0 +1,198 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ZnSe/MoSe2@C",
+            "material_formula": "ZnSe/MoSe2@C",
+            "material_properties": [
+                {
+                    "capacity_value": 532,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 468,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 456,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 389,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 400,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 376,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 352,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 328,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 381,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "zinc acetate",
+                    "material_formula": "Zn(CH3COO)2",
+                    "amount": {
+                        "value": 0.2195,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "phosphomolybdic acid hydrate",
+                    "material_formula": "H3[PMo12O40]·nH2O",
+                    "amount": {
+                        "value": 0.3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "2-methylimidazole",
+                    "material_formula": "C4H6N2",
+                    "amount": {
+                        "value": 0.3284,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZnSe@C",
+            "material_formula": "ZnSe@C",
+            "material_properties": [
+                {
+                    "capacity_value": 439,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 387,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 343,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 296,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 248,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 196,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zinc acetate",
+                    "material_formula": "Zn(CH3COO)2",
+                    "amount": {
+                        "value": 0.2195,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "2-Methylimidazole",
+                    "material_formula": "C4H6N2",
+                    "amount": {
+                        "value": 0.3284,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

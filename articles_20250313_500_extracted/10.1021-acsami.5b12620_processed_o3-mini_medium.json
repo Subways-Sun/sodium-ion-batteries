@@ -1,0 +1,101 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na2CoFe(CN)6",
+            "material_formula": "Na1.85Co[Fe(CN)6]0.99·□0.01·1.9H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 153,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 148,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 135,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 128,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 88,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 114,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Cobalt(II) chloride",
+                    "material_formula": "CoCl2",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Trisodium citrate",
+                    "material_formula": "Na3C6H5O7",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Sodium ferrocyanide",
+                    "material_formula": "Na4Fe(CN)6",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

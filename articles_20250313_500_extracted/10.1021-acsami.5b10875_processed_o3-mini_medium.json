@@ -1,0 +1,110 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "carbonized leaf",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 358.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 479.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 360,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 320,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 270,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 40,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 246.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 325.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Dry Oak Leaves",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "welded carbonized leaf",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 210,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Dry oak leaves",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 3.0,
+                        "unit": "M"
+                    }
+                }
+            ]
+        }
+    ]
+}

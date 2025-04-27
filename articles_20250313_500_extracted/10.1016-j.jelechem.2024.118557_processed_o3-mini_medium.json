@@ -1,0 +1,190 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NNFMO-bare",
+            "material_formula": "Na0.999Ni0.335Fe0.332Mn0.334O2",
+            "material_properties": [
+                {
+                    "capacity_value": 115.1,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 110.3,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 99.2,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 88.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 77.7,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "FeO",
+                    "material_formula": "FeO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "MnO",
+                    "material_formula": "MnO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NNFMZO-6000",
+            "material_formula": "Na0.999Ni0.333Fe0.334Mn0.334Zr0.006O2",
+            "material_properties": [
+                {
+                    "capacity_value": 160.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 113.8,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106.6,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.5,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84.4,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio component"
+                    }
+                },
+                {
+                    "material_name": "FeO",
+                    "material_formula": "FeO",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio component"
+                    }
+                },
+                {
+                    "material_name": "MnO",
+                    "material_formula": "MnO",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio component"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "specific amount not provided"
+                    }
+                },
+                {
+                    "material_name": "ZrO2",
+                    "material_formula": "ZrO2",
+                    "amount": {
+                        "value": 6000,
+                        "unit": "doping level indicator (x value)"
+                    }
+                }
+            ]
+        }
+    ]
+}

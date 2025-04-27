@@ -1,0 +1,168 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "HC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 163.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 34.9,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 3.2,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Kapok fiber",
+                    "material_formula": "—",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N-ZAHC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 401.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 128.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 3.2,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 185.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g-1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Kapok fiber",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium chlorite",
+                    "material_formula": "NaClO2",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g/L"
+                    }
+                },
+                {
+                    "material_name": "Zinc chloride",
+                    "material_formula": "ZnCl2",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "2,6-pyridinedicarboxylic acid",
+                    "material_formula": "C7H5NO4",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N-HC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 201.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Kapok fiber",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "2,6-pyridinedicarboxylic acid",
+                    "material_formula": "C7H5NO4",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZAHC",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 180.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Kapok fiber",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Zinc chloride",
+                    "material_formula": "ZnCl2",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

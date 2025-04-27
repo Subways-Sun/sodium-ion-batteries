@@ -1,0 +1,110 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ZGHC1500",
+            "material_formula": "C (hard carbon)",
+            "material_properties": [
+                {
+                    "capacity_value": 481.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.02,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 377.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 276.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 201.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 102.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 70.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.75,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 58.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 381.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g–1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "ZG",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "GHC1500",
+            "material_formula": "C (hard carbon)",
+            "material_properties": [
+                {
+                    "capacity_value": 221.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 10,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

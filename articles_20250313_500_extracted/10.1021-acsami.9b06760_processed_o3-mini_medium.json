@@ -1,0 +1,55 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaTFSI",
+            "material_formula": "Na[TFSI]",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaClO4",
+            "material_formula": "NaClO4",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium perchlorate",
+                    "material_formula": "NaClO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M (in electrolyte solution)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaFSI",
+            "material_formula": "Na[FSI]",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaOTf",
+            "material_formula": "NaCF3SO3",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6",
+            "material_formula": "NaPF6",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Graphite",
+            "material_formula": "C",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

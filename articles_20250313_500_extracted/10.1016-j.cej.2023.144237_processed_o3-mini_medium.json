@@ -1,0 +1,43 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NOHC-2",
+            "material_formula": "N,O co-doped carbon (NOHC)",
+            "material_properties": [
+                {
+                    "capacity_value": 324.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 169.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 225.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 160,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 15000
+                }
+            ]
+        }
+    ]
+}

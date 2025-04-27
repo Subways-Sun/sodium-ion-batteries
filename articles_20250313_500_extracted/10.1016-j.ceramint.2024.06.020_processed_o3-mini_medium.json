@@ -1,0 +1,425 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoTe2/C-6h-600 composite",
+            "material_formula": "MoTe2/C",
+            "material_properties": [
+                {
+                    "capacity_value": 284.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 252.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 206.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 165.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 129.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 627,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 290.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 166.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 161.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 3000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 400,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Tris-HCl buffer solution",
+                    "material_formula": "C4H11NO3·HCl",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Te powder",
+                    "material_formula": "Te",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mass ratio (relative to MoOx/C)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoTe2/C-6h-500 composite",
+            "material_formula": "MoTe2/C",
+            "material_properties": [
+                {
+                    "capacity_value": 227,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 119,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 400,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Tris-HCl buffer solution",
+                    "material_formula": "C4H11NO3·HCl",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Te powder",
+                    "material_formula": "Te",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mass ratio (relative to MoOx/C)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoTe2/C-6h-700 composite",
+            "material_formula": "MoTe2/C",
+            "material_properties": [
+                {
+                    "capacity_value": 422,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 168,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 400,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Tris-HCl buffer solution",
+                    "material_formula": "C4H11NO3·HCl",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Tellurium (Te) powder",
+                    "material_formula": "Te",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mass ratio (relative to MoOx/C)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoTe2/C-3h-600 composite",
+            "material_formula": "MoTe2/C",
+            "material_properties": [
+                {
+                    "capacity_value": 192.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 151.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 118.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 89.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 63.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 138,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 400,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Tris-HCl buffer solution",
+                    "material_formula": "C4H11NO3·HCl",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "mol/L"
+                    }
+                },
+                {
+                    "material_name": "Tellurium powder",
+                    "material_formula": "Te",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mass ratio equivalent (relative to MoOx/C)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoTe2/C-9h-600 composite",
+            "material_formula": "MoTe2/C",
+            "material_properties": [
+                {
+                    "capacity_value": 223.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 191.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 158.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 130.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 103.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 195.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium heptamolybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 400,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Tellurium (Te) powder",
+                    "material_formula": "Te",
+                    "amount": {
+                        "value": 5,
+                        "unit": "relative mass (MoOx/C:Te = 1:5)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3 (NVP)",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 186,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 103,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "material": [
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaCF3SO3-2G",
+            "material_formula": "NaCF3SO3",
+            "material_properties": [
+                {
+                    "capacity_value": 336.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 308.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6-2G",
+            "material_formula": "NaPF6",
+            "material_properties": [
+                {
+                    "capacity_value": 306.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 284.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium hexafluorophosphate",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Diethylene glycol dimethyl ether",
+                    "material_formula": "C6H14O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaClO4-2G",
+            "material_formula": "NaClO4",
+            "material_properties": [
+                {
+                    "capacity_value": 285.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 64.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Perchlorate",
+                    "material_formula": "NaClO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Diethylene Glycol Dimethyl Ether",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaFSI-2G",
+            "material_formula": "NaFSI",
+            "material_properties": [
+                {
+                    "capacity_value": 313.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 90.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaTFSI-2G",
+            "material_formula": "NaTFSI",
+            "material_properties": [
+                {
+                    "capacity_value": 90.6,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 12.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

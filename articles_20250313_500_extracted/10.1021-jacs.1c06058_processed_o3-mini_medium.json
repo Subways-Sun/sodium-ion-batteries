@@ -1,0 +1,82 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Carbon A",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Carbon B",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Glucose-derived hard carbon (1100 °C)",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Glucose-derived hard carbon (1500 °C)",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6 electrolyte",
+            "material_formula": "NaPF6",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "NaPF6",
+                    "material_formula": "NaPF6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "propylene carbonate",
+                    "material_formula": "C4H6O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        }
+    ]
+}

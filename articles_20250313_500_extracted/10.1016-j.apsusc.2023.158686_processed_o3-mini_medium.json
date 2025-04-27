@@ -1,0 +1,417 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "N-C/SnS-500",
+            "material_formula": "SnS with N-doped C",
+            "material_properties": [
+                {
+                    "capacity_value": 563.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 429.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 378.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 357.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 293,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 1600
+                },
+                {
+                    "capacity_value": 458.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 418.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 379.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 341.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 278.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 4.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 232.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 8.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 409.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Stannous chloride",
+                    "material_formula": "SnCl2",
+                    "amount": {
+                        "value": 0.7111,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "1,3,5-Triazine-2,4,6-trithiol trisodium salt",
+                    "material_formula": "Na3tcc",
+                    "amount": {
+                        "value": 0.9121,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn-MOF-200",
+            "material_formula": "Sn-MOF",
+            "material_properties": [
+                {
+                    "capacity_value": 169.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sn-MOF-300",
+            "material_formula": "Sn-MOF",
+            "material_properties": [
+                {
+                    "capacity_value": 172.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Stannous chloride",
+                    "material_formula": "SnCl2",
+                    "amount": {
+                        "value": 0.7111,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "1,3,5-Triazine-2,4,6-trithiol trisodium salt",
+                    "material_formula": "Na3tcc",
+                    "amount": {
+                        "value": 0.9121,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Methanol",
+                    "material_formula": "CH3OH",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Distilled water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N-C/SnS-400",
+            "material_formula": "SnS with N-doped C",
+            "material_properties": [
+                {
+                    "capacity_value": 329.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 203.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Stannous chloride",
+                    "material_formula": "SnCl2",
+                    "amount": {
+                        "value": 0.7111,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "1,3,5-Triazine-2,4,6-trithiol trisodium salt",
+                    "material_formula": "Na3tcc",
+                    "amount": {
+                        "value": 0.9121,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Methanol",
+                    "material_formula": "CH3OH",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Distilled water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide",
+                    "material_formula": "DMF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N-C/SnS-600",
+            "material_formula": "SnS with N-doped C",
+            "material_properties": [
+                {
+                    "capacity_value": 355.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 233.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Stannous chloride",
+                    "material_formula": "SnCl2",
+                    "amount": {
+                        "value": 0.7111,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "1,3,5-Triazine-2,4,6-trithiol trisodium salt",
+                    "material_formula": "Na3tcc",
+                    "amount": {
+                        "value": 0.9121,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Methanol",
+                    "material_formula": "MeOH",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Distilled water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "N-C/SnS-700",
+            "material_formula": "SnS with N-doped C",
+            "material_properties": [
+                {
+                    "capacity_value": 332.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 199.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A/g",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Stannous chloride",
+                    "material_formula": "SnCl2",
+                    "amount": {
+                        "value": 0.7111,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "1,3,5-Triazine-2,4,6-trithiol trisodium salt",
+                    "material_formula": "Na3tcc",
+                    "amount": {
+                        "value": 0.9121,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 183,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 1200
+                },
+                {
+                    "capacity_value": 196,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 190,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 184,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 153.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 113,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 219,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

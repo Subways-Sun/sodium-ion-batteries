@@ -1,0 +1,384 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NCO (NaCrO2)",
+            "material_formula": "NaCrO2",
+            "material_properties": [
+                {
+                    "capacity_value": 112.3,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 76.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 108.5,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 64,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 56,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 66.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 120,
+                    "current_density_unit": "mA g-1",
+                    "cycle": -1
+                },
+                {
+                    "capacity_value": 54.3,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1200,
+                    "current_density_unit": "mA g-1",
+                    "cycle": -1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar proportion"
+                    }
+                },
+                {
+                    "material_name": "Chromium(III) nitrate nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar proportion"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric excess (amount not explicitly specified)"
+                    }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "1C-NCAO (0.01Cr2O3-coated NaCr0.98Al0.02O2)",
+            "material_formula": "NaCr0.98Al0.02O2",
+            "material_properties": [
+                {
+                    "capacity_value": 107.9,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 106.3,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 107,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 99.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1200,
+                    "current_density_unit": "mA g-1",
+                    "cycle": -1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio part"
+                    }
+                },
+                {
+                    "material_name": "Chromium(III) nitrate nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio part"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.01,
+                        "unit": "molar ratio part"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "2.5C-NCAO (0.025Cr2O3-coated NaCr0.95Al0.05O2)",
+            "material_formula": "NaCr0.95Al0.05O2",
+            "material_properties": [
+                {
+                    "capacity_value": 105.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 96.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 93.4,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio unit"
+                    }
+                },
+                {
+                    "material_name": "Chromium(III) nitrate nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio unit"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.025,
+                        "unit": "molar ratio unit"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "5C-NCAO (0.05Cr2O3-coated NaCr0.90Al0.10O2)",
+            "material_formula": "NaCr0.90Al0.10O2",
+            "material_properties": [
+                {
+                    "capacity_value": 96.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar equivalent (relative ratio)"
+                    }
+                },
+                {
+                    "material_name": "Chromium(III) nitrate nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar equivalent (relative ratio)"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "molar equivalent (relative ratio)"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "amount not specified"
+                    }
+                },
+                {
+                    "material_name": "Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Al-doped NaCr0.95Al0.05O2 (noncoated)",
+            "material_formula": "NaCr0.95Al0.05O2",
+            "material_properties": [
+                {
+                    "capacity_value": 103.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Chromium(III) nitrate nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate nonahydrate",
+                    "material_formula": "Al(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "added as chelating agent; amount not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NaCr0.98Al0.02O2 (noncoated)",
+            "material_formula": "NaCr0.98Al0.02O2",
+            "material_properties": [
+                {
+                    "capacity_value": 108.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "NaPF6 in EC/DMC",
+            "material_formula": "NaPF6",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

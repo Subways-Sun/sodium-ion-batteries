@@ -1,0 +1,360 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NCS-800",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 400.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 299.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 315.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NH4·H2O",
+                    "material_formula": "NH4·H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "part (volume ratio)"
+                    }
+                },
+                {
+                    "material_name": "Anhydrous ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "parts (volume ratio)"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 120,
+                        "unit": "parts (volume ratio)"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NCS-1000",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 459.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 330.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 386.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 329.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 320.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 304.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 279.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 260.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 241.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 214.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 180.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 229.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1500
+                },
+                {
+                    "capacity_value": 219.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NH4·H2O",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "part"
+                    }
+                },
+                {
+                    "material_name": "Anhydrous Ethanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 50,
+                        "unit": "part"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 120,
+                        "unit": "part"
+                    }
+                },
+                {
+                    "material_name": "Dopamine Hydrochloride",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NCS-1300",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 350.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 256.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 292.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 150.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NH4·H2O",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "part (volume ratio component)"
+                    }
+                },
+                {
+                    "material_name": "Anhydrous ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 50,
+                        "unit": "parts (volume ratio component)"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 120,
+                        "unit": "parts (volume ratio component)"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NCS-1500",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 240.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 199.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 227.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 101,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NH4·H2O",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "part (volume ratio)"
+                    }
+                },
+                {
+                    "material_name": "Anhydrous Ethanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 50,
+                        "unit": "parts (volume ratio)"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 120,
+                        "unit": "parts (volume ratio)"
+                    }
+                },
+                {
+                    "material_name": "Dopamine Hydrochloride",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

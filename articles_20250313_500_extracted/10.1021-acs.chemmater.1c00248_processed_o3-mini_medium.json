@@ -1,0 +1,36 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NMMO",
+            "material_formula": "Na2/3[Mg1/3Mn2/3]O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "MgO",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

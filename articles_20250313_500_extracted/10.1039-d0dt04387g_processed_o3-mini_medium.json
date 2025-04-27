@@ -1,0 +1,141 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Zn3V3O8/NC",
+            "material_formula": "Zn3V3O8/NC",
+            "material_properties": [
+                {
+                    "capacity_value": 345,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 312,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 263,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 207,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 140,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 351,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 269,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zinc Nitrate Hexahydrate",
+                    "material_formula": "Zn(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Glycerol",
+                    "material_formula": "C3H8O3",
+                    "amount": {
+                        "value": 8,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Isopropanol",
+                    "material_formula": "C3H8O",
+                    "amount": {
+                        "value": 40,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 90,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 20,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Sodium Dodecyl Sulfate (SDS)",
+                    "material_formula": "C12H25NaO4S",
+                    "amount": {
+                        "value": 2.1,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Distilled Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Pyrrole",
+                    "material_formula": "C4H5N",
+                    "amount": {
+                        "value": 21,
+                        "unit": "μl"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Persulfate",
+                    "material_formula": "(NH4)2S2O8",
+                    "amount": {
+                        "value": 2,
+                        "unit": "ml"
+                    }
+                }
+            ]
+        }
+    ]
+}

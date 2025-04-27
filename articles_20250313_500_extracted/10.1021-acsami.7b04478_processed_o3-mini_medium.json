@@ -1,0 +1,53 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Sodium cobalt oxide (NaxCoO2, NCO)",
+            "material_formula": "Na0.69CoO2",
+            "material_properties": [
+                {
+                    "capacity_value": 45.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 116.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 146.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                },
+                {
+                    "material_name": "cobalt oxide",
+                    "material_formula": "Co3O4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amounts"
+                    }
+                }
+            ]
+        }
+    ]
+}

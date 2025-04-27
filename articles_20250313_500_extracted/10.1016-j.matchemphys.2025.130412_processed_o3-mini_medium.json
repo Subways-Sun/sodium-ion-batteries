@@ -1,0 +1,117 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "10 wt%CeO2/TiO2 composite",
+            "material_formula": "CeO2-x/TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 325.2,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 218,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 147.6,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 132.5,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 104.8,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 67.8,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 83.4,
+                    "capacity_unit": "mAh·g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Tetrabutyl titanate",
+                    "material_formula": "Ti(OC4H9)4",
+                    "amount": {
+                        "value": 3.4,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Concentrated hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Absolute ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 13.6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "CeO2",
+                    "material_formula": "CeO2",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "TiO2 white powder",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 90,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

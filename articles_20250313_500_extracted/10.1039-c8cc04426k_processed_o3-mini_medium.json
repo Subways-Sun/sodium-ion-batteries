@@ -1,0 +1,99 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CoSe2",
+            "material_formula": "CoSe2",
+            "material_properties": [
+                {
+                    "capacity_value": 375,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 347,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 220,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1690
+                },
+                {
+                    "capacity_value": 375.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 345,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 302,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 266,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 219,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 220,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                },
+                {
+                    "capacity_value": 149,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5
+                }
+            ]
+        }
+    ]
+}

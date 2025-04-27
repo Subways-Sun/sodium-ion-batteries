@@ -1,0 +1,376 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2-SA",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 266.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 282.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 4
+                },
+                {
+                    "capacity_value": 218.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 220
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "MoS2",
+                    "material_formula": "MoS2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Sodium alginate (SA)",
+                    "material_formula": "n/a",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Acetylene black",
+                    "material_formula": "n/a",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2-SA-PAH",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 278.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 422.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 426.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 4
+                },
+                {
+                    "capacity_value": 364.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 220
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Alginate (SA)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Acrylamide (AM)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "2-Hydroxyethyl Acrylate (HEA)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.02,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Persulphate (APS)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.0211,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 60,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "MoS2",
+                    "material_formula": "MoS2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Acetylene Black",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2-SA-PAHB",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 378.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 496.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 4
+                },
+                {
+                    "capacity_value": 511.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 427.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 220
+                },
+                {
+                    "capacity_value": 267.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 305
+                },
+                {
+                    "capacity_value": 336.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 357.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium alginate (SA)",
+                    "material_formula": "––",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Acrylamide (AM)",
+                    "material_formula": "––",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "2-Hydroxyethyl acrylate (HEA)",
+                    "material_formula": "––",
+                    "amount": {
+                        "value": 1.02,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ammonium persulphate (APS)",
+                    "material_formula": "––",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Boric acid",
+                    "material_formula": "––",
+                    "amount": {
+                        "value": 3.21,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Deionized water (for SA-PAH solution)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 60.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Deionized water (additional for SA-PAHB)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 7.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3/C-PVDF",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 125.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 50
+                },
+                {
+                    "capacity_value": 149.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 128.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.25,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 108.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 70.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na3V2(PO4)3/C",
+                    "material_formula": "Na3V2(PO4)3/C",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Acetylene black",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "PVDF",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "N-Methyl-2-Pyrrolidone (NMP)",
+                    "material_formula": "C5H9NO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

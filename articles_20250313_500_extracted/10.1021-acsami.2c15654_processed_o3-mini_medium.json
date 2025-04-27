@@ -1,0 +1,223 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NNSO",
+            "material_formula": "Na3Ni2SbO6",
+            "material_properties": [
+                {
+                    "capacity_value": 112,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Anhydrous Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 10,
+                        "unit": "percent molar excess"
+                    }
+                },
+                {
+                    "material_name": "Cesium Carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Nickel Oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Magnesium Oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Antimony(III) Oxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Cs0.27",
+            "material_formula": "Na3-xCsxNi2SbO6 (x = 0.27)",
+            "material_properties": [
+                {
+                    "capacity_value": 109,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Anhydrous Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 10,
+                        "unit": "percent excess"
+                    }
+                },
+                {
+                    "material_name": "Cesium Carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Nickel Oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Antimony(III) Oxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Cs0.15Mg0.1",
+            "material_formula": "Na2.85Cs0.15Ni1.9Mg0.1SbO6",
+            "material_properties": [
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 118,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 117,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 108,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 66,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Anhydrous Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 10,
+                        "unit": "percent excess (molar basis)"
+                    }
+                },
+                {
+                    "material_name": "Cesium Carbonate",
+                    "material_formula": "Cs2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) Oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Magnesium Oxide",
+                    "material_formula": "MgO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                },
+                {
+                    "material_name": "Antimony(III) Oxide",
+                    "material_formula": "Sb2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount"
+                    }
+                }
+            ]
+        }
+    ]
+}

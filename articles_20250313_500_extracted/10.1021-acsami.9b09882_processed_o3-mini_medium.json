@@ -1,0 +1,110 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "2D BOHNs",
+            "material_formula": "Bi2O3",
+            "material_properties": [
+                {
+                    "capacity_value": 565.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 419.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 366.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 50,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 50
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Pluronic P123",
+                    "material_formula": "PEO-PPO-PEO (20:70:20)",
+                    "amount": {
+                        "value": 620,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Bismuth nitrate",
+                    "material_formula": "Bi(NO3)3·5H2O",
+                    "amount": {
+                        "value": 390,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ethylene glycol",
+                    "material_formula": "C2H6O2",
+                    "amount": {
+                        "value": 36,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "BOHNCG paper",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 80
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Single-layer graphene oxide (GO) aqueous suspension",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mg mL–1"
+                    }
+                },
+                {
+                    "material_name": "Surfactant-stabilized carbon nanotubes (CNTs) suspension",
+                    "material_formula": "CNTs",
+                    "amount": {
+                        "value": 2.0,
+                        "unit": "mg mL–1"
+                    }
+                },
+                {
+                    "material_name": "2D heterostructured Bi2O3 nanosheets (BOHNs)",
+                    "material_formula": "Bi2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

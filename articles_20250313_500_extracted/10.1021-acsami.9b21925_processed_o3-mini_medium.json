@@ -1,0 +1,102 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NTO",
+            "material_formula": "Na_xLi_yTi5O12",
+            "material_properties": [
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 150,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.5,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "LTO powder",
+                    "material_formula": "Li4Ti5O12",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Sodium-metal flakes",
+                    "material_formula": "Na",
+                    "amount": {
+                        "value": 0,
+                        "unit": "excess amount (exact quantity not provided)"
+                    }
+                },
+                {
+                    "material_name": "Biphenyl",
+                    "material_formula": "C12H10",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "1,2-Dimethoxyethane (DME)",
+                    "material_formula": "C4H10O2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Fe2(SO4)3",
+            "material_formula": "Na2Fe2(SO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 75,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "iron(II) sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mol (molar ratio)"
+                    }
+                },
+                {
+                    "material_name": "sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mol (molar ratio)"
+                    }
+                }
+            ]
+        }
+    ]
+}

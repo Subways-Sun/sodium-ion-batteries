@@ -1,0 +1,83 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVP@C",
+            "material_formula": "Na3V2(PO4)3 (assumed)",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol ratio"
+                    }
+                },
+                {
+                    "material_name": "Ammonium metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mol ratio"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mol ratio"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mol ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Metallic Sodium",
+            "material_formula": "Na",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "1M NaClO4 in EC and DEC",
+            "material_formula": "NaClO4",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium perchlorate",
+                    "material_formula": "NaClO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Ethylene carbonate",
+                    "material_formula": "C3H4O3",
+                    "amount": {
+                        "value": 50,
+                        "unit": "v/v %"
+                    }
+                },
+                {
+                    "material_name": "Propylene carbonate",
+                    "material_formula": "C4H6O3",
+                    "amount": {
+                        "value": 50,
+                        "unit": "v/v %"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NTO/CNT composite",
+            "material_formula": "NTO/CNT",
+            "material_properties": [
+                {
+                    "capacity_value": 751,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 314,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 170,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 196,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 148,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 118,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 86,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 46,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 161,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NTO powder",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Carbon black",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "CNT",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Isopropanol",
+                    "material_formula": "C3H8O",
+                    "amount": {
+                        "value": 100,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "PAA",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Nickel nitrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

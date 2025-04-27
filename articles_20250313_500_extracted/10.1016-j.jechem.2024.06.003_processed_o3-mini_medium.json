@@ -1,0 +1,416 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVP",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 5000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CH3COONa",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 5,
+                        "unit": "percent excess"
+                    }
+                },
+                {
+                    "material_name": "NH4VO3",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "HE-N3VM3P3",
+            "material_formula": "Na3V2−x(GaCrAlFeIn)x(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 117,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 107,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 97,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 76,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 90,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 101,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 5000
+                },
+                {
+                    "capacity_value": 185,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 5,
+                        "unit": "percent excess"
+                    }
+                },
+                {
+                    "material_name": "Aluminum Sulfate Octadecahydrate",
+                    "material_formula": "Al2(SO4)3·18H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Nitrate Nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Indium Oxide",
+                    "material_formula": "In2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Gallium Oxide",
+                    "material_formula": "Ga2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Chromium(III) Oxide",
+                    "material_formula": "Cr2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "Citric Acid",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Acetone",
+                    "material_formula": "C3H6O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Polyvinyl Alcohol",
+                    "material_formula": "PVA",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "HE-N3VM2P3",
+            "material_formula": "Na3V2−x(GaCrAlFeIn)x(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 113,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 5,
+                        "unit": "percent excess"
+                    }
+                },
+                {
+                    "material_name": "Aluminum Sulfate Octadecahydrate",
+                    "material_formula": "Al2(SO4)3·18H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) Nitrate Nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Indium Oxide",
+                    "material_formula": "In2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Gallium Oxide",
+                    "material_formula": "Ga2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Chromium Oxide",
+                    "material_formula": "Cr2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Acetone",
+                    "material_formula": "C3H6O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Polyvinyl Alcohol",
+                    "material_formula": "[-CH2CHOH-]n",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "HE-N3VM4P3",
+            "material_formula": "Na3V2−x(GaCrAlFeIn)x(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 5,
+                        "unit": "percent excess"
+                    }
+                },
+                {
+                    "material_name": "Aluminum Sulfate Octadecahydrate",
+                    "material_formula": "Al2(SO4)3·18H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "Ferric Nitrate Nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "Indium Oxide",
+                    "material_formula": "In2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "Gallium Oxide",
+                    "material_formula": "Ga2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "Chromium Oxide",
+                    "material_formula": "Cr2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Metavanadate",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Hard Carbon",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 187,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 260
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

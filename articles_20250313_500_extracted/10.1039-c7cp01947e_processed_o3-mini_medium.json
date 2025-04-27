@@ -1,0 +1,28 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Mg-substituted NaMnPO4 phospho-olivines",
+            "material_formula": "NaMn1-xMgxPO4",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "KMn1−xMgxPO4·H2O precursor",
+                    "material_formula": "KMn1−xMgxPO4·H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mole ratio (relative amount)"
+                    }
+                },
+                {
+                    "material_name": "Sodium acetate trihydrate",
+                    "material_formula": "NaCH3COO·3H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mole ratio (relative to precursor)"
+                    }
+                }
+            ]
+        }
+    ]
+}

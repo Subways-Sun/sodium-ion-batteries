@@ -1,0 +1,286 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFPPHE",
+            "material_formula": "Na4Fe2.65(NiCrMgCoMn)0.027(PO4)2P2O7",
+            "material_properties": [
+                {
+                    "capacity_value": 117.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 101.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 97.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 93.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 88.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 82.8,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 76,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 64.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 57,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79.5,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 90.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CH3COONa·3H2O",
+                    "material_formula": "CH3COONa·3H2O",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "FeSO4·7H2O",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 2.65,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "C6H8O7·H2O",
+                    "material_formula": "C6H8O7·H2O",
+                    "amount": {
+                        "value": 4.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Mg(CH3COO)2·4H2O",
+                    "material_formula": "Mg(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Ni(CH3COO)2·4H2O",
+                    "material_formula": "Ni(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Cr(CH3COO)2·4H2O",
+                    "material_formula": "Cr(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Mn(CH3COO)2·4H2O",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Co(CH3COO)2·4H2O",
+                    "material_formula": "Co(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFPP",
+            "material_formula": "Na4Fe3(PO4)2P2O7",
+            "material_properties": [
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 97.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 63.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CH3COONa·3H2O",
+                    "material_formula": "CH3COONa·3H2O",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "FeSO4·7H2O",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 2.65,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "C6H8O7·H2O",
+                    "material_formula": "C6H8O7·H2O",
+                    "amount": {
+                        "value": 4.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Mg(CH3COO)2·4H2O",
+                    "material_formula": "Mg(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Ni(CH3COO)2·4H2O",
+                    "material_formula": "Ni(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Cr(CH3COO)2·4H2O",
+                    "material_formula": "Cr(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Mn(CH3COO)2·4H2O",
+                    "material_formula": "Mn(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Co(CH3COO)2·4H2O",
+                    "material_formula": "Co(CH3COO)2·4H2O",
+                    "amount": {
+                        "value": 0.27,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

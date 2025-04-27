@@ -1,0 +1,417 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CoSSe-YS",
+            "material_formula": "CoSSe",
+            "material_properties": [
+                {
+                    "capacity_value": 769,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 581,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 348,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "mol (in 1 L solution)"
+                    }
+                },
+                {
+                    "material_name": "thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "selenium oxide",
+                    "material_formula": "SeO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "unspecified"
+                    }
+                },
+                {
+                    "material_name": "cobalt nitrate hexahydrate",
+                    "material_formula": "Co(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.17,
+                        "unit": "mol (in 1 L solution)"
+                    }
+                },
+                {
+                    "material_name": "cobalt leachate",
+                    "material_formula": "solution containing dissolved Co ions",
+                    "amount": {
+                        "value": 1,
+                        "unit": "L"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoSSe-YS@C",
+            "material_formula": "CoSSe",
+            "material_properties": [
+                {
+                    "capacity_value": 804,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 597,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 620,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 580,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 548,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 491,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 432,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 3,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 387,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 353,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 140,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 15,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 636,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 560,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Leachate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "L"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "M (in 1 L solution)"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Selenium oxide",
+                    "material_formula": "SeO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Pitch",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Tetrahydrofuran",
+                    "material_formula": "C4H8O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "P-CoSSe-YS",
+            "material_formula": "CoSSe",
+            "material_properties": [
+                {
+                    "capacity_value": 233,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "cobalt nitrate hexahydrate",
+                    "material_formula": "Co(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.17,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "selenium oxide",
+                    "material_formula": "SeO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoS-YS",
+            "material_formula": "CoS",
+            "material_properties": [
+                {
+                    "capacity_value": 276,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Co-containing leachate",
+                    "material_formula": "mixture containing Co ions",
+                    "amount": {
+                        "value": 1,
+                        "unit": "L"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "M (in 1 L solution)"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "SC(NH2)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Selenium oxide",
+                    "material_formula": "SeO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Cobalt nitrate hexahydrate",
+                    "material_formula": "Co(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.17,
+                        "unit": "M (in 1 L solution)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoSe-YS",
+            "material_formula": "CoSe",
+            "material_properties": [
+                {
+                    "capacity_value": 116,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Cobalt nitrate hexahydrate",
+                    "material_formula": "Co(NO3)3·6H2O",
+                    "amount": {
+                        "value": 0.17,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Selenium oxide",
+                    "material_formula": "SeO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Prussian Blue (PB)",
+            "material_formula": "Fe4[Fe(CN)6]3·xH2O",
+            "material_properties": [
+                {
+                    "capacity_value": 10,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 126,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 117,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CoS2@GC@B-CNT",
+            "material_formula": "CoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 550,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 564.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 518.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 486.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 471.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 455.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 438.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 419.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 432.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 900
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Cobalt nitrate hexahydrate",
+                    "material_formula": "Co(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Melamine",
+                    "material_formula": "C3H6N6",
+                    "amount": {
+                        "value": 8.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "SC(NH2)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "appropriate amount"
+                    }
+                },
+                {
+                    "material_name": "Hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 6.0,
+                        "unit": "M"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "B-CNT",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 150,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "cobalt nitrate hexahydrate",
+                    "material_formula": "Co(NO3)2·6H2O",
+                    "amount": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "glucose",
+                    "material_formula": "C6H12O6",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "melamine",
+                    "material_formula": "C3H6N6",
+                    "amount": {
+                        "value": 8.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": "appropriate amount (not specified)"
+                    }
+                },
+                {
+                    "material_name": "hydrochloric acid",
+                    "material_formula": "HCl",
+                    "amount": {
+                        "value": 6.0,
+                        "unit": "M (solution concentration, volume not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoS2/CNT",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 58.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CoS2",
+                    "material_formula": "CoS2",
+                    "amount": {
+                        "value": 0.0581,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "commercial multi-walled carbon nanotube",
+                    "material_formula": "CNT",
+                    "amount": {
+                        "value": 0.0419,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "bare CoS2",
+            "material_formula": "CoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 36.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "cobalt nitrate hexahydrate",
+                    "material_formula": "Co(NO3)2·6H2O",
+                    "amount": {
+                        "value": 1.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "thiourea",
+                    "material_formula": "SC(NH2)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "appropriate amount"
+                    }
+                }
+            ]
+        }
+    ]
+}

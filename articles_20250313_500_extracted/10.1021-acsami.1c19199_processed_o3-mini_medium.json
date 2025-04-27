@@ -1,0 +1,215 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "HCMS 37",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 351.3,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 428.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 78,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Water-soluble phenolic resin",
+                    "material_formula": "PF",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Lignin",
+                    "material_formula": "L",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HCMS 55",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 356.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 440.5,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Water-soluble phenolic resin (PF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Lignin (L)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HCMS 73",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 373.4,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 426.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 364,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 358,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 331,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 117,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 330,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Water-soluble phenolic resin (PF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Lignin (L)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "HCMS 82",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 361.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 425.2,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

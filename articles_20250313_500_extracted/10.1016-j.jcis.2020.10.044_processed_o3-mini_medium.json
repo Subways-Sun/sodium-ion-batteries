@@ -1,0 +1,303 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sb2S3/Sb-CM",
+            "material_formula": "Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 1192,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 800,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 608,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Multi-walled carbon nanotubes",
+                    "material_formula": "CNT",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mass ratio (1 part)"
+                    }
+                },
+                {
+                    "material_name": "Graphene nanoribbons",
+                    "material_formula": "GNR",
+                    "amount": {
+                        "value": 0,
+                        "unit": "mass ratio (1 part)"
+                    }
+                },
+                {
+                    "material_name": "Antimony trichloride",
+                    "material_formula": "SbCl3",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Deionized water (for CM synthesis)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Sb-CM powder",
+                    "material_formula": "Sb-doped carbon matrix",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Antimony potassium tartrate",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 15,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "C2H5NS",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "Deionized water (for hydrothermal reaction)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb2S3/S-CM",
+            "material_formula": "Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 1207,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 807,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 801,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 711,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 617,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 552,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 481,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 675,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Carbon Nanotubes (CNT)",
+                    "material_formula": "CNT",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Graphene Nanoribbons (GNR)",
+                    "material_formula": "GNR",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Sodium sulfide",
+                    "material_formula": "Na2S",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water (for S-CM preparation)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "S-CM Powder",
+                    "material_formula": "S-CM",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Antimony Potassium Tartrate",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 15,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "Thioacetamide",
+                    "material_formula": "C2H5NS",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water (for hydrothermal reaction)",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb2S3/CM",
+            "material_formula": "Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 1108,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 717,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 709,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 426,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 150
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "CM powders",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "antimony potassium tartrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 15,
+                        "unit": "mM"
+                    }
+                },
+                {
+                    "material_name": "thioacetamide",
+                    "material_formula": "CH3CSNH2",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mM"
+                    }
+                }
+            ]
+        }
+    ]
+}

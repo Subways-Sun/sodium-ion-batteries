@@ -1,0 +1,141 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "KMF-OS",
+            "material_formula": "K1.56Mn[Fe(CN)6]0.92□0.08·0.61 H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 93.3,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 96.2,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 25,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 81,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1500
+                },
+                {
+                    "capacity_value": 70.0,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 1300
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.025,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 56,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "manganese(II) acetate tetrahydrate",
+                    "material_formula": "MnAc2·4H2O",
+                    "amount": {
+                        "value": 0.0735,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ethylenediaminetetraacetic acid dipotassium salt dihydrate",
+                    "material_formula": "K2EDTA·2H2O",
+                    "amount": {
+                        "value": 0.0607,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "potassium sulfate",
+                    "material_formula": "K2SO4",
+                    "amount": {
+                        "value": 0.03,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "polyvinylpyrrolidone",
+                    "material_formula": "PVP",
+                    "amount": {
+                        "value": 0.25,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "potassium hexacyanoferrate(III)",
+                    "material_formula": "K3Fe(CN)6",
+                    "amount": {
+                        "value": 0.099,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

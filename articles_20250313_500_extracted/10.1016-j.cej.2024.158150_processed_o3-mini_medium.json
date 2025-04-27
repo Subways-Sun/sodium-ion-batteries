@@ -1,0 +1,53 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Gr/FeSO4 nanocomposite",
+            "material_formula": "Gr/FeSO4",
+            "material_properties": [
+                {
+                    "capacity_value": 94,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 164,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 170,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.0,
+                    "current_density_unit": "C",
+                    "cycle": 10
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "FeSO4 powder",
+                    "material_formula": "FeSO4",
+                    "amount": {
+                        "value": 80,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Graphene",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 20,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

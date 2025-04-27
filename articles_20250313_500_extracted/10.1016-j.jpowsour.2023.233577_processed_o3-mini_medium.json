@@ -1,0 +1,167 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ASR-7A",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 311.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 65.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "ASR-7 hard carbon",
+                    "material_formula": "C (amorphous)",
+                    "amount": {
+                        "value": 85,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Carbon black",
+                    "material_formula": "C (amorphous)",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylidene fluoride (PVDF)",
+                    "material_formula": "(-CH2-CF2-)n",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "N-methyl-2-pyrrolidone (NMP)",
+                    "material_formula": "C5H9NO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "dropwise"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ASR-9A",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 359.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 147.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "ASR-9 Hard Carbon",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 85,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Carbon Black",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 10,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylidene Fluoride (PVDF) Binder",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "N-Methyl-2-pyrrolidone (NMP)",
+                    "material_formula": "C5H9NO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "dropwise"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ASR-11A",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 434.2,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 230.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 210,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "mA/g",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Automotive Shredder Residue (ASR)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

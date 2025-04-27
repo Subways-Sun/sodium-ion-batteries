@@ -1,0 +1,285 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "I-NVPF@rGO",
+            "material_formula": "Na3V2(PO4)2F3",
+            "material_properties": [
+                {
+                    "capacity_value": 127.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 123.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 120.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 114.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 108.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 94.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 30.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 78.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 82.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "[Emim]BF4",
+                    "material_formula": "[Emim]BF4",
+                    "amount": {
+                        "value": 38.64,
+                        "unit": "µL"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 7.5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide (GO)",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mL (10 mg/mL)"
+                    }
+                },
+                {
+                    "material_name": "V2O5",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 271.0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "CH3COONa",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 2.46,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "C6H8O7",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 864.59,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 345.09,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "NaF",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 188.96,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "H-NVPF@rGO",
+            "material_formula": "Na3V2(PO4)3/Na3VF6",
+            "material_properties": [
+                {
+                    "capacity_value": 116.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 112.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 105.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 80.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 66.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 46.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 30.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 18.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 7.5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mL (10 mg mL−1)"
+                    }
+                },
+                {
+                    "material_name": "Vanadium(V) Oxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 271.0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sodium Acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 2.46,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Citric Acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 864.59,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ammonium Dihydrogen Phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 345.09,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Sodium Fluoride",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 188.96,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/SnS/rGO",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

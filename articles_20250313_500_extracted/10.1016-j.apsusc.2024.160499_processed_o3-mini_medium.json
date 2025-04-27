@@ -1,0 +1,166 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "FeHCF-0",
+            "material_formula": "Na0.43FeIII0.26FeII0.29[FeII(CN)6]0.45□0.10·3.06H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 82,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 58.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 48.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium ferrocyanide",
+                    "material_formula": "Na4[Fe(CN)6]",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "ferrous sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "FeHCF-1",
+            "material_formula": "Na1.07FeIII0.30FeII0.14□0.12[FeII(CN)6]0.56·1.65H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 130.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 114.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 83.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 72.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 59.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 89.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "sodium ferrocyanide",
+                    "material_formula": "Na4[Fe(CN)6]",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "ferrous sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "citric acid",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

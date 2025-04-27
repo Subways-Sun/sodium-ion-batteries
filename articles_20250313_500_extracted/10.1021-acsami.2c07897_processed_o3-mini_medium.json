@@ -1,0 +1,206 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVPFC-NS",
+            "material_formula": "Na3V2(PO4)2F3",
+            "material_properties": [
+                {
+                    "capacity_value": 129,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 132,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 115,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 110,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 40,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 93,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 60,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 65,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 51,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 150,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "amylopectin",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.25,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "CO(NH2)2",
+                    "amount": {
+                        "value": 0.25,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NH4VO3",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "NaF",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVPF-NP",
+            "material_formula": "Na3V2(PO4)2F3",
+            "material_properties": [
+                {
+                    "capacity_value": 40,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "oxalate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.25,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.25,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NH4VO3",
+                    "material_formula": "NH4VO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "NaF",
+                    "material_formula": "NaF",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Porous Carbon (PC)",
+            "material_formula": "",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "amylopectin",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.25,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "urea",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.25,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

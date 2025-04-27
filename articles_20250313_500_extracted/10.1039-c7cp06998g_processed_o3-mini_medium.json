@@ -1,0 +1,28 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "spherical graphite",
+            "material_formula": "C",
+            "material_properties": [
+                {
+                    "capacity_value": 105,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 113,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

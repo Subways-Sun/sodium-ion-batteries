@@ -1,0 +1,164 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Na3Fe3(PO4)4",
+            "material_formula": "Na3Fe3(PO4)4",
+            "material_properties": [
+                {
+                    "capacity_value": 83,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 77,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 65,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 64,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 55,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 42,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 200,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 61,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 260
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe(NO3)3·9H2O",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "NaNO3",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "NH4H2PO4",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Citric acid",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 15,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Zn3[Fe(CN)6]2",
+            "material_formula": "Na2Zn3[Fe(CN)6]2",
+            "material_properties": [
+                {
+                    "capacity_value": 60,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zinc sulfate solution",
+                    "material_formula": "ZnSO4",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Sodium ferrocyanide solution",
+                    "material_formula": "Na4Fe(CN)6",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "17 mol kg–1 NaClO4 water-in-salt electrolyte",
+            "material_formula": "NaClO4",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "1 M Na2SO4 electrolyte",
+            "material_formula": "Na2SO4",
+            "material_properties": [],
+            "starting_material": []
+        }
+    ]
+}

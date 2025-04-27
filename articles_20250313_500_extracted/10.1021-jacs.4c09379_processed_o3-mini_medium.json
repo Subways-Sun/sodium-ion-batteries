@@ -1,0 +1,159 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Fe0.45Mn0.55PO4F/C",
+            "material_formula": "Na2Fe0.45Mn0.55PO4F",
+            "material_properties": [
+                {
+                    "capacity_value": 104.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 79,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Fe0.45Mn0.4V0.1PO4F/C",
+            "material_formula": "Na2Fe0.45Mn0.4V0.1PO4F",
+            "material_properties": [
+                {
+                    "capacity_value": 114.8,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 116.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 107.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96.3,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 85.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 73.7,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 57.4,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 45.1,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Fe0.45Mn0.4Cr0.1PO4F/C",
+            "material_formula": "Na2Fe0.45Mn0.4Cr0.1PO4F",
+            "material_properties": [
+                {
+                    "capacity_value": 107.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 85,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 73,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 400
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Fe0.45Mn0.4Sc0.1F/C",
+            "material_formula": "Na2Fe0.45Mn0.4Sc0.1F",
+            "material_properties": [
+                {
+                    "capacity_value": 96.0,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na2Fe0.45Mn0.4Al0.1PO4F/C",
+            "material_formula": "Na2Fe0.45Mn0.4Al0.1PO4F",
+            "material_properties": [
+                {
+                    "capacity_value": 93.6,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 2
+                }
+            ]
+        }
+    ]
+}

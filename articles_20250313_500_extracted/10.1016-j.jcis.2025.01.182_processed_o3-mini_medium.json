@@ -1,0 +1,62 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sn foil",
+            "material_formula": "Sn",
+            "material_properties": [
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sn foil",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 50,
+                        "unit": "μm"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "ZnSn alloy foil",
+            "material_formula": "ZnSn",
+            "material_properties": [
+                {
+                    "capacity_value": 1,
+                    "capacity_unit": "mAh cm^-2",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "mA cm^-2",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sn particles",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 1400,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Zn particles",
+                    "material_formula": "Zn",
+                    "amount": {
+                        "value": 600,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

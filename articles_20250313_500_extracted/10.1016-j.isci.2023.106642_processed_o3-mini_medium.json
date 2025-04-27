@@ -1,0 +1,188 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Porous TiO2",
+            "material_formula": "TiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 265,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 156,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 208,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 153.6,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 145.0,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 124.8,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 107,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 134.6,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 126,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TSC (TiO2@SnO2@C)",
+            "material_formula": "TiO2@SnO2@C",
+            "material_properties": [
+                {
+                    "capacity_value": 667,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 357,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 279,
+                    "capacity_unit": "mAh g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 393,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 357,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 326,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 274,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 204,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 343,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 261,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "TS (TiO2@SnO2)",
+            "material_formula": "TiO2@SnO2",
+            "material_properties": [
+                {
+                    "capacity_value": 135,
+                    "capacity_unit": "mAh cm^-3",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g^-1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

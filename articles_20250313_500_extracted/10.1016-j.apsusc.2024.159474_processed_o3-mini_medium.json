@@ -1,0 +1,19 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "monolayer Cu2N",
+            "material_formula": "Cu2N",
+            "material_properties": [
+                {
+                    "capacity_value": 379.88,
+                    "capacity_unit": "mAh.g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

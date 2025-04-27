@@ -1,0 +1,49 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaNFMO",
+            "material_formula": "null",
+            "material_properties": [
+                {
+                    "capacity_value": 1286,
+                    "capacity_unit": "mAh",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Cu-NaNFMO",
+            "material_formula": "null",
+            "material_properties": [
+                {
+                    "capacity_value": 1290,
+                    "capacity_unit": "mAh",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NaNFMO@Co",
+            "material_formula": "null",
+            "material_properties": [
+                {
+                    "capacity_value": 1289,
+                    "capacity_unit": "mAh",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

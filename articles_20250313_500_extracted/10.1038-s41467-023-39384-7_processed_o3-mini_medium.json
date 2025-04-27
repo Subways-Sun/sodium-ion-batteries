@@ -1,0 +1,190 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFS-H",
+            "material_formula": "Na2.26Fe1.87(SO4)3 + Na6Fe(SO4)4",
+            "material_properties": [
+                {
+                    "capacity_value": 101.3,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 6,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 99.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 12,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 98.0,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 24,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 95.0,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 60,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 92.1,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 120,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 88.6,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 240,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 82.1,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 600,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 73.5,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1200,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Ethylene glycol",
+                    "material_formula": "C2H6O2",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Iron sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Anhydrous sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Ascorbic acid",
+                    "material_formula": "C6H6O6",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Citric acid monohydrate",
+                    "material_formula": "C6H10O8",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Isopropanol",
+                    "material_formula": "C3H8O",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFS-L",
+            "material_formula": "Na2+2xFe2-x(SO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 89.7,
+                    "capacity_unit": "mAh g-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 6,
+                    "current_density_unit": "mA g-1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Iron sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Anhydrous sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Ascorbic acid",
+                    "material_formula": "C6H6O6",
+                    "amount": {
+                        "value": 0.02,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Citric acid monohydrate",
+                    "material_formula": "C6H10O8",
+                    "amount": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

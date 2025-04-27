@@ -1,0 +1,86 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "SC-NCM",
+            "material_formula": "Na[Ni0.6Co0.2Mn0.2]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 108.26,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "Co3O4",
+                    "material_formula": "Co3O4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "MnO2",
+                    "material_formula": "MnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 140,
+                        "unit": "%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "PC-NCM",
+            "material_formula": "Na[Ni0.6Co0.2Mn0.2]O2",
+            "material_properties": [
+                {
+                    "capacity_value": 117.94,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Ni0.6Co0.2Mn0.2(OH)2 precursor",
+                    "material_formula": "Ni0.6Co0.2Mn0.2(OH)2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "stoichiometric (coprecipitation process)"
+                    }
+                },
+                {
+                    "material_name": "NaOH",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 115,
+                        "unit": "percent (relative to [Ni+Co+Mn] molar amount)"
+                    }
+                }
+            ]
+        }
+    ]
+}

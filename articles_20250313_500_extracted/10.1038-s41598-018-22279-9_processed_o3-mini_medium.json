@@ -1,0 +1,328 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.99CrO2",
+            "material_formula": "Na0.99CrO2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.99FeO2",
+            "material_formula": "Na0.99FeO2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na1.00CoO2",
+            "material_formula": "Na1.00CoO2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Na2O2",
+                    "material_formula": "Na2O2",
+                    "amount": {
+                        "value": 1.1,
+                        "unit": "molar ratio relative to Co"
+                    }
+                },
+                {
+                    "material_name": "Co3O4",
+                    "material_formula": "Co3O4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.98Fe0.5Co0.5O2",
+            "material_formula": "Na0.98Fe0.5Co0.5O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 1.05,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Magnetite",
+                    "material_formula": "Fe3O4",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Cobalt oxide",
+                    "material_formula": "Co3O4",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.99Fe0.5Ni0.5O2",
+            "material_formula": "Na0.99Fe0.5Ni0.5O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium peroxide",
+                    "material_formula": "Na2O2",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.94Ti0.5Ni0.5O2",
+            "material_formula": "Na0.94Ti0.5Ni0.5O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 1.05,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.52MnO2",
+            "material_formula": "Na0.52MnO2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.59CoO2",
+            "material_formula": "Na0.59CoO2",
+            "material_properties": [],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.50Mn0.5Co0.5O2",
+            "material_formula": "Na0.50Mn0.5Co0.5O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "mol ratio (relative)"
+                    }
+                },
+                {
+                    "material_name": "Manganese carbonate",
+                    "material_formula": "MnCO3",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mol ratio (relative)"
+                    }
+                },
+                {
+                    "material_name": "Cobalt oxide",
+                    "material_formula": "Co3O4",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mol ratio (relative)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.70Ni0.33Mn0.67O2",
+            "material_formula": "Na0.70Ni0.33Mn0.67O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel Oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) Oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0.67,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.69Ni0.33Mn0.5Ti0.17O2",
+            "material_formula": "Na0.69Ni0.33Mn0.5Ti0.17O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Titanium dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0.17,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.70Ni0.33Mn0.33Ti0.34O2",
+            "material_formula": "Na0.70Ni0.33Mn0.33Ti0.34O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0.33,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Titanium dioxide",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 0.34,
+                        "unit": "molar ratio"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.48Mn0.5Fe0.5O2",
+            "material_formula": "Na0.48Mn0.5Fe0.5O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium peroxide",
+                    "material_formula": "Na2O2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

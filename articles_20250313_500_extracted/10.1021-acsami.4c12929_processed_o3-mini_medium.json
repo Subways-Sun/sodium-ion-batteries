@@ -1,0 +1,142 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "PBA-13 (Fe-PBA)",
+            "material_formula": "NaxFe[Fe(CN)6]y□1–y",
+            "material_properties": [
+                {
+                    "capacity_value": 94.1,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 68.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 2000
+                },
+                {
+                    "capacity_value": 10,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 20,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 70,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.0,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium ferrocyanide",
+                    "material_formula": "Na4Fe(CN)6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio relative to FeSO4·7H2O (1:1.2)"
+                    }
+                },
+                {
+                    "material_name": "Ferrous sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "molar ratio relative to Na4Fe(CN)6 (1:1.2)"
+                    }
+                },
+                {
+                    "material_name": "Sodium citrate dihydrate",
+                    "material_formula": "C6H5Na3O7·2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Ascorbic acid",
+                    "material_formula": "C6H8O6",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "PBA-15 (Fe-PBA)",
+            "material_formula": "NaxFe[Fe(CN)6]y□1–y",
+            "material_properties": [
+                {
+                    "capacity_value": 95.0,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 33.7,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium ferrocyanide",
+                    "material_formula": "Na4Fe(CN)6",
+                    "amount": {
+                        "value": 1,
+                        "unit": "molar ratio (relative to FeSO4)"
+                    }
+                },
+                {
+                    "material_name": "Ferrous sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "molar ratio (relative to Na4Fe(CN)6)"
+                    }
+                },
+                {
+                    "material_name": "Sodium citrate dihydrate",
+                    "material_formula": "C6H5Na3O7·2H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Ascorbic acid",
+                    "material_formula": "C6H8O6",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        }
+    ]
+}

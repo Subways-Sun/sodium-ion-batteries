@@ -1,0 +1,182 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CFs",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 239,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 32,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 207,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 192,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Polyacrylonitrile (PAN)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "N,N-dimethylformamide (DMF)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 9,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CFs-P15",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 288,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 54,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 234,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "not mentioned",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 287,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 269,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 228,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 149,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 103,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 289,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g–1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "polyacrylonitrile",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "N,N-dimethylformamide",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 9,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "H3PO4",
+                    "material_formula": "H3PO4",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

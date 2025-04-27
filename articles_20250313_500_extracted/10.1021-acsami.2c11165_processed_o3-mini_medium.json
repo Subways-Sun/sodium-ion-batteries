@@ -1,0 +1,42 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sb/rGO composite",
+            "material_formula": "Sb/rGO",
+            "material_properties": [
+                {
+                    "capacity_value": 550,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A/g",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 490,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A/g",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "rGO",
+            "material_formula": "rGO",
+            "material_properties": [
+                {
+                    "capacity_value": 130,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                }
+            ]
+        }
+    ]
+}

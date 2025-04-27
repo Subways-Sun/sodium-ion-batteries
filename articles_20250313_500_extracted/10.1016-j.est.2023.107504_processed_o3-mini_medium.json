@@ -1,0 +1,360 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "V2O3/NC",
+            "material_formula": "V2O3/NC",
+            "material_properties": [
+                {
+                    "capacity_value": 208.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 483.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 246.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 223.4,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 202.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 181.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 174.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 151.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 320.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1700
+                },
+                {
+                    "capacity_value": 230.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 4500
+                },
+                {
+                    "capacity_value": 129.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 12000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Isopropanol",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Deionized Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "VO(acac)2",
+                    "material_formula": "VO(acac)2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Dopamine Hydrochloride",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NH3·H2O",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "V2O3",
+            "material_formula": "V2O3",
+            "material_properties": [
+                {
+                    "capacity_value": 67.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 171,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 71.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 220
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "VO(acac)2",
+                    "material_formula": "VO(acac)2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Dopamine hydrochloride",
+                    "material_formula": "C8H11NO2·HCl",
+                    "amount": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NH3·H2O",
+                    "material_formula": "NH3·H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "V2O3/NC-0.05",
+            "material_formula": "V2O3/NC",
+            "material_properties": [
+                {
+                    "capacity_value": 179.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 330.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 236.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 860
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "isopropanol",
+                    "material_formula": "C3H8O",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "VO(acac)2",
+                    "material_formula": "VO(acac)2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "dopamine hydrochloride",
+                    "material_formula": "dopamine hydrochloride",
+                    "amount": {
+                        "value": 0.05,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NH3·H2O",
+                    "material_formula": "NH3·H2O",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "V2O3/NC-0.15",
+            "material_formula": "V2O3/NC",
+            "material_properties": [
+                {
+                    "capacity_value": 119.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 366.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 170,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 800
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "isopropanol",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "VO(acac)2",
+                    "material_formula": "VO(acac)2",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "dopamine hydrochloride",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "NH3·H2O",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 97.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 90
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

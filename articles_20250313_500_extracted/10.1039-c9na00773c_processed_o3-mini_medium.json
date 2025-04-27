@@ -1,0 +1,281 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "CGO-0",
+            "material_formula": "CuO",
+            "material_properties": [
+                {
+                    "capacity_value": 624,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 183,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Copper sulphate pentahydrate",
+                    "material_formula": "CuSO4·5H2O",
+                    "amount": {
+                        "value": 2.815558,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Double distilled water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 120,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0.225,
+                        "unit": "M (concentration; volume not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CGO-5",
+            "material_formula": "CuO/CuGa2O4",
+            "material_properties": [
+                {
+                    "capacity_value": 640,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 319,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Copper sulphate pentahydrate",
+                    "material_formula": "CuSO4·5H2O",
+                    "amount": {
+                        "value": 2.815558,
+                        "unit": "g (for pristine synthesis; in CGO-5 it is used as 95 wt% of the total copper precursor)"
+                    }
+                },
+                {
+                    "material_name": "Gallium nitrate hydrate",
+                    "material_formula": "Ga(NO3)3·xH2O",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt% (relative to total precursor)"
+                    }
+                },
+                {
+                    "material_name": "Sodium hydroxide solution",
+                    "material_formula": "NaOH",
+                    "amount": {
+                        "value": 0.225,
+                        "unit": "M (concentration; absolute amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Double distilled water",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 120,
+                        "unit": "mL (used for the copper precursor solution; for composite synthesis water is used but exact volume is not detailed)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CGO-10",
+            "material_formula": "CuO/CuGa2O4/Cu4O3",
+            "material_properties": [
+                {
+                    "capacity_value": 661,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 481,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 519,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 447,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.3,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 401,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.7,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 281,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 1.3,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 187,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 3.3,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 6.6,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Copper sulphate pentahydrate",
+                    "material_formula": "CuSO4·5H2O",
+                    "amount": {
+                        "value": 2.533,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Gallium nitrate hydrate",
+                    "material_formula": "Ga(NO3)3·xH2O",
+                    "amount": {
+                        "value": 0.282,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CGO-15",
+            "material_formula": "CuO/CuGa2O4/Cu4O3",
+            "material_properties": [
+                {
+                    "capacity_value": 647,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 415,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Copper sulphate pentahydrate",
+                    "material_formula": "CuSO4·5H2O",
+                    "amount": {
+                        "value": 85,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Gallium nitrate hydrate",
+                    "material_formula": "Ga(NO3)3·xH2O",
+                    "amount": {
+                        "value": 15,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CGO-20",
+            "material_formula": "CuO/CuGa2O4/Cu4O3/Ga2O3",
+            "material_properties": [
+                {
+                    "capacity_value": 618,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 183,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.07,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "copper sulphate pentahydrate",
+                    "material_formula": "CuSO4·5H2O",
+                    "amount": {
+                        "value": 2.815558,
+                        "unit": "g (for pristine synthesis; for CGO-20, used at 80 wt%)"
+                    }
+                },
+                {
+                    "material_name": "gallium nitrate hydrate",
+                    "material_formula": "Ga(NO3)3·xH2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "wt% info: 20 wt% (exact mass not specified)"
+                    }
+                }
+            ]
+        }
+    ]
+}

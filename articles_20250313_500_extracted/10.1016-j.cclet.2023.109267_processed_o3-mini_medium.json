@@ -1,0 +1,35 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na3.5V1.5Mn0.5(PO4)3@C@3DPG",
+            "material_formula": "Na3.5V1.5Mn0.5(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 73.9,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 88.4,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "specific",
+                    "current_density_value": 15,
+                    "current_density_unit": "C",
+                    "cycle": 5000
+                },
+                {
+                    "capacity_value": 110.3,
+                    "capacity_unit": "mAh/g",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "null",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

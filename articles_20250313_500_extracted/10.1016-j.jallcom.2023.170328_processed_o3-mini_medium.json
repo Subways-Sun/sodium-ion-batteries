@@ -1,0 +1,263 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Co0.11Ni0.89S@NC",
+            "material_formula": "Co0.11Ni0.89S@NC",
+            "material_properties": [
+                {
+                    "capacity_value": 781,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 649,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 622,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 651,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 591,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 463,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 500,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 415,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 330,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 330,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1500
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Acid leaching filtrate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide (DMF)",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone (PVP, MW 40000)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "1,3,5-Benzenetricarboxylic acid",
+                    "material_formula": "C9H6O6",
+                    "amount": {
+                        "value": 0.3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mass ratio (relative to CoNi-MOF)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NiS@NC",
+            "material_formula": "NiS@NC",
+            "material_properties": [
+                {
+                    "capacity_value": 556,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Lithium nickelate",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "N,N-Dimethylformamide",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone (PVP, MW 40000)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "1,3,5-Benzenetricarboxylic acid",
+                    "material_formula": "C9H6O6",
+                    "amount": {
+                        "value": 0.3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoS@NC",
+            "material_formula": "CoS@NC",
+            "material_properties": [
+                {
+                    "capacity_value": 592,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Co-MOF",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "CH4N2S",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)3",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 240,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 345,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 270,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 100,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

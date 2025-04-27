@@ -1,0 +1,36 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "c-a’-RS-NaTiO2",
+            "material_formula": "NaTiO2",
+            "material_properties": [
+                {
+                    "capacity_value": 253,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 224,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 200,
+                    "capacity_unit": "mAh g–1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 4.0,
+                    "current_density_unit": "A g–1",
+                    "cycle": 20
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

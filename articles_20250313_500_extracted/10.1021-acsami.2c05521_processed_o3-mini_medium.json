@@ -1,0 +1,231 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NMZ",
+            "material_formula": "Na0.6Mn0.7Ni0.15Zn0.15O2",
+            "material_properties": [
+                {
+                    "capacity_value": 112.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 101.6,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt% extra (relative to precursor amount)"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) nitrate",
+                    "material_formula": "Mn(NO3)2",
+                    "amount": {
+                        "value": 0.7,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) nitrate",
+                    "material_formula": "Ni(NO3)2",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Zinc(II) nitrate",
+                    "material_formula": "Zn(NO3)2",
+                    "amount": {
+                        "value": 0.15,
+                        "unit": "molar ratio"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 6.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMZC",
+            "material_formula": "Na0.6Mn0.7Ni0.15Zn0.15–xCuxO2",
+            "material_properties": [
+                {
+                    "capacity_value": 113.9,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 106.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 56.95,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium Nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) Nitrate",
+                    "material_formula": "Mn(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "undefined"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) Nitrate",
+                    "material_formula": "Ni(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "undefined"
+                    }
+                },
+                {
+                    "material_name": "Zinc(II) Nitrate",
+                    "material_formula": "Zn(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "undefined"
+                    }
+                },
+                {
+                    "material_name": "Copper(II) Nitrate",
+                    "material_formula": "Cu(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "undefined"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 6.5,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Distilled Water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 80,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NMC",
+            "material_formula": "Na0.6Mn0.7Ni0.15Cu0.15O2",
+            "material_properties": [
+                {
+                    "capacity_value": 116.8,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 107.1,
+                    "capacity_unit": "mA h g–1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) nitrate",
+                    "material_formula": "Mn(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) nitrate",
+                    "material_formula": "Ni(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Zinc nitrate",
+                    "material_formula": "Zn(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Copper(II) nitrate",
+                    "material_formula": "Cu(NO3)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sucrose",
+                    "material_formula": "C12H22O11",
+                    "amount": {
+                        "value": 6.5,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}
