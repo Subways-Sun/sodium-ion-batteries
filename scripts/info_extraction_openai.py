@@ -21,7 +21,7 @@ logging.basicConfig(
 openai_model = "o3-mini"
 reasoning_effort = "medium"
 
-full_text_dir = os.path.join(os.getcwd(), "articles_20250313_500_json")
+full_text_dir = os.path.join(os.getcwd(), "articles_20250313_500_json_part_2")
 logging.debug(f"Full text directory: {full_text_dir}")
 
 for file in os.listdir(full_text_dir):
