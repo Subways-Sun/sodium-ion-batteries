@@ -1,7 +1,121 @@
 {
     "DOI": null,
     "Journal": null,
-    "Keywords": [],
-    "Sections": [],
-    "Title": null
+    "Keywords": [
+        "CeO2-x/TiO2 heterostructure composite",
+        "Active interface",
+        "Diffusion coefficient",
+        "Pseudocapacitance performance",
+        "Sodium-ion batteries"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "A novel CeO2-x/TiO2 heterostructure composite is constructed with oxygen vacancies via a convenient and green hydrothermal method combined with solid phase process for high electrochemical performance sodium-ion battery. The CeO2-x/TiO2 heterostructure forms some active interfaces which can provide more sodium storage sites and accelerate sodium-ion diffusion kinetics. Thus, 10 wt%CeO2-x/TiO2 anode displays excellent electrochemical properties in Na-ion batteries including high sodium-ion diffusion coefficient (7.1303 × 10−12 cm2 s−1), extrinsic pseudocapacitance contribution (67 %) and specific discharge capacity (325.2 mAh·g−1) at 0.1 C current rate. In addition, a superior long cycling performance over 500 cycles even at a high current density (1 C) have been presented and therefore our work is a good strategy for the application of titanium-based metal compounds in sodium-ion batteries."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "In recent years, lithium-ion batteries (LIBs) have attracted much attention owing to the advantage of long life spans and high storage energy density and operating voltage [ , , ]. Nevertheless, the application of lithium-ion batteries (LIBs) is limited as its lithium resources and high costs [ ]. In contrast, sodium-ion battery (SIBs) will be as alternative energy storage devices for lithium-ion batteries owing to its abundant resources, low cost and high safe efficiency [ , , ]. It is generally recognized that the anode material directly affects the overall kinetic performance of sodium-ion batteries, such as rate performance and power density. Therefore, it has been as a research hotspot in order to seek high-performance anode materials for sodium ion storage.",
+                "At present, a great variety of anode materials including carbonaceous materials [ , ], transition-metal oxides [ , ], and alloy materials [ , ] have been reported for SIBs. Among them, transition-metal oxides can exhibit some excellent properties such as optical, electrical and magnetic properties owing to their special crystal structures [ , , ]. Particularly titanium dioxides (TiO2), have been attracted attention due to its rich polymorphism and enough condition to storage ample sodium-ions [ , , , ]. Because the kinetic mass diffusion of rutile TiO2 is slow, researchers have rarely compared it to the high sodium storage properties of anatase TiO2 [ ]. In addition, the development of rutile TiO2 is limited due to low electronic conductivity resulting in an inferior rate capability [ ]. In order to solve these shortcomings of rutile TiO2, various of modification strategies have been devoted including nanoscale design [ ], conductive carbon loading [ ] and heteroatoms doping and composite [ ]. In current, heteroatom doping as an effective way to improve the conductivity of TiO2 has focused a great deal of attention. However, composite material, particularly rare-earth metal, is rarely reported, which is mainly attributed to the lack of stability.",
+                "Cerium dioxide (CeO2) with a fluorite structure can be formed by cerium cation at face-centered cubic positions, which can provide more interstitial paths for ion diffusion. Moreover, it also indicates that CeO2 can be easily reduced to CeO2-x, which is mainly attributed to the redox behavior between Ce4+ and Ce3+. So, it can provide more sodium storage sites and play a role in catalysing a certain electrochemical kinetic reaction rate [ ]. And then, cerium oxide with oxygen storage capacity (OSC) can also easily form the labile oxygen vacancies and relatively high mobility [ ]. Qian et al. designed high electrochemical performance Ce doped α-FeOOH nanorods which the Ce doping effectively optimize electronic conductivity so as to accelerate diffusion kinetics of Li-ion and enhance structure stability via hydrothermal method along with acid-treatment process for the first [ ]. Whereafter, rare earth element Ce due to the large radius has attracted much attention which can expand in favour of providing more lattice space for lithium intercalation and de-intercalation of crystal lattice, thus a large number of Ce doping electrode materials have been reported including Mn3O4 [ ], LiMnPO4 [ ], Li4Ti5O12 [ ], SrLi2Ti6O14 [ ] and SnS2 [ ]. However, the composite materials via combining different components owing to excellent electronic properties phase can significantly improve the electronic properties so as to effectively improve the electrochemical properties [ ]. According to previous investigation, researches about composites as anode for SIBs have been gradually attracting attention, however, CeO2-x/TiO2 composites have rarely reported.",
+                "It is currently widely recognized that different strategies including solid-phase method [ ], hydrothermal method [ ], chemistry [ ]&electrochemistry method [ ], sol-gel method [ ], and so on for constructing metal-metal oxide composites will be particularly important for their structure and properties. In this present work, we successfully construct a CeO2-x/TiO2 composite anode material in order to improve the electrochemical performances of rutile TiO2 anode for sodium-ion batteries via a convenient hydrothermal method combined with solid phase process. The effects of cerium oxide on crystal structure and electrochemical properties of rutile TiO2 have been investigated, and the sodium storage properties are well improved compared to commercial TiO2."
+            ],
+            "name": "Introduction",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "The CeO2-x/TiO2 was synthesized via a convenient hydrothermal method combined with high-temperature solid phase process. Firstly, 3.4 mL tetrabutyl titanate (TBOT) and 0.4 mL concentrated hydrochloric acid were mixed well-distributed. Then, 13.6 mL absolute ethanol and 0.2 mL deionized water were mixed together. After that, two solutions were mixed well to obtain a stable TiO2 soliquid. After stirring to form a homogeneous soliquid, the mixture was kept at 160 °C for 12 h in a vacuum oven. Then, the obtained white substance was collected through centrifugation, and washed several times with ethanol respectively. At last, the final TiO2 white powder was obtained by further drying under vacuum at 70 °C overnight.",
+                        "In order to obtain CeO2-x/TiO2 composite material, CeO2 and above mentioned TiO2 white powder were mixed in the alcohol solvent with the mass percent to 5 %, 10 %, and 15 % (CeO2:TiO2). Next, the mixed white powder was put into an alumina crucible and calcined at 800 °C for 10 h, then, the white sample were obtained after grinding. As compared, the sample selected for commercial pure TiO2 was signed C–TiO2。A structure diagram of the design process of the CeO2-x/TiO2 composite material is shown in Fig. 1."
+                    ],
+                    "name": "Synthesis of CeO2-x/TiO2 composite material",
+                    "type": "section_h3"
+                }
+            ],
+            "name": "Experiment",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The XRD patterns of C–TiO2, 5 wt%CeO2-x/TiO2, 10 wt%CeO2-x/TiO2 and 15 wt%CeO2-x/TiO2 samples are depicted in Fig. 2a. As can be deduced from the curves, the primary diffraction peaks of the four samples are all indexed to rutile TiO2 (JCPDS No.21-1276). Besides, some addition peaks of composite material can also be identified as CeO2 ((JCPDS No.43-1002), indicating that CeO2 is successfully composited with TiO2. And when the more elemental Ce is added, the main diffraction peaks gradually become weaker and wider. According to Scherrer formula, it is shown that although CeO2 composition reduces the crystallinity, it tightens the grain structure of the rutile TiO2. Raman spectrum is to further investigate the molecular skeleton structure of the CeO2-x/TiO2. As shown in Fig. 2b, these bands B1g at 146.5 cm−1, Eg at 240.9 and 449.9 cm−1, and A1g at 612.5 cm−1 corresponding to vibrational modes of rutile TiO2 are clearly observed respectively. It is known that the Eg mode at 449.9 cm−1 represents a symmetric stretching vibration of Ti–O [ ]. Then, the more cerium oxide is present, the Eg (449.9 cm−1) mode shifts towards higher waves and the main diffraction peak broadens is also enhanced. This illustrates that a red shift phenomena of the Eg peak has been increased the bonding energy of Ti–O structure due to cerium oxide with oxygen storage capacity which is conductive to undergo a more stable redox reactions on the surface of titanium dioxide [ , ].",
+                "To understand the superiority of CeO2-x/TiO2 composite, the electrochemical performances of 5 wt%CeO2/TiO2, 10 wt%CeO2/TiO2, 15 wt% CeO2/TiO2 and C–TiO2 composites as anodes in sodium-ion batteries is investigated. The initial charge-discharge curves at different rates for all the materials are shown in Fig. 3a–d. Based on the results, the similar initial discharge curves of these four anodes indicate that CeO2-x surface modification TiO2 has little effect on the electrochemical reaction process, however, the 10 wt%CeO2/TiO2 composite anode shows the highest initial discharge specific capacities of 325.2 mAh·g−1, 218 mAh·g−1, 147.6 mAh·g−1, 132.5 mAh·g−1, 104.8 mAh·g−1 and 67.8 mAh·g−1 at current densities of 0.1C, 0.2C, 0.5C, 1C, 2C and 5C, respectively (Fig. 3b).",
+                "To verify the unique advantages of the 10 wt%CeO2/TiO2 composite anode materials for SIBs, we investigate the cycle performance at different current densities (Fig. 3e and Fig. S1 a) and charge and discharge curves at different cycle time have been shown in Figs. S1b–e. As shown in Fig. 3e, obviously, 10 wt%CeO2/TiO2 composite anode displays a high reversible discharge specific capacity of 83.4 mAh·g−1 and 69.4 % capacity retention at 1 C after 500 cycles. As expected, Fig. 3f shows that 10 wt%CeO2/TiO2 composite anode for SIBs delivers the best rate performance with discharge specific capacities of 325.2mAh·g−1, 197.7mAh·g−1, 156.4 mAh·g−1, 132.5mAh·g−1, 104.8mAh·g−1, and 67.8mAh·g−1 at a current rate of 0.1C, 0.2C, 0.5C, 1C, 2C and 5C, respectively. More importantly, when the charge and discharge current return to 0.1C, the discharge specific capacity can be recover to 189.2 mAh·g−1 without too much loss. This means that some active interfaces between CeO2-x and TiO2 have been formed which can provide more sodium storage sites and accelerate sodium-ion diffusion kinetics so as to achieve high discharge specific capacity and excellent cycling performance. For better understanding of the reaction mechanism of CeO2-x/TiO2 composite anodes for SIBs, we investigate the relationship of charging and discharging voltage and working time in the initial charge-discharge curve of the 10 wt%CeO2-x/TiO2 composite anodes at 0.1C current rate and the charge-discharge curves have been divided into four regions (Fig. 3g). Firstly, the voltage drops to 1.0 V due to pseudocapacitive sodium-ion adsorption, SEI film formation and irreversible adsorption. Then, the plateaus as it drops from 1.0 V to 0.3 V, which is corresponding to cathodic decomposition plateau of the electrolyte at the surface and the voltage drop from 0.3V to 0.01 V which is due to Na+ insertion and structure rearrangement and disproportionation reaction, consistent well with previous reports. At last, the voltage increases from 0.01 V to 2.5 V ascribing to the reversible Na+ extraction process.",
+                "To further investigate electrochemical reaction kinetics of CeO2-x/TiO2 composite anodes, electrochemical impedance spectroscopy (EIS) measurement (Fig. 3h) is analyzed. It indicates that all of the Nyquist plots mainly consist of three parts including Rs as the internal resistance embodied in the small intercept at the high-frequency region, Rct as charge-transfer impedance on the electrode-electrolyte interface embodied in the semicircle in the high-frequency region, and Zw’ as the sodium-ion diffusion resistance in solid electrode embodied in the sloping line at the low-frequency region [ , , ]. In addition, the ion diffusion coefficient (DNa+) is calculated by equations (1), (2)).(1)",
+                "ơ",
+                "D Na + = R 2 T 2 / 2 A 2 n 4 F 4 C 2 ơ w 2(2)",
+                "ơ",
+                "‐",
+                "Z , = Rs + Rct + ơ w W ‐ 1 / 2In this equation, A is to indicate the specific surface area of the electrode, ơw is the Warburg factor, and C is representative of the concentration of sodium ions. Table 1 represents that the DNa + value of the 10 wt% CeO2/TiO2 composite anode (7.1303 × 10−12 cm2 s−1) is higher than that of the 5 wt%CeO2-x/TiO2 (6.2558 × 10−13 cm2 s−1), 15 wt%CeO2-x/TiO2 (7.4854 × 10−13 cm2 s−1) and C–TiO2 (4.0378 × 10−13 cm2 s−1). It can be found that the introduction of CeO2-x improves the sodium ion diffusion coefficient (DNa+). And then, The Nyquist plots of the CeO2-x/TiO2 composite anode with different the mass percent of CeO2-x illustrate that the Rct value of 10 wt% CeO2/TiO2 is only 242 Ω, which is smaller than that of the other CeO2-x/TiO2 and pure TiO2 (C–TiO2) anodes. Hence, it can be inferred that 10 wt% CeO2/TiO2 has the highest conductivity and electrochemical activity.",
+                "Fig. 4a–d displays the CV curves of CeO2-x/TiO2 composite and pure TiO2 anodes with different mass ratio of CeO2-x [ , ]. Meanwhile, a sharp peak is observed at low scanning speed cathodic process under 0.09 V and then disappear in the subsequent strong scanning speed (Fig. 4e), this is due to the fact that CeO2-x/TiO2 has a specific structure which allows some of the Na + to be released [ ]. And the other part of Na+ in the CeO2/TiO2 anode is further released around 0.67 V, whereas, Na+ will be re-intercalated around 0.41 V. The curves overlap very well, indicating excellent electrochemical stability. Comparison with the CV curve of C–TiO2, two obvious oxidation peak around 1.6 V and 2.16 V and a reduction around 1.92 V is observed, then no redox peaks are found in other composites, this may be because capacity decay is irreversible [ ].",
+                "The storage mechanism of sodium ions was explored by CV curves to further illustrate the reaction kinetics of CeO2/TiO2 anodes. It can be found that the CV curve changes significantly with increasing scan rate, which can be attributed to charge transfer resistance or diffusion constraints. The linear relationship between the logarithm of the scan rate and the peak redox current was observed by testing (Fig. 4f). As shown in equation (3) [ ]:(3)",
+                "i = a v bIn this equation, v is sweep rate, i represents the peak current, a and b are constants. By calculation, b values of 10 wt%CeO2/TiO2 is 0.88 (cathodic) and 0.78 (anodic) and C–TiO2 sample is 0.87 (cathodic) and 0.77 (anodic), respectively (Fig. S2d). Typically, A value of b equal to 0.5 will mainly indicate a diffusion controlled process, and A value of b (equal 1.0) suggests a capacitive controlled process for the sodium-ion storage [ , ]. The sample b value of between 0.5 and 1 can display the pseudo-capacitance characteristic between the typical behaviors of batteries and capacitors [ ]. And the characteristic of pseudo-capacitance is benefit to the rapid transmission of ions. Equations (4), (5)) allow us to determine how well the two mechanisms contribute to the total charge storage.(4)",
+                "i = k 1 v + k 2 v 1 / 2(5)",
+                "ori / v 1 / 2 = k 1 v 1 / 2 + k 2Where k2v1/2 corresponds to the contribution of intercalation/deintercalation effects [ , , ], and k1v represents the contribution of the surface capacitive effects.",
+                "The calculation shows that stored charge for 10 wt%CeO2/TiO2 is 17 % and 67 % at 0.1 mV−1 and 10 mV−1, respectively (Fig. 4h), However, the C–TiO2 capacitance contribution is low, 14 % at 0.1 mV−1, even though it is only 62 % at 10 mV−1 (Fig. S2f). The large pseudo-capacitive contribution may be correlated with defects formation between CeO2-x and TiO2 in the CeO2-x/TiO2 composite structure during the charge and discharge process, which cause the 10 wt%CeO2/TiO2 to possess excellent electrochemical performance at high current densities.",
+                "Fig. 5 depicts the SEM images of commercial pure TiO2 (C–TiO2) and CeO2-x/TiO2 composites with different mass ratio of CeO2-x. As seen, the C–TiO2 is constructed by irregularity nanoparticles (Fig. 5d), however, CeO2-x/TiO2 composites prepared in this experiment display the scale morphology of rough sphericity, and the morphology becomes increasingly coarse with the increase of CeO2-x content (Fig. 5a-c). It can be assumed that the generation of these rough particles is the result of some CeO2 grains attached to the surface of TiO2 spheres and moreover, for 10 wt%CeO2/TiO2 composite, CeO2 maintains a nanoscale grain size with a very homogeneous distribution so as to manifests itself in surface compression of the crystal lattice and form a large number of highly active sites leading to a significant increase in conductivity and sodium-ion diffusion rate of electrode materials [ ]. Nevertheless, the spherical surface collapses slightly when the CeO2-x content rise to 15 wt%, which can be attributed to higher cerium slightly change the original phase structure and it bright about a vast affect the electrochemical reaction kinetics. By performing TEM and HRTEM tests on 10 wt%CeO2/TiO2, it is found that a lattice spacing of 0.32 nm corresponds to the (110) crystalline surface of titanium dioxide and a lattice spacing of 0.31 nm corresponds to the (111) crystalline surface of cerium oxide (Fig. 5g). It can be surmised that TiO2 particles can enhance the electrical conductivity between them via forming a cerium oxide (CeO2-x) coating on the surface.",
+                "In addition, the surface composition and elemental species of 10 wt%CeO2/TiO2 composites were investigated by means of XPS measurements (Fig. 6). Fig. 6a demonstrates the presence of the elements Ti, Ce and O and the Ti 2p spectrum has two dominant peaks (Fig. 6b), corresponding to Ti 2p1/2 and Ti 2p3/2 for Ti4+. And two tiny peaks at 458.2 eV and 463.7 eV are assigned to Ti 2p1/2 and Ti 2p3/2 of Ti3+, which is probably caused cerium oxide with the redox behavior between Ce4+ and Ce3+, as reported in some previous researches [ ]. The Ce 3d spectra exhibits eight dominant peaks (Fig. 6c) and the peaks at 900.2 eV, 902.5 eV, 906.3 eV and 916.1 eV correspond to the Ce 3d3/2, while the peaks at 881.7eV, 884.5eV, 888.6eV and 897.6eV are attributed to the Ce 3d5/2 and two weak peaks at 884.2eV and 902.5eV manifest the presence of Ce3+ ions, while six obvious peaks is assigned to the Ce4+ ions, respectively [ , ]. The measurement is further evidence that some oxygen vacancies have been formed by redox reaction of cerium oxide on the titanium dioxide surface. In the O1s spectra (Fig. 6d), The peaks at 529.7 eV and 531.5 eV correspond to Ti–O and surface –OH bonds, respectively. The above results indicates that the valence concentration deviation of the original cations can lead to a change in the charge state of the transition metal cations, which in turn will greatly change the electronic conductivity [ ], and then the formation of certain oxygen vacancies in the material is possible to provide suitable pathways and more storage sites for sodium ion diffusion. Then, the Rietveld XRD patterns of C–TiO2 and 10 wt%CeO2/TiO2 based on Fig. 2a as shown in Fig. S3 illustrate that in the 10 wt%CeO2/TiO2 composite structure, CeO2-x is a fluorite crystal structure (Fm3m) with a 0.54 nm cell parameter and the existence of additional phases (Ce3+/4+) does not change the cellular parameters of the original TiO2 (a = b = 459 nm,c = 296 nm) which means that CeO2-x and TiO2 are mainly arranged in the form of heterojunctions thereby significantly enhancing the kinetic rate of the anode active material in the sodium-ion battery during the electrochemical reactions [ ]."
+            ],
+            "name": "Results and discussion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "In summary, cerium dioxide (CeO2-x) surface modification rutile TiO2 composite is successfully synthesized via a convenient and green hydrothermal method combined with solid phase process and its sodium storage property is evaluated. When 10 wt% CeO2/TiO2 as anode material for sodium-ion battery, it can achieve an initial discharge capacity of 325.2 mAh·g−1 at 0.1 C and 218 mAh·g−1 at 0.2 C and a high reversible discharge specific capacity of 83.4 mAh·g−1 and 69.4 % capacity retention at 1 C after 500 cycles. That is believed that the excellent electrochemical performances are attributed to the formation of oxygen vacancies and the contribution of the extrinsic pseudo-capacitance which can facilitate the electron and mass transportation. In addition, the heterostructure included in the 10 wt%CeO2/TiO2 composite can provide a large number of reaction sites and accelerate sodium-ion electrochemical kinetic reaction rate."
+            ],
+            "name": "Conclusions",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Lan Li: Writing – original draft, Resources, Investigation, Data curation. Runna Shi: Methodology, Formal analysis, Data curation, Conceptualization. Xueqin Jing: Validation, Investigation. Tingting Qu: Investigation, Formal analysis. Lin Wang: Validation, Resources, Funding acquisition, Formal analysis. Xiaoshi Lang: Writing – review & editing, Validation, Supervision, Funding acquisition, Formal analysis. Kedi Cai: Writing – review & editing, Supervision, Resources, Project administration, Funding acquisition."
+            ],
+            "name": "CRediT authorship contribution statement",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+            ],
+            "name": "Declaration of competing interest",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "This work is supported by National Natural Science Foundation of China (No.22075030), Support Program of Distinguished Professor of Liaoning Province (No.071717002), Support Program of young top talent of Liaoning Province (No.XLYC2007197), Science and technology general project of Liaoning province education department (No.LJ212410167078 and JYTZD2023173), Guideline program of science and technology of Jinzhou (No.JZ2022B018), Hebei University Basic Research Project of Shijiazhuang City (No.241790997A)."
+            ],
+            "name": "Acknowledges",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The following is the Supplementary data to this article:",
+                "Download: Download Word document (2MB)",
+                "Multimedia component 1.",
+                "Recommended articles"
+            ],
+            "name": "Appendix A. Supplementary data",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Data will be made available on request."
+            ],
+            "name": "Data availability",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "Engineering CeO2-x/TiO2 heterostructure composite with active interface structure as an anode material for high electrochemical performance sodium‐ion battery"
 }

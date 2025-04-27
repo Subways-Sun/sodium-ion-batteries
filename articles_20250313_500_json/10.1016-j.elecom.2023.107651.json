@@ -6,8 +6,7 @@
         "NASCION-Type Cathode",
         "Charge Transfer",
         "Structure Evolution",
-        "Local Structure",
-        "Recommended articles"
+        "Local Structure"
     ],
     "Sections": [
         {
@@ -27,31 +26,113 @@
         },
         {
             "content": [
-                "Data will be made available on request."
+                "Large scale energy storage has been urgently required for the use of grid application in the regulation of intermittent renewable sources (e.g., wind or solar energy) [1], [2]. Benefiting from the natural abundance and low cost of sodium resources, sodium-ion batteries are suggested as a promising candidate [3], [4]. Numerous materials, such as layered oxides [5], [6], [7], Prussian blue analogues [8], [9], and polyanion compounds [10], [11], [12] etc. have been studied as candidate cathode materials for high performance SIBs, because of their high capacity, long cycle life and low cost [13], [14], [15]. However, the layered oxides with 2D sodium diffusion path usually surfer from the issues of irreversible phase transition and storage instability [16]. Prussian blue analogues, which has open frameworks and porous channels for Na+ fast migration, surfer from the challenges of safety, toxicity, and environmental issues [17], however the current bottleneck in the industrialization of Prussian blue compounds lies in the removal of crystal water [18], [19]. The sodium super ionic conductor (NASICON) -structured polyanionic phosphates have been considered as promising cathodes for SIBs, for their 3-dimensional open channels, significant thermal stability, and competitive energy density [20], [21].",
+                "Rhombohedral-type NASICON structure of NaxM2(PO4)3 (R-3c space group) (0 ≤ x ≤ 4) (M = transition metal) is constituted of a three-dimensional framework built up by M2(PO4)3 units, in which the octahedral MO6 interlinks via the corners with tetrahedral PO4 [21]. Two different interstitial sites are available for sodium ions in the structure: Na1 with sixfold coordination and Na2 with eightfold coordination. These sites are arranged in an alternating way along the conducting channels. Each NASICON structural unit can accommodate four sodium ions, wherein one is located at Na1 sites and the other three are located at Na2 sites. Introducing different transition metal ions will tune the operation potential with different electrochemical redox couples [20], [22], [23]. For charge balance, the unit cell can accommodate 0 ∼ 4 sodium ions in the Na1 and Na2 sites [24], [25], [26]. Zhou et al. have introduced bivalence transition metal ions into the NASICON structure, and prepared Na4MnV(PO4)3 and Na4NiV(PO4)3, in which the Na1 and Na2 sites are fully occupied by sodium ions [26]. The introduction of Mn will decrease the cost and increase the working voltage for sodium-ion batteries. Hu et al. showed that in the Na4MnV(PO4)3 samples, two sodium-ions can reversibly (de)intercalation from/into the structure, with two voltage plateaus (slope) located at 3.6 and 3.4 V [27]. The average working voltage is about 0.2 V higher than that of Na3V2(PO4)3 with an approximate capacity. It is a promising cathode material for sodium-ion battery.",
+                "In this manuscript, Na4MnV(PO4)3/C was synthesized through a simple sol–gel method. Two sodium-ions are reversibly (de)intercalate from the structure. It shows a high reversible capacity of 106.7 mAh/g, a high initial coulombic efficiency (approximately 96 %), and a good cycling performance (a capacity retention of 87 % after 100 cycles). The electron transfer and crystal structural evolution during the electrochemical process were investigated by ex-situ synchrotron X-ray absorption near edge structure, in-situ X-ray diffraction, and galvanostatic intermittent titration technique. The relationship between the kinetics, chemical and structural evolution would provide new insight into the sodium storage mechanisms of NASICON-type cathode, and further the understanding of other materials for sodium-ion batteries."
             ],
-            "name": "Data availability",
+            "name": "Introduction",
             "type": "section_h2"
         },
         {
             "content": [
-                "© 2023 The Author(s). Published by Elsevier B.V."
+                {
+                    "content": [
+                        "The starting precursors of sodium carbonate (99.5 %, Alfa Aesar), manganese carbonate (99.9 %, Alfa Aesar), ammonium vanadium oxide (99 %, Alfa Aesar), citric acid monohydrate (AR, SCR) and phosphoric acid (85 wt% in H2O, 99.99 %, Sigma-Aldrich) were dissolved in deionized water in the molar ratio 4: 1: 1: 3: 2 (Na: Mn: V: P: C6H8O7·H2O) and stirred for 1 h, followed by an evaporation of solvent. Subsequently, the as-prepared powders were annealed at 800 °C for 3 h under hydrogen argon atmosphere (Ar: H2 = 96: 4) to obtain the Na4MnV(PO4)3/C samples."
+                    ],
+                    "name": "Sample preparation",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "X-ray diffraction (XRD) patterns were measured using a Bruker D8 Advance diffractometer equipped with a Cu Kα radiation source. The powder patterns were refined using TOPAS software. The pair distribution function (PDF) data were obtained on a PANalytical Empyrean outfitted with Ag Kα radiation. The sample morphology and composition characterizations were carried out with a scanning electron microscope (SEM, Hitachi S4800) with an energy dispersive X-ray spectrometer (EDS). The carbon content was determined by thermogravimetric analysis (TGA/DSC 3+, METTLER TOLEDO). The high-resolution transmission electron microscopy measurements were performed with a transmission electron microscopy (TEM, JEM-2100F, JEOL)."
+                    ],
+                    "name": "Material characterization",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The electrochemical properties of the samples were investigated with CR2032 coin cells. The working electrodes were prepared by casting a slurry of active material, acetylene black, and polyvinylidene fluoride (PVDF) binder in a 70: 20: 10 wt ratio with N-methyl-2-pyrrolidone (NMP) as solvent coated onto an aluminum current collector. The coin cells were assembled in an argon-filled glove box with the cathode, dried at 100 °C under vacuum for 10 h, a pure sodium anode, a Whatman glass fiber separator, and electrolyte of 1 M NaClO4 dissolved in PC: EC: FEC (47.5: 47.5: 5). Galvanostatic charge–discharge tests were carried out on a LANHE CT2001A battery test system from 2.5 to 3.8 V at a rate of 0.1C. The rate performance of the electrode was measured on a MACCOR 4200 battery test system. In the galvanostatic intermittent titration technique (GITT), the cells were charged at a current of 127 μA for 15 min followed by open circuit relaxation for 12 h."
+                    ],
+                    "name": "Electrochemical measurements",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The electronic states of Mn and V during the charge and discharge were probed by X-ray absorption spectroscopy (XAS) techniques. The XAS data at the Mn and V K-edge of the samples were recorded in transmission mode at beam line BL11B of the Shanghai Synchrotron Radiation Facility (SSRF). The station was operated with a Si (1 1 1) double crystal monochromator. The photon energy was calibrated with the first inflection point of Mn and V K-edge in corresponding metal foil. MnCO3 and Li3V2(PO4)3 were selected as references. Analysis of the XAS spectra was carried out using program code of IFEFFIT[28]."
+                    ],
+                    "name": "Ex-situ synchrotron X-ray absorption spectroscopy",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "In-situ XRD patterns were obtained from a Bruker D8 diffractometer using Cu Kα radiation, between 2θ = 20 − 60° using the home designed electrochemical cell [13]."
+                    ],
+                    "name": "In-situ XRD studies",
+                    "type": "section_h3"
+                }
             ],
-            "name": "Cited by (0)",
+            "name": "Material and methods",
             "type": "section_h2"
         },
         {
             "content": [
-                "No articles found.",
-                "About ScienceDirect",
-                "Remote access",
-                "Advertise",
-                "Contact and support",
-                "Terms and conditions",
-                "Privacy policy",
-                "Cookies are used by this site. Cookie Settings",
-                "All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply."
+                {
+                    "content": [
+                        "The SEM image in Fig. S1 shows that the obtained Na4MnV(PO4)3/C particles are irregular-shaped in several micrometer size. EDS mapping in Fig. S2 confirm the homogeneous distribution of sodium, manganese, vanadium, phosphorus, and carbon elements in the Na4MnV(PO4)3/C samples. TEM image in Fig. 1a verifies the presence of a uniform amorphous carbon layer on the surface of the Na4MnV(PO4)3/C particles, with a thickness of approximately 10–20 nm. The amount of carbon was estimated to be 9.88 wt% from the weight loss in the TGA, shown in Fig. S3. The presence of carbon and the good connection of carbon and Na4MnV(PO4)3 are suggested to improve the electrical conductivity of the transition metal phosphates[29]. HR-TEM images show that lattice fringes with interplanar distances of 0.435 nm belongs to the (1 0 4) planes of the rhombohedral structure are clearly seen, indicating an ordered single-phase crystal structure.",
+                        "The crystal structure of Na4MnV(PO4)3/C was further characterized by XRD, with the result shown in Fig. 1b. The diffraction pattern clearly shows a pure single phase, and no crystalline impurities are observed. No peaks belong to carbon are observed, indicating that the carbon coating layer is amorphous. All the diffraction peaks indicate that the obtained Na4MnV(PO4)3 crystallizes in the rhombohedral NASICON structure with a space group of R-3c [26]. Rietveld analysis shows the lattice parameters for the Na4MnV(PO4)3/C particles are a = 8.9016(18) Å and c = 21.360(4) Å. The detailed refined results are listed in Table S1.",
+                        "While Bragg diffraction provides information about the average structure, to further explore the crystal structure of Na4MnV(PO4)3/C, the X-ray pair distribution function (PDF) analysis was introduced to gain local structural insight[30], [31]. The peaks in PDF correspond to various atom − atom distances in the structure. The PDF curve of Na4MnV(PO4)3/C is plotted in Fig. 1c (1.4–2.6 Å), showing a series of sharp peaks, each of which corresponds to an interatomic distance. The peaks at 2.10 Å correspond to the TM–O (TM = Mn and V) bond. The different binding energies of Mn, V and O result in two atoms occupying the same site having different bond lengths of Mn-O and V-O, resulting a clear asymmetry in the curve. Fig. 1d shows the refinements of the PDF data within a r-range of 1–––20.0 Å. The data is in good agreement with the calculated values in short-range and long-range.",
+                        "The oxidation state of Mn and V were investigated via the Mn and V K-edge XANES spectra, with the comparison of Mn K-edge for MnCO3 and V K-edge for Li3V2(PO4)3, as shown in Fig. 1e and 1f. The Mn K-edge XANES of Na4MnV(PO4)3/C shows a cross-point of the spectra of MnO and MnCO3 at the energy position at 0.9 of the main absorption height, which indicates a Mn oxidation state of Mn2+ [32]. The absorption edges of V K-edge is at energy similar to that of Li3V2(PO4)3, suggesting the oxidation state of V is V3+ [33], [34], [35]."
+                    ],
+                    "name": "Material characterization of Na4MnV(PO4)3/C",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "2032-type coin cells were fabricated to measure the electrochemical properties of Na4MnV(PO4)3/C samples. Fig. 2a shows the galvanostatic charge/discharge curves of the selected cycles in the voltage window of 2.5–3.8 V at a rate of 0.1C (1C = 110 mA g−1). The typical charge–discharge curve can be roughly divided into a voltage slope at average 3.4 V (range from 3.3 V to 3.5 V), and a voltage plateau at 3.6 V, which suggests two different structural and chemical process. The insert dQ/dV curves of the first cycle further demonstrate that two redox couples are located at approximately 3.4 and 3.6 V. Na4MnV(PO4)3/C shows a charge capacity of 111.3 mAh/g, and a discharge capacity is 106.7 mAh/g, with a coulombic efficiency of 95.9 %. The observed capacity is close to the theoretical value for two sodium extraction from Na4MnV(PO4)3. The energy density of Na4MnV(PO4)3/C is calculated to be up to 368 Wh kg−1. As shown in Fig. 2b, Na4MnV(PO4)3/C displays a good cyclic stability. After 100 cycles, reversible capacity is maintained at 93.2 mAh/g, which is 87 % of the original reversible capacity. A good long cycling performance is attributed to the uniform carbon coating and the 3-dimensional open channels of the NASICON structure. The rate capability is measured at different current rates, shown in Fig. 2c. The reversible capacities are 105.1, 101.1, 88.2, 76.2, 60.8 and 39.8 mAh/g at current rates of 0.1, 0.2, 0.5, 1, 2 and 5C, respectively. It can be seen form the charge–discharge curve in Fig. 2c, with the increased rate, the capacity contributed from the higher plateau decrease, and the plateau converts to a voltage slope. While, the capacity originates from the lower voltage slope does not decrease much, only showing an increased voltage hysteresis. The results indicate the different electrochemical kinetics during the two sodium deintercalation process. The voltage slope process may have a faster kinetics than the voltage plateau process.",
+                        "To further investigate the thermodynamic and kinetic properties upon electrochemical sodium (de)intercalation, which control the electrochemical performance of the materials, GITT measurements were employed. The quasi-equilibrium redox potentials at different electrochemical states are shown in Fig. 2d. During the first sodium deintercalation, the quasi-OCV profile exhibits sloping voltage profiles indicating a single-phase reaction, while during the second sodium deintercalation, it exhibits a flat voltage plateau of 3.6 V indicating a two-phase reaction. The structure change mechanism will be further investigated by in-situ XRD. The overpotentials during the cycle are quite small. While there are still some differences of the overpotentials in different process. In the voltage sloping at ∼ 3.4 V, the charge/discharge polarization of the cell is only ∼ 5–10 mV. While, in the voltage plateau ∼ 3.6 V, the charge/discharge polarization is ∼ 20–40 mV. The results further indicated that the two plateau (slope) undergoes different electrochemical process with different kinetics. Ceder et al. have suggested that single-phase reaction pathway is kinetically favorable, as it allows the systems to bypass the nucleation and growth limitations in LiFePO4 case [36]."
+                    ],
+                    "name": "Electrochemical properties of Na4MnV(PO4)3/C",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The redox reaction of Na4MnV(PO4)3/C during the first cycle were investigated by ex-situ XAS. The normalized XANES of K-edges for V and Mn are shown in Fig. 3a and 3b. On charging stage, during the voltage slope at ∼ 3.4 V, the V K-edge shifts towards higher energy position, indicating the increase of the average oxidation; while the Mn K-edge remains unchanged. It indicates that the charge compensation mainly occurs on the oxidizing of V from V3+ to V4+. At the voltage plateau at ∼ 3.6 V, the V K-edge does not shift, while the Mn K-edge moves to a higher energy position: the Mn2+ ions are oxidized to Mn3+, and the V4+ ions do not change. On discharge, it is reversibly reduced from Mn3+ to Mn2+ and V4+ to V3+, shown in Fig. 3. Extended X-ray absorption fine structure (EXAFS) was measured to determine the local structure changes of V and Mn in Na4MnV(PO4)3/C [30]. The k3 weighted Fourier transformed (FT)-EXAFS spectra during the initial cycle are presented in Fig. 3c and 3d. During the initial cycle, it displays a bond length change solely on V during the slope process, and a bond length change solely on Mn during the plateau process. The bond length change for the first coordination environment is in agreement with the bond change during the redox of V and Mn."
+                    ],
+                    "name": "Redox mechanism investigated by ex-situ XAS",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "In-situ XRD measurements were taken to monitor the structure evolution of Na4MnV(PO4)3/C during the initial cycle. The XRD patterns along with the initial cycle curve are shown in Fig. 4a. The invariant peaks at 38.4 and 44.7° belong to Al foil, used as current collector and X-ray window. It is clear seen that, during the voltage slope at ∼ 3.4 V, there is only a continuous diffraction peaks shifting, without any new peaks. It indicates that, during this process, Na4MnV(PO4)3/C undergoes a single-phase reaction, which usually called solid solution reaction. While, several new peaks emerge and grow at the ∼ 3.6 V plateau, indicating a two-phase reaction. The second phase grows at the expense of the pristine one, and becomes a single phase at the end of charge. Considering the charge capacity, the final product can be denoted as Na2MnV(PO4)3. Lattice parameter evolution calculated from the in-situ XRD patterns is shown in Fig. 4b. On subsequent discharge, the phase transition processes are reversible. The structure of the material completely transforms back to the original Na4MnV(PO4)3 phase at the end of discharge. The lattice parameters shift back continuously to their original values. Ex-situ XRD measurements were performed on the half-charge state (Na3MnV(PO4)3) and charge state (Na2MnV(PO4)3) samples. Rietveld refinements results are shown in Fig. 4c. Rietveld refinement of the Na2MnV(PO4)3 sample was performed R-3c structure with 0.5Na in Na1 sites and 0.5Na in Na2 sites [22], [37]. The crystal parameters of the Na3MnV(PO4)3 and Na2MnV(PO4)3 are summarized in Table S2.",
+                        "Herein, the sodium storage mechanisms of Na4MnV(PO4)3/C during the electrochemical process can be described in the following. It undergoes a single-phase reaction and a two-phase reaction. During the voltage slope at ∼ 3.4 V, V3+ ions are oxidized to V4+, and the electrode undergoes a single-phase reaction with a faster kinetics due to the smaller lattice mismatch. During the voltage plateau at ∼ 3.6 V, Mn2+ ions are oxidized to Mn3+, during which, it shows a slow kinetics limited by the nucleation and growth of secondary phase in the two-phase reaction.",
+                        "There have been many discussions on the reaction mechanism of NASICON-type materials. The sodium storage mechanisms of NASICON materials are either a two-phase reaction or a single-phase reaction. Na3V2(PO4)3 exhibits a typical two-phase reaction process with a flat plateau at ∼ 3.4 V [38], [39]. Na3VCr(PO4)3 undergoes a one-phase reaction during the sodium deintercalation[40]. Na2TiV(PO4)3 undergoes a two-phase reaction during the desodiation, and a single-phase reaction during the sodiation[41], [42]. There are a few studies reporting the coexistence of single-phase and two-phase reaction during sodium extraction in polyanionic phosphate electrodes[43]. Yamada et al. have verified the coexistence of single-phase and two-phase reaction during lithium extraction in LiFe0.4Mn0.6PO4 combing XAS and XRD studies[44], [45]. The Fe3+/Fe2+ redox reaction proceeds in a single-phase reaction, and Mn3+/Mn2+ redox reaction undergoes a two-phase reaction. The origin of the coexistence of single-phase and two-phase reaction in the NASICON-type polyanionic phosphate need to be further understand."
+                    ],
+                    "name": "Structure evolution investigated by in-situ XRD",
+                    "type": "section_h3"
+                }
             ],
-            "name": "Recommended articles",
+            "name": "Results and discussion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "A NASICON-type Na4MnV(PO4)3/C compound was synthesized through a sol–gel method and performed as a high-performance cathode material for SIBs. It shows a high capacity, good rate capability, and long cycle life. The (de)intercalation process revealed two parts, with a voltage slope and a voltage plateau. The chemical and structural evolution were investigated by ex-situ synchrotron XAS and in-situ XRD analysis. The electrochemical cycling of Na4MnV(PO4)3/C undergoes a single-phase reaction with V4+/V3+ redox at the slope around 3.4 V and a two-phase reaction with Mn3+/Mn2+ redox at the plateau at 3.6 V, respectively. GITT indicates that the single-phase process shows a faster kinetics comparing to the two-phase reaction, since no nucleation and growth is required."
+            ],
+            "name": "Conclusions",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Dongxiao Wang: Writing – original draft, Investigation, Formal analysis, Data curation. Na Su: Writing – original draft, Investigation, Formal analysis, Data curation. Zhuo-Er Yu: Data curation. Shigang Lu: Writing – review & editing, Supervision. Yingchun Lyu: Conceptualization, Project administration, Visualization, Writing – review & editing, Funding acquisition. Bingkun Guo: Writing – review & editing, Project administration."
+            ],
+            "name": "CRediT authorship contribution statement",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+            ],
+            "name": "Declaration of competing interest",
             "type": "section_h2"
         }
     ],

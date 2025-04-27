@@ -1,0 +1,213 @@
+{
+    "DOI": null,
+    "Journal": null,
+    "Keywords": [
+        "3D porous carbon",
+        "Topological nodal surface",
+        "Sodium-ion battery anode"
+    ],
+    "Sections": [
+        {
+            "content": [
+                "Motivated by the successful synthesis of three-dimensional (3D) graphene monoliths, we propose a 3D carbon honeycomb structure, tC40, composed of graphene-nanoribbons linked with 5-5-8 defects based on first-principles calculations. This structure is not only dynamically, thermally, and mechanically stable, but also possesses interesting electronic properties, including the multiple topological nodal surfaces on the high-symmetry plane",
+                "k 3 = 0 with double and quadruple degeneracies of bands in the reciprocal space, and the nontrivial surface states connecting different topological nodal surfaces parallel to the z-axis. By using the k·p model, we further show that, unlike previously reported nodal surfaces, the energy dispersion of the quadruply degenerated nodal surface is proportional to the",
+                "k 3 2, while the Hamiltonian of the doubly degenerated nodal surface is formed by the essential degeneracy of the valence and conduction bands. In addition, we explore the application of this nodal surface carbon as an anode material for sodium-ion batteries (SIBs), and find that tC40 exhibits good performance with a high reversible capacity of 186 mAh·g−1, a low sodium ion migration barrier of 0.1 eV, and a small charging/discharging volume change of 0.79 %. This work expands the family of topological carbon materials and their applications in SIBs."
+            ],
+            "name": "Abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Previous article in issue",
+                "Next article in issue"
+            ],
+            "name": "Graphical abstract",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "A topological material with nodal surfaces is a unique material where the band crossing points near the Fermi surface form multiple 2D surfaces, which not only enables the excitation of zero effective mass Dirac fermions, but also exhibits flat band characteristics with feature-rich electronic properties, making it promising for topological superconductivity [], topologically protected qubits [], nano-spintronics devices [], and energy conversion and storage []. In recent years, a few topological nodal surface semimetals including Ti3Al [ ], LiTiO2 [ ], and Sr5X3 (X = As, Sb, Bi) [ ] compounds have been theoretically predicted, and Dirac nodal surfaces and nodal rings in NaAlSi [ ] and ZrSiS [] have been experimentally observed. Carbon materials have also received considerable attention in the field of topological electronics due to the flexible bonding and orbital hybridization of carbon atoms. As a result, a number of semimetallic carbon allotropes have been identified, including 2D Dirac semimetallic carbon (like graphene [], Stone-Wales graphene [ ], OPG-Z [ ], and α-graphyne [ ]) and 3D topological nodal-line carbon (like bco-C16 [ ], oP16 [ ], and ors-C16 [ ]). Carbon materials also provide an appropriate platform for the formation of topological nodal surface states due to weak spin-orbit coupling (SOC), which was illustrated by low-energy tight-binding models [ ]. So far, a few semimetallic carbon materials with nodal surfaces have been proposed, including TGN (2, 2) [ ], CNTN (m, n) [ ], and tC24 [ ]. The research on carbon-based topological nodal surfaces is still in its early stage, and further theoretical and experimental exploration is needed.",
+                "On the other hand, sodium-ion batteries (SIBs) have been extensively studied as an alternative to lithium-ion batteries (LIBs) in recent years, because sodium is more abundant, more environmentally friendly, and safer as compared to lithium. However, graphite, commonly used as the anode material for LIBs, is facing significant challenges when repurposed for SIBs, such as structural instability, low energy density, and slow charge/discharge rates associated with the large size of sodium ions. The capacity is only 35 mAh·g−1 when graphite is used as the anode material for SIBs []. Therefore, many efforts have been made to develop 3D porous carbon allotropes composed of graphene nanoribbons [,] and 3D porous topological metallic/semi-metallic carbon for metal-ion battery anodes [, , , , ], because large regular pores can provide more adsorption sites and transport channels for metal ions, and the high electronic conductivity resulting from the topological metallicity/semi-metallicity can improve the rate performance of batteries [ ].",
+                "In this study, we propose a new stable 3D porous honeycomb carbon, tC40, by using double-benzene-ring-width graphene nanoribbons as the building block. Based on state-of-the-art theoretical calculations and analysis, we demonstrate that this structure possesses topological nodal surface electronic states protected by the essential degeneracy of valence and conduction bands, and further show that tC40 is a promising candidate for SIB anode material."
+            ],
+            "name": "Introduction",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Our calculations are based on density functional theory (DFT) as implemented in the Vienna ab initio simulation package (VASP) []. The projector-augmented wave (PAW) pseudopotential is used to treat ion-electron interactions [] with a large energy cutoff of 800 eV. The exchange-correlation interactions of electrons are described by adopting the Perdew-Burke-Ernzerhof (PBE) functional [ ]. The more accurate Heyd-Scuseria-Ernzerhof hybrid functional (HSE06) [] is used for calculating electronic band structure to avoid the systematic underestimation of band gaps of the PBE functional. The convergence criteria are set as 10−4 eV and 10−2 eVÅ−1 for energy and force, respectively. The phonon frequencies are obtained by using the finite displacement method [] implemented in the Phonopy package [], and in phonon calculations, the corresponding criteria for energy and force during structural optimization are set to 10−8 eV and 10−6 eVÅ−1, respectively. Ab initio molecular dynamics (AIMD) simulations are performed to verify the thermal stability within the canonical ensemble, where the temperature is controlled by the Nosé thermostat []. To examine the mechanical stability, the elastic constants are calculated by using the energy-strain method in the AELAS package []. The surface states are obtained from the iterative Green's function method using the Wannier90 [] and WannierTools [ ] packages. The irreducible representations are identified by the Irvsp package []. In the calculations of the electrochemical properties of the anode, the effect of van der Waals interactions is taken into consideration by using the PBE-D2 functional []. The diffusion energy barrier for Na-ion migration is calculated by using the climbing-image nudge elastic band (CI-NEB) method [ ]."
+            ],
+            "name": "Computational methods",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        "The successful synthesis of 3D graphene monoliths [ ,] demonstrates that graphene nanoribbons can be used as the building blocks to design and synthesize 3D porous carbon materials, where the sp3 bonding is essential to retain the stability of carbon-honeycomb structure []. Thus, various 3D porous carbon materials can be rationally designed by using different widths, lengths, and morphologies of carbon nanoribbons with sp3-hybridized carbon as the linkers. Different from previously studied topological nodal surface carbon tC24 [ ], in this work, we use the experimentally observed 5-5-8 carbon line-defects [ ] as the linkers for assembling zigzag graphene nanoribbons, as shown in Fig. 1. The resulting 3D carbon allotrope contains 40 atoms in its unit cell with the trigonal space group P-3m1 (No. 164), thus termed tC40. The optimized lattice constants are a = b = 13.76 Å and c = 4.89 Å, and there are eight chemically nonequivalent Wickoff positions in its unit cell, occupying 6i1 (0.5731, 0.4269, 0.1263), 6i2 (0.5778, 0.4222, 0.6242), 6i3 (0.3952, 0.6047, 0.1172), 6i4 (0.6051, 0.395, 0.3674), 6i5 (0.5137, 0.4864, 0.1271), 6i6 (0.484, 0.5161, 0.377), 2d1 (0.3333, 0.6667, 0.0433), and 2d2 (0.3333, 0.6667, 0.7073), respectively. Detailed information of the tC40's structure can be found in the Supplementary Information (SI). Distinct from the previous carbon allotrope hC28 constructed by using single-benzene-ring-width zigzag graphene nanoribbon as its building block [ ], tC40 is composed of double-benzene-ring-width zigzag graphene nanoribbons with larger pore size of 15.94 Å. The C–C bond lengths between the three-fold coordinated atoms are calculated to be in the range of 1.40–1.47 Å, comparable to that of graphite (1.42 Å), while the bond length between the four-fold coordinated atoms is found to be 1.64 Å, larger than that of diamond (1.53 Å).",
+                        "Next, we systematically examine the stability of tC40, including energetical, dynamical, thermal, and mechanical stabilities. We first calculate the energy-volume curve of tC40 and compare it with some other carbon allotropes, including Tri-C9 [ ], T6 [ ], H18 [ ], K6 [ ], penta-h22 [ ], and the well-known 3D carbon, diamond and graphite. As shown in Fig. 2(a), one can see that except for diamond and graphite, tC40 is energetically more favorable over the others, suggesting its energetical stability. The dynamical stability is examined by calculating its phonon spectrum. A 1 × 1 × 2 supercell is used to minimize the constraint of the periodic boundary conditions. The results plotted in Fig. 2(b) show that no any imaginary frequencies exist in the first Brillouin zone (BZ), confirming that tC40 is dynamically stable. To examine the thermal stability, we perform the AIMD calculations at 300 and 1200 K respectively. The energy fluctuations within a heating time of 8 ps and a time step of 1 fs are plotted in Fig. 2(c). The atomic configuration of tC40 keeps almost intact during the simulations, and the energies fluctuate around constant values at both 300 and 1200 K, suggesting that the geometric structure is still secure at a high temperature of 1200 K, then confirming the thermal stability of tC40.",
+                        "In addition, mechanical stability is also an important indicator for the stability of a material. For tC40 with trigonal lattice, it has five independent elastic constants, which are calculated to be:",
+                        "C 11 = 118.35 GPa,",
+                        "C 33 = 455.86 GPa,",
+                        "C 44 = 80.69 GPa,",
+                        "C 12 = 116.3 GPa, and",
+                        "C 13 = 35.02 GPa, by using the energy-strain method []. These calculated elastic constants fully satisfy the Born-Huang criteria [], namely,",
+                        "C 44 >0,",
+                        "C 11 >",
+                        "| C 12 |, and (",
+                        "C 11 +2",
+                        "C 12)",
+                        "C 33 >2",
+                        "C 13 2, therefore, tC40 is mechanically stable. Furthermore, the eigenvalues of the elastic stiffness matrix for the systems optimized at temperatures of 300 and 1200 K are respectively calculated, which are all positive, confirming the mechanical stability of tC40 at finite temperatures. The calculation details can be found in the SI.",
+                        "The exhibited good stability of tC40 can be attributed to the following reasons: (1) The composing units are stable: both the zigzag graphene nanoribbon and 5-5-8 line defect have been synthesized in experiments; (2) The sp3 bonding resulting from the assembling would further enhance the stability."
+                    ],
+                    "name": "Structure and stability",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "We then systematically study the electronic properties of tC40. In the absence of SOC, the calculated band structure at the PBE level is plotted in Fig. 3(a), while the corresponding first BZ and high-symmetry k-point paths are shown in Fig. 3(b). The band crosses the Fermi level along the Γ-A path, suggesting that tC40 is metallic. More interestingly, a flat band emerges near the Fermi level along the high-symmetry Γ-M-K-Γ path. Since the PBE functional underestimates the band gap, to verify the metallic feature, we recalculate the band structure at the HSE06 level as well, and find that the metallicity still remains, and the flat band is slightly away from the Fermi level. The partial density of states (PDOS) projected on the three-fold coordinated (sp2) and four-fold coordinated (sp3) carbon atoms plotted in Fig. 3(a) show that the main contribution to the bands near the Fermi level comes from the three-fold coordinated carbon atoms.",
+                        "To further explore the energy dispersion details of the flat band, we calculate the 3D band structure of the high-symmetry plane",
+                        "k 2 = 0 in the first BZ, and plot the results in Fig. 3(c), which shows that there are some linearly dispersed bands as indicated in dotted lines. By computing the irreducible representations at the high-symmetry k-points, i.e. the Γ, M, and K points, we find that, at the Γ(0, 0, 0) point, the linear energy dispersions include the occupied bands no. 78–80 and unoccupied band no. 81, belong to the direct sum of two irreducible representations, i.e.",
+                        "Γ 3 + ⊕ Γ 3 –, while at the M (0.5, 0, 0) and K (0.333, 0.333, 0) points, the linear energy dispersions are composed of the two bands (no. 80 and 81) with irreducible representations of",
+                        "M 1 – ⊕ M 2 + (direct sum of two 1D irreducible representations) and",
+                        "K 3 (a 2D irreducible representation), respectively. As we can see, the degeneracies are different at distinct k-points. To study the morphology of the band-crossing manifold, we scan the entire first BZ and plot the distribution of band-crossing points in Fig. 3(d), which shows that there is a four-fold nodal surface around the Γ point and a two-fold nodal surface near the border of the first BZ.",
+                        "To gain insight into these nodal surfaces, we construct two k·p models around the high-symmetry k points, i.e. Γ and K. Around the Γ point, we get:(1)",
+                        "H Γ ( k ) = ∑ i , j = 0 3 d i j ( k ) γ i j ,where",
+                        "d i j ( k ) is a polynomial function of k, which is taken up to the second order,",
+                        "γ i j is the 4 × 4 Dirac matrices, forming a complete set of the 4 × 4 matrix space. The 16 Dirac matrices can be defined as:(2)",
+                        "γ i j = ρ i τ j ,where",
+                        "ρ i = σ i ⊗ I 2,",
+                        "τ i = I 2 ⊗ σ i.",
+                        "σ i and",
+                        "I 2 are Pauli matrices and a 2 × 2 identity matrix, respectively. Since the space group of tC40 is P-3m1, there are three symmetry operation generators, i.e. spatial inversion P,",
+                        "C 3 rotation symmetry around the [100]-axis, and",
+                        "C 2 rotation symmetry around the [110]-axis. In addition, for nonmagnetic all-carbon materials, the time-reversal symmetry T is also preserved. Since at the Γ point, the symmetry representation of the bands no.78-81 is",
+                        "Γ 3 + ⊕ Γ 3 –, we construct the symmetry operation matrices accordingly, i.e.(3)",
+                        "P = I 2 ⊕ ( − I 2 ) ,(4)",
+                        "C 3 = I 2 ⊗ ( e i 2 π 3 0 0 e − i 2 π 3 ) ,(5)",
+                        "C 2 = I 2 ⊗ ( 0 1 1 0 ) ,",
+                        "Furthermore, the time-reversal symmetry operator for a spinless system is a complex conjugate operator, i.e.",
+                        "T = K. Therefore, the coexistence of time-reversal and spatial inversion symmetries (PT-symmetry) requires that(6)",
+                        "P H Γ ( k ) P − 1 = H Γ ( − k ) ,(7)",
+                        "T H Γ ( k ) T − 1 = H Γ ( − k ) .",
+                        "Specifically, for a real Dirac matrix",
+                        "γ i j, T restricts the coefficient",
+                        "d i j ( k ) as an even function of k, if P leads",
+                        "d i j ( k ) as an odd function of k, it leads to",
+                        "d i j ( k ) = 0. The basic idea for the cases of imaginary Dirac matrix is similar. Thus, we get",
+                        "d 02 ( k ),",
+                        "d 10 ( k ),",
+                        "d 11 ( k ),",
+                        "d 13 ( k ),",
+                        "d 22 ( k ), and",
+                        "d 32 ( k ) vanished. As for the rotational symmetry",
+                        "C 3, we have:(8)",
+                        "C 3 H Γ ( k 1 , k 2 , k 3 ) C 3 − 1 = H Γ ( − k 2 , k 1 − k 2 , k 3 ) ,",
+                        "Under this symmetry operation,",
+                        "d 01 ( k ),",
+                        "d 12 ( k ),",
+                        "d 21 ( k ), and",
+                        "d 31 ( k ) disappear. In addition, the rotational symmetry",
+                        "C 2 satisfies(9)",
+                        "C 2 H Γ ( k 1 , k 2 , k 3 ) C 2 − 1 = H Γ ( k 2 , k 1 , − k 3 ) ,",
+                        "The other five terms of the Hamiltonian can also be simplified by symmetries. Finally, we obtain",
+                        "d 03 ( k ) = d 20 ( k ) = d 33 ( k ) = 0,",
+                        "d 30 ( k ) = a 0 + a 1 k 1 2 + a 2 k 2 2 + a 3 k 3 2 − a 4 k 1 k 2, and",
+                        "d 23 ( k ) = b 3 k 3. Since",
+                        "d 00 ( k ) is a constant, and does not affect the band crossing feature, the Hamiltonian takes the form:(10)",
+                        "H Γ ( k ) = ( a 0 + a 1 η + a 3 k 3 2 0 − i b 3 k 3 0 0 a 0 + a 1 η + a 3 k 3 2 0 i b 3 k 3 i b 3 k 3 0 − a 0 − a 1 η − a 3 k 3 2 0 0 − i b 3 k 3 0 − a 0 − a 1 η − a 3 k 3 2 ) ,where",
+                        "η = k 1 2 + k 2 2 − k 1 k 2. The eigenenergies of this Hamiltonian are:(11)",
+                        "E 1 = E 2 = − ε 1 + ε 2 + ε 3 ,(12)",
+                        "E 3 = E 4 = ε 1 + ε 2 + ε 3 .",
+                        "Then we have(13)",
+                        "ε 1 = a 0 2 + 2 a 0 a 1 k 1 2 − 2 a 0 a 1 k 1 k 2 + 2 a 0 a 1 k 2 2 ,(14)",
+                        "ε 2 = a 1 2 k 1 4 − 2 a 1 2 k 1 3 k 2 + 3 a 1 2 k 1 2 k 2 2 − 2 a 1 2 k 1 k 2 3 + a 1 2 k 2 4 ,(15)",
+                        "ε 3 = 2 a 0 a 3 k 3 2 + b 3 2 k 3 2 + 2 a 1 a 3 k 1 2 k 3 2 − 2 a 1 a 3 k 1 k 2 k 3 2 + 2 a 1 a 3 k 2 2 k 3 2 + a 3 2 k 3 4 .",
+                        "This result indicates that the degeneracy of the valence band and conduction band is protected by the coexistence of spatial inversion, time-reversal,",
+                        "C 2, and",
+                        "C 3 rotational symmetries.",
+                        "On the other hand, since the four-fold degeneracy exists, we can deduce that all the term excluding",
+                        "k 3 is zero, i.e.",
+                        "a 0 = a 1 = 0, leading to",
+                        "E 3 = ± a 3 k 3 2. This result shows that near the Γ point, the energy gap is proportional to",
+                        "k 3 2. As for the K point in the first BZ, we can also construct a two-band k·p model, due to the two-fold degeneracy near the Fermi level. The Hamiltonian is(16)",
+                        "H K ( k ) = ∑ i = 0 3 g i ( k ) σ i ,where",
+                        "g i ( k ) is a polynomial function of k, which is taken up to the second order,",
+                        "σ i is the Pauli matrices, forming a complete set of the 2 × 2 matrix space. At the K point, the valence and conduction bands belong to the irreducible representation",
+                        "K 3, which means that the nodal surface around the K point is essential degeneracy. There are two rotational symmetry operation generators, i.e.",
+                        "C 3 and",
+                        "C 2. The explicit forms of them are as follows:(17)",
+                        "C 3 = ( e i 2 π 3 0 0 e − i 2 π 3 ) ,(18)",
+                        "C 2 = ( 0 1 1 0 ) ,",
+                        "Therefore, we have the following constraints(19)",
+                        "P H K ( k ) P − 1 = H K ( − k ) ,(20)",
+                        "T H K ( k ) T − 1 = H K ( − k ) .(21)",
+                        "C 3 H K ( k 1 , k 2 , k 3 ) C 3 − 1 = H K ( − k 2 , k 1 − k 2 , k 3 ) ,(22)",
+                        "C 2 H K ( k 1 , k 2 , k 3 ) C 2 − 1 = H K ( k 2 , k 1 , − k 3 ) ,",
+                        "As a result, all of the coefficients vanish except",
+                        "g 0 ( k ) under the symmetry constraints, indicating that this type of nodal surface originates from a constant Hamiltonian. Different from the conventional nodal surfaces, which are usually protected by space-time inversion and sublattice symmetries without considering SOC, or protected by nonsymmorphic two-fold screw-rotational and time-reversal symmetries [], tC40 is the first predicted carbon structure with the nodal surfaces protected by the essential degeneracy based on group theory [].",
+                        "Bulk-surface correspondence is a significant feature of a topological system. We calculate the (110) surface spectrum of tC40 and plot it in Fig. 3(e) by using a tight-binding model based on maximally localized Wannier functions [ , ]. The corresponding bulk spectrum is plotted in Fig. 3(f) as a comparison. In this calculation, we use a ten-layer slab, and the high-symmetry k path is plotted in Fig. 3(b). There are distinct nearly flat bands connecting the band-crossing points in the surface spectrum, further confirming the existence of the topological nodal surfaces. While the nearly flat bands remarkably increase the density of states of the tC40's (110) crystal surfaces. Meanwhile, the SOC effect is also taken into consideration, and the results show that the maximum gap between the conduction band and valence band of these nodal surfaces is only 1.5 meV, which is not large enough to change the nodal-surface feature of tC40."
+                    ],
+                    "name": "Electronic properties",
+                    "type": "section_h3"
+                },
+                {
+                    "content": [
+                        "The US Advanced Battery Consortium proposed the research target of fast-charging electric vehicle batteries within 15 min for 80 % pack capacity, which calls for the urgent need of novel battery electrode materials with high ionic conductivity as well as high electrical conductivity. This requirement can be met by using topological quantum materials as electrode materials, which are distinct from conventional metals and insulators in electronic band structures, exhibiting intrinsically high and stable electrical conductivity protected by the topology of materials [,]. Next, we study the application of tC40 as an anode material for SIBs as its unique atomic configuration with the regularly distributed porous channels can provide the binding sites and diffusion pathways for metal ions, and its metallic features can facilitate the diffusion of electrons and ions, showing promise for the application as an anode material. We first explore the possible adsorption sites for Na ions by introducing Na at different sites in the 1 × 1 × 3 supercell of tC40. During the selection of the preferable adsorption sites for a single Na atom, we optimize all the possible adsorption configurations with Na atom at the top, bridge, and hollow sites of each carbon ring in tC40, as plotted in Fig. 4(a and b). After geometry optimization, we find that there are two preferred adsorption sites, namely, the hollow sites residing in the 8- and 5-membered carbon rings, labeled as H1 and H2 in Fig. 4(c and d), respectively, while the adsorption energy is calculated by using the formula:(23)",
+                        "E ad = E x Na − tC 40 − E tC 40 − x E Na x ,where",
+                        "E x Na − tC 40,",
+                        "E tC 40, and",
+                        "E Na are the energies of xNa-ion-adsorbed tC40, pristine tC40, and one Na atom in its bulk phase, respectively. The adsorption energies are calculated to be −1.09 and −1.07 eV for sites H1 and H2, respectively.",
+                        "The Bader charge analysis [] is also carried out to evaluate the Coulomb interactions between Na ions and the tC40 substrate. The results show that 0.87 and 0.88 electrons transfer from Na atoms at H1 and H2 sites to the tC40 substrate, respectively, suggesting that the Na ions are tightly intercalated in tC40. On the other hand, the large charge transfer could lead to strong Coulomb interaction between the Na ions that can prevent the formation of Na clusters.",
+                        "The ionic conductivity is a crucial factor in determining the rate capability of a battery, which can be measured by the energy barriers of all possible ionic migration paths. Thus, to study the ionic conductivity, the CI-NEB method is used to simulate the Na-ion diffusion at a low concentration (NaC120) in a 1 × 1 × 3 supercell of tC40. The migration path and corresponding energy profile are plotted, as shown in Fig. 4(e and f), where the Na ions move straight forward along the z-direction with a low energy barrier of 0.1 eV, low than that of 2H–MoS2 (0.68 eV) [ ]. The low energy barrier corresponds to a high diffusion constant, according to the Arrhenius equation [ ]:(24)",
+                        "D ∝ exp ( − E barrier k B T ) ,where",
+                        "E barrier,",
+                        "k B, and",
+                        "T represent the energy barrier, Boltzmann constant, and temperature, respectively. The high diffusion constant corresponds to the fast migration of Na ions, leading to high ionic conductivity.",
+                        "We then evaluate the maximum Na capacity of tC40 by gradually intercalating Na ions into the tC40 substrate and observing the corresponding voltage profile. To obtain a more precise result of the voltage profile, a 1 × 1 × 3 supercell of tC40 is used for the voltage calculation. The results plotted in Fig. 4(h) show that the voltage decreases monotonically with increasing sodium ion concentration. The adsorption of Na ions in this substrate tends to become energetically unfavorable when the voltage approaches zero, which corresponds to a maximum reversible capacity of 186 mAh·g−1. We use the formula [",
+                        "E formation = E c − ( 1 − c ) E 0 − c E 1, c is Na concentration] to determine the formation energy of tC40 during charging and discharging. It involves the calculations of the energy values of Na-intercalated tC40 at different concentrations of sodium ions with c ranging from 0 to 1. The resulting ground-state hull diagram is presented in Fig. 4(g), showing that the intermediate state with the highest stability is also the thermodynamic ground state for each concentration of Na ions, as indicated by the convexity of the hull.",
+                        "To evaluate the open-circuit voltage (OCV) of tC40, we examine six intermediate Na-intercalated concentrations, i.e. NaxC12, x = 0.1, 0.2, 0.3, 0.4, 0.6, and 0.9, respectively. For each concentration, we generate possible intermediate structures with low energies by comparing the Ewald energies implemented in the pymatgen package [ , ]. Then the OCV is calculated by using the formula:(25)",
+                        "V ≈ − E x 2 Na − tC 40 − E x 1 Na − tC 40 − ( x 2 − x 1 ) E Na ( x 2 − x 1 ) e ,where",
+                        "E x 1 Na − tC 40,",
+                        "E x 2 Na − tC 40, and",
+                        "E Na represent the energies of",
+                        "x 1 Na-,",
+                        "x 2 Na-intercalated tC40, and one Na atom in its bulk phase, respectively. The voltage profile of tC40 is displayed in Fig. 4(h), where the voltage is positive through the entire concentration region, suggesting that the capacity of 186 mAh·g−1 is reversible. The average OCV of 0.38 V is relatively low as compared to that of some other anode materials, such as oC46 (0.43 V) [ ], tC24 (0.54 V) [ ], 1T-MoS2 (1.25 V), 2H–MoS2 (0.75 V) [ ], and ISN (1.35 V) [ ]. Indeed, the voltage is related to the derivative of formation energy with respect to Na concentration, rather than the formation energy itself. The low average OCV of an anode could provide a high output voltage when connected to a cathode.",
+                        "In addition, the volume change during the charging/discharging process is also important for the cycling stability of a battery. Therefore, we further calculate the volume change by using the formula:",
+                        "Δ Ω = Ω 1 − Ω 0 Ω 0 × 100 %, here",
+                        "Ω 1 and",
+                        "Ω 0 are the volumes of the fully-Na-intercalated and non-Na-intercalated tC40 configurations. The volume change of tC40 is calculated to be 0.79 %, which is lower than oC46 (2.0 %) [ ] and ISN (2.8 %) [ ], showing higher stability due to the less volume change during charging-discharging operation.",
+                        "The potential of tC40 as a SIB anode material, especially its high reversible capacity and low diffusion energy barrier for Na ions, suggest that the porous structure and topological nodal-surface states of tC40 play a crucial role not only in accommodating and transporting Na ions effectively, but also in mitigating common challenges faced by battery anodes, such as rapid capacity fade []. Moreover, the low average OCV is beneficial for enhancing the energy density in the full-cell application, and small volume change during charging-discharging cycles further demonstrates the good performance of tC40 as an anode for SIBs."
+                    ],
+                    "name": "Application as an anode for SIBs",
+                    "type": "section_h3"
+                }
+            ],
+            "name": "Results and discussion",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "In summary, we have theoretically predicted a new porous carbon honeycomb structure, tC40, by using graphene nanoribbons as the building block, which is stable and metallic. More interestingly, we find that tC40 possesses exotic nodal surface states including four-fold and two-fold degeneracies, and the two-fold degenerated nodal surface is formed by the essential degeneracy of valence and conduction bands based on the analysis of the crystalline symmetries in irreducible representation. This mechanism is different from that of other topological nodal surface carbon materials reported so far. As a SIB anode material, tC40 possesses a high reversible capacity of 186 mAh·g−1, a low diffusion energy barrier of 0.1 eV for Na ions, a low OCV of 0.38 V, and a neglectable volume change of 0.79 %. Our work provides a study of using topological nodal surface carbon as the anode material, shedding light on the development of next generation SIB anodes."
+            ],
+            "name": "Conclusions",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "Dongyuan Ni: Conceptualization, Methodology, Software, Writing – original draft, Writing – review & editing. Wei Sun: Writing – review & editing. Shang Gao: Writing – review & editing. Qian Wang: Writing – review & editing, Supervision."
+            ],
+            "name": "CRediT authorship contribution statement",
+            "type": "section_h2"
+        },
+        {
+            "content": [
+                "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+            ],
+            "name": "Declaration of competing interest",
+            "type": "section_h2"
+        }
+    ],
+    "Title": "A topological nodal surface carbon honeycomb for sodium-ion battery anode"
+}
