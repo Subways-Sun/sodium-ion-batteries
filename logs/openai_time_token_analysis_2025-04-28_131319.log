@@ -1,0 +1,72 @@
+2025-04-28 13:13:19.450 - INFO - Processing log file: logs/info_extraction_openai_2025-04-27_204022_o3-mini-medium.log
+2025-04-28 13:13:19.456 - INFO - Found 57 openai-processing-ms entries
+2025-04-28 13:13:19.457 - INFO - Found 57 total_tokens entries
+2025-04-28 13:13:19.457 - INFO - Found 57 reasoning_tokens entries
+2025-04-28 13:13:19.457 - INFO - Entry 1 - openai-processing-ms: 33813, total_tokens: 9134, reasoning_tokens: 3584
+2025-04-28 13:13:19.457 - INFO - Entry 2 - openai-processing-ms: 10917, total_tokens: 1935, reasoning_tokens: 576
+2025-04-28 13:13:19.457 - INFO - Entry 3 - openai-processing-ms: 17386, total_tokens: 3424, reasoning_tokens: 2048
+2025-04-28 13:13:19.457 - INFO - Entry 4 - openai-processing-ms: 9678, total_tokens: 2082, reasoning_tokens: 832
+2025-04-28 13:13:19.457 - INFO - Entry 5 - openai-processing-ms: 15775, total_tokens: 9083, reasoning_tokens: 1600
+2025-04-28 13:13:19.457 - INFO - Entry 6 - openai-processing-ms: 17698, total_tokens: 3214, reasoning_tokens: 1600
+2025-04-28 13:13:19.457 - INFO - Entry 7 - openai-processing-ms: 13501, total_tokens: 2703, reasoning_tokens: 1088
+2025-04-28 13:13:19.457 - INFO - Entry 8 - openai-processing-ms: 33637, total_tokens: 9762, reasoning_tokens: 3712
+2025-04-28 13:13:19.457 - INFO - Entry 9 - openai-processing-ms: 5931, total_tokens: 1568, reasoning_tokens: 576
+2025-04-28 13:13:19.457 - INFO - Entry 10 - openai-processing-ms: 20777, total_tokens: 8609, reasoning_tokens: 1920
+2025-04-28 13:13:19.457 - INFO - Entry 11 - openai-processing-ms: 5778, total_tokens: 1739, reasoning_tokens: 512
+2025-04-28 13:13:19.457 - INFO - Entry 12 - openai-processing-ms: 12488, total_tokens: 2765, reasoning_tokens: 1472
+2025-04-28 13:13:19.458 - INFO - Entry 13 - openai-processing-ms: 14226, total_tokens: 2764, reasoning_tokens: 1472
+2025-04-28 13:13:19.458 - INFO - Entry 14 - openai-processing-ms: 12034, total_tokens: 2600, reasoning_tokens: 1280
+2025-04-28 13:13:19.458 - INFO - Entry 15 - openai-processing-ms: 28157, total_tokens: 8690, reasoning_tokens: 3136
+2025-04-28 13:13:19.458 - INFO - Entry 16 - openai-processing-ms: 8973, total_tokens: 3178, reasoning_tokens: 960
+2025-04-28 13:13:19.458 - INFO - Entry 17 - openai-processing-ms: 7261, total_tokens: 2882, reasoning_tokens: 512
+2025-04-28 13:13:19.458 - INFO - Entry 18 - openai-processing-ms: 39235, total_tokens: 8345, reasoning_tokens: 3648
+2025-04-28 13:13:19.458 - INFO - Entry 19 - openai-processing-ms: 11730, total_tokens: 2056, reasoning_tokens: 1024
+2025-04-28 13:13:19.458 - INFO - Entry 20 - openai-processing-ms: 12161, total_tokens: 2071, reasoning_tokens: 1088
+2025-04-28 13:13:19.458 - INFO - Entry 21 - openai-processing-ms: 38798, total_tokens: 8575, reasoning_tokens: 3712
+2025-04-28 13:13:19.458 - INFO - Entry 22 - openai-processing-ms: 7758, total_tokens: 2130, reasoning_tokens: 704
+2025-04-28 13:13:19.458 - INFO - Entry 23 - openai-processing-ms: 42051, total_tokens: 11160, reasoning_tokens: 4160
+2025-04-28 13:13:19.458 - INFO - Entry 24 - openai-processing-ms: 16587, total_tokens: 3230, reasoning_tokens: 1664
+2025-04-28 13:13:19.458 - INFO - Entry 25 - openai-processing-ms: 12773, total_tokens: 3022, reasoning_tokens: 1408
+2025-04-28 13:13:19.458 - INFO - Entry 26 - openai-processing-ms: 22480, total_tokens: 6295, reasoning_tokens: 1984
+2025-04-28 13:13:19.458 - INFO - Entry 27 - openai-processing-ms: 12277, total_tokens: 2705, reasoning_tokens: 1408
+2025-04-28 13:13:19.458 - INFO - Entry 28 - openai-processing-ms: 27459, total_tokens: 8299, reasoning_tokens: 2304
+2025-04-28 13:13:19.458 - INFO - Entry 29 - openai-processing-ms: 10929, total_tokens: 2474, reasoning_tokens: 832
+2025-04-28 13:13:19.458 - INFO - Entry 30 - openai-processing-ms: 8702, total_tokens: 3191, reasoning_tokens: 896
+2025-04-28 13:13:19.459 - INFO - Entry 31 - openai-processing-ms: 21297, total_tokens: 3626, reasoning_tokens: 2432
+2025-04-28 13:13:19.459 - INFO - Entry 32 - openai-processing-ms: 26507, total_tokens: 6162, reasoning_tokens: 2048
+2025-04-28 13:13:19.459 - INFO - Entry 33 - openai-processing-ms: 9737, total_tokens: 1918, reasoning_tokens: 832
+2025-04-28 13:13:19.459 - INFO - Entry 34 - openai-processing-ms: 12490, total_tokens: 2102, reasoning_tokens: 1088
+2025-04-28 13:13:19.459 - INFO - Entry 35 - openai-processing-ms: 45102, total_tokens: 7072, reasoning_tokens: 2560
+2025-04-28 13:13:19.459 - INFO - Entry 36 - openai-processing-ms: 19546, total_tokens: 3540, reasoning_tokens: 1920
+2025-04-28 13:13:19.459 - INFO - Entry 37 - openai-processing-ms: 11229, total_tokens: 3246, reasoning_tokens: 1728
+2025-04-28 13:13:19.459 - INFO - Entry 38 - openai-processing-ms: 36965, total_tokens: 11050, reasoning_tokens: 3712
+2025-04-28 13:13:19.459 - INFO - Entry 39 - openai-processing-ms: 10768, total_tokens: 2804, reasoning_tokens: 1216
+2025-04-28 13:13:19.459 - INFO - Entry 40 - openai-processing-ms: 46221, total_tokens: 4832, reasoning_tokens: 3008
+2025-04-28 13:13:19.459 - INFO - Entry 41 - openai-processing-ms: 27449, total_tokens: 7111, reasoning_tokens: 2752
+2025-04-28 13:13:19.459 - INFO - Entry 42 - openai-processing-ms: 12184, total_tokens: 2536, reasoning_tokens: 1280
+2025-04-28 13:13:19.459 - INFO - Entry 43 - openai-processing-ms: 29337, total_tokens: 6163, reasoning_tokens: 3008
+2025-04-28 13:13:19.459 - INFO - Entry 44 - openai-processing-ms: 8926, total_tokens: 2017, reasoning_tokens: 960
+2025-04-28 13:13:19.459 - INFO - Entry 45 - openai-processing-ms: 23309, total_tokens: 5104, reasoning_tokens: 2304
+2025-04-28 13:13:19.459 - INFO - Entry 46 - openai-processing-ms: 8683, total_tokens: 1797, reasoning_tokens: 1088
+2025-04-28 13:13:19.459 - INFO - Entry 47 - openai-processing-ms: 46747, total_tokens: 10925, reasoning_tokens: 4288
+2025-04-28 13:13:19.460 - INFO - Entry 48 - openai-processing-ms: 19650, total_tokens: 2895, reasoning_tokens: 2112
+2025-04-28 13:13:19.460 - INFO - Entry 49 - openai-processing-ms: 28383, total_tokens: 3080, reasoning_tokens: 2368
+2025-04-28 13:13:19.460 - INFO - Entry 50 - openai-processing-ms: 20156, total_tokens: 2900, reasoning_tokens: 2176
+2025-04-28 13:13:19.460 - INFO - Entry 51 - openai-processing-ms: 11542, total_tokens: 1885, reasoning_tokens: 1216
+2025-04-28 13:13:19.460 - INFO - Entry 52 - openai-processing-ms: 41778, total_tokens: 7098, reasoning_tokens: 3648
+2025-04-28 13:13:19.460 - INFO - Entry 53 - openai-processing-ms: 13600, total_tokens: 2600, reasoning_tokens: 1216
+2025-04-28 13:13:19.460 - INFO - Entry 54 - openai-processing-ms: 14842, total_tokens: 2653, reasoning_tokens: 1280
+2025-04-28 13:13:19.460 - INFO - Entry 55 - openai-processing-ms: 16614, total_tokens: 7343, reasoning_tokens: 1600
+2025-04-28 13:13:19.460 - INFO - Entry 56 - openai-processing-ms: 13851, total_tokens: 2551, reasoning_tokens: 1152
+2025-04-28 13:13:19.460 - INFO - Entry 57 - openai-processing-ms: 7655, total_tokens: 2104, reasoning_tokens: 768
+2025-04-28 13:13:19.460 - INFO - Average openai-processing-ms: 19570.84
+2025-04-28 13:13:19.460 - INFO - Average total_tokens: 4505.25
+2025-04-28 13:13:19.460 - INFO - Average reasoning_tokens: 1850.39
+2025-04-28 13:13:19.460 - INFO - Successfully extracted values from logs/info_extraction_openai_2025-04-27_204022_o3-mini-medium.log
+2025-04-28 13:13:19.461 - INFO - Overall average openai-processing-ms across all files: 19570.84
+2025-04-28 13:13:19.461 - INFO - Overall median openai-processing-ms across all files: 14842.00
+2025-04-28 13:13:19.461 - INFO - Overall average total_tokens across all files: 4505.25
+2025-04-28 13:13:19.461 - INFO - Overall median total_tokens across all files: 3080.00
+2025-04-28 13:13:19.461 - INFO - Overall average reasoning_tokens across all files: 1850.39
+2025-04-28 13:13:19.461 - INFO - Overall median reasoning_tokens across all files: 1600.00
+2025-04-28 13:13:19.461 - INFO - Script execution completed
