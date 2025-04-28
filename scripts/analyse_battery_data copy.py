@@ -261,7 +261,7 @@ def analyze_data(materials_df, properties_df, starting_materials_df):
 def extract_element_from_formula(formula):
     """Extract main element from material formula using regex pattern matching."""
     # Common battery materials often contain these elements
-    elements = ["Li", "Na", "K", "V", "Mn", "Fe", "Co", "Ni", "Cu", "P", "O", "S", "F"]
+    elements = ["Li", "Na", "K", "V", "Mn", "Fe", "Co", "Ni", "Cu", "P", "S", "F", "Ti", "Sb", "Sn", "Mg", "Ca", "Al", "Cr", "Zr", "Nb", "Mo", "Y", "Zr", "Ga", "Ge", "Ru", "W"]
     
     # Remove numbers, parentheses and other non-alphabetic characters
     clean_formula = re.sub(r'[^a-zA-Z]', '', formula)

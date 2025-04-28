@@ -1,0 +1,85 @@
+2025-04-28 14:35:03.348 - INFO - Processing log file: logs/info_extraction_openai_2025-04-27_204022_o3-mini-medium.log
+2025-04-28 14:35:03.357 - INFO - Found 57 processing_ms entries
+2025-04-28 14:35:03.357 - INFO - Found 57 total_tokens entries
+2025-04-28 14:35:03.357 - INFO - Found 57 reasoning_tokens entries
+2025-04-28 14:35:03.357 - INFO - Found 57 completion_tokens entries
+2025-04-28 14:35:03.357 - INFO - Found 57 prompt_tokens entries
+2025-04-28 14:35:03.357 - INFO - Entry 1 - processing_ms: 33813, total_tokens: 9134, reasoning_tokens: 3584, completion_tokens: 4053, prompt_tokens: 5081
+2025-04-28 14:35:03.357 - INFO - Entry 2 - processing_ms: 10917, total_tokens: 1935, reasoning_tokens: 576, completion_tokens: 744, prompt_tokens: 1191
+2025-04-28 14:35:03.357 - INFO - Entry 3 - processing_ms: 17386, total_tokens: 3424, reasoning_tokens: 2048, completion_tokens: 2217, prompt_tokens: 1207
+2025-04-28 14:35:03.357 - INFO - Entry 4 - processing_ms: 9678, total_tokens: 2082, reasoning_tokens: 832, completion_tokens: 903, prompt_tokens: 1179
+2025-04-28 14:35:03.358 - INFO - Entry 5 - processing_ms: 15775, total_tokens: 9083, reasoning_tokens: 1600, completion_tokens: 2293, prompt_tokens: 6790
+2025-04-28 14:35:03.358 - INFO - Entry 6 - processing_ms: 17698, total_tokens: 3214, reasoning_tokens: 1600, completion_tokens: 1818, prompt_tokens: 1396
+2025-04-28 14:35:03.358 - INFO - Entry 7 - processing_ms: 13501, total_tokens: 2703, reasoning_tokens: 1088, completion_tokens: 1307, prompt_tokens: 1396
+2025-04-28 14:35:03.358 - INFO - Entry 8 - processing_ms: 33637, total_tokens: 9762, reasoning_tokens: 3712, completion_tokens: 4461, prompt_tokens: 5301
+2025-04-28 14:35:03.358 - INFO - Entry 9 - processing_ms: 5931, total_tokens: 1568, reasoning_tokens: 576, completion_tokens: 595, prompt_tokens: 973
+2025-04-28 14:35:03.358 - INFO - Entry 10 - processing_ms: 20777, total_tokens: 8609, reasoning_tokens: 1920, completion_tokens: 2984, prompt_tokens: 5625
+2025-04-28 14:35:03.358 - INFO - Entry 11 - processing_ms: 5778, total_tokens: 1739, reasoning_tokens: 512, completion_tokens: 575, prompt_tokens: 1164
+2025-04-28 14:35:03.358 - INFO - Entry 12 - processing_ms: 12488, total_tokens: 2765, reasoning_tokens: 1472, completion_tokens: 1589, prompt_tokens: 1176
+2025-04-28 14:35:03.358 - INFO - Entry 13 - processing_ms: 14226, total_tokens: 2764, reasoning_tokens: 1472, completion_tokens: 1588, prompt_tokens: 1176
+2025-04-28 14:35:03.358 - INFO - Entry 14 - processing_ms: 12034, total_tokens: 2600, reasoning_tokens: 1280, completion_tokens: 1424, prompt_tokens: 1176
+2025-04-28 14:35:03.358 - INFO - Entry 15 - processing_ms: 28157, total_tokens: 8690, reasoning_tokens: 3136, completion_tokens: 3708, prompt_tokens: 4982
+2025-04-28 14:35:03.358 - INFO - Entry 16 - processing_ms: 8973, total_tokens: 3178, reasoning_tokens: 960, completion_tokens: 979, prompt_tokens: 2199
+2025-04-28 14:35:03.358 - INFO - Entry 17 - processing_ms: 7261, total_tokens: 2882, reasoning_tokens: 512, completion_tokens: 679, prompt_tokens: 2203
+2025-04-28 14:35:03.358 - INFO - Entry 18 - processing_ms: 39235, total_tokens: 8345, reasoning_tokens: 3648, completion_tokens: 4461, prompt_tokens: 3884
+2025-04-28 14:35:03.358 - INFO - Entry 19 - processing_ms: 11730, total_tokens: 2056, reasoning_tokens: 1024, completion_tokens: 1192, prompt_tokens: 864
+2025-04-28 14:35:03.358 - INFO - Entry 20 - processing_ms: 12161, total_tokens: 2071, reasoning_tokens: 1088, completion_tokens: 1211, prompt_tokens: 860
+2025-04-28 14:35:03.359 - INFO - Entry 21 - processing_ms: 38798, total_tokens: 8575, reasoning_tokens: 3712, completion_tokens: 3955, prompt_tokens: 4620
+2025-04-28 14:35:03.359 - INFO - Entry 22 - processing_ms: 7758, total_tokens: 2130, reasoning_tokens: 704, completion_tokens: 721, prompt_tokens: 1409
+2025-04-28 14:35:03.359 - INFO - Entry 23 - processing_ms: 42051, total_tokens: 11160, reasoning_tokens: 4160, completion_tokens: 5725, prompt_tokens: 5435
+2025-04-28 14:35:03.359 - INFO - Entry 24 - processing_ms: 16587, total_tokens: 3230, reasoning_tokens: 1664, completion_tokens: 1894, prompt_tokens: 1336
+2025-04-28 14:35:03.359 - INFO - Entry 25 - processing_ms: 12773, total_tokens: 3022, reasoning_tokens: 1408, completion_tokens: 1686, prompt_tokens: 1336
+2025-04-28 14:35:03.359 - INFO - Entry 26 - processing_ms: 22480, total_tokens: 6295, reasoning_tokens: 1984, completion_tokens: 2850, prompt_tokens: 3445
+2025-04-28 14:35:03.359 - INFO - Entry 27 - processing_ms: 12277, total_tokens: 2705, reasoning_tokens: 1408, completion_tokens: 1636, prompt_tokens: 1069
+2025-04-28 14:35:03.359 - INFO - Entry 28 - processing_ms: 27459, total_tokens: 8299, reasoning_tokens: 2304, completion_tokens: 3063, prompt_tokens: 5236
+2025-04-28 14:35:03.359 - INFO - Entry 29 - processing_ms: 10929, total_tokens: 2474, reasoning_tokens: 832, completion_tokens: 1052, prompt_tokens: 1422
+2025-04-28 14:35:03.359 - INFO - Entry 30 - processing_ms: 8702, total_tokens: 3191, reasoning_tokens: 896, completion_tokens: 956, prompt_tokens: 2235
+2025-04-28 14:35:03.359 - INFO - Entry 31 - processing_ms: 21297, total_tokens: 3626, reasoning_tokens: 2432, completion_tokens: 2623, prompt_tokens: 1003
+2025-04-28 14:35:03.359 - INFO - Entry 32 - processing_ms: 26507, total_tokens: 6162, reasoning_tokens: 2048, completion_tokens: 2651, prompt_tokens: 3511
+2025-04-28 14:35:03.359 - INFO - Entry 33 - processing_ms: 9737, total_tokens: 1918, reasoning_tokens: 832, completion_tokens: 1020, prompt_tokens: 898
+2025-04-28 14:35:03.359 - INFO - Entry 34 - processing_ms: 12490, total_tokens: 2102, reasoning_tokens: 1088, completion_tokens: 1204, prompt_tokens: 898
+2025-04-28 14:35:03.359 - INFO - Entry 35 - processing_ms: 45102, total_tokens: 7072, reasoning_tokens: 2560, completion_tokens: 3764, prompt_tokens: 3308
+2025-04-28 14:35:03.359 - INFO - Entry 36 - processing_ms: 19546, total_tokens: 3540, reasoning_tokens: 1920, completion_tokens: 2197, prompt_tokens: 1343
+2025-04-28 14:35:03.359 - INFO - Entry 37 - processing_ms: 11229, total_tokens: 3246, reasoning_tokens: 1728, completion_tokens: 1907, prompt_tokens: 1339
+2025-04-28 14:35:03.360 - INFO - Entry 38 - processing_ms: 36965, total_tokens: 11050, reasoning_tokens: 3712, completion_tokens: 4692, prompt_tokens: 6358
+2025-04-28 14:35:03.360 - INFO - Entry 39 - processing_ms: 10768, total_tokens: 2804, reasoning_tokens: 1216, completion_tokens: 1235, prompt_tokens: 1569
+2025-04-28 14:35:03.360 - INFO - Entry 40 - processing_ms: 46221, total_tokens: 4832, reasoning_tokens: 3008, completion_tokens: 3239, prompt_tokens: 1593
+2025-04-28 14:35:03.360 - INFO - Entry 41 - processing_ms: 27449, total_tokens: 7111, reasoning_tokens: 2752, completion_tokens: 3530, prompt_tokens: 3581
+2025-04-28 14:35:03.360 - INFO - Entry 42 - processing_ms: 12184, total_tokens: 2536, reasoning_tokens: 1280, completion_tokens: 1395, prompt_tokens: 1141
+2025-04-28 14:35:03.360 - INFO - Entry 43 - processing_ms: 29337, total_tokens: 6163, reasoning_tokens: 3008, completion_tokens: 3450, prompt_tokens: 2713
+2025-04-28 14:35:03.360 - INFO - Entry 44 - processing_ms: 8926, total_tokens: 2017, reasoning_tokens: 960, completion_tokens: 1073, prompt_tokens: 944
+2025-04-28 14:35:03.360 - INFO - Entry 45 - processing_ms: 23309, total_tokens: 5104, reasoning_tokens: 2304, completion_tokens: 2884, prompt_tokens: 2220
+2025-04-28 14:35:03.360 - INFO - Entry 46 - processing_ms: 8683, total_tokens: 1797, reasoning_tokens: 1088, completion_tokens: 1306, prompt_tokens: 491
+2025-04-28 14:35:03.360 - INFO - Entry 47 - processing_ms: 46747, total_tokens: 10925, reasoning_tokens: 4288, completion_tokens: 6136, prompt_tokens: 4789
+2025-04-28 14:35:03.360 - INFO - Entry 48 - processing_ms: 19650, total_tokens: 2895, reasoning_tokens: 2112, completion_tokens: 2330, prompt_tokens: 565
+2025-04-28 14:35:03.360 - INFO - Entry 49 - processing_ms: 28383, total_tokens: 3080, reasoning_tokens: 2368, completion_tokens: 2515, prompt_tokens: 565
+2025-04-28 14:35:03.360 - INFO - Entry 50 - processing_ms: 20156, total_tokens: 2900, reasoning_tokens: 2176, completion_tokens: 2335, prompt_tokens: 565
+2025-04-28 14:35:03.360 - INFO - Entry 51 - processing_ms: 11542, total_tokens: 1885, reasoning_tokens: 1216, completion_tokens: 1336, prompt_tokens: 549
+2025-04-28 14:35:03.360 - INFO - Entry 52 - processing_ms: 41778, total_tokens: 7098, reasoning_tokens: 3648, completion_tokens: 4270, prompt_tokens: 2828
+2025-04-28 14:35:03.360 - INFO - Entry 53 - processing_ms: 13600, total_tokens: 2600, reasoning_tokens: 1216, completion_tokens: 1489, prompt_tokens: 1111
+2025-04-28 14:35:03.360 - INFO - Entry 54 - processing_ms: 14842, total_tokens: 2653, reasoning_tokens: 1280, completion_tokens: 1550, prompt_tokens: 1103
+2025-04-28 14:35:03.361 - INFO - Entry 55 - processing_ms: 16614, total_tokens: 7343, reasoning_tokens: 1600, completion_tokens: 2537, prompt_tokens: 4806
+2025-04-28 14:35:03.361 - INFO - Entry 56 - processing_ms: 13851, total_tokens: 2551, reasoning_tokens: 1152, completion_tokens: 1273, prompt_tokens: 1278
+2025-04-28 14:35:03.361 - INFO - Entry 57 - processing_ms: 7655, total_tokens: 2104, reasoning_tokens: 768, completion_tokens: 834, prompt_tokens: 1270
+2025-04-28 14:35:03.361 - INFO - Average processing_ms: 19570.84
+2025-04-28 14:35:03.361 - INFO - Median processing_ms: 14842.00
+2025-04-28 14:35:03.361 - INFO - Average total_tokens: 4505.25
+2025-04-28 14:35:03.361 - INFO - Median total_tokens: 3080.00
+2025-04-28 14:35:03.361 - INFO - Average reasoning_tokens: 1850.39
+2025-04-28 14:35:03.361 - INFO - Median reasoning_tokens: 1600.00
+2025-04-28 14:35:03.361 - INFO - Average completion_tokens: 2229.72
+2025-04-28 14:35:03.361 - INFO - Median completion_tokens: 1818.00
+2025-04-28 14:35:03.361 - INFO - Average prompt_tokens: 2275.53
+2025-04-28 14:35:03.361 - INFO - Median prompt_tokens: 1343.00
+2025-04-28 14:35:03.362 - INFO - Successfully extracted values from logs/info_extraction_openai_2025-04-27_204022_o3-mini-medium.log
+2025-04-28 14:35:03.362 - INFO - Overall average processing_ms across all files: 19570.84
+2025-04-28 14:35:03.362 - INFO - Overall median processing_ms across all files: 14842.00
+2025-04-28 14:35:03.362 - INFO - Overall average total_tokens across all files: 4505.25
+2025-04-28 14:35:03.362 - INFO - Overall median total_tokens across all files: 3080.00
+2025-04-28 14:35:03.362 - INFO - Overall average reasoning_tokens across all files: 1850.39
+2025-04-28 14:35:03.362 - INFO - Overall median reasoning_tokens across all files: 1600.00
+2025-04-28 14:35:03.363 - INFO - Overall average completion_tokens across all files: 2229.72
+2025-04-28 14:35:03.363 - INFO - Overall median completion_tokens across all files: 1818.00
+2025-04-28 14:35:03.363 - INFO - Overall average prompt_tokens across all files: 2275.53
+2025-04-28 14:35:03.363 - INFO - Overall median prompt_tokens across all files: 1343.00
+2025-04-28 14:35:03.363 - INFO - Script execution completed
