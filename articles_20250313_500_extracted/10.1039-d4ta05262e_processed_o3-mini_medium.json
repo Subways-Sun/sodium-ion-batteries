@@ -1,0 +1,149 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Na4Fe3(PO4)2P2O7 (NFPP)",
+            "material_formula": "Na4Fe3(PO4)2P2O7",
+            "material_properties": [
+                {
+                    "capacity_value": 107.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 86.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 101.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 50.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 41.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 26.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 50.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 400
+                },
+                {
+                    "capacity_value": 103.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 54.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 100.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 50.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium pyrophosphate",
+                    "material_formula": "Na4P2O7",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium dihydrogen phosphate",
+                    "material_formula": "NH4H2PO4",
+                    "amount": {
+                        "value": 10,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) nitrate nonahydrate",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 15,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Oxalic acid",
+                    "material_formula": "H2C2O4",
+                    "amount": {
+                        "value": 33,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

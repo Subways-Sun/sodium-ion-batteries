@@ -1,0 +1,230 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFPP (combustion)",
+            "material_formula": "Na4Fe3(PO4)2(P2O7)",
+            "material_properties": [
+                {
+                    "capacity_value": 102,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 102,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 100,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 97,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 94,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 104,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 111
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe(NO3)3·9H2O",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.045,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "ascorbic acid",
+                    "material_formula": "C6H8O6",
+                    "amount": {
+                        "value": 0,
+                        "unit": "pinch"
+                    }
+                },
+                {
+                    "material_name": "NaH2PO4·2H2O",
+                    "material_formula": "NaH2PO4·2H2O",
+                    "amount": {
+                        "value": 0.06,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0.034,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFPP (calcination)",
+            "material_formula": "Na4Fe3(PO4)2(P2O7)",
+            "material_properties": [
+                {
+                    "capacity_value": 88,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 89,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 87,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 80,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 75,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 91,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "C",
+                    "cycle": 111
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Fe(NO3)3·9H2O",
+                    "material_formula": "Fe(NO3)3·9H2O",
+                    "amount": {
+                        "value": 0.045,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "ascorbic acid",
+                    "material_formula": "C6H8O6",
+                    "amount": {
+                        "value": 0,
+                        "unit": "pinch"
+                    }
+                },
+                {
+                    "material_name": "NaH2PO4·2H2O",
+                    "material_formula": "NaH2PO4·2H2O",
+                    "amount": {
+                        "value": 0.06,
+                        "unit": "mol"
+                    }
+                },
+                {
+                    "material_name": "citric acid",
+                    "material_formula": "C6H8O7",
+                    "amount": {
+                        "value": 0.034,
+                        "unit": "mol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Hard Carbon (HC)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 281,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

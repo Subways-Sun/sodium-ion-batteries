@@ -1,0 +1,93 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "H-POM",
+            "material_formula": "H5PMo10V2O40",
+            "material_properties": [
+                {
+                    "capacity_value": 23,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na-POM",
+            "material_formula": "Na5PMo10V2O40",
+            "material_properties": [
+                {
+                    "capacity_value": 174,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 46,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 20
+                },
+                {
+                    "capacity_value": 41,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Vanadium(V) oxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Molybdenum trioxide",
+                    "material_formula": "MoO3",
+                    "amount": {
+                        "value": 50,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 7.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Phosphoric acid",
+                    "material_formula": "H3PO4",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

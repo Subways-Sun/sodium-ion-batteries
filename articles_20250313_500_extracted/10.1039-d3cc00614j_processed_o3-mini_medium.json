@@ -1,0 +1,146 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Sb2Se3@NC/MXene",
+            "material_formula": "Sb2Se3",
+            "material_properties": [
+                {
+                    "capacity_value": 333.5,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 300
+                },
+                {
+                    "capacity_value": 448.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 380.8,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 346.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 323.3,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 286,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 241.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 367.8,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 672.2,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)2O2F (NVPOF)",
+            "material_formula": "Na3V2(PO4)2O2F",
+            "material_properties": [
+                {
+                    "capacity_value": 346.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 260.5,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 221.1,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.4,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 200.2,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.6,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 180.5,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 168.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 115.8,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g^-1",
+                    "cycle": 200
+                }
+            ]
+        }
+    ]
+}

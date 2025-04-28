@@ -1,0 +1,79 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Amorphous FePO4·2H2O/C (a-FPH/C)",
+            "material_formula": "FePO4·2H2O/C",
+            "material_properties": [
+                {
+                    "capacity_value": 124.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Monoclinic FePO4·2H2O/C (m-FPH/C)",
+            "material_formula": "FePO4·2H2O/C",
+            "material_properties": [
+                {
+                    "capacity_value": 94.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Orthogonal/Monoclinic FePO4·2H2O/C (om-FPH/C)",
+            "material_formula": "FePO4·2H2O/C",
+            "material_properties": [
+                {
+                    "capacity_value": 114.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Amorphous FePO4/C (a-FP/C)",
+            "material_formula": "FePO4/C",
+            "material_properties": [
+                {
+                    "capacity_value": 149.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Hexagonal FePO4/C (h-FP/C)",
+            "material_formula": "FePO4/C",
+            "material_properties": [
+                {
+                    "capacity_value": 68.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                }
+            ]
+        }
+    ]
+}

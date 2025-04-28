@@ -1,0 +1,231 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "FeS2",
+            "material_formula": "FeS2",
+            "material_properties": [
+                {
+                    "capacity_value": 894,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeS",
+            "material_formula": "FeS",
+            "material_properties": [
+                {
+                    "capacity_value": 609,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Fe7S8",
+            "material_formula": "Fe7S8",
+            "material_properties": [
+                {
+                    "capacity_value": 663,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Fe7S8/FeS2 multiphase on hollow carbon nanotubes",
+            "material_formula": "Fe7S8/FeS2",
+            "material_properties": [
+                {
+                    "capacity_value": 268.8,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 100,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "SnS QDs@NCF",
+            "material_formula": "SnS",
+            "material_properties": [
+                {
+                    "capacity_value": 422.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 484.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5800
+                },
+                {
+                    "capacity_value": 430.9,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 7880
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Carbon-coated SnS Nanotubes (CN/SnS)",
+            "material_formula": "SnS",
+            "material_properties": [
+                {
+                    "capacity_value": 298.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 200
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "C@SnS2/SnS@C Cubic Heterostructure",
+            "material_formula": "SnS2/SnS",
+            "material_properties": [
+                {
+                    "capacity_value": 502.5,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MXene/SnS2@NCFs Film",
+            "material_formula": "SnS2",
+            "material_properties": [
+                {
+                    "capacity_value": 435.0,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Co9S8−x@Co-NC",
+            "material_formula": "Co9S8−x",
+            "material_properties": [
+                {
+                    "capacity_value": 472.2,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 311.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Co1−xS–CoS2 with S-doped Carbon Nanofibers",
+            "material_formula": "Co1−xS/CoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 495.3,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 380.1,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NPC@MoS2/MXene Composite",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 279,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb2S3/Sb@TiO2@C Nanorods",
+            "material_formula": "Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 422.6,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.8,
+                    "current_density_unit": "A g−1",
+                    "cycle": 400
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Sb/Sb2S3@Ti3C2Tx@C Nano-heterostructure",
+            "material_formula": "Sb/Sb2S3",
+            "material_properties": [
+                {
+                    "capacity_value": 250,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2500
+                }
+            ]
+        }
+    ]
+}

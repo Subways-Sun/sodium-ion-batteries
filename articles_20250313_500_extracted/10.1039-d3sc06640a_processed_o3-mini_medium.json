@@ -1,0 +1,100 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MCMB (mesophase carbon microbeads)",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 128.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 123.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 117.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 98.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1800
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NTP/C",
+            "material_formula": "NaTi2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 130,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "0.2-Melm",
+            "material_formula": "",
+            "material_properties": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "0.2-DGM",
+            "material_formula": "",
+            "material_properties": []
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "0.2-Prlm",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 116,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "electrolyte",
+            "material_name": "0.2-Bulm",
+            "material_formula": "",
+            "material_properties": [
+                {
+                    "capacity_value": 90,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

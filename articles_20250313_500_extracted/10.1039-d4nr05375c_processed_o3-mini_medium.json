@@ -1,0 +1,127 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM-P",
+            "material_formula": "α-NaFeO2 (layered hexagonal structure)",
+            "material_properties": [
+                {
+                    "capacity_value": 135.62,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 12,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 70.67,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 5,
+                        "unit": "percent excess"
+                    }
+                },
+                {
+                    "material_name": "Ni1/3Fe1/3Mn1/3(OH)2",
+                    "material_formula": "Ni1/3Fe1/3Mn1/3(OH)2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFMT-B",
+            "material_formula": "α-NaFeO2 (Ti-modified via ball-milling with TiO2 coating forming Na2Ti3O7 layer)",
+            "material_properties": [
+                {
+                    "capacity_value": 137.51,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 12,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 82.57,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NFM-P",
+                    "material_formula": "Na0.95Ni1/3Fe1/3Mn1/3O2",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mass ratio part"
+                    }
+                },
+                {
+                    "material_name": "TiO2",
+                    "material_formula": "TiO2",
+                    "amount": {
+                        "value": 1000,
+                        "unit": "mass ratio parts"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NFMT-L",
+            "material_formula": "α-NaFeO2 (Ti-modified via liquid-phase coating with uniform Na2Ti3O7 layer)",
+            "material_properties": [
+                {
+                    "capacity_value": 139.54,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 12,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 85.77,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NFM-P",
+                    "material_formula": "Na0.95Ni1/3Fe1/3Mn1/3O2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "Tetrabutyl titanate (ethanol solution)",
+                    "material_formula": "Ti(OC4H9)4",
+                    "amount": {
+                        "value": 5,
+                        "unit": "wt%"
+                    }
+                }
+            ]
+        }
+    ]
+}

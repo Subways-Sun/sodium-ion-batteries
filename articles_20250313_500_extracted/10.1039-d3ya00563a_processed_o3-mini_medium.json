@@ -1,0 +1,60 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaCrO2",
+            "material_formula": "NaCrO2",
+            "material_properties": [
+                {
+                    "capacity_value": 93.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 25,
+                    "current_density_unit": "C-rate",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "C-rate",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 79.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 25,
+                    "current_density_unit": "C-rate",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 76.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 25,
+                    "current_density_unit": "C-rate",
+                    "cycle": 3
+                },
+                {
+                    "capacity_value": 120,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 25,
+                    "current_density_unit": "C-rate",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 125,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 25,
+                    "current_density_unit": "C-rate",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Cu3TaSe4",
+            "material_formula": "Cu3TaSe4",
+            "material_properties": [
+                {
+                    "capacity_value": 371.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.15,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 328.7,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.15,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 291,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 305,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 295,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 313,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 326,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 332,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 328,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 40,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 286,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 416,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 200
+                },
+                {
+                    "capacity_value": 304,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 1500
+                },
+                {
+                    "capacity_value": 272,
+                    "capacity_unit": "mAh g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "C",
+                    "cycle": 3500
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVP",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 113.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 10,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NVBP-2",
+            "material_formula": "Na3V11/12Ba1/12(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 104.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 101.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 97.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 92.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 65.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 52.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "C",
+                    "cycle": 2000
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NaCrO2",
+            "material_formula": "NaCrO2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Chromium(III) nitrate nonahydrate",
+                    "material_formula": "Cr(NO3)3·9H2O",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "β-NaFeO2",
+            "material_formula": "NaFeO2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) nitrate",
+                    "material_formula": "Fe(NO3)3",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NaCo0.74O2",
+            "material_formula": "NaCo0.74O2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Cobalt(II) acetate",
+                    "material_formula": "Co(ac)2",
+                    "amount": {
+                        "value": 25,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "NaAlO2",
+            "material_formula": "NaAlO2",
+            "material_properties": [],
+            "starting_material": [
+                {
+                    "material_name": "Sodium nitrate",
+                    "material_formula": "NaNO3",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Aluminum nitrate",
+                    "material_formula": "Al(NO3)3",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "mmol"
+                    }
+                }
+            ]
+        }
+    ]
+}

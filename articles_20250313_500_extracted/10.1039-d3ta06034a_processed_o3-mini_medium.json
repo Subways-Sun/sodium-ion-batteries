@@ -1,0 +1,311 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Pristine NFM",
+            "material_formula": "Na(Ni1/3Fe1/3Mn1/3)O2",
+            "material_properties": [
+                {
+                    "capacity_value": 136.68,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 129.48,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 97.05,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 64.43,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 91.52,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 44.79,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Nickel(II) sulfate hexahydrate",
+                    "material_formula": "NiSO4·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Iron(II) sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Manganese(II) sulfate monohydrate",
+                    "material_formula": "MnSO4·H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric amount (amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium oxalate",
+                    "material_formula": "(NH4)C2O4",
+                    "amount": {
+                        "value": 0,
+                        "unit": "0.5 M solution; equimolar to total transition metal ions (exact volume not specified)"
+                    }
+                },
+                {
+                    "material_name": "Ammonium hydroxide",
+                    "material_formula": "NH4OH",
+                    "amount": {
+                        "value": 0,
+                        "unit": "0.5 M solution; appropriate amount to maintain pH=7 (exact volume not specified)"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "Calculated amount with additional 5 wt% excess (exact mass not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "1 wt% NMO–NFM",
+            "material_formula": "Na(Ni1/3Fe1/3Mn1/3)O2 with NMO coating",
+            "material_properties": [
+                {
+                    "capacity_value": 139.22,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 127.96,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 104.46,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 81.13,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 119.37,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 60.96,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "(NFM)C2O4 precursor",
+                    "material_formula": "(NFM)C2O4",
+                    "amount": {
+                        "value": 4.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Polyvinylpyrrolidone (PVP)",
+                    "material_formula": "–",
+                    "amount": {
+                        "value": 0.08,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Ammonium molybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 0.0257,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "2 wt% NMO–NFM",
+            "material_formula": "Na(Ni1/3Fe1/3Mn1/3)O2 with NMO coating",
+            "material_properties": [
+                {
+                    "capacity_value": 137.58,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 126.87,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 108.64,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 74.59,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "nickel(II) sulfate hexahydrate",
+                    "material_formula": "NiSO4·6H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "iron(II) sulfate heptahydrate",
+                    "material_formula": "FeSO4·7H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "manganese(II) sulfate monohydrate",
+                    "material_formula": "MnSO4·H2O",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "ammonium oxalate",
+                    "material_formula": "(NH4)C2O4",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "ammonium hydroxide",
+                    "material_formula": "NH4OH",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "(NFM)C2O4 precursor",
+                    "material_formula": "(NFM)C2O4",
+                    "amount": {
+                        "value": 4.0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "polyvinylpyrrolidone (PVP)",
+                    "material_formula": "PVP",
+                    "amount": {
+                        "value": 0.16,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "ammonium molybdate tetrahydrate",
+                    "material_formula": "(NH4)6Mo7O24·4H2O",
+                    "amount": {
+                        "value": 0.0514,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

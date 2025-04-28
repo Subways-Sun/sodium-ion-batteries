@@ -1,0 +1,125 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NVP/C composite (NVP/C-2)",
+            "material_formula": "Na3V2(PO4)3",
+            "material_properties": [
+                {
+                    "capacity_value": 119.5,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 113.3,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 90.3,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 84.1,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 80.6,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 72.9,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 61.3,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 115.7,
+                    "capacity_unit": "mA h g^-1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Vanadium pentoxide",
+                    "material_formula": "V2O5",
+                    "amount": {
+                        "value": 1,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Oxalic acid dihydrate",
+                    "material_formula": "H2C2O4·2H2O",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Ammonium hydrogen phosphate",
+                    "material_formula": "(NH4)2HPO4",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Sodium acetate dihydrate",
+                    "material_formula": "CH3COONa·2H2O",
+                    "amount": {
+                        "value": 3,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Ethanol",
+                    "material_formula": "C2H5OH",
+                    "amount": {
+                        "value": 40,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Cetyltrimethylammonium bromide",
+                    "material_formula": "CTAB",
+                    "amount": {
+                        "value": 0.1,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

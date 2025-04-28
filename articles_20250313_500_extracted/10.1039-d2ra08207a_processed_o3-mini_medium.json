@@ -1,0 +1,288 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/NSGs-G composite",
+            "material_formula": "MoS2/N, S-co-doped graphene",
+            "material_properties": [
+                {
+                    "capacity_value": 1040.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 595.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 502.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 443.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                },
+                {
+                    "capacity_value": 491.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 490.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 453.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 418.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 383.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 333.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 294.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 507.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NSGs-G",
+                    "material_formula": "N,S co-doped graphene nanosheets",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "cetrimonium bromide",
+                    "material_formula": "CTAB",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "L-cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium molybdate dihydrate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "MoS2/Gs-G composite",
+            "material_formula": "MoS2/graphene",
+            "material_properties": [
+                {
+                    "capacity_value": 365.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "NSGs-G (nitrogen and sulfur co-doped graphene nanosheets)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 30,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Cetrimonium bromide (CTAB)",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "L-cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium molybdate dihydrate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Bulk N, S-co-doped graphene",
+            "material_formula": "C (with N, S doping)",
+            "material_properties": [
+                {
+                    "capacity_value": 120.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Sodium sulfate",
+                    "material_formula": "Na2SO4",
+                    "amount": {
+                        "value": 14.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glycine",
+                    "material_formula": "C2H5NO2",
+                    "amount": {
+                        "value": 7.51,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Graphite foil",
+                    "material_formula": "C",
+                    "amount": {
+                        "value": 48,
+                        "unit": "cm^2"
+                    }
+                },
+                {
+                    "material_name": "Dimethyl formamide",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Bulk MoS2",
+            "material_formula": "MoS2",
+            "material_properties": [
+                {
+                    "capacity_value": 256.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 85.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 250
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Cetrimonium bromide",
+                    "material_formula": "CTAB",
+                    "amount": {
+                        "value": 0,
+                        "unit": "not specified"
+                    }
+                },
+                {
+                    "material_name": "L-cysteine",
+                    "material_formula": "C3H7NO2S",
+                    "amount": {
+                        "value": 1.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Sodium molybdate dihydrate",
+                    "material_formula": "Na2MoO4·2H2O",
+                    "amount": {
+                        "value": 0.6,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

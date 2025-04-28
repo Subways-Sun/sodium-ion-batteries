@@ -1,0 +1,109 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Co-ZnS@NC",
+            "material_formula": "Co-ZnS@NC",
+            "material_properties": [
+                {
+                    "capacity_value": 416.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 481.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 471.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 456.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 425.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 397.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 368.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 466.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 456.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 285.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 2000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Co/Zn-ZIF@PDA",
+                    "material_formula": "Co/Zn zeolitic imidazolate framework@polydopamine",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Thiourea",
+                    "material_formula": "NH2CSNH2",
+                    "amount": {
+                        "value": 280,
+                        "unit": "mg"
+                    }
+                }
+            ]
+        }
+    ]
+}

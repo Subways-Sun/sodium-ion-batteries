@@ -1,0 +1,16 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Graphite",
+            "material_formula": "C",
+            "material_properties": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Few-layer graphitic carbon",
+            "material_formula": "C",
+            "material_properties": []
+        }
+    ]
+}

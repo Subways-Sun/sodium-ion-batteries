@@ -1,0 +1,288 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "NFM",
+            "material_formula": "Na0.95Ni0.22Fe0.28Mn0.5O2",
+            "material_properties": [
+                {
+                    "capacity_value": 85.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "SNFM",
+            "material_formula": "Na0.95Sn0.01Ni0.22Fe0.27Mn0.5O2",
+            "material_properties": [
+                {
+                    "capacity_value": 89.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Tin(IV) oxide",
+                    "material_formula": "SnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "LNFM",
+            "material_formula": "Na0.95Li0.07Ni0.22Fe0.21Mn0.5O2",
+            "material_properties": [
+                {
+                    "capacity_value": 100.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Mn2O3",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Fe2O3",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "NiO",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Na2CO3",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                },
+                {
+                    "material_name": "Li2CO3",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "stoichiometric ratio (exact amount not specified)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "LSNFM",
+            "material_formula": "Na0.95Li0.07Sn0.01Ni0.22Fe0.2Mn0.5O2",
+            "material_properties": [
+                {
+                    "capacity_value": 109,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 108.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 106.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 101.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 96.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 89.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 75.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 57.3,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "C",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Manganese(III) oxide",
+                    "material_formula": "Mn2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Iron(III) oxide",
+                    "material_formula": "Fe2O3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Nickel(II) oxide",
+                    "material_formula": "NiO",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Tin(IV) oxide",
+                    "material_formula": "SnO2",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Sodium carbonate",
+                    "material_formula": "Na2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Lithium carbonate",
+                    "material_formula": "Li2CO3",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "NTO",
+            "material_formula": "Na2Ti3O7",
+            "material_properties": [
+                {
+                    "capacity_value": 177.6,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NTNO",
+            "material_formula": "Na2Ti2.75Nb0.25O7",
+            "material_properties": [
+                {
+                    "capacity_value": 171.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "NTVO",
+            "material_formula": "Na2Ti2.75V0.25O7",
+            "material_properties": [
+                {
+                    "capacity_value": 177.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}

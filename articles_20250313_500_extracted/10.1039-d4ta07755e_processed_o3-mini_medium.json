@@ -1,0 +1,46 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "FeFe(CN)6",
+            "material_formula": "FeFe(CN)6",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "MnFe(CN)6",
+            "material_formula": "MnFe(CN)6",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na1MnFe(CN)6",
+            "material_formula": "Na1MnFe(CN)6",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na1FeFe(CN)6",
+            "material_formula": "Na1FeFe(CN)6",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.5MnFe(CN)6",
+            "material_formula": "Na0.5MnFe(CN)6",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.25FeFe(CN)6",
+            "material_formula": "Na0.25FeFe(CN)6",
+            "material_properties": []
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na0.25MnFe(CN)6",
+            "material_formula": "Na0.25MnFe(CN)6",
+            "material_properties": []
+        }
+    ]
+}

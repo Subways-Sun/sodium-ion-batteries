@@ -1,0 +1,417 @@
+{
+    "material": [
+        {
+            "material_type": "cathode",
+            "material_name": "Sn0 (FeF3·0.33H2O/GO)",
+            "material_formula": "FeF3·0.33H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 194.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 93.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 152.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 113.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 40,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 77.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 56.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 39.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 24.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 49.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Concentrated Hydrofluoric Acid",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Pre-prepared Iron Powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tin Powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen Peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn4 (Sn-doped FeF3·0.33H2O)",
+            "material_formula": "FeF3·0.33H2O (with ~4% Sn doping)",
+            "material_properties": [
+                {
+                    "capacity_value": 160.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "iron powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "concentrated hydrofluoric acid",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "hydrogen peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn6 (Sn-doped FeF3·0.33H2O)",
+            "material_formula": "FeF3·0.33H2O (with ~6% Sn doping)",
+            "material_properties": [
+                {
+                    "capacity_value": 148.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "concentrated hydrofluoric acid",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "iron powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                },
+                {
+                    "material_name": "hydrogen peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn8 (Sn0.08Fe0.92F3·0.33H2O/GO)",
+            "material_formula": "Sn0.08Fe0.92F3·0.33H2O",
+            "material_properties": [
+                {
+                    "capacity_value": 141.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 115.4,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 128.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 104.9,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 40,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 82.0,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 100,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 65.5,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 200,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 50.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 400,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 33.1,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 10
+                },
+                {
+                    "capacity_value": 63.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 1000,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 300
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Concentrated Hydrofluoric Acid",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Iron Powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tin Powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen Peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene Oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Sn10 (Sn-doped FeF3·0.33H2O with excess tin fluoride)",
+            "material_formula": "FeF3·0.33H2O (with ~10% Sn doping and tin fluoride phase)",
+            "material_properties": [
+                {
+                    "capacity_value": 101.7,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 20,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Hydrofluoric acid",
+                    "material_formula": "HF",
+                    "amount": {
+                        "value": 6,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Iron powder",
+                    "material_formula": "Fe",
+                    "amount": {
+                        "value": 2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Tin powder",
+                    "material_formula": "Sn",
+                    "amount": {
+                        "value": 0,
+                        "unit": "null"
+                    }
+                },
+                {
+                    "material_name": "Hydrogen peroxide",
+                    "material_formula": "H2O2",
+                    "amount": {
+                        "value": 20,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "Graphene oxide",
+                    "material_formula": "GO",
+                    "amount": {
+                        "value": 0.4,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

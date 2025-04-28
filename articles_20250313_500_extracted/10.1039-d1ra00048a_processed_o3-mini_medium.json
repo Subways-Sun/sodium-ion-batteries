@@ -1,0 +1,141 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ZnFe2O4",
+            "material_formula": "ZnFe2O4",
+            "material_properties": [
+                {
+                    "capacity_value": 729,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 478,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 470,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 460,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 2
+                },
+                {
+                    "capacity_value": 288,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 284,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 50,
+                    "current_density_unit": "mA g−1",
+                    "cycle": 100
+                },
+                {
+                    "capacity_value": 410,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.05,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 327,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 215,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.3,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 167,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 113,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 78,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2.0,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Zinc dichloride",
+                    "material_formula": "ZnCl2",
+                    "amount": {
+                        "value": 0.5614,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Iron trichloride hexahydrate",
+                    "material_formula": "FeCl3·6H2O",
+                    "amount": {
+                        "value": 2.1586,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "material_name": "Glycerol",
+                    "material_formula": "C3H8O3",
+                    "amount": {
+                        "value": 20,
+                        "unit": "ml"
+                    }
+                },
+                {
+                    "material_name": "Sodium acetate",
+                    "material_formula": "CH3COONa",
+                    "amount": {
+                        "value": 3.2,
+                        "unit": "g"
+                    }
+                }
+            ]
+        }
+    ]
+}

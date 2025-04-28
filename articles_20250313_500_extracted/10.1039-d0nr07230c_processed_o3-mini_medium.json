@@ -1,0 +1,109 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "ML-Bi@NCSs",
+            "material_formula": "Bi/N-doped carbon composite",
+            "material_properties": [
+                {
+                    "capacity_value": 783.2,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 511.8,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 288,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 30,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 343,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 3000
+                },
+                {
+                    "capacity_value": 295,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 217,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 500
+                },
+                {
+                    "capacity_value": 347,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 5000
+                },
+                {
+                    "capacity_value": 309,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "reversible",
+                    "current_density_value": 20,
+                    "current_density_unit": "A g−1",
+                    "cycle": 10000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "bismuth nitrate pentahydrate",
+                    "material_formula": "Bi(NO3)3·5H2O",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "citric acid",
+                    "material_formula": "C6H8O7·H2O",
+                    "amount": {
+                        "value": 1.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "dicyandiamide",
+                    "material_formula": "C2H4N4",
+                    "amount": {
+                        "value": 100,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "N,N-dimethylformamide",
+                    "material_formula": "C3H7NO",
+                    "amount": {
+                        "value": 15,
+                        "unit": "mL"
+                    }
+                }
+            ]
+        }
+    ]
+}

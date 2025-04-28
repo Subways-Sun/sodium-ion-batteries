@@ -1,0 +1,286 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "FeSe2/CoSe2-CN",
+            "material_formula": "FeSe2/CoSe2-CN",
+            "material_properties": [
+                {
+                    "capacity_value": 596,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 450,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "charge",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1
+                },
+                {
+                    "capacity_value": 494,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                },
+                {
+                    "capacity_value": 436,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 411,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 396,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 385,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 375,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 364,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 350,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 10,
+                    "current_density_unit": "A g−1",
+                    "cycle": 1000
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "chitosan",
+                    "material_formula": "null",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "glacial acetic acid",
+                    "material_formula": "CH3COOH",
+                    "amount": {
+                        "value": 5,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 15,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "K3Fe(CN)6",
+                    "material_formula": "K3Fe(CN)6",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "K3Co(CN)6",
+                    "material_formula": "K3Co(CN)6",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "deionized water",
+                    "material_formula": "H2O",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mL"
+                    }
+                },
+                {
+                    "material_name": "selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 2,
+                        "unit": "mass ratio (relative to freeze-dried product)"
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "FeSe2-CN",
+            "material_formula": "FeSe2-CN",
+            "material_properties": [
+                {
+                    "capacity_value": 299,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": []
+        },
+        {
+            "material_type": "anode",
+            "material_name": "CoSe2-CN",
+            "material_formula": "CoSe2-CN",
+            "material_properties": [
+                {
+                    "capacity_value": 398,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 100
+                }
+            ],
+            "starting_material": [
+                {
+                    "material_name": "Chitosan",
+                    "material_formula": "",
+                    "amount": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "material_name": "Potassium hexacyanocobaltate",
+                    "material_formula": "K3Co(CN)6",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Potassium hexacyanoferrate",
+                    "material_formula": "K3Fe(CN)6",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "mmol"
+                    }
+                },
+                {
+                    "material_name": "Selenium powder",
+                    "material_formula": "Se",
+                    "amount": {
+                        "value": 0,
+                        "unit": ""
+                    }
+                }
+            ]
+        },
+        {
+            "material_type": "cathode",
+            "material_name": "Na3V2(PO4)2O2F",
+            "material_formula": "Na3V2(PO4)2O2F",
+            "material_properties": [
+                {
+                    "capacity_value": 320,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "discharge",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 297,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 40
+                },
+                {
+                    "capacity_value": 354,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 372,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 374,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 367,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 356,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 1.5,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                },
+                {
+                    "capacity_value": 346,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 2,
+                    "current_density_unit": "A g−1",
+                    "cycle": 0
+                }
+            ],
+            "starting_material": []
+        }
+    ]
+}

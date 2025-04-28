@@ -1,0 +1,94 @@
+{
+    "material": [
+        {
+            "material_type": "anode",
+            "material_name": "Mg2B2 monolayer",
+            "material_formula": "Mg2B2",
+            "material_properties": [
+                {
+                    "capacity_value": 859,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Ca2B2 monolayer",
+            "material_formula": "Ca2B2",
+            "material_properties": [
+                {
+                    "capacity_value": 527,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Mg3B4 multilayer",
+            "material_formula": "Mg3B4",
+            "material_properties": [
+                {
+                    "capacity_value": 635,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Ca3B4 multilayer",
+            "material_formula": "Ca3B4",
+            "material_properties": [
+                {
+                    "capacity_value": 328,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Mg4B6 multilayer",
+            "material_formula": "Mg4B6",
+            "material_properties": [
+                {
+                    "capacity_value": 455,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        },
+        {
+            "material_type": "anode",
+            "material_name": "Ca4B6 multilayer",
+            "material_formula": "Ca4B6",
+            "material_properties": [
+                {
+                    "capacity_value": 268,
+                    "capacity_unit": "mA h g−1",
+                    "capacity_type": "specific",
+                    "current_density_value": 0,
+                    "current_density_unit": "",
+                    "cycle": 0
+                }
+            ]
+        }
+    ]
+}
